@@ -1,0 +1,4 @@
+googletrans
+nltk
+epitran
+textblob
