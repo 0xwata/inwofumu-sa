@@ -2,3 +2,5 @@
 .DS_Store
 .idea
 venv
+data/ipa-dict/
+src/__pycache__/
