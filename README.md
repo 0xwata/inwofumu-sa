@@ -7,24 +7,24 @@ SIGGRAPH ASIA 2021に応募する作品の韻ペアを作成するリポジト�
 ```.json
 [
   {
-    request: {
+    "request": {
       "adjective": {
-        "word":
-        "lang":
+        "word": hogehoge
+        "lang": hogehoge
       },
       "noun": {
-        "word":
-        "lang":
+        "word": hogehoge
+        "lang": hogehoge
       }
     },
-    response: {
+    "response": {
       "adjective": {
-        "word":
-        "lang":
+        "word": hogehoge
+        "lang": hogehoge
       },
       "noun": {
-        "word":
-        "lang":
+        "word": hogehoge
+        "lang": hogehoge
       }
     }
   }, ...
