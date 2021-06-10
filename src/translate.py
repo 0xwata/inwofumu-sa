@@ -1,5 +1,6 @@
 from googletrans import Translator
 import random
+import httpcore
 """
 対象言語：
     ・日本語:
@@ -25,12 +26,25 @@ class Translate:
 
     def translate_all_language(self, word: str) -> dict:
         #ランダムに並び替えて初期化
-        langs_random_sort = random.shuffle(self.langs)
-
+        random.shuffle(self.langs)
         translated_words = {}
-        for lang in langs_random_sort:
-            translated_words[lang] = self.translator.translate(word, dest=lang)
+        print("inputした単語:"+word)
+        print("以下、翻訳")
+        for lang in self.langs:
+            if lang == "en":
+                translated_words[lang] = word
+                print(lang, word)
+
+            else:
+                try:
+                    translated_word = self.translator.translate(word, dest=lang).text
+                    translated_words[lang] = translated_word
+                    print(lang, translated_word)
+                except httpcore._exceptions.ReadTimeout as e:
+                    print("エラー" , e)
+        print("翻訳終了")
+
         return translated_words
 
-    def translate_by_language(self, word: str, lang: str) -> str:
-        return self.translator.translate(word, dest=lang)
+    def translate_to_english_by_language(self, word: str, lang: str) -> str:
+        return self.translator.translate(word, dest='en', src=lang).text
