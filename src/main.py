@@ -8,22 +8,23 @@ def main():
     output = []
     N = 100
 
-    """
-    名詞・形容詞のランダム取得クラスのインタンス化
-    """
-    adjective_noun_pair_selector = AdjectiveNounPairSelector()
-
-    """
-    翻訳クラスのインスタンス化
-    """
-    translate = Translate()
-
-    """
-    形容詞・名詞のIPA変換→マッチング処理のインスタンス化
-    """
-    ipa_converter = IpaMatchWordSearcher()
 
     for i in range(N):
+
+        """
+        名詞・形容詞のランダム取得クラスのインタンス化
+        """
+        adjective_noun_pair_selector = AdjectiveNounPairSelector()
+
+        """
+        翻訳クラスのインスタンス化
+        """
+        translate = Translate()
+
+        """
+        形容詞・名詞のIPA変換→マッチング処理のインスタンス化
+        """
+        ipa_converter = IpaMatchWordSearcher()
 
         """
         形容詞・名詞の取得
@@ -42,14 +43,20 @@ def main():
         print("形容詞の翻訳開始")
         request_adjectives_translated = translate.translate_all_language(request_adjective)
 
-        print("名詞の翻訳開始")
+        print("形容詞の翻訳開始")
         request_nouns_translated = translate.translate_all_language(request_noun)
 
         """
         形容詞・名詞のIPA変換→マッチング処理
         """
         request_adjective, response_adjective  = ipa_converter.execute(words = request_adjectives_translated, pos="JJ")
-        request_noun, response_noun  = ipa_converter.execute(words = request_adjectives_translated, pos="NN")
+        request_noun, response_noun  = ipa_converter.execute(words = request_nouns_translated, pos="NN")
+
+        print(len(request_adjective), request_adjective)
+        print(len(response_adjective), response_adjective)
+        print()
+        print(len(request_noun), request_noun)
+        print(len(response_noun), response_noun)
 
         request_dict = {
             "adjective" : request_adjective,
@@ -64,9 +71,9 @@ def main():
             "request": request_dict,
             "response": response_dict
         }
+        # jsonに書き込み
+        output.append(request_response_dict)
 
-    # jsonに書き込み
-    output.append(request_response_dict)
     file_output = open('output.json','w')
     json.dump(output,file_output,indent=4) #ensure_ascii=False
     file_output.close()

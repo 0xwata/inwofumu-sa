@@ -47,4 +47,9 @@ class Translate:
         return translated_words
 
     def translate_to_english_by_language(self, word: str, lang: str) -> str:
-        return self.translator.translate(word, dest='en', src=lang).text
+        translated_word = ""
+        try:
+            translated_word = self.translator.translate(word, dest='en', src=lang).text
+        except httpcore._exceptions.ReadTimeout as e:
+            print("エラー" , e)
+        return translated_word
