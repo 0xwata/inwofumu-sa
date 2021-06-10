@@ -1,4 +1,6 @@
-googletrans
+googletrans==4.0.0-rc1
 nltk
 epitran
 textblob
+selenium
+chromedriver-binary==90.0.4430.24.0
