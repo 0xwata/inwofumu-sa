@@ -23,6 +23,9 @@ import random
         ここにデータがない
 """
 
+LOG_INFO_DEBUG = "LOG/DEBUG: "
+LOG_INFO_DEBUG_CLASS_NAME = "CLASS: IpaMatchWordSearcher "
+
 CONVERTER_DIC_FOR_URL = {
     "ja" : "ja",
     "en" : "en",
@@ -71,9 +74,33 @@ class IpaMatchWordSearcher:
         with open(BASE_URL + lang + ".txt") as file:
             for s_line in file:
                 ipa_list.append(s_line.split('\t'))
-        print(lang+".textの読み込みを完了")
+        print(LOG_INFO_DEBUG + LOG_INFO_DEBUG_CLASS_NAME + lang+".textの読み込みを完了")
         return ipa_list
 
+    def execute_v2(self, word: str, lang:str, pos: str):
+        """[summary]
+
+        Args:
+            words ([str]): [description]
+            lang ([str]): [description]
+            pos ([str]): part of speech
+        """
+        if lang == 'ru':
+            #ロシア語のIPA
+            #そもそもhttps://github.com/open-dict-data/ipa-dictにデータがない言語
+            return ["", ""]
+        else:
+            tmp = self.convert_by_ipa_li(lang = lang, word = word)
+            if tmp == "":
+                return ["", ""]
+            ipa = tmp
+        # IPAの中から、母音の部分を抜き出す
+        ipa_vowel = self.detect_vowel(ipa = ipa)
+
+        # 母音で合致する単語を探す
+        response_lang, response_word = self.search(lang = lang, ipa_vowel = ipa_vowel, pos = pos)
+        print(LOG_INFO_DEBUG + LOG_INFO_DEBUG_CLASS_NAME + response_lang, response_word)
+        return [response_word, response_lang]
     def execute(self, words: dict, pos: str):
         """[summary]
 
@@ -148,9 +175,9 @@ class IpaMatchWordSearcher:
         pos_flg = False
         lang = ""
         word = ""
-        print(search_lang_li)
+        print(LOG_INFO_DEBUG + LOG_INFO_DEBUG_CLASS_NAME + f"{search_lang_li}")
         for i in search_lang_li:
-            print(i)
+            print(LOG_INFO_DEBUG + LOG_INFO_DEBUG_CLASS_NAME + f"探索言語：{i}")
             ipa_li = self.lang_to_ipa_li_for_search[i]
             for line in ipa_li:
                 #line[0]:単語 line[1]:IPA
@@ -175,13 +202,13 @@ class IpaMatchWordSearcher:
                         pos_flg = Tokenizer().is_target_pos(word = word_en, target_pos = pos)
 
                     if pos_flg:
-                        print("Found the word matched IPA vowel")
+                        print(LOG_INFO_DEBUG + LOG_INFO_DEBUG_CLASS_NAME + "Found the word matched IPA vowel")
                         flg = True
                         break
             if flg:
-                print("Loop stop")
+                print(LOG_INFO_DEBUG + LOG_INFO_DEBUG_CLASS_NAME + "Loop stop")
                 break
-        print("Loop finish")
+        print(LOG_INFO_DEBUG + LOG_INFO_DEBUG_CLASS_NAME + "Loop finish")
         return [lang, word]
 
 
@@ -208,6 +235,6 @@ class IpaMatchWordSearcher:
                 ipa = line[1].split(",")[0] if ("," in line[1]) else line[1]
                 break
         if(ipa != ""):
-            print("ipa convert Successful")
+            print(LOG_INFO_DEBUG + LOG_INFO_DEBUG_CLASS_NAME + "ipa convert Successful")
         return ipa
 

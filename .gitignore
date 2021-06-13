@@ -4,3 +4,4 @@
 venv
 data/ipa-dict/
 src/__pycache__/
+output/
