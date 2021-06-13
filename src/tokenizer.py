@@ -10,6 +10,7 @@ class Tokenizer():
         morph = nltk.word_tokenize(word)
         pos = nltk.pos_tag(morph)
         flg = False
-        if(pos == target_pos):
+        pos_tag = pos[0][1]
+        if(pos_tag == target_pos):
             flg = True
         return flg
