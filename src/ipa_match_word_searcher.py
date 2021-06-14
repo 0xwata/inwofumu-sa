@@ -103,59 +103,6 @@ class IpaMatchWordSearcher:
         response_word, response_lang, response_ipa = self.search(lang=lang, ipa_vowel=ipa_vowel, pos=pos)
         return [response_word, response_lang, response_ipa]
 
-    def execute(self, words: dict, pos: str):
-        """[summary]
-
-        Args:
-            words ([dict]): [description]
-            pos ([str]): part of speech
-        """
-
-        request_word = ""
-        request_lang = ""
-        response_word = ""
-        response_lang = ""
-        for k, v in words.items():
-            # 各翻訳された単語についてIPA変換
-            if k == 'ru':
-                # ロシア語のIPA
-                # そもそもhttps://github.com/open-dict-data/ipa-dictにデータがない言語
-                continue
-            else:
-                tmp = self.convert_to_ipa(lang=k, word=v)
-                if tmp == "":
-                    continue
-                ipa = tmp
-
-            # IPAの中から、母音の部分を抜き出す
-            ipa_vowel = self.detect_vowel(ipa=ipa)
-
-            # 母音で合致する単語を探す
-            response_lang, response_word = self.search(lang=k, ipa_vowel=ipa_vowel, pos=pos)
-            print(response_lang, type(response_lang))
-            print(response_word, type(response_word))
-            if response_lang != "" and response_word != "":
-                request_lang = k
-                request_word = v
-                break
-
-        if request_word != "":
-            request_dict = {
-                "word": request_word,
-                "lang": request_lang
-            }
-        else:
-            request_dict = {}
-
-        if response_word != "":
-            response_dict = {
-                "word": response_word,
-                "lang": response_lang
-            }
-        else:
-            response_dict = {}
-
-        return [request_dict, response_dict]
 
     def search(self, lang: str, ipa_vowel: str, pos: str) -> list:
         """[summary]
