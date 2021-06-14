@@ -2,17 +2,19 @@ import random
 import sentiment_polarity
 
 BASE_URL = "../data/random-adjectives-nouns/"
+
+
 class AdjectiveNounPairSelector:
     def __init__(self):
         # "positive" or "negative"
         # self.word_sentiment = word_sentiment
 
         # import adjectives list
-        with open( BASE_URL + "english-adjectives.txt") as f:
+        with open(BASE_URL + "english-adjectives.txt") as f:
             self.adjectives = f.readlines()
         print("adjectiveリストの読み込み完了")
         # import nouns list
-        with open( BASE_URL + "english-nouns.txt") as f:
+        with open(BASE_URL + "english-nouns.txt") as f:
             self.nouns = f.readlines()
         print("nounリストの読み込み完了")
 
