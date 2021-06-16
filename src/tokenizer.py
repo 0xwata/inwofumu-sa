@@ -11,6 +11,8 @@ class Tokenizer():
         pos = nltk.pos_tag(morph)
         flg = False
         pos_tag = pos[0][1]
+        print(pos_tag)
+        print()
         if(pos_tag == target_pos):
             flg = True
         return flg

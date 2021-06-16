@@ -17,15 +17,21 @@ import httpcore
         'zh-tw': 'chinese (traditional)',
     ・韓国語:
         'ko': 'korean',
-    ・ロシア語
-        'ru': 'russian'
+    ・エスペラント語
+        'eo', Esperanto
+    ・スペイン語
+        'es', Spanish (Spain),
+    ・ジャマイカ語
+        'jam', Jamaican Creole -> ない
+    ・ルーマニア語
+        'ro', Romanian
 """
 
 
 class Translate:
     def __init__(self):
         self.translator = Translator()
-        self.langs = ['ja', 'en', 'de', 'id', 'zh-cn', 'ko', 'ru']
+        self.langs = ['ja', 'en', 'de', 'id', 'zh-cn', 'ko', 'eo', 'es', 'ro']
 
     def translate_all_language(self, word: str) -> dict:
         # ランダムに並び替えて初期化
@@ -54,7 +60,9 @@ class Translate:
         try:
             translated_word = self.translator.translate(word, dest=lang, src='en').text
         except httpcore._exceptions.ReadTimeout as e:
-            print("エラー", e)
+            print("ttpcore._exceptions.ReadTimeout", e)
+        except TypeError as e:
+            print("TypeError", e)
         return translated_word
 
     def translate_to_english_by_language(self, word: str, lang: str) -> str:
@@ -63,4 +71,6 @@ class Translate:
             translated_word = self.translator.translate(word, dest='en', src=lang).text
         except httpcore._exceptions.ReadTimeout as e:
             print("エラー", e)
+        except TypeError as e:
+            print("TypeError", e)
         return translated_word
