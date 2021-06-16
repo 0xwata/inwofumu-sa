@@ -40,8 +40,27 @@ BASE_URL = "../data/ipa-dict/data/"
 
 # https://www.ipachart.com/
 # 上記のvowelを採用する
+# 鼻音も追加
+# https://ekimeihyo.net/o/ipa.html
 VOWELS = ["i", "y", "ɨ", "ʉ", "ɯ", "u", "ɪ", "ʏ", "ʊ", "e", "ø", "ɘ", "ɵ", "ɤ", "o", "ə", "ɛ", "œ", "ɜ", "ɞ", "ʌ", "ɔ",
-          "æ", "ɐ", "a", "ɶ", "ɑ", "ɒ"]
+          "æ", "ɐ", "a", "ɶ", "ɑ", "ɒ","m̥","m","ɱ","n̼̊","n̼","n̥","n","ɳ̊","ɳ","ɲ̊","ɲ","ŋ̊","ŋ","ɴ̥","ɴ"]
+
+# 似ているアクセントに変換する辞書
+SIMILAR_VOWEL_DICT = {
+    "i":"y",
+    "ɨ": "ʉ",
+    "ɯ": "u",
+    "ɪ": "ʏ",
+    "e": "ø",
+    "ɤ": "o",
+    "ɛ": "œ",
+    "ɜ": "ɞ",
+    "ʌ": "ɔ",
+    "a": "ɶ",
+    "ɑ": "ɒ"
+}
+
+NASAL_DICT = ["m̥","m","ɱ","n̼̊","n̼","n̥","n","ɳ̊","ɳ","ɲ̊","ɲ","ŋ̊","ŋ","ɴ̥","ɴ"]
 
 LANGS_FOR_SEARCH = ['ja', 'en', 'de', 'id', 'zh-cn', 'ko', 'eo', 'es', 'ro']
 
@@ -151,7 +170,7 @@ class IpaMatchWordSearcher:
 
                 # 末尾 N_MATCH(=3)文字が一致するかどうかをチェック
                 if len(ipa_vowel) >= N_MATCH and len(ipa_vowel_in_line) >= N_MATCH:
-                    if ipa_vowel[-N_MATCH:] == ipa_vowel_in_line[-N_MATCH:]:
+                    if self.format_for_is_ipa_rhyme(ipa_vowel)[-N_MATCH:] == self.format_for_is_ipa_rhyme(ipa_vowel_in_line)[-N_MATCH:]:
                         print(ipa_vowel[-N_MATCH:], ipa_vowel_in_line[-N_MATCH:])
                         word_vowel_matched = line[0]
                         lang_vowel_matched = i
@@ -191,6 +210,30 @@ class IpaMatchWordSearcher:
         """
         joined_vowels = ''.join(VOWELS)
         return ''.join(re.findall('[' + joined_vowels + ']+', ipa))
+
+    def format_for_is_ipa_rhyme(self, vowel_and_nasal:str) -> str:
+        """[summary]
+        IPAの一致を測るためだけに整形する文字列を作成する
+
+        https://www.ipachart.com/
+        VOWELS = ["i", "y", "ɨ", "ʉ", "ɯ", "u", "ɪ", "ʏ", "ʊ", "e", "ø", "ɘ", "ɵ", "ɤ", "o", "ə", "ɛ", "œ", "ɜ", "ɞ", "ʌ", "ɔ",
+          "æ", "ɐ", "a", "ɶ", "ɑ", "ɒ"]
+        """
+        formatted_string = ""
+        for char in vowel_and_nasal:
+            # 類似のIPAは片方に変換する
+            if char in SIMILAR_VOWEL_DICT.keys():
+                formatted_string += SIMILAR_VOWEL_DICT[char]
+                continue
+
+            #　鼻音は全てnに変換
+            if char in NASAL_DICT:
+                formatted_string += "n"
+                continue
+
+            formatted_string += char
+
+        return formatted_string
 
     def convert_to_ipa(self, lang: str, word: str) -> str:
         ipa_li_target_lang = self.lang_to_ipa_li_for_search[lang]
