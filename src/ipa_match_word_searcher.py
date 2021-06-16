@@ -22,18 +22,19 @@ import random
     ・ロシア語
         https://github.com/open-dict-data/ipa-dict/tree/master/data
         ここにデータがない
+    ・エスペラント語
+        'eo', Esperanto
+    ・スペイン語
+        'es_ES', Spanish (Spain),
+    ・ジャマイカ語
+        'jam', Jamaican Creole
+    ・ルーマニア語
+        'ro', Romanian
 """
 
 LOG_INFO_DEBUG = "LOG/DEBUG: "
 LOG_INFO_DEBUG_CLASS_NAME = "CLASS: IpaMatchWordSearcher "
 
-CONVERTER_DIC_FOR_URL = {
-    "ja": "ja",
-    "en": "en",
-    "de": "de",
-    "id": "ma",
-    "zh-cn": "zh"
-}
 
 BASE_URL = "../data/ipa-dict/data/"
 
@@ -42,25 +43,33 @@ BASE_URL = "../data/ipa-dict/data/"
 VOWELS = ["i", "y", "ɨ", "ʉ", "ɯ", "u", "ɪ", "ʏ", "ʊ", "e", "ø", "ɘ", "ɵ", "ɤ", "o", "ə", "ɛ", "œ", "ɜ", "ɞ", "ʌ", "ɔ",
           "æ", "ɐ", "a", "ɶ", "ɑ", "ɒ"]
 
-LANGS_FOR_SEARCH = ["ja", "en", "de", "id", "zh-cn", "ko"]
+LANGS_FOR_SEARCH = ['ja', 'en', 'de', 'id', 'zh-cn', 'ko', 'eo', 'es', 'ro']
 
+N_MATCH = 3
 
 class IpaMatchWordSearcher:
     def __init__(self):
-        self.converter_dic_for_url = CONVERTER_DIC_FOR_URL
         self.ipa_ja_li = self.read_ipa_data(lang="ja")
         self.ipa_en_li = self.read_ipa_data(lang="en_US")
         self.ipa_de_li = self.read_ipa_data(lang="de")
         self.ipa_id_li = self.read_ipa_data(lang="ma")
         self.ipa_cn_li = self.read_ipa_data(lang="zh_hans")
         self.ipa_ko_li = self.read_ipa_data(lang="ko")
+        self.ipa_eo_li = self.read_ipa_data(lang="eo")
+        self.ipa_es_ES_li = self.read_ipa_data(lang="es_ES")
+        self.ipa_jam_li = self.read_ipa_data(lang="jam")
+        self.ipa_ro_li = self.read_ipa_data(lang="ro")
         self.lang_to_ipa_li_for_search = {
             "ja": self.ipa_ja_li,
             "en": self.ipa_en_li,
             "de": self.ipa_de_li,
             "id": self.ipa_id_li,
             "zh-cn": self.ipa_cn_li,
-            "ko": self.ipa_ko_li
+            "ko": self.ipa_ko_li,
+            "eo": self.ipa_eo_li,
+            "es": self.ipa_es_ES_li,
+            "jam": self.ipa_jam_li,
+            "ro": self.ipa_ro_li
         }
 
     def read_ipa_data(self, lang: str) -> list:
@@ -79,7 +88,7 @@ class IpaMatchWordSearcher:
                 ipa_list.append(s_line.split('\t'))
         return ipa_list
 
-    def execute_v2(self, word: str, lang: str, pos: str):
+    def execute(self, word: str, lang: str, pos: str):
         """[summary]
 
         Args:
@@ -98,10 +107,12 @@ class IpaMatchWordSearcher:
             request_ipa = tmp
         # IPAの中から、母音の部分を抜き出す
         ipa_vowel = self.detect_vowel(ipa=request_ipa)
+        if len(ipa_vowel) < N_MATCH:
+            return ["", ""]
 
         # 母音で合致する単語を返す
-        response_word, response_lang, response_ipa = self.search(lang=lang, ipa_vowel=ipa_vowel, pos=pos)
-        return [response_word, response_lang, response_ipa]
+        response_word, response_lang = self.search(lang=lang, ipa_vowel=ipa_vowel, pos=pos)
+        return [response_word, response_lang]
 
 
     def search(self, lang: str, ipa_vowel: str, pos: str) -> list:
@@ -124,7 +135,6 @@ class IpaMatchWordSearcher:
         pos_flg = False
         word_vowel_matched = ""
         lang_vowel_matched = ""
-        ipa_vowel_matched = ""
         print(LOG_INFO_DEBUG + LOG_INFO_DEBUG_CLASS_NAME + f"{search_lang_li}")
         for i in search_lang_li:
             print(LOG_INFO_DEBUG + LOG_INFO_DEBUG_CLASS_NAME + f"探索言語：{i}")
@@ -139,31 +149,34 @@ class IpaMatchWordSearcher:
 
                 ipa_vowel_in_line = ''.join(re.findall('[' + joined_vowels + ']+', ipa_in_line))
 
-                if (ipa_vowel == ipa_vowel_in_line):
-                    word_vowel_matched = line[0]
-                    lang_vowel_matched = i
-                    ipa_vowel_matched = ipa_in_line
-                    """
-                    マッチング済み単語の翻訳処理
-                    """
-                    word_en_vowel_matched = Translate().translate_to_english_by_language(word=word_vowel_matched, lang=lang_vowel_matched)
+                # 末尾 N_MATCH(=3)文字が一致するかどうかをチェック
+                if len(ipa_vowel) >= N_MATCH and len(ipa_vowel_in_line) >= N_MATCH:
+                    if ipa_vowel[-N_MATCH:] == ipa_vowel_in_line[-N_MATCH:]:
+                        print(ipa_vowel[-N_MATCH:], ipa_vowel_in_line[-N_MATCH:])
+                        word_vowel_matched = line[0]
+                        lang_vowel_matched = i
 
-                    """
-                    マッチング済み単語の品詞推定処理
-                    """
-                    if word_en_vowel_matched != "":
-                        pos_flg = Tokenizer().is_target_pos(word=word_en_vowel_matched, target_pos=pos)
+                        """
+                        マッチング済み単語の翻訳処理
+                        """
+                        word_en_vowel_matched = Translate().translate_to_english_by_language(word=word_vowel_matched, lang=lang_vowel_matched)
 
-                    if pos_flg:
-                        print(LOG_INFO_DEBUG + LOG_INFO_DEBUG_CLASS_NAME + "Found the word matched IPA vowel")
-                        flg = True
-                        break
+                        """
+                        マッチング済み単語の品詞推定処理
+                        """
+                        if word_en_vowel_matched != "":
+                            pos_flg = Tokenizer().is_target_pos(word=word_en_vowel_matched, target_pos=pos)
+
+                        if pos_flg:
+                            print(LOG_INFO_DEBUG + LOG_INFO_DEBUG_CLASS_NAME + "Found the word matched IPA vowel")
+                            flg = True
+                            break
             if flg:
                 print(LOG_INFO_DEBUG + LOG_INFO_DEBUG_CLASS_NAME + "Loop stop")
                 break
         print(LOG_INFO_DEBUG + LOG_INFO_DEBUG_CLASS_NAME + "Loop finish")
-        print(LOG_INFO_DEBUG + LOG_INFO_DEBUG_CLASS_NAME + f"word_vowel_matched = {word_vowel_matched}, lang_vowel_matched = {lang_vowel_matched}, ipa_vowel_matched = {ipa_vowel_matched},")
-        return [word_vowel_matched, lang_vowel_matched, ipa_vowel_matched]
+        print(LOG_INFO_DEBUG + LOG_INFO_DEBUG_CLASS_NAME + f"word_vowel_matched = {word_vowel_matched}, lang_vowel_matched = {lang_vowel_matched}")
+        return [word_vowel_matched, lang_vowel_matched]
 
     def detect_vowel(self, ipa: str) -> str:
         """[summary]
