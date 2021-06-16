@@ -64,7 +64,7 @@ NASAL_DICT = ["m̥","m","ɱ","n̼̊","n̼","n̥","n","ɳ̊","ɳ","ɲ̊","ɲ","ŋ
 
 LANGS_FOR_SEARCH = ['ja', 'en', 'de', 'id', 'zh-cn', 'ko', 'eo', 'es', 'ro']
 
-N_MATCH = 3
+N_MATCH = 2
 
 class IpaMatchWordSearcher:
     def __init__(self):
@@ -169,27 +169,30 @@ class IpaMatchWordSearcher:
                 ipa_vowel_in_line = ''.join(re.findall('[' + joined_vowels + ']+', ipa_in_line))
 
                 # 末尾 N_MATCH(=3)文字が一致するかどうかをチェック
-                if len(ipa_vowel) >= N_MATCH and len(ipa_vowel_in_line) >= N_MATCH:
-                    if self.format_for_is_ipa_rhyme(ipa_vowel)[-N_MATCH:] == self.format_for_is_ipa_rhyme(ipa_vowel_in_line)[-N_MATCH:]:
-                        print(ipa_vowel[-N_MATCH:], ipa_vowel_in_line[-N_MATCH:])
-                        word_vowel_matched = line[0]
-                        lang_vowel_matched = i
+                if len(ipa_vowel) < N_MATCH or len(ipa_vowel_in_line) < N_MATCH:
+                    continue
 
-                        """
-                        マッチング済み単語の翻訳処理
-                        """
-                        word_en_vowel_matched = Translate().translate_to_english_by_language(word=word_vowel_matched, lang=lang_vowel_matched)
+                # 整形済みのipa_vowelとipa_vowel_in_lineが一致 && シラブルが一致
+                if self.format_for_is_ipa_rhyme(ipa_vowel)[-N_MATCH:] == self.format_for_is_ipa_rhyme(ipa_vowel_in_line)[-N_MATCH:] and len(ipa_vowel) == len(ipa_vowel_in_line):
+                    print(ipa_vowel[-N_MATCH:], ipa_vowel_in_line[-N_MATCH:])
+                    word_vowel_matched = line[0]
+                    lang_vowel_matched = i
 
-                        """
-                        マッチング済み単語の品詞推定処理
-                        """
-                        if word_en_vowel_matched != "":
-                            pos_flg = Tokenizer().is_target_pos(word=word_en_vowel_matched, target_pos=pos)
+                    """
+                    マッチング済み単語の翻訳処理
+                    """
+                    word_en_vowel_matched = Translate().translate_to_english_by_language(word=word_vowel_matched, lang=lang_vowel_matched)
 
-                        if pos_flg:
-                            print(LOG_INFO_DEBUG + LOG_INFO_DEBUG_CLASS_NAME + "Found the word matched IPA vowel")
-                            flg = True
-                            break
+                    """
+                    マッチング済み単語の品詞推定処理
+                    """
+                    if word_en_vowel_matched != "":
+                        pos_flg = Tokenizer().is_target_pos(word=word_en_vowel_matched, target_pos=pos)
+
+                    if pos_flg:
+                        print(LOG_INFO_DEBUG + LOG_INFO_DEBUG_CLASS_NAME + "Found the word matched IPA vowel")
+                        flg = True
+                        break
             if flg:
                 print(LOG_INFO_DEBUG + LOG_INFO_DEBUG_CLASS_NAME + "Loop stop")
                 break
