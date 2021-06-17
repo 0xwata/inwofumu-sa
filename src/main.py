@@ -1,90 +1,70 @@
+from nltk import tokenize
 from adjective_noun_pair import AdjectiveNounPairSelector
+from tokenizer import Tokenizer
 from translate import Translate
 from ipa_match_word_searcher import IpaMatchWordSearcher
 import random
 import csv
 import datetime
-import sys
-import adjective_pair_search
-import noun_pair_search
+from wonderwords import random_word
+from random_word import RandomWords
+
 
 LOG_INFO_DEBUG = "LOG/DEBUG: "
+N_MATCH_MAX = 5
 
 
 def main():
-    output = [["request_adjective_word", "request_adjective_lang", "request_adjective_word_en",
-               "request_noun_word", "request_noun_lang", "request_noun_word_en",
-               "response_adjective_word", "response_adjective_lang", "response_adjective_word_en",
-               "response_noun_word", "response_noun_lang", "response_noun_word_en", ]]
+    output = [["request_word", "request_lang", "request_pos", "request_ipa", "request_ipa_formatted", "request_word_en",
+               "response_word", "response_lang", "response_pos", "response_ipa", "response_ipa_formatted", "response_word_en",]]
     count = 0
     N = 100
 
+    # 翻訳クラスのインスタンス化
+    translate = Translate()
+    # IPA変換→マッチング処理のインスタンス化
+    ipa_converter = IpaMatchWordSearcher()
+    # トークナイザーのインスタンス化
+    tokenize = Tokenizer()
+
+    random_words = RandomWords()
+
     for i in range(N):
+        request_word = random_words.get_random_word(hasDictionaryDef="true", includePartOfSpeech="noun, adjective, verb", maxLength=N_MATCH_MAX)
+        if request_word is None:
+            continue
+        print(request_word)
+        request_word_pos = tokenize.fetch_target_pos(request_word)
+        print(LOG_INFO_DEBUG + "request word selected!!!!")
+        print(LOG_INFO_DEBUG + "request_word:" + request_word)
+        print(LOG_INFO_DEBUG + "request_word_pos:" + request_word_pos)
+
         langs = ['ja', 'en', 'de', 'id', 'zh-cn', 'ko', 'eo', 'es', 'ro']
-        adjective_index = list(range(7))
-
-        noun_index = list(range(7))
-
+        index = list(range(7))
         # ランダムに並び替えて初期化
-        random.shuffle(adjective_index)
-        random.shuffle(noun_index)
-        print(LOG_INFO_DEBUG + f"{adjective_index}")
-        print(LOG_INFO_DEBUG + f"{noun_index}")
-
-        # 名詞・形容詞のランダム取得クラスのインタンス化
-        adjective_noun_pair_selector = AdjectiveNounPairSelector()
-        # 形容詞・名詞の取得
-        request_adjective = adjective_noun_pair_selector.fetch_random_adjective()
-        request_noun = adjective_noun_pair_selector.fetch_random_noun()
-
-        print(LOG_INFO_DEBUG + "request adjective-noun pair selected!!!!")
-        print(LOG_INFO_DEBUG + "request-adjective:" + request_adjective)
-        print(LOG_INFO_DEBUG + "request-noun:" + request_noun)
+        random.shuffle(index)
 
         for j in range(7):
             print(LOG_INFO_DEBUG + str(i) + "-" + str(j))
 
-            # 翻訳クラスのインスタンス化
-            translate = Translate()
-
-            # 形容詞・名詞のIPA変換→マッチング処理のインスタンス化
-            ipa_converter = IpaMatchWordSearcher()
-
-            print(LOG_INFO_DEBUG + "start translating request adjective word")
-            request_target_adjective_lang = langs[adjective_index[j]]
-            request_adjective_word_translated = translate.translate_by_language(word=request_adjective,
-                                                                                lang=request_target_adjective_lang)
-            print(
-                LOG_INFO_DEBUG + f"finish translating request adjective word = {request_adjective_word_translated}, lang = {request_target_adjective_lang}")
-
-            print(LOG_INFO_DEBUG + "start translating request noun word")
-            request_target_noun_lang = langs[noun_index[j]]
-            request_noun_word_translated = translate.translate_by_language(word=request_noun,
-                                                                           lang=request_target_noun_lang)
-            print(
-                LOG_INFO_DEBUG + f"finish translating request noun word/ word = {request_noun_word_translated}, lang = {request_target_noun_lang}")
-
-            print()
+            print(LOG_INFO_DEBUG + "start translating request word")
+            request_word_lang = langs[index[j]]
+            request_word_translated = translate.translate_by_language(word=request_word,lang=request_word_lang)
+            print(LOG_INFO_DEBUG + f"finish translating request adjective word = {request_word_translated}, lang = {request_word_lang}")
 
             """
-            形容詞・名詞のIPA変換→マッチング処理
+            IPA変換→マッチング処理
             """
-            print(LOG_INFO_DEBUG + "start ipa search for request adjective word")
-            response_adjective_word, response_adjective_lang = ipa_converter.execute(word=request_adjective_word_translated, lang=request_target_adjective_lang, pos="JJ")
-            if response_adjective_word == "":
-                print(LOG_INFO_DEBUG + f"not found ipa matched adjective word ")
-                continue
-            print(LOG_INFO_DEBUG + f"finish ipa search for request adjective word/  word={response_adjective_word}, lang={response_adjective_lang}")
-            print(LOG_INFO_DEBUG + "start ipa search for request noun word")
-            response_noun_word, response_noun_lang = ipa_converter.execute(word=request_noun_word_translated,lang=request_target_noun_lang, pos="NN")
-            if response_noun_word == "":
-                print(LOG_INFO_DEBUG + f"not found ipa matched noun word ")
-                continue
-            print(
-                LOG_INFO_DEBUG + f"finish ipa search for request adjective word/  word={response_noun_word}, lang={response_noun_lang}")
+            print(LOG_INFO_DEBUG + "start ipa search for request word")
+            response_dict = ipa_converter.execute(word=request_word_translated, lang=request_word_lang)
+            response_word = response_dict["word_vowel_matched"]
+            response_word_lang = response_dict["lang_vowel_matched"]
+            response_word_pos = response_dict["word_vowel_matched_pos"]
 
-            if response_adjective_word == "" or response_noun_word == "":
+            if response_word == "":
+                print(LOG_INFO_DEBUG + f"not found ipa matched word ")
                 continue
+            print(LOG_INFO_DEBUG + f"finish ipa search for request adjective word/  response_word={response_word}, response_word_lang={response_word_lang}, response_word_pos={response_word_pos}")
 
             print()
             # request
@@ -92,29 +72,28 @@ def main():
 
             print(LOG_INFO_DEBUG + "start writing tmp list to output")
             # write request info
-            # -- adjective
-            tmp.append(request_adjective_word_translated)
-            tmp.append(request_target_adjective_lang)
-            tmp.append(translate.translate_to_english_by_language(word=request_adjective_word_translated,
-                                                                  lang=request_target_adjective_lang))
-            tmp.append(ipa_converter.convert_to_ipa(word=request_adjective_word_translated, lang=request_target_adjective_lang))
-            # -- noun
-            tmp.append(request_noun_word_translated)
-            tmp.append(request_target_noun_lang)
-            tmp.append(translate.translate_to_english_by_language(word=request_noun_word_translated,lang=request_target_noun_lang))
-            tmp.append(ipa_converter.convert_to_ipa(word=request_noun_word_translated, lang=request_target_noun_lang))
+            # -- preprocessing
+            request_word_ipa = ipa_converter.convert_to_ipa(word=request_word_translated, lang=request_word_lang)
+
+            # -- request
+            tmp.append(request_word_translated)
+            tmp.append(request_word_lang)
+            tmp.append(request_word_pos)
+            tmp.append(request_word_ipa)
+            tmp.append(ipa_converter.format_for_is_ipa_rhyme(ipa_converter.convert_to_vowel(request_word_ipa)))
+            tmp.append(translate.translate_to_english_by_language(word=request_word_translated,lang=request_word_lang))
 
             # write response info
-            tmp.append(response_adjective_word)
-            tmp.append(response_adjective_lang)
-            tmp.append(translate.translate_to_english_by_language(word=response_adjective_word, lang=response_adjective_lang))
-            tmp.append(ipa_converter.convert_to_ipa(word=response_adjective_word, lang=response_adjective_lang))
+            # -- preprocessing
+            response_word_ipa = ipa_converter.convert_to_ipa(word=response_word, lang=response_word_lang)
 
-            # -- noun
-            tmp.append(response_noun_word)
-            tmp.append(response_noun_lang)
-            tmp.append(translate.translate_to_english_by_language(word=response_noun_word, lang=response_noun_lang))
-            tmp.append(ipa_converter.convert_to_ipa(word=response_noun_word, lang=response_noun_lang))
+            # --  response
+            tmp.append(response_word)
+            tmp.append(response_word_lang)
+            tmp.append(response_word_pos)
+            tmp.append(response_word_ipa)
+            tmp.append(ipa_converter.format_for_is_ipa_rhyme(ipa_converter.convert_to_vowel(response_word_ipa)))
+            tmp.append(translate.translate_to_english_by_language(word=response_word, lang=response_word_lang))
 
             # jsonに書き込み
             output.append(tmp)
@@ -132,16 +111,4 @@ def main():
 
 
 if __name__ == "__main__":
-    args = sys.argv
-    print(args)
-    if len(args) == 2:
-        if args[1] == 'adjective':
-            print("a")
-            adjective_pair_search.execute()
-        elif args[1] == 'noun':
-            print("b")
-            noun_pair_search.execute()
-        else:
-            print("argument is not appropriate")
-    else:
-        main()
+    main()
