@@ -1,0 +1,95 @@
+request_word,request_lang,request_pos,request_ipa,request_ipa_formatted,request_word_en,response_word,response_lang,response_pos,response_ipa,response_ipa_formatted,response_word_en
+丸い,ja,noun,/maɾɯi/,nɶuy,round,deschiaburi,ro,noun,/deskʲ̩̩aburi/,øɶuy,openings
+levin,en,noun,/ˈɫɛvɪn/,œʏn,levin,Äffin,de,noun,/ˈʔɛffɪn/,œʏn,Äffin
+번갯불,ko,noun,/pʌ̹nɡɛ̝t̚p͈uɭ/,ɔnœu,wildfire,Fingerhut,de,adjective,/ˈfɪŋɛɾut/,ʏnœu,thimble
+buffo,en,noun,/ˈbufoʊ/,uoʊ,buffo,不朽,zh-cn,noun,/pu˥˩ ɕjoʊ˨˩˦/,uoʊ,immortal
+吹き付ける,ja,noun,/ɸɯkitsɯkeɾɯ/,uyuøu,Blow,캐스트레스,ko,noun,/kʰɛ̝sʰɯtʰɯɾe̞sʰɯ/,œuuøu,Castress
+颠簸,zh-cn,noun,/tjɛn˥˥ pɔ˨˩˦/,œnɔ,Bump,bednorz,en,noun,/ˈbɛdnɔɹz/,œnɔ,bednorz
+kamal,en,noun,/ˈkeɪməɫ/,øʏnə,kamal,abbinde,de,verb,/ˈʔapˌbɪndə/,ɶʏnə,embedding
+kamal,en,noun,/ˈkeɪməɫ/,øʏnə,kamal,abbinde,de,verb,/ˈʔapˌbɪndə/,ɶʏnə,embedding
+memilih,id,noun,/məmilih/,nənyy,choose,abonigi,eo,noun,/abonigi/,ɶonyy,Subscribe
+wählen,de,noun,/ˈvɛːlən/,œən,choose,aaron,en,noun,/ˈɛɹən/,œən,aaron
+elekti,eo,noun,/elekti/,øøy,choose,delegierst,de,noun,/deleˈgiːɾst/,øøy,delegate
+Razzien,de,noun,/ɾatsiːən/,ɶyən,Raid,accion,en,noun,/ˈætʃiən/,æyən,accion
+襲撃,ja,noun,/ɕɯɯgeki/,uuøy,Raid,karuseli,eo,noun,/karuseli/,ɶuøy,Karuseli
+Gefängnisse,de,noun,/ɡəˈfɛŋnɪsə/,əœnnʏə,Prisons,baudendistel,en,noun,/ˈbaʊdɪndɪstəɫ/,ɶʊʏnʏə,baudendistel
+감옥,ko,noun,/ka̠mo̞k̚/,ɶno,prison,あのー,ja,noun,/anoː/,ɶno,Ummm
+监狱,zh-cn,noun,/tɕjɛn˥˥ y˥˩/,œny,prison,arendsee,en,noun,/ɝˈɛndˌsi/,œny,arendsee
+penjara,id,noun,/pəndʒara/,ənɶɶ,jail,あなや,ja,noun,/anaja/,ɶnɶɶ,Aunt
+刑務所,ja,noun,/keimɯɕo/,øynuo,prison,aventuros,ro,adjective,/aventuros/,ɶønuo,adventurous
+稳重,zh-cn,noun,/uən˨˩˦ ʈʂʊŋ˥˩/,uənʊn,steady,Abdankung,de,noun,/ˈʔapdaŋkʊŋ/,ɶɶnʊn,abdication
+첨부,ko,noun,/t͡ɕʰʌ̹mbu/,ɔnu,attachment,hormuz,en,noun,/ˈhɔɹmuz/,ɔnu,hormuz
+bangun,id,noun,/baŋun/,ɶnun,Wake up,가는,ko,verb,/ka̠nɯn/,ɶnun,going
+awake,en,noun,/əˈweɪk/,əøʏ,awake,befehligst,de,verb,/bəˈfelɪkst/,əøʏ,commanding
+苏醒,zh-cn,noun,/su˥˥ ɕɪŋ˨˩˦/,uʏn,wake,blutigsten,de,noun,/ˈbluːtɪçstn̩/,uʏn,bloody
+motes,en,noun,/ˈmoʊts/,noʊ,motes,Moduls,de,noun,/ˈmoːdʊls/,noʊ,Module
+모음,ko,noun,/mo̞ɯm/,noun,collection,kuorum,id,noun,/kuorum/,uoun,quorum
+novas,en,noun,/ˈnoʊvəz/,noʊə,novas,aufdrucke,de,noun,/ˈʔaofˌdɾʊkə/,ɶoʊə,imprint
+Titan,de,noun,/tiˈtaːn/,yɶn,titanium,birlan,es,noun,/biɾlan/,yɶn,Birlan
+巨人,ja,noun,/kjodʑiɴ/,oyn,Giant,Orients,de,noun,/ˈʔoːɾiːnts/,oyn,Orient
+titan,en,noun,/ˈtaɪtən/,ɶʏən,titan,abbilden,de,noun,/ˈap.bɪl.dən/,ɶʏən,depict
+スクラム,ja,noun,/sɯkɯɾamɯ/,uuɶnu,Scrum,amantu,id,noun,/amantu/,ɶnɶnu,Amni
+twain,en,noun,/ˈtweɪn/,øʏn,twain,Blödsinn,de,noun,/ˈbløːtzɪn/,øʏn,Nonsense
+kembar,id,noun,/kəmbar/,ənɶ,twin,人家,zh-cn,noun,/ʐən˧˥ tɕja˥˥/,ənɶ,People
+トウェイン,ja,noun,/toɯeiɴ/,ouøyn,Wain,détaséring,id,verb,/detaseriŋ/,øɶøyn,Détaséring
+masuk,id,noun,/masuʔ/,nɶu,Entry,나루,ko,noun,/na̠ɾu/,nɶu,Naru
+Eintrag,de,noun,/ˈaɪ̯ntʁak/,ɶʏnɶ,entry,个性化,zh-cn,noun,/kɤ˥˩ ɕɪŋ˥˩ xwa˥˩/,oʏnɶ,personalise
+入口,zh-cn,noun,/ʐu˥˩ kʰoʊ˨˩˦/,uoʊ,Entrance,bhutto,en,noun,/ˈbutoʊ/,uoʊ,bhutto
+エントリ,ja,noun,/eɴtoɾi/,ønoy,entry,agnoski,eo,noun,/agnoski/,ɶnoy,acknowledge
+entry,en,noun,/ˈɛntɹi/,œny,entry,严厉,zh-cn,adjective,/jɛn˧˥ li˥˩/,œny,severe
+傍観,ja,adjective,/boɯkaɴ/,ouɶn,Byblie,Leguan,de,noun,/ˈleːˌɡu̯aːn/,øuɶn,iguana
+zugewiesen,de,adjective,/ˈtsuːgeˌviəsən/,uøyəən,assigned,adrenaline,en,noun,/əˈdɹɛnəɫən/,əœnəən,adrenaline
+亲吻,zh-cn,adjective,/tɕʰɪn˥˥ uən˨˩˦/,ʏnuən,kiss,abberufen,de,noun,/ʔapbəˈɾuːfən/,ɶəuən,recall
+mores,en,noun,/ˈmɔˌɹeɪz/,nɔøʏ,mores,fürsorgerisch,de,verb,/ˈfʏɾzɔɾgeɾɪʃ/,ʏɔøʏ,caring
+千里,ja,noun,/seɴɾi/,øny,Thousand miles,beni,eo,noun,/beni/,øny,bless
+バンカ,ja,noun,/baɴka/,ɶnɶ,Bunka,abknallst,de,noun,/ˈʔapˌknallst/,ɶnɶ,bawn
+엉덩이,ko,noun,/ˈɘːŋdʌ̹ŋi/,ɘnɔny,hip,糯米,zh-cn,adjective,/nuɔ˥˩ mi˨˩˦/,nuɔny,Glutinous rice
+区間,ja,noun,/kɯkaɴ/,uɶn,section,구간,ko,noun,/kuɡa̠n/,uɶn,section
+パンク,ja,noun,/paɴkɯ/,ɶnu,punk,专著,zh-cn,noun,/ʈʂwan˥˥ ʈʂu˥˩/,ɶnu,focus on
+Ideen,de,noun,/ʔiˈdeːən/,yøən,Ideas,mésem,id,noun,/mesəm/,nøən,Mésem
+アイデア,ja,noun,/aidea/,ɶyøɶ,idea,arhipelag,ro,noun,/arhipelaɡ/,ɶyøɶ,archipelago
+ideas,en,noun,/aɪˈdiəz/,ɶʏyə,ideas,assistierte,de,verb,/ʔasˈzɪstiːɾtə/,ɶʏyə,assisted
+思想,zh-cn,noun,/sɯ˥˥ ɕjɑŋ˨˩˦/,uɒn,thought,kulant,de,noun,/kuˈlɑnt/,uɒn,cheerful
+아이디어,ko,noun,/a̠idiʌ̹/,ɶyyɔ,idea,Offizierskorps,de,noun,/ˈʔɔffitsiːɾskɔɾps/,ɔyyɔ,Officer Corps
+gezündet,de,adjective,/gəˈtsʏndət/,əʏnə,ignited,abysmal,en,noun,/əˈbɪzməɫ/,əʏnə,abysmal
+rises,en,noun,/ˈɹaɪzəz/,ɶʏə,rises,abbilde,de,noun,/ˈʔapˌbɪldə/,ɶʏə,depict
+上がる,ja,noun,/agaɾɯ/,ɶɶu,Go up,Kakadu,de,noun,/ˈkakaˌduː/,ɶɶu,Cockatoo
+상승하다,ko,noun,/sʰa̠ŋsʰɯŋɦa̠da̠/,ɶnunɶɶ,increase,上上下下,zh-cn,noun,/ʂɑŋ˥˩ ʂɑŋ˥˩ ɕja˥˩ ɕja˥˩/,ɒnɒnɶɶ,Upper and down
+naik,id,noun,/naiʔ/,nɶy,ride,gnais,ro,noun,/ɡnais/,nɶy,gneiss
+boren,en,noun,/ˈbɔɹən/,ɔən,boren,bocken,de,noun,/ˈbɔkən/,ɔən,buck
+Dichtungen,de,noun,/ˈdɪçtʊŋən/,ʏʊnən,Seals,estimăm,ro,noun,/jestiməm/,øynən,estimate
+fouty,en,noun,/ˈfaʊti/,ɶʊy,fouty,Abschlussspiel,de,adjective,/ˈʔapˌʃlʊszspiːl/,ɶʊy,Final game
+Schreibtische,de,noun,/ˈʃɾaeptɪʃə/,ɶøʏə,Desks,abasia,en,noun,/əˈbeɪʒjə/,əøʏə,abasia
+书桌,zh-cn,noun,/ʂu˥˥ ʈʂuɔ˥˥/,uuɔ,desk,구구법,ko,noun,/kuɡubʌ̹p̚/,uuɔ,Submission
+책상,ko,noun,/t͡ɕʰɛ̝ks͈a̠ŋ/,œɶn,desk,乐团,zh-cn,noun,/ɥœ˥˩ tʰwan˧˥/,œɶn,Orchestra
+デスク,ja,noun,/desɯkɯ/,øuu,desk,cerului,ro,noun,/tʃeruluj/,øuu,heaven
+자매,ko,noun,/t͡ɕa̠mɛ̝/,ɶnœ,sisters,三月,zh-cn,noun,/san˥˥ ɥœ˥˩/,ɶnœ,March
+마시다,ko,noun,/ma̠ɕʰida̠/,nɶyɶ,drink,abadiah,id,noun,/abadiah/,ɶɶyɶ,Abadiah.
+王国,ja,noun,/oɯkokɯ/,ouou,Kingdom,autobús,es,noun,/autoˈβus/,ɶuou,bus
+뒤집다,ko,noun,/tɥid͡ʑip̚t͈a̠/,yyɶ,reverse,bifilar,de,noun,/biˈfiːlaɽ/,yyɶ,bifilar
+steigen,de,noun,/ˈʃtaɪ̯ɡən/,ɶʏən,climb,abelson,en,noun,/ˈæbɪɫsən/,æʏən,abelson
+소원,ko,noun,/sʰo̞wʌ̹n/,oɔn,wish,Kokons,de,noun,/ˈkoːkɔns/,oɔn,Cocoons
+欺骗,zh-cn,noun,/tɕʰi˥˥ pʰjɛn˥˩/,yœn,deceive,기생,ko,noun,/kisʰɛ̝ŋ/,yœn,parasitism
+ditembus,id,noun,/ditəmbus/,yənu,broken,bălănuț,ro,noun,/bələnuts/,əənu,Bălănuţ
+차단,ko,noun,/t͡ɕʰa̠da̠n/,ɶɶn,block,actant,ro,noun,/aktant/,ɶɶn,actor
+休闲,zh-cn,noun,/ɕjoʊ˥˥ ɕjɛn˧˥/,oʊœn,Leisure,abbuchend,de,verb,/ˈʔapˌbʊxɛnt/,ɶʊœn,departing
+bialy,en,noun,/biˈɑɫi/,yɒy,bialy,Briefpapiers,de,noun,/ˈbriːfpɑpiːɾs/,yɒy,Stationery
+bergerak,id,noun,/bərgəraʔ/,əəɶ,move,bătăiaș,ro,noun,/bətəjaʃ/,əəɶ,Battle
+towne,en,noun,/ˈtaʊn/,ɶʊn,,儿童,zh-cn,noun,/aɻ˧˥ tʰʊŋ˧˥/,ɶʊn,child
+タウン,ja,noun,/taɯɴ/,ɶun,Town,álbum,es,noun,/ˈalβum/,ɶun,album
+场地,zh-cn,noun,/ʈʂʰɑŋ˨˩˦ ti˥˩/,ɒny,site,Amis,de,noun,/ˈʔɑːmis/,ɒny,AMIS
+kampo,eo,noun,/kampo/,ɶno,Field,anbohrst,de,noun,/ˈʔanˌboɾst/,ɶno,bore
+フィールド,ja,noun,/ɸiːɾɯdo/,yuo,field,bifurcó,es,noun,/bifuˈɾko/,yuo,bifurca
+bidang,id,noun,/bidaŋ/,yɶn,field,귀감,ko,noun,/kɥiɡa̠m/,yɶn,Quease
+歌舞伎,ja,noun,/kabɯki/,ɶuy,kabuki,aburrí,es,noun,/aβuˈri/,ɶuy,
+哀しい,ja,noun,/kanaɕii/,ɶnɶyy,sad,Gesellschaftskritik,de,adjective,/gəˈzɛllʃaftskɾitik/,əœɶyy,Social criticism
+グアノ,ja,noun,/gɯano/,uɶno,guano,belanglos,de,noun,/bəˈlaŋloːs/,əɶno,irrelevant
+guano,en,noun,/ˈɡwɑˌnoʊ/,ɒnoʊ,guano,丁丑,zh-cn,noun,/tɪŋ˥˥ ʈʂʰoʊ˨˩˦/,ʏnoʊ,Dishi
+guano,eo,noun,/guano/,uɶno,Guano,abanos,ro,noun,/abanos/,ɶɶno,ebony
+イエス,ja,noun,/iesɯ/,yøu,Jesus,cristescu,ro,noun,/kristesku/,yøu,Cristescu
+하나,ko,noun,/ha̠na̠/,ɶnɶ,one,ahmad,id,noun,/ahmad/,ɶnɶ,Ahmad
+연회,ko,noun,/jʌ̹nɦø̞/,ɔnø,banquet,Formel,de,noun,/ˈfɔɾmel/,ɔnø,formula
+hocus,en,noun,/ˈhoʊkəs/,oʊə,hocus,Produkte,de,noun,/ˈpɾoːdʊktə/,oʊə,Products
+속이다,ko,noun,/sʰo̞ɡida̠/,oyɶ,chisel,bióxidas,es,noun,/ˈbjoksiðas/,oyɶ,Bioxides.
+mengelirukan,id,noun,/məŋəlirukan/,nənəyuɶn,confuse,１１９番,ja,noun,/çjakɯdʑɯɯkjɯɯbaɴ/,ɶuuuuuɶn,Rank 119
+아침,ko,noun,/a̠t͡ɕʰim/,ɶyn,morning,かちん,ja,noun,/katɕiɴ/,ɶyn,Wet
