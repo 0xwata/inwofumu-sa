@@ -38,7 +38,6 @@ for i, row in df.iterrows():
             pos_spcy = "noun"
         
         print(pos_spcy, row.word_pos)
-        pos_spcy = tok.pos
 
     word_pos_list.append(pos_spcy)
 
