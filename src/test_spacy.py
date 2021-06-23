@@ -65,5 +65,5 @@ output_column = ["word", "word_lang", "word_pos", "word_pos_spacy", "word_ipa", 
 df["word_pos_spacy"] = word_pos_list
 
 df[output_column]
-df.to_csv(f'../output/final/{len(df)}_spacy.csv')
+df.to_csv(f'../output/final/{len(df)}_spacy.csv', index=False)
 print(f"finish writing output to csv")
