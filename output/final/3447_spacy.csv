@@ -1,4 +1,4 @@
-Unnamed: 0,word,word_lang,word_pos,word_ipa,word_ipa_edited_vowel,word_en,next_word_index_verb,next_word_index_adjective,next_word_index_noun,word_pos_spacy
+,word,word_lang,word_pos,word_ipa,word_ipa_edited_vowel,word_en,next_word_index_verb,next_word_index_adjective,next_word_index_noun,word_pos_spacy
 0,heilen,de,noun,/ˈhaɪ̯lən/,ɶʏən,heal,724:1698:2216,,32:448:790:905:1038:1092:1171:1548:1559:1889:1959:1996:2737:3294:3430,verb
 1,Bären,de,noun,/ˈbɛːʀən/,œən,Bear,,,1364:1960:1966:2272:2516:2532,noun
 2,恐ろしい,ja,noun,/osoɾoɕii/,oooyy,That's horrible,,,1961,adjective

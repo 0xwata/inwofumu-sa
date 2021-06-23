@@ -25,7 +25,7 @@ lang_converter_dic_for_spacy = {
     # "ko":nlp_ko,
 }
 
-df = pd.read_csv("../output/final/3447.csv", sep=',')
+df = pd.read_csv("../output/final/3447.csv", sep=',', index_col=0)
 
 print(ADJ, NOUN, PROPN, PRON, VERB)
 word_pos_list = []
@@ -65,5 +65,5 @@ output_column = ["word", "word_lang", "word_pos", "word_pos_spacy", "word_ipa", 
 df["word_pos_spacy"] = word_pos_list
 
 df[output_column]
-df.to_csv(f'../output/final/{len(df)}_spacy.csv', index=False)
+df.to_csv(f'../output/final/{len(df)}_spacy.csv')
 print(f"finish writing output to csv")
