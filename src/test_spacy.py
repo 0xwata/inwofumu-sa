@@ -18,7 +18,7 @@ df = pd.read_csv("../output/final/3447.csv", sep=',')
 
 nlp = spacy.load("en_core_web_sm")
 
-
+print(ADJ, NOUN, PROPN, PRON, VERB)
 word_pos_list = []
 for i, row in df.iterrows():
     pos_spcy = "other"
@@ -33,12 +33,14 @@ for i, row in df.iterrows():
         if tok.pos == ADJ:
             pos_spcy = "adjective"
         elif tok.pos == VERB:
-            pos_spcy == "verb"
+            print("verb")
+            pos_spcy = "verb"
         elif tok.pos in spacy_symbol_noun_list:
             pos_spcy = "noun"
-        
-        print(pos_spcy, row.word_pos)
 
+        print(tok.pos, pos_spcy, row.word_pos)
+
+    print("append", pos_spcy)
     word_pos_list.append(pos_spcy)
 
 output_column = ["word", "word_lang", "word_pos", "word_pos_spacy", "word_ipa", "word_ipa_edited_vowel", "word_en", "next_word_index_verb", "next_word_index_noun", "next_word_index_adjective"]
