@@ -1,5 +1,5 @@
 from translate import Translate
-from tokenizer import Tokenizer
+from tokenizer import Tokenizer, TokenizerSpacy
 import re
 import time
 import random
@@ -149,9 +149,9 @@ class IpaMatchWordSearcher:
         lang_vowel_matched = ""
         word_vowel_matched_pos = ""
         print(LOG_INFO_DEBUG + LOG_INFO_DEBUG_CLASS_NAME + f"{search_lang_li}")
-        for i in search_lang_li:
-            print(LOG_INFO_DEBUG + LOG_INFO_DEBUG_CLASS_NAME + f"探索言語：{i}")
-            ipa_li = self.lang_to_ipa_li_for_search[i]
+        for lang in search_lang_li:
+            print(LOG_INFO_DEBUG + LOG_INFO_DEBUG_CLASS_NAME + f"探索言語：{lang}")
+            ipa_li = self.lang_to_ipa_li_for_search[lang]
             for line in ipa_li:
                 # line[0]:単語 line[1]:IPA
 
@@ -170,7 +170,7 @@ class IpaMatchWordSearcher:
                 if self.format_for_is_ipa_rhyme(ipa_vowel)[-N_MATCH:] == self.format_for_is_ipa_rhyme(ipa_vowel_in_line)[-N_MATCH:] and len(ipa_vowel) == len(ipa_vowel_in_line):
                     print(ipa_vowel[-N_MATCH:], ipa_vowel_in_line[-N_MATCH:])
                     word_vowel_matched = line[0]
-                    lang_vowel_matched = i
+                    lang_vowel_matched = lang
 
                     """
                     マッチング済み単語の翻訳処理
@@ -181,7 +181,10 @@ class IpaMatchWordSearcher:
                     マッチング済み単語の品詞推定処理
                     """
                     if word_en_vowel_matched != "":
-                        word_vowel_matched_pos = Tokenizer().fetch_target_pos(word=word_en_vowel_matched)
+                        # word_vowel_matched_pos = Tokenizer().fetch_target_pos(word=word_en_vowel_matched)
+                        #spacyによる品詞推定
+                        word_vowel_matched_pos = TokenizerSpacy().fetch_target_pos(word=word_vowel_matched, word_en=word_en_vowel_matched, lang=lang_vowel_matched)
+
 
                     if word_vowel_matched_pos != "":
                         print(LOG_INFO_DEBUG + LOG_INFO_DEBUG_CLASS_NAME + "Found the word matched IPA vowel")

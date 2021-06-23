@@ -1,6 +1,6 @@
 from nltk import tokenize
 from adjective_noun_pair import AdjectiveNounPairSelector
-from tokenizer import Tokenizer
+from tokenizer import Tokenizer, TokenizerSpacy
 from translate import Translate
 from ipa_match_word_searcher import IpaMatchWordSearcher
 import random
@@ -25,7 +25,7 @@ def main():
     # IPA変換→マッチング処理のインスタンス化
     ipa_converter = IpaMatchWordSearcher()
     # トークナイザーのインスタンス化
-    tokenize = Tokenizer()
+    tokenize = TokenizerSpacy()
 
     random_words = RandomWords()
 
@@ -104,7 +104,7 @@ def main():
 
 
     print(LOG_INFO_DEBUG + "start writing output to csv")
-    f = open('../output/' + str(datetime.datetime.now().time()) + '.csv', 'w')
+    f = open('../output/spacy' + str(datetime.datetime.now().time()) + '.csv', 'w')
     write = csv.writer(f)
     write.writerows(output)
     print(LOG_INFO_DEBUG + f"finish writing output to csv/ {len(output)}")
