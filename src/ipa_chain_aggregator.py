@@ -69,6 +69,7 @@ def ipa_chain_aggregator():
     print(len(df_concat[~df_concat.duplicated()]))
     df_concat_d = df_concat[~df_concat.duplicated()]
     df_concat_d_r = df_concat_d.reset_index(drop=True)
+    print(df_concat_d_r.groupby('word_pos').size())
 
 
 
@@ -88,7 +89,6 @@ def ipa_chain_aggregator():
         for j, row_j in df_concat_d_r.iterrows():
             if row_j.word == query_word or row_j.word_lang == query_lang:
                 continue
-
             if(row_j.word_ipa_edited_vowel[-N_MATCH:] == query_ipa_vowel):
                 if(row_j.word_pos == "verb"):
                     next_word_index_verb.append(str(j))

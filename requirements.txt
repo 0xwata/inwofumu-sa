@@ -7,3 +7,5 @@ chromedriver-binary==90.0.4430.24.0
 random-word
 wonderwords
 pandas
+spacy
+numpy
