@@ -63,6 +63,7 @@ class TokenizerSpacy():
                 return ""
             target_word = word_en
         doc = nlp(target_word)
+        pos_spcy = ""
         for tok in doc:
             if tok.pos == ADJ:
                 pos_spcy = "adjective"

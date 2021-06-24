@@ -30,14 +30,16 @@ def main():
     random_words = RandomWords()
 
     for i in range(N):
-        request_word = random_words.get_random_word(hasDictionaryDef="true", includePartOfSpeech="noun, adjective, verb", maxLength=N_MATCH_MAX)
-        if request_word is None:
-            continue
+        random_word_pos = ""
+        while random_word_pos == "" or random_word_pos == "noun":
+            request_word = random_words.get_random_word(hasDictionaryDef="true", includePartOfSpeech="adjective,verb", maxLength=N_MATCH_MAX)
+            if request_word is None:
+                continue
+            random_word_pos = tokenize.fetch_target_pos(word=request_word, word_en=request_word, lang="en")
+
         print(request_word)
-        request_word_pos = tokenize.fetch_target_pos(request_word)
         print(LOG_INFO_DEBUG + "request word selected!!!!")
         print(LOG_INFO_DEBUG + "request_word:" + request_word)
-        print(LOG_INFO_DEBUG + "request_word_pos:" + request_word_pos)
 
         langs = ['ja', 'en', 'de', 'id', 'zh-cn', 'ko', 'eo', 'es', 'ro']
         index = list(range(7))
@@ -51,6 +53,11 @@ def main():
             request_word_lang = langs[index[j]]
             request_word_translated = translate.translate_by_language(word=request_word,lang=request_word_lang)
             print(LOG_INFO_DEBUG + f"finish translating request adjective word = {request_word_translated}, lang = {request_word_lang}")
+
+            # create request_word_pos
+            request_word_pos = tokenize.fetch_target_pos(word=request_word_translated, word_en=request_word, lang=request_word_lang)
+            if request_word_pos == "" or request_word_pos == "noun":
+                continue
 
             """
             IPA変換→マッチング処理
@@ -104,7 +111,7 @@ def main():
 
 
     print(LOG_INFO_DEBUG + "start writing output to csv")
-    f = open('../output/spacy' + str(datetime.datetime.now().time()) + '.csv', 'w')
+    f = open('../output/spacy/' + str(datetime.datetime.now().time()) + '.csv', 'w')
     write = csv.writer(f)
     write.writerows(output)
     print(LOG_INFO_DEBUG + f"finish writing output to csv/ {len(output)}")
