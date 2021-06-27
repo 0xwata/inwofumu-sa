@@ -22,7 +22,7 @@ response_column_rename_dict = {
 }
 
 def create_df():
-    files = glob.glob("../output/spacy/*.csv")
+    files = glob.glob("../output/spacy_match-word-augumentation/*.csv")
     for i, file in enumerate(files):
         if i == 0:
             df = pd.read_csv(file, sep=',')
