@@ -111,7 +111,7 @@ def main():
 
 
     print(LOG_INFO_DEBUG + "start writing output to csv")
-    f = open('../output/spacy/' + str(datetime.datetime.now().time()) + '.csv', 'w')
+    f = open('../output/spacy_match-word-augumentation/' + str(datetime.datetime.now().time()) + '.csv', 'w')
     write = csv.writer(f)
     write.writerows(output)
     print(LOG_INFO_DEBUG + f"finish writing output to csv/ {len(output)}")
