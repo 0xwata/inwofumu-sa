@@ -37,6 +37,8 @@ CONSONENTS = CONSONANT_PLOSIVE_UNVOICED + CONSONANT_PLOSIVE_VOICED + \
              CONSONANT_IMPLOSIVE + CONSONANT_FRICATIVE_UNVOICED + CONSONANT_FRICATIVE_VOICED + \
              CONSONANT_NASAL + CONSONANT_LATERAL_APPPROACH_SOUND + CONSONANT_CENTER_APPROXIMATION_SOUND
 
+N_MATCH = 3
+
 def create_df():
     files = glob.glob("../output/spacy_match-word-augumentation/*.csv")
     for i, file in enumerate(files):
@@ -108,7 +110,7 @@ def main():
         response_ipa_new_format = create_new_format(response_ipa)
 
         screaning_flg = 0
-        if request_ipa_new_format == response_ipa_new_format:
+        if request_ipa_new_format[-N_MATCH:] == response_ipa_new_format[-N_MATCH:]:
             screaning_flg = 1
 
         screaning_flgs.append(screaning_flg)
