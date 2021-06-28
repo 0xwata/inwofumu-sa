@@ -1,0 +1,107 @@
+request_word,request_lang,request_pos,request_ipa,request_ipa_formatted,request_word_en,response_word,response_lang,response_pos,response_ipa,response_ipa_formatted,response_word_en
+lezat,id,adjective,/ləzat/,ləβɶp,delicious,bewarb,de,verb,/bəˈvaɾp/,bəβɶp,applied
+yummy,en,adjective,/ˈjəmi/,əmy,yummy,任意,zh-cn,noun,/ʐən˥˩ i˥˩/,əmy,Arbitrary
+rubel,en,verb,/ˈɹubəɫ/,ubə,rubel,gubă,ro,noun,/ɡubə/,ubə,Guba
+tampaknya,id,verb,/tampaʔɲa/,pɶmpɶbmɶ,Apparently,samsigna,eo,noun,/samsigna/,ϕɶmϕybmɶ,Samsigna
+scheint,de,verb,/ˈʃaent/,ɶømp,seems,benchi,ro,verb,/benkʲ̩ʲ/,bømp,Benchi
+诽谤,zh-cn,verb,/feɪ˨˩˦ pɑŋ˥˩/,ϕøʏpɒm,defamation,abkam,de,verb,/ˈʔapˌkɑːm/,bɶppɒm,drop off
+얇은,ko,verb,/ja̠ɭbɯn/,ɶbum,thin,abun,id,verb,/abun/,ɶbum,Abun
+pedagang,id,verb,/pədagaŋ/,pəbɶbɶm,Traders,abrudan,ro,adjective,/abrudan/,ɶbrubɶm,abrudan
+fegen,de,verb,/ˈfeːgən/,ϕøbəm,sweep,adan,en,noun,/ˈeɪdən/,øʏbəm,adan
+sweep,en,verb,/ˈswip/,ϕryp,sweep,arici,ro,adjective,/aritʃʲ/,ɶryp,hedgehog
+掃く,ja,verb,/hakɯ/,rɶpu,Sweep,baciu,ro,noun,/batʃ̩u/,bɶpu,Baciu
+menyapu,id,verb,/məɲapu/,məmɶpu,Sweep,방아풀,ko,noun,/pa̠ŋa̠pʰuɭ/,pɶmɶpu,Blood
+token,en,adjective,/ˈtoʊkən/,poʊpəm,token,刨根,zh-cn,noun,/pʰɑʊ˧˥ kən˥˥/,pɒʊpəm,Planing root
+kribrilo,eo,adjective,/kribrilo/,prybrylo,sieve,ventrilog,ro,noun,/ventriloɡ/,βømprylo,ventriloquist
+saringan,id,adjective,/sariŋan/,ϕɶrymɶm,filter,agarinean,ro,adjective,/aɡarinĕan/,ɶɶrymɶm,Agararean
+체,ko,adjective,/t͡ɕʰe̞/,pϕø,sieve,Zeh,de,noun,/tseː/,pϕø,toe
+heulen,de,verb,/ˈhɔølən/,rɔøləm,howl,apelăm,ro,verb,/apeləm/,ɶpøləm,appeal
+튀김,ko,verb,/tʰɥiɡim/,pyym,fried food,knieriem,en,adjective,/ˈniˌɹim/,myym,knieriem
+edify,en,verb,/ˈɛdəˌfaɪ/,œbəϕɶʏ,edify,一而再,zh-cn,noun,/i˥˩ aɻ˧˥ tsaɪ˥˩/,yɶpϕɶʏ,Again
+erbauen,de,verb,/ʔɛːɐˈbaoən/,bœɐbɶoəm,build,乏善可陈,zh-cn,noun,/fa˧˥ ʂan˥˩ kʰɤ˨˩˦ ʈʂʰən˧˥/,ϕɶɶmpoəm,Lack
+暮らす,ja,verb,/kɯɾasɯ/,puɶϕu,live,aguazur,es,adjective,/aɣwaθuɾ/,ɶrɶϕu,Aguazur.
+틈,ko,adjective,/tʰɯm/,pum,aperture,Tun,de,verb,/tuːn/,pum,To do
+verlassen,de,verb,/fɛɐ̯ˈlasən/,ϕœɐlɶϕəm,leave,înghețăm,ro,adjective,/ɨngʲ̩etsəm/,ʉmbøpϕəm,freeze
+离开,zh-cn,verb,/li˧˥ kʰaɪ˥˥/,lypɶʏ,go away,Abtei,de,noun,/apˈtaɪ̯/,ɶppɶʏ,abbey
+떠나다,ko,verb,/t͈ʌ̹na̠da̠/,pɔmɶbɶ,leave,domaĝa,eo,adjective,/domad͡ʒa/,bomɶbɶ,sorry
+meninggalkan,id,verb,/məniŋgalkan/,məmymbɶlpɶm,leave,ciclopentan,ro,adjective,/tʃiklopentan/,pyplopømpɶm,cyclopentan
+众所周知,zh-cn,verb,/ʈʂʊŋ˥˩ suɔ˨˩˦ ʈʂoʊ˥˥ ʈʂɚ˥˥/,ʊmϕuɔoʊ,Well-known,castoro,en,noun,/kɑˈstɔɹoʊ/,pɒϕpɔoʊ,castoro
+known,en,verb,/ˈnoʊn/,moʊm,known,Bohrung,de,noun,/ˈboːʀʊŋ/,boʊm,drilling
+停止,zh-cn,verb,/tʰɪŋ˧˥ ʈʂɚ˨˩˦/,pʏm,Stop,chin,en,noun,/ˈtʃɪn/,pʏm,chin
+멈추다,ko,verb,/mʌ̹mt͡ɕʰuda̠/,mɔmpϕubɶ,Stop,altfluga,eo,noun,/altfluga/,ɶlpϕlubɶ,high-speed
+penjara,id,verb,/pəndʒara/,pəmbɶrɶ,jail,barbara,eo,noun,/barbara/,bɶrbɶrɶ,Barbara
+감옥,ko,verb,/ka̠mo̞k̚/,pɶmop,prison,pinot,ro,noun,/pinot/,pymop,Pinot
+높은,ko,adjective,/no̞pʰɯn/,mopum,High,Backhuhn,de,noun,/ˈbakun/,bɶpum,Baking chicken
+tinggi,id,adjective,/tiŋgi/,pymby,high,Bambi,de,noun,/ˈbambi/,bɶmby,Bambi
+ketangkasan,id,verb,/kətaŋkasan/,pəpɶmpɶϕɶm,dexterity,가공망상,ko,noun,/ka̠ɡo̞ŋma̠ŋsʰa̠ŋ/,pɶommɶmϕɶm,Processing network
+기교,ko,verb,/kiɡjo/,pyo,artifice,crío,es,noun,/ˈkɾio/,pyo,child
+menanamkan,id,verb,/mənanamkan/,məmɶmɶmpɶm,instill,가락지빵,ko,noun,/ka̠ɾa̠k̚t͡ɕ͈ip͈a̠ŋ/,pɶɶppϕypɶm,Rock
+einbetten,de,verb,/ˈaɪ̯nˌbɛtən/,ɶʏmbœpəm,embed,implicăm,ro,verb,/implikəm/,ymplypəm,involved
+팁,ko,verb,/tʰip̚/,pyp,tip,ĉit,eo,noun,/t͡ʃit/,pyp,cum
+eingeschüchtert,de,verb,/ʔaengəˈʃʏçtɛɾt/,bɶømbəʏpœp,intimidated,diagnostek,en,noun,/ˌdaɪəɡˈnɑstɛk/,bɶʏəmɒϕpœp,diagnostek
+ching,en,verb,/ˈtʃɪŋ/,pʏm,ching,Kinn,de,noun,/kɪn/,pʏm,chin
+sling,en,verb,/ˈsɫɪŋ/,ϕʏm,sling,fing,de,verb,/ˈfɪŋ/,ϕʏm,fingering
+자리,ko,adjective,/t͡ɕa̠ɾi/,pϕɶy,Seat,あさひ,ja,noun,/asaçi/,ɶϕɶy,Asahi
+widen,en,verb,/ˈwaɪdən/,rɶʏbəm,widen,ahnden,de,verb,/ˈʔɑndən/,bɒmbəm,punish
+넓히다,ko,verb,/nʌ̹ɭpʰida̠/,mɔpybɶ,widen,acida,eo,adjective,/at͡sida/,ɶpϕybɶ,sour
+扩大,zh-cn,verb,/kʰuɔ˥˩ ta˥˩/,puɔpɶ,expand,멀겋다,ko,noun,/mʌ̹ɭɡʌ̹tʰa̠/,mɔɔpɶ,Mulberry
+rebab,id,adjective,/rəbab/,rəbɶb,fiddle,nabab,ro,adjective,/nabab/,mɶbɶb,nabob
+bubur,id,adjective,/bubur/,bubur,porridge,chiabur,ro,noun,/kʲ̩̩abur/,pɶbur,kulak
+mooty,en,adjective,/ˈmuti/,mupy,mooty,aŭti,eo,noun,/auti/,ɶupy,Touch
+마법사,ko,verb,/ma̠bʌ̹ps͈a̠/,mɶbɔpϕɶ,Wizard,anunța,ro,noun,/anuntsa/,ɶmumpϕɶ,announce
+bonny,en,adjective,/ˈbɑni/,bɒmy,bonny,两翼,zh-cn,noun,/ljɑŋ˨˩˦ i˥˩/,lɒmy,Two wings
+montok,id,adjective,/montoʔ/,mompob,plump,cestod,ro,noun,/tʃestod/,pøϕpob,cestode
+uncut,en,adjective,/ˌənˈkət/,əmpəp,uncut,antep,id,verb,/antəp/,ɶmpəp,Antep
+seeks,en,verb,/ˈsiks/,ϕypϕ,seeks,Diebs,de,noun,/ˈdiːps/,bypϕ,Thief
+sucht,de,verb,/ˈzʊxt/,βʊϕp,search for,augspurger,en,noun,/ˈaʊɡspɝɡɝ/,ɶʊϕp,augspurger
+탐색,ko,verb,/tʰa̠msʰɛ̝k̚/,pɶmϕœp,quest,abfährt,de,verb,/ˈʔapˌfɛɾt/,bɶpϕœp,leaving
+辩,zh-cn,verb,/pjɛn˥˩/,pœm,debate,cairn,en,adjective,/ˈkɛɹn/,pœm,cairn
+svingi,eo,verb,/svingi/,ϕβymby,swing,Burundi,de,noun,/ˈbuːɾʊndi/,buʊmby,Burundi
+tyger,en,adjective,/ˈtaɪɡɝ/,pɶʏ,tyger,丐,zh-cn,noun,/kaɪ˥˩/,pɶʏ,beggar
+塞,zh-cn,verb,/saɪ˥˥/,ϕɶʏ,Plug,cy,en,noun,/ˈsaɪ/,ϕɶʏ,cy
+penjara,id,verb,/pəndʒara/,pəmbɶrɶ,jail,acatarra,es,noun,/akatara/,ɶpɶpɶrɶ,ACCATRATE.
+감옥,ko,verb,/ka̠mo̞k̚/,pɶmop,prison,pinot,ro,noun,/pinot/,pymop,Pinot
+방패,ko,verb,/pa̠ŋpʰɛ̝/,pɶmpœ,shield,名帖,zh-cn,noun,/mɪŋ˧˥ tʰjɛ˥˩/,mʏmpœ,Famous post
+산란,ko,adjective,/sʰa̠ɭɭa̠n/,ϕɶɶm,spawning,baian,ro,noun,/bajan/,bɶɶm,Baiana
+sanca,id,adjective,/santʃa/,ϕɶmpɶ,Sanca,传达,zh-cn,verb,/ʈʂʰwan˧˥ ta˧˥/,rɶmpɶ,convey
+扎根,zh-cn,verb,/ʈʂa˥˥ kən˥˥/,ɶpəm,Root,jucăm,ro,verb,/ʒukəm/,upəm,play
+tepat,id,adjective,/təpat/,pəpɶp,right,ajutat,ro,verb,/aʒutat/,ɶupɶp,helped
+ranks,en,verb,/ˈɹæŋks/,æmpϕ,ranks,janț,ro,noun,/ʒants/,ɶmpϕ,rim
+stecken,de,verb,/ˈʃtɛkən/,pœpəm,stuck,actin,en,noun,/ˈæktən/,æppəm,actin
+sucht,de,verb,/ˈzʊxt/,βʊϕp,search for,augspurger,en,noun,/ˈaʊɡspɝɡɝ/,ɶʊϕp,augspurger
+탐색,ko,verb,/tʰa̠msʰɛ̝k̚/,pɶmϕœp,quest,anisette,en,noun,/ˌænəˈsɛt/,æməϕœp,anisette
+seeks,en,verb,/ˈsiks/,ϕypϕ,seeks,bits,es,noun,/bits/,bypϕ,bits
+辩,zh-cn,verb,/pjɛn˥˩/,pœm,debate,Björn,de,noun,/ˈpjœɾn/,pœm,Björn
+tuko,eo,verb,/tuko/,pupo,towel,Tutor,de,noun,/ˈtuːtoɾ/,pupo,tutor
+수건,ko,verb,/sʰuɡʌ̹n/,ϕuɔm,Towel,dulong,en,noun,/ˈdjuɫɔŋ/,buɔm,dulong
+handuk,id,verb,/handuʔ/,rɶmbub,towel,danjub,en,noun,/ˈdændʒub/,bæmbub,danjub
+stimuliert,de,verb,/ʃtimuˈliːɾt/,pymulyp,stimulated,가톨릭,ko,adjective,/ka̠tʰo̞ɭʎik̚/,pɶpolyp,Catholic
+paced,en,verb,/ˈpeɪst/,pøʏϕp,paced,Christ,de,noun,/kʁɪst/,pβʏϕp,Christian
+진행하다,ko,verb,/t͡ɕinɦɛ̝ŋɦa̠da̠/,pϕymœmɶbɶ,Progress,bertenaga,id,adjective,/bərtənaga/,bərpəmɶbɶ,Powerful
+热门,zh-cn,verb,/ʐɤ˥˩ mən˧˥/,oməm,Popular,gähnen,de,verb,/ˈɡeːnən/,øməm,yawning
+hoten,en,verb,/ˈhoʊtən/,roʊpəm,hoten,Äbten,de,noun,/ˈʔɛptən/,bœppəm,Otive
+holten,de,verb,/ˈhɔltən/,rɔlpəm,pick up,abston,en,noun,/ˈæbstən/,æbϕpəm,abston
+降低,zh-cn,verb,/tɕjɑŋ˥˩ ti˥˥/,pϕɒmpy,reduce,asentí,es,verb,/asenˈti/,ɶϕømpy,nod
+menurunkan,id,adjective,/mənurunkan/,məmurumpɶm,Lowering,abastezcan,es,verb,/aβasteθkan/,ɶβɶϕpøϕpɶm,They supply
+mengisi,id,verb,/məŋisi/,məmyϕy,fill,聚乙烯,zh-cn,noun,/tɕy˥˩ i˨˩˦ ɕi˥˥/,pϕyyϕy,Polyethylene
+füllen,de,verb,/ˈfʏlən/,ϕʏləm,to fill,dalem,id,noun,/daləm/,bɶləm,Dalem.
+venal,en,adjective,/ˈvinəɫ/,βymə,venal,chingă,ro,adjective,/kʲ̩inɡə/,pymə,strap
+미소,ko,verb,/misʰo̞/,myϕo,smile,きしょー,ja,noun,/kiɕoː/,pyϕo,Contributionsover
+rideto,eo,verb,/rideto/,rybøpo,smile,advierto,es,adjective,/aðβjeɾto/,ɶββøpo,I warn
+smile,en,verb,/ˈsmaɪɫ/,ϕmɶʏ,smile,出卖,zh-cn,verb,/ʈʂʰu˥˥ maɪ˥˩/,umɶʏ,sell
+tersenyum,id,verb,/tərsəɲum/,pərϕəmum,smile,게르마늄,ko,noun,/ke̞ɾɯma̠ɲjum/,pøumɶmum,germanium
+kembu,id,adjective,/kəmbu/,pəmbu,creel,Hindu,de,noun,/ˈhɪnˌdu/,rʏmbu,Hindu
+답장,ko,verb,/ta̠p̚t͡ɕ͈a̠ŋ/,pɶppϕɶm,reply,abolsan,es,verb,/aβolsan/,ɶβolϕɶm,abolsan.
+嘘をつく,ja,verb,/ɯsootsɯkɯ/,uϕoopϕupu,lie,含辛茹苦,zh-cn,verb,/xan˧˥ ɕɪn˥˥ ʐu˧˥ kʰu˨˩˦/,ϕɶmϕʏmupu,Complimentary
+knarren,de,verb,/ˈknaɾɾən/,pmɶəm,creak,华人,zh-cn,noun,/xwa˧˥ ʐən˧˥/,ϕrɶəm,Chinese
+berderak,id,verb,/bərdəraʔ/,bərbərɶb,creaking,centigrad,ro,noun,/tʃentiɡrad/,pømpyrɶb,centigrade
+creak,en,verb,/ˈkɹik/,pyp,creak,Kit,de,noun,/ˈkiːt/,pyp,Kit
+아프리카,ko,adjective,/a̠pʰɯɾikʰa̠/,ɶpuypɶ,Africa,abdica,es,adjective,/aβðika/,ɶββypɶ,abdication
+hefty,en,adjective,/ˈhɛfti/,rœϕpy,hefty,gusti,id,noun,/gusti/,buϕpy,Gusti.
+무거운,ko,adjective,/muɡʌ̹un/,muɔum,heavy,storeroom,en,noun,/ˈstɔɹˌɹum/,ϕpɔum,storeroom
+抛弃,zh-cn,verb,/pʰɑʊ˥˥ tɕʰi˥˩/,pɒʊpϕy,abandon,adopsi,id,noun,/adopsi/,ɶbopϕy,adoption
+상점,ko,verb,/sʰa̠ŋd͡ʑʌ̹m/,ϕɶmbβɔm,shop,monzon,en,verb,/moʊnˈzɔn/,moʊmβɔm,monzon
+采纳,zh-cn,verb,/tsʰaɪ˨˩˦ na˥˩/,pϕɶʏmɶ,adoption,Seminar,de,noun,/ˈzəmɪnaɽ/,βəmʏmɶ,seminar
+mengambil,id,verb,/məŋambil/,məmɶmbyl,take,Vestibül,de,noun,/ˈvɛstibyl/,βœϕpybyl,vestibule
+adoptieren,de,verb,/ʔɑdɔpˈtiːɾen/,bɒbɔppyøm,to adopt,acuantíen,es,verb,/akwanˈtien/,ɶprɶmpyøm,Aquantíen.
+채택하다,ko,verb,/t͡ɕʰɛ̝tʰɛ̝kʰa̠da̠/,pϕœpœpɶbɶ,choose,だから何だ,ja,noun,/dakaɾanaɴda/,bɶpɶɶmɶbɶ,So what is
