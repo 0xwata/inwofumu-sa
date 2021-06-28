@@ -51,7 +51,12 @@ def create_df():
         df = pd.concat([df, df_tmp])
     print(f"len(df)={len(df)}")
 
-    return df
+    df_d = df[~df.duplicated()]
+    df_d_r = df_d.reset_index(drop=True)
+    print(len(df))
+    print(len(df_d_r))
+
+    return df_d_r
 
 
 def map_consonents(char: character) -> character:
@@ -96,13 +101,14 @@ def create_new_format(ipa_word: str) -> str:
 
 def main():
     df = create_df()
+   
     df.to_csv("../output/spacy_match-word-augumentation/all_before_screaning.csv")
 
 
     screaning_flgs = []
     request_ipa_new_formats = []
     response_ipa_new_formats = []
-    for index, row in df.iterrows():
+    for _, row in df.iterrows():
         request_ipa = row.request_ipa
         response_ipa = row.response_ipa
 
