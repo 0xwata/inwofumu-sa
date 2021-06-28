@@ -77,7 +77,7 @@ def create_new_format(ipa_word: str) -> str:
     for index, char in enumerate(ipa_word):
         if char in VOWELS:
             if char in SIMILAR_VOWEL_DICT.keys(): #similar_vowel_groupは辞書型
-                ipa_formatted  = SIMILAR_VOWEL_DICT[char]
+                ipa_formatted  += SIMILAR_VOWEL_DICT[char]
                 continue
             ipa_formatted += char
             continue
