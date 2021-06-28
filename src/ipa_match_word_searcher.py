@@ -35,19 +35,11 @@ import random
 LOG_INFO_DEBUG = "LOG/DEBUG: "
 LOG_INFO_DEBUG_CLASS_NAME = "CLASS: IpaMatchWordSearcher "
 
-
 BASE_URL = "../data/ipa-dict/data/"
 
-# https://www.ipachart.com/
-# 上記のvowelを採用する
-# 鼻音も追加
-# https://ekimeihyo.net/o/ipa.html
-# TODO: 鼻音も考慮に入れるので、名前を変えたいお気持ち
-VOWELS_LI = ["i", "y", "ɨ", "ʉ", "ɯ", "u", "ɪ", "ʏ", "ʊ", "e", "ø", "ɘ", "ɵ", "ɤ", "o", "ə", "ɛ", "œ", "ɜ", "ɞ", "ʌ", "ɔ",
-          "æ", "ɐ", "a", "ɶ", "ɑ", "ɒ", "p", "t", "č", "č", "k", "q", "b", "d", "ǰ", "ɟ", "g", "G", "ʔ", "ɓ", "ɗ", "ɠ",
-          "ϕ", "f", "θ", "s", "š", "ɕ", "x", "χ", "ħ", "β", "v", "ð", "z", "ž", "ʑ", "γ", "ʁ", "ʕ", "m", "ɱ", "n", "ň",
-          "ɲ", "ŋ", "N", "l", "Ǐ", "ʎ", "r", "w", "h"]
-VOWELS = ''.join(VOWELS_LI)
+# 識別対象の母音
+VOWELS = ["i", "y", "ɨ", "ʉ", "ɯ", "u", "ɪ", "ʏ", "ʊ", "e", "ø", "ɘ", "ɵ", "ɤ", "o", "ə", "ɛ", "œ", "ɜ", "ɞ", "ʌ", "ɔ", "æ"
+                "ɐ", "a", "ɶ", "ɑ", "ɒ", "ɚ", "ɑ˞", "ɔ˞"]
 
 # 似ているアクセントに変換する辞書
 SIMILAR_VOWEL_DICT = {
@@ -60,19 +52,28 @@ SIMILAR_VOWEL_DICT = {
     "ɛ": "œ",
     "ɜ": "ɞ",
     "ʌ": "ɔ",
+    "ɔ˞.": "ɔ",
     "a": "ɶ",
-    "ɑ": "ɒ"
+    "ɒ": "ɑ",
+    "ɑ˞": "ɑ",
+    "ɚ": "ə",
 }
 
-
 CONSONANT_PLOSIVE_UNVOICED = ["p", "t", "č", "č", "k", "q"] # -> p
-CONSONANT_PLOSIVE_VOICED = ["b", "d", "ǰ", "ɟ", "g", "G", "ʔ"] # -> b
+CONSONANT_PLOSIVE_VOICED = ["b", "d", "ǰ", "ɟ", "g", "ɡ", "G", "ʔ"] # -> b
 CONSONANT_IMPLOSIVE = ["ɓ", "ɗ", "ɠ"] # -> ɓ
 CONSONANT_FRICATIVE_UNVOICED = ["ϕ", "f", "θ", "s", "š", "ɕ", "x", "χ", "ħ"] # -> ϕ
 CONSONANT_FRICATIVE_VOICED = ["β", "v", "ð", "z", "ž", "ʑ", "γ", "ʁ", "ʕ"] # -> β
 CONSONANT_NASAL = ["m", "ɱ", "n", "ň", "ɲ", "ŋ", "N"] # -> m
 CONSONANT_LATERAL_APPPROACH_SOUND = ["l", "Ǐ", "ʎ"] # -> l
 CONSONANT_CENTER_APPROXIMATION_SOUND =  ["r", "w", "h"] # -> r
+
+CONSONENTS = CONSONANT_PLOSIVE_UNVOICED + CONSONANT_PLOSIVE_VOICED + \
+             CONSONANT_IMPLOSIVE + CONSONANT_FRICATIVE_UNVOICED + CONSONANT_FRICATIVE_VOICED + \
+             CONSONANT_NASAL + CONSONANT_LATERAL_APPPROACH_SOUND + CONSONANT_CENTER_APPROXIMATION_SOUND
+
+VOWELS_CONSONENTS = VOWELS + CONSONENTS
+VOWELS_CONSONENTS_STRING = ''.join(VOWELS_CONSONENTS)
 
 LANGS_FOR_SEARCH = ['ja', 'en', 'de', 'id', 'zh-cn', 'ko', 'eo', 'es', 'ro']
 
@@ -131,16 +132,16 @@ class IpaMatchWordSearcher:
         if request_ipa == "":
             return {"word_vowel_matched": "", "lang_vowel_matched": "", "word_vowel_matched_pos": ""}
         # IPAの中から、母音の部分を抜き出す
-        ipa_vowel = self.convert_to_vowel(ipa=request_ipa)
-        if len(ipa_vowel) < N_MATCH:
+        ipa_vowel_consonents_for_rhyme = convert_to_target_vowels_consonents_for_rhyme(ipa=request_ipa)
+        if len(ipa_vowel_consonents_for_rhyme) < N_MATCH:
             return {"word_vowel_matched": "", "lang_vowel_matched": "", "word_vowel_matched_pos": ""}
 
         # 母音で合致する単語を返す
-        response_dict = self.search(lang=lang, ipa_vowel=ipa_vowel)
+        response_dict = self.search(lang=lang, ipa_vowel_consonents_for_rhyme=ipa_vowel_consonents_for_rhyme)
         return response_dict
 
 
-    def search(self, lang: str, ipa_vowel: str) -> dict:
+    def search(self, lang: str, ipa_vowel_consonents_for_rhyme: str) -> dict:
         """[summary]
 
         Args:
@@ -171,15 +172,16 @@ class IpaMatchWordSearcher:
                 # 改行を削除
                 ipa_in_line = ipa_in_line.replace("\n", "")
 
-                ipa_vowel_in_line = self.convert_to_vowel(ipa_in_line)
+                ipa_vowel_consonents_for_rhyme_in_line = convert_to_target_vowels_consonents_for_rhyme(ipa_in_line)
 
                 # 末尾 N_MATCH(=3)文字が一致するかどうかをチェック
-                if len(ipa_vowel) < N_MATCH or len(ipa_vowel_in_line) < N_MATCH:
+                if len(ipa_vowel_consonents_for_rhyme) < N_MATCH or len(ipa_vowel_consonents_for_rhyme_in_line) < N_MATCH:
                     continue
 
                 # 整形済みのipa_vowelとipa_vowel_in_lineが一致 && シラブルが一致
-                if self.format_for_is_ipa_rhyme(ipa_vowel)[-N_MATCH:] == self.format_for_is_ipa_rhyme(ipa_vowel_in_line)[-N_MATCH:] and len(ipa_vowel) == len(ipa_vowel_in_line):
-                    print(ipa_vowel[-N_MATCH:], ipa_vowel_in_line[-N_MATCH:])
+                if (new_format_for_is_ipa_rhyme(ipa_vowel_consonents_for_rhyme)[-N_MATCH:] == new_format_for_is_ipa_rhyme(ipa_vowel_consonents_for_rhyme_in_line)[-N_MATCH:]
+                    and len(ipa_vowel_consonents_for_rhyme) == len(ipa_vowel_consonents_for_rhyme_in_line) ):
+                    print(ipa_vowel_consonents_for_rhyme[-N_MATCH:], ipa_vowel_consonents_for_rhyme_in_line[-N_MATCH:])
                     word_vowel_matched = line[0]
                     lang_vowel_matched = lang
 
@@ -192,7 +194,6 @@ class IpaMatchWordSearcher:
                     マッチング済み単語の品詞推定処理
                     """
                     if word_en_vowel_matched != "":
-                        # word_vowel_matched_pos = Tokenizer().fetch_target_pos(word=word_en_vowel_matched)
                         #spacyによる品詞推定
                         word_vowel_matched_pos = TokenizerSpacy().fetch_target_pos(word=word_vowel_matched, word_en=word_en_vowel_matched, lang=lang_vowel_matched)
 
@@ -210,70 +211,6 @@ class IpaMatchWordSearcher:
         return {"word_vowel_matched": word_vowel_matched, "lang_vowel_matched": lang_vowel_matched, "word_vowel_matched_pos": word_vowel_matched_pos}
 
 
-    def format_for_is_ipa_rhyme(self, vowel_and_nasal:str) -> str:
-        """[summary]
-        IPAの一致を測るためだけに整形する文字列を作成する
-        """
-        formatted_string = ""
-        for char in vowel_and_nasal:
-            # 類似のIPAは片方に変換する
-            if char in SIMILAR_VOWEL_DICT.keys():
-                formatted_string += SIMILAR_VOWEL_DICT[char]
-                continue
-
-            # 閉鎖音（無声）のグルーピング
-            if char in CONSONANT_PLOSIVE_UNVOICED:
-                formatted_string += "p"
-                continue
-
-            # 閉鎖音（有声）のグルーピング
-            if char in CONSONANT_PLOSIVE_VOICED:
-                formatted_string += "b"
-                continue
-
-            # 入破音のグルーピング
-            if char in CONSONANT_IMPLOSIVE:
-                formatted_string += "ɓ"
-                continue
-
-            # 摩擦音（無声）のグルーピング
-            if char in CONSONANT_FRICATIVE_UNVOICED:
-                formatted_string += "ϕ"
-                continue
-
-            # 摩擦音（有声)のグルーピング
-            if char in CONSONANT_FRICATIVE_VOICED:
-                formatted_string += "β"
-                continue
-
-            # 鼻音のグルーピング
-            if char in CONSONANT_NASAL:
-                formatted_string += "m"
-                continue
-
-            # 側面接近音のグルーピング
-            if char in CONSONANT_LATERAL_APPPROACH_SOUND:
-                formatted_string += "l"
-                continue
-
-            # 中央接近音のグルーピング
-            if char in CONSONANT_CENTER_APPROXIMATION_SOUND:
-                formatted_string += "r"
-                continue
-
-            formatted_string += char
-        return formatted_string
-
-    def convert_to_vowel(self, ipa:str ) -> str:
-        """[summary]
-        Args:
-            ipa (str): 例：/ˌkɔɹəˈspɑndənt/（corespondentのIPA)。複数のIPAは返って来ない仕様（今のところ）
-
-        Returns:
-            str: 入力したipaの母音を抽出し、連結し、文字列で返却 例：'ɔəɑə'
-        """
-        return ''.join(re.findall('[' + VOWELS + ']+', ipa))
-
     def convert_to_ipa(self, lang: str, word: str) -> str:
         ipa_li_target_lang = self.lang_to_ipa_li_for_search[lang]
         ipa = ""
@@ -288,3 +225,53 @@ class IpaMatchWordSearcher:
         # 改行を削除
         ipa = ipa.replace("\n", "")
         return ipa
+
+def convert_to_target_vowels_consonents_for_rhyme(ipa:str ) -> str:
+    """[summary]
+    Args:
+        ipa (str): 例：/ˌkɔɹəˈspɑndənt/（corespondentのIPA)。複数のIPAは返って来ない仕様（今のところ）
+
+    Returns:
+        str: 入力したipaの母音を抽出し、連結し、文字列で返却 例：'ɔəɑə'
+    """
+    return ''.join(re.findall('[' + VOWELS_CONSONENTS_STRING + ']+', ipa))
+
+def new_format_for_is_ipa_rhyme(ipa_word: str) -> str:
+    ipa_formatted = ""
+    for index, char in enumerate(ipa_word):
+        if char in VOWELS:
+            if char in SIMILAR_VOWEL_DICT.keys(): #similar_vowel_groupは辞書型
+                ipa_formatted  += SIMILAR_VOWEL_DICT[char]
+                continue
+            ipa_formatted += char
+            continue
+        ## 以下、子音記号の抽出
+        if char in CONSONENTS:
+            try:
+                next_char = ipa_word[index+1]
+                if next_char not in VOWELS:
+                    ipa_formatted += map_consonents(char)
+            #indexが最後の時も追加する
+            except IndexError:
+                ipa_formatted += map_consonents(char)
+    return ipa_formatted
+
+def map_consonents(char):
+    result = ""
+    if char in CONSONANT_PLOSIVE_UNVOICED:
+        result = "p"
+    if char in CONSONANT_PLOSIVE_VOICED:
+        result = "b"
+    if char in CONSONANT_IMPLOSIVE:
+        result = "ɓ"
+    if char in CONSONANT_FRICATIVE_UNVOICED:
+        result = "ϕ"
+    if char in CONSONANT_FRICATIVE_VOICED:
+        result = "β"
+    if char in CONSONANT_NASAL:
+        result = "m"
+    if char in CONSONANT_LATERAL_APPPROACH_SOUND:
+        result = "l"
+    if char in CONSONANT_CENTER_APPROXIMATION_SOUND:
+        result = "r"
+    return result
