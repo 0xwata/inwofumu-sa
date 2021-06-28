@@ -1,0 +1,1092 @@
+,word,collocation_id,collocation_word,collocation_relation
+0,blue,3095817,blue eye,N:mod:A
+1,blue,3095818,blue sky,N:nn:N
+2,blue,3095819,blue water,N:mod:A
+3,blue,3095820,pale blue,N:mod:A
+4,blue,3095821,navy blue,N:nn:N
+5,blue,3095822,deep blue,N:mod:A
+6,blue,3095823,blue light,N:mod:A
+7,blue,3095824,light blue,N:mod:A
+8,blue,3095825,blue of the sky,N:prep:N
+9,blue,3095826,blue coat,N:mod:A
+10,blue,3095827,blue shirt,N:mod:A
+11,blue,3095828,shade of blue,N:prep:N
+12,blue,3095829,blue sea,N:mod:A
+13,blue,3095830,blue uniform,N:mod:A
+14,blue,3095831,blue background,N:mod:A
+15,blue,3095832,blue smoke,N:mod:A
+16,blue,3095833,sky blue,N:nn:N
+17,blue,3095834,blue jacket,N:mod:A
+18,blue,3095835,blue moon,N:nn:N
+19,blue,3095836,little blue,A:mod:A
+20,blue,3095837,blue stripe,N:mod:A
+21,blue,3095838,blue flame,N:mod:A
+22,blue,3095839,blue dress,N:mod:A
+23,blue,3095840,blue book,N:nn:N
+24,blue,3095841,bright blue,N:mod:A
+25,blue,3095842,blue musician,N:nn:N
+26,blue,3095843,blue singer,N:nn:N
+27,blue,3095844,blue flower,N:mod:A
+28,blue,3095845,blue line,N:mod:A
+29,blue,3095846,to wear blue,V:obj:N
+30,blue,3095847,blue bird,N:nn:N
+31,blue,3095848,blue color,N:mod:A
+32,blue,3095849,blue line,N:nn:N
+33,blue,3095850,blue plaque,N:mod:A
+34,blue,3095851,blue silk,N:mod:A
+35,blue,3095852,blue band,N:nn:N
+36,blue,3095853,blue suit,N:mod:A
+37,blue,3095854,blue note,N:nn:N
+38,blue,3095855,blue guitarist,N:nn:N
+39,blue,3095856,blue jacket,N:nn:N
+40,blue,3095857,blue cloth,N:mod:A
+41,blue,3095858,blue flag,N:nn:N
+42,blue,3095859,blue music,N:nn:N
+43,blue,3095860,blue haze,N:mod:A
+44,blue,3095861,blue serge,N:mod:A
+45,blue,3095862,blue angel,N:nn:N
+46,blue,3095863,blue blouse,N:mod:A
+47,blue,3095864,blue mountain,N:nn:N
+48,blue,3095865,blue sky,N:mod:A
+49,blue,3095866,blue jersey,N:mod:A
+50,blue,3095867,blue hill,N:mod:A
+51,blue,3095868,to turn blue,V:obj:N
+52,blue,3095869,rhapsody in blue,N:prep:N
+53,blue,3095870,blue blood,N:nn:N
+54,blue,3095871,blue heaven,N:mod:A
+55,blue,3095872,bolt from the blue,N:prep:N
+56,blue,3095873,blue trouser,N:mod:A
+57,blue,3095874,blue mountain,N:mod:A
+58,blue,3095875,blue gown,N:mod:A
+59,blue,3095876,blue song,N:nn:N
+60,blue,3095877,blue colour,N:mod:A
+61,blue,3095878,blue butterfly,N:mod:A
+62,blue,3095879,long blue,A:mod:A
+63,blue,3095880,blue star,N:nn:N
+64,blue,3095881,blue velvet,N:mod:A
+65,blue,3095882,blue stone,N:nn:N
+66,blue,3095883,blue brother,N:nn:N
+67,blue,3095884,house of blue,N:prep:N
+68,blue,3095885,blue bomber,N:nn:N
+69,blue,3095886,blue cult,N:mod:A
+70,blue,3095887,blue as the sky,N:prep:N
+71,blue,3095888,blue paper,N:mod:A
+72,blue,3095889,clear blue,N:mod:A
+73,blue,3095890,painted blue,N:mod:A
+74,blue,3095891,blue pencil,N:mod:A
+75,blue,3095892,sky of blue,N:prep:N
+76,blue,3095893,blue vein,N:mod:A
+77,blue,3095894,blue sash,N:mod:A
+78,blue,3095895,blue stocking,N:mod:A
+79,blue,3095896,blue cloak,N:mod:A
+80,blue,3095897,blue frock,N:mod:A
+81,blue,3095898,blue colour,V:subj:N
+82,blue,3095899,blue overall,N:mod:A
+83,blue,3095900,blue cheese,N:nn:N
+84,blue,3095901,blue artist,N:nn:N
+85,blue,3095902,baby blue,N:nn:N
+86,blue,3095903,man in blue,N:prep:N
+87,blue,3095904,blue satin,N:mod:A
+88,blue,3095905,boy in blue,N:prep:N
+89,blue,3095906,blue envelope,N:mod:A
+90,blue,3095907,eye of blue,N:prep:N
+91,blue,3095908,blue lotus,N:nn:N
+92,blue,3095909,blue represent,V:subj:N
+93,blue,3095910,blue livery,N:mod:A
+94,blue,3095911,blue skirt,N:mod:A
+95,blue,3095912,blue lake,N:mod:A
+96,blue,3095913,blue glass,N:mod:A
+97,blue,3095914,blue chip,N:nn:N
+98,blue,3095915,blue shadow,N:mod:A
+99,blue,3095916,blue traveler,N:nn:N
+100,blue,3095917,general in blue,N:prep:N
+101,blue,3095918,blue ones,N:mod:A
+102,blue,3095919,blue bead,N:mod:A
+103,blue,3095920,blue apron,N:mod:A
+104,blue,3095921,brilliant blue,N:mod:A
+105,blue,3095922,blue diamond,N:mod:A
+106,blue,3095923,azure blue,N:mod:A
+107,blue,3095924,blue cap,N:mod:A
+108,blue,3095925,patch of blue,N:prep:N
+109,blue,3095926,blue bonnet,N:mod:A
+110,blue,3095927,blue field,N:mod:A
+111,blue,3095928,pretty blue,A:mod:A
+112,blue,3095929,delta blue,N:nn:N
+113,blue,3095930,blue album,N:nn:N
+114,blue,3095931,rear admiral of the blue,N:prep:N
+115,blue,3095932,to dress in blue,V:prep:N
+116,blue,3095933,turquoise blue,N:nn:N
+117,blue,3095934,blue bull,N:nn:N
+118,blue,3095935,intense blue,N:mod:A
+119,blue,3095936,blue ocean,N:mod:A
+120,blue,3095937,blue of eye,N:prep:N
+121,blue,3095938,electric blue,N:mod:A
+122,blue,3095939,blue law,N:nn:N
+123,blue,3095940,cloudless blue,N:mod:A
+124,blue,3095941,dark blue,N:mod:A
+125,blue,3095942,colour blue,N:nn:N
+126,blue,3095943,vivid blue,N:mod:A
+127,blue,3095945,blue spectacle,N:mod:A
+128,blue,3095944,blue festival,N:nn:N
+129,blue,3095946,blue collar,N:mod:A
+130,blue,3095947,blue box,N:mod:A
+131,blue,3095948,blue robe,N:mod:A
+132,blue,3095949,eye blue,N:nn:N
+133,blue,3095950,indigo blue,N:nn:N
+134,blue,3095951,blue room,N:nn:N
+135,blue,3095952,soft blue,N:mod:A
+136,blue,3095953,boy blue,N:nn:N
+137,blue,3095954,blue tint,N:mod:A
+138,blue,3095955,blue clay,N:mod:A
+139,blue,3095956,blue short,N:mod:A
+140,blue,3095957,to change to blue,V:prep:N
+141,blue,3095958,blue sock,N:mod:A
+142,blue,3095959,blue handkerchief,N:mod:A
+143,blue,3095960,color blue,N:mod:A
+144,blue,3095962,blue violet,N:mod:A
+145,blue,3095961,blue in color,N:prep:N
+146,blue,3095963,blue fox,N:nn:N
+147,blue,3095964,blue cloud,N:mod:A
+148,blue,3095965,blue raider,N:nn:N
+149,blue,3095966,blue mist,N:mod:A
+150,blue,3095967,true blue,N:mod:A
+151,blue,3095968,blue tunic,N:mod:A
+152,blue,3095969,sapphire blue,N:nn:N
+153,blue,3095970,to paint in blue,V:prep:N
+154,blue,3095971,blue heron,N:mod:A
+155,blue,3095972,blue feather,N:mod:A
+156,blue,3095973,blue bird,N:mod:A
+157,blue,3095974,blue riband,N:mod:A
+158,blue,3095975,blue dome,N:mod:A
+159,blue,3095976,blue curtain,N:mod:A
+160,blue,3095978,metallic blue,N:mod:A
+161,blue,3095977,blue roan,N:mod:A
+162,blue,3095979,pure blue,N:mod:A
+163,blue,3095980,to get blue,V:obj:N
+164,blue,3095981,blue ink,N:mod:A
+165,blue,3095982,hard blue,A:mod:A
+166,blue,3095983,blue network,N:nn:N
+167,blue,3095984,blue tile,N:mod:A
+168,blue,3095985,blue wave,N:mod:A
+169,blue,3095986,blue in the face,N:prep:N
+170,blue,3095987,blue forget-me-not,N:mod:A
+171,blue,3095988,blue depth,N:mod:A
+172,blue,3095989,admiral of the blue,N:prep:N
+173,blue,3095990,blue style,N:nn:N
+174,blue,3095991,cornflower blue,N:nn:N
+175,blue,3095992,blue of sky,N:prep:N
+176,blue,3095993,blue bell,N:nn:N
+177,blue,3095995,blue with cold,N:prep:N
+178,blue,3095994,color blue,N:nn:N
+179,blue,3095996,blue room,N:mod:A
+180,blue,3095997,blue dragon,N:mod:A
+181,blue,3095998,red blue,N:nn:N
+182,blue,3095999,blue enamel,N:mod:A
+183,blue,3096000,blue band,N:mod:A
+184,blue,3096001,dull blue,N:mod:A
+185,blue,3096002,blue player,N:nn:N
+186,blue,3096003,blue frock coat,N:mod:A
+187,blue,3096004,blue streak,N:mod:A
+188,blue,3096005,blue team,N:nn:N
+189,blue,3096007,blue veil,N:mod:A
+190,blue,3096006,blue expanse,N:mod:A
+191,blue,3096008,blue scarf,N:mod:A
+192,blue,3096009,blue egg,N:mod:A
+193,blue,3096010,blue team,N:mod:A
+194,blue,3096011,blue in colour,N:prep:N
+195,blue,3096012,blue mediterranean,N:mod:A
+196,blue,3096013,blue vinyl,N:mod:A
+197,blue,3096014,blue ice,N:mod:A
+198,blue,3096015,eye as blue,N:prep:N
+199,blue,3096019,blue spot,N:mod:A
+200,blue,3096018,blue ensign,N:mod:A
+201,blue,3096017,beautiful blue,N:mod:A
+202,blue,3096016,blue pigment,N:mod:A
+203,blue,3096020,blue shark,N:nn:N
+204,blue,3096021,blue pill,N:mod:A
+205,blue,3096022,color of blue,N:prep:N
+206,blue,3096023,blue one,N:mod:A
+207,blue,3096024,blue eyes,N:mod:A
+208,blue,3096025,blue distance,N:mod:A
+209,blue,3096027,to clothe in blue,V:prep:N
+210,blue,3096026,midnight blue,N:nn:N
+211,blue,3096028,blue bland,N:nn:N
+212,blue,3096030,blue wave,V:subj:N
+213,blue,3096029,to include blue,V:obj:N
+214,blue,3096032,vice admiral of the blue,N:prep:N
+215,blue,3096031,blue vault of heaven,N:mod:A
+216,blue,3096033,to paint blue,V:obj:N
+217,blue,3096034,blue hat,N:mod:A
+218,blue,3096035,blue rock,N:nn:N
+219,blue,3096038,bar blue,N:nn:N
+220,blue,3096037,blue steel,N:mod:A
+221,blue,3096036,blue strip,V:subj:N
+222,blue,3096039,iridescent blue,N:mod:A
+223,blue,3096040,blue horizon,N:mod:A
+224,blue,3096041,blue sapphire,N:mod:A
+225,blue,3096042,blue pant,N:mod:A
+226,blue,3096043,jump blue,N:nn:N
+227,blue,3096044,chicago blue,N:nn:N
+228,blue,3096046,blue blazer,N:mod:A
+229,blue,3096045,blue shield,N:mod:A
+230,blue,3096047,little boy blue,N:nn:N
+231,blue,3096048,blue hall of fame,N:nn:N
+232,blue,3096049,heavenly blue,N:mod:A
+233,blue,3096051,blue overcoat,N:mod:A
+234,blue,3096050,blue grass,N:nn:N
+235,blue,3096052,blue orb,N:mod:A
+236,blue,3096053,intensely blue,A:mod:A
+237,blue,3096054,blue grass,N:mod:A
+238,blue,3096056,to use blue,V:obj:N
+239,blue,3096055,rich blue,N:mod:A
+240,blue,3096057,to play blue,V:obj:N
+241,blue,3096058,blue patch,N:mod:A
+242,blue,3096059,blue denim,N:mod:A
+243,blue,3096060,blue screen,N:mod:A
+244,blue,3096061,black gives way to blue,N:prep:N
+245,blue,3096062,blue gingham,N:mod:A
+246,blue,3096063,blue print,V:subj:N
+247,blue,3096065,columbia blue,N:nn:N
+248,blue,3096064,blue planet,N:nn:N
+249,blue,3096067,stripe of blue,N:prep:N
+250,blue,3096066,to show blue,V:obj:N
+251,blue,3096068,to light blue,V:obj:N
+252,blue,3096069,blue mantle,N:mod:A
+253,blue,3096070,blue cross,N:nn:N
+254,blue,3096072,blue smock,N:mod:A
+255,blue,3096071,blue card,N:mod:A
+256,blue,3096073,to change from blue,V:prep:N
+257,blue,3096074,eye of the blue,N:prep:N
+258,blue,3096075,light blue,N:nn:N
+259,blue,3096076,something blue,N:nn:N
+260,blue,3096078,blue circle,N:mod:A
+261,blue,3096077,blue dressing gown,N:mod:A
+262,blue,3096079,blue murder,N:nn:N
+263,blue,3096080,blue beret,N:mod:A
+264,blue,3096081,blue blue,N:mod:A
+265,blue,3096083,blue cotton,N:mod:A
+266,blue,3096082,blue necktie,N:mod:A
+267,blue,3096084,to become blue,V:obj:N
+268,blue,3096085,blue symbolize,V:subj:N
+269,blue,3096086,faint blue,N:mod:A
+270,blue,3096088,to sing blue,V:obj:N
+271,blue,3096087,blue skin,N:mod:A
+272,blue,3096089,blue hawaii,N:nn:N
+273,blue,3096091,blue monday,N:mod:A
+274,blue,3096090,blue crystal,N:mod:A
+275,blue,3096092,field of blue,N:prep:N
+276,blue,3096093,blue lip,N:mod:A
+277,blue,3096096,delicate blue,N:mod:A
+278,blue,3096095,blue of the sea,N:prep:N
+279,blue,3096094,blue sweater,N:mod:A
+280,blue,3096097,mixture of blue,N:prep:N
+281,blue,3096098,blue of the heaven,N:prep:N
+282,blue,3096100,blue color,V:subj:N
+283,blue,3096099,blue scene,N:nn:N
+284,blue,3096102,blue pianist,N:nn:N
+285,blue,3096101,blue triangle,N:mod:A
+286,blue,3096103,blue ether,N:mod:A
+287,blue,3096106,steely blue,N:mod:A
+288,blue,3096105,blue with stripe,N:prep:N
+289,blue,3096104,blue recording,N:nn:N
+290,blue,3096107,fit of the blue,N:prep:N
+291,blue,3096109,blue vault,N:mod:A
+292,blue,3096108,blue family,N:nn:N
+293,blue,3096111,blue rose,N:mod:A
+294,blue,3096110,blue earth,N:nn:N
+295,blue,3096112,grayish blue,N:mod:A
+296,blue,3096114,misty blue,N:mod:A
+297,blue,3096113,blue print,N:mod:A
+298,blue,3096115,blue car,N:mod:A
+299,blue,3096116,blue jumper,N:mod:A
+300,blue,3096117,blue cape,N:mod:A
+301,blue,3096118,blue standard,N:nn:N
+302,blue,3096120,blue of heaven,N:prep:N
+303,blue,3096119,girl in blue,N:prep:N
+304,blue,3096121,violet blue,N:nn:N
+305,blue,3096122,ocean blue,N:nn:N
+306,blue,3096123,uniform of blue,N:prep:N
+307,blue,3096124,blue diamond,N:nn:N
+308,blue,3096125,to win blue,V:obj:N
+309,blue,3096126,to burn blue,V:obj:N
+310,blue,3096127,to come out of blue,V:prep:N
+311,blue,3096129,green to blue,N:prep:N
+312,blue,3096128,dazzling blue,N:mod:A
+313,blue,3096130,blue guitar,N:nn:N
+314,blue,3096131,blue flannel,N:mod:A
+315,blue,3096132,blue gentian,N:mod:A
+316,blue,3096133,blue taj mahal,N:nn:N
+317,blue,3096134,blue robert johnson,N:nn:N
+318,blue,3096135,evans blue,N:nn:N
+319,blue,3096136,blue sleeve,N:mod:A
+320,blue,3096138,blue iris,N:mod:A
+321,blue,3096137,blue fade,V:subj:N
+322,blue,3096139,suit of blue,N:prep:N
+323,blue,3096140,blue cornflower,N:mod:A
+324,blue,3096141,robe of blue,N:prep:N
+325,blue,3096143,pacific blue,N:nn:N
+326,blue,3096142,blue enamel,V:subj:N
+327,blue,3096145,to have blue,V:obj:N
+328,blue,3096144,blue linen,N:mod:A
+329,blue,3096146,blue ridge,N:mod:A
+330,blue,3096147,blue indicate,V:subj:N
+331,blue,3096149,red to blue,N:prep:N
+332,blue,3096148,blue crew,N:nn:N
+333,blue,3096150,blue supergiant,N:mod:A
+334,blue,3096151,to play in blue,V:prep:N
+335,blue,3096153,bit of blue,N:prep:N
+336,blue,3096152,blue performer,N:nn:N
+337,blue,3096154,colour of blue,N:prep:N
+338,blue,3096155,blue muslin,N:mod:A
+339,blue,3096157,so blue,A:mod:A
+340,blue,3096156,blue club,N:nn:N
+341,blue,3096158,blue hair,N:mod:A
+342,blue,3096159,blue worker,N:mod:A
+343,blue,3096160,blue win,V:subj:N
+344,blue,3096161,blue dye,N:mod:A
+345,blue,3096162,to stain blue,V:obj:N
+346,blue,3096164,blue banner,N:mod:A
+347,blue,3096163,blue vase,N:mod:A
+348,blue,3096165,blue become,V:subj:N
+349,blue,3096166,to blue sea,V:obj:N
+350,blue,3096167,kindly blue,A:mod:A
+351,blue,3096168,blue as indigo,N:prep:N
+352,blue,3096171,blue ball,N:mod:A
+353,blue,3096170,kind of blue,N:prep:N
+354,blue,3096169,lovely blue,N:mod:A
+355,blue,3096173,blue coloration,N:mod:A
+356,blue,3096172,blue blaze,N:mod:A
+357,blue,3096176,blue cat,N:nn:N
+358,blue,3096175,blue bowl,N:mod:A
+359,blue,3096174,blue ribband,N:mod:A
+360,blue,3096178,blue wrapper,N:mod:A
+361,blue,3096177,blue lightning,N:mod:A
+362,blue,3096179,blue bag,N:mod:A
+363,blue,3096180,blue ground,N:mod:A
+364,blue,3096182,blue firmament,N:mod:A
+365,blue,3096181,blue domino,N:mod:A
+366,blue,3096183,traditional blue,N:mod:A
+367,blue,3096185,tint of blue,N:prep:N
+368,blue,3096184,to play for blue,V:prep:N
+369,blue,3096186,blue fire,N:mod:A
+370,blue,3096187,lip blue,N:nn:N
+371,blue,3096188,blue flame,N:nn:N
+372,blue,3096189,blue ribbon,N:mod:A
+373,blue,3096191,lady in blue,N:prep:N
+374,blue,3096190,tender blue,N:mod:A
+375,blue,3096193,blue eagle,N:mod:A
+376,blue,3096192,blue shoe,N:mod:A
+377,blue,3096194,blue shade,N:mod:A
+378,blue,3096195,blue wreath,N:mod:A
+379,blue,3096197,blue river,N:mod:A
+380,blue,3096196,blue boy,N:nn:N
+381,blue,3096200,blue hue,N:mod:A
+382,blue,3096199,encyclopedia of the blue,N:prep:N
+383,blue,3096198,to see blue,V:obj:N
+384,blue,3096201,blue bay,N:mod:A
+385,blue,3096202,blue harp,N:nn:N
+386,blue,3096203,blue to red,N:prep:N
+387,blue,3096204,blue laser,N:mod:A
+388,blue,3096205,blue light,N:nn:N
+389,blue,3096206,band of blue,N:prep:N
+390,blue,3096207,blue belt,N:mod:A
+391,blue,3096209,blue ring,N:mod:A
+392,blue,3096208,blue logo,N:mod:A
+393,blue,3096210,blue umbrella,N:mod:A
+394,blue,3096211,blue slipper,N:mod:A
+395,blue,3096212,blue china,N:mod:A
+396,blue,3096214,blue tie,N:mod:A
+397,blue,3096213,expanse of blue,N:prep:N
+398,blue,3096215,blue with smoke,N:prep:N
+399,blue,3096217,blue tinge,N:mod:A
+400,blue,3096216,blue in the night,N:prep:N
+401,blue,3096218,dusky blue,N:mod:A
+402,blue,3096219,blue helmet,N:mod:A
+403,blue,3096222,blue hole,N:nn:N
+404,blue,3096221,blue blanket,N:mod:A
+405,blue,3096220,guide to the blue,N:prep:N
+406,blue,3096223,blue overhead,N:mod:A
+407,blue,3096224,blue calico,N:mod:A
+408,blue,3096226,celestial blue,N:mod:A
+409,blue,3096225,line of blue,N:prep:N
+410,blue,3096227,to shine blue,V:obj:N
+411,blue,3096228,blue canopy,N:mod:A
+412,blue,3096231,little blue,N:mod:A
+413,blue,3096230,blue army,N:nn:N
+414,blue,3096229,blue paint,N:mod:A
+415,blue,3096233,blue paint,V:subj:N
+416,blue,3096232,transparent blue,N:mod:A
+417,blue,3096234,blue button,N:mod:A
+418,blue,3096235,blue glow,N:mod:A
+419,blue,3096237,to repaint in blue,V:prep:N
+420,blue,3096236,depth of blue,N:prep:N
+421,blue,3096239,big book of blue,N:prep:N
+422,blue,3096238,blue with the cold,N:prep:N
+423,blue,3096241,blue trim,V:subj:N
+424,blue,3096240,blue bottle,N:mod:A
+425,blue,3096243,blue bow,N:mod:A
+426,blue,3096242,blue to purple,N:prep:N
+427,blue,3096244,electra glide in blue,N:prep:N
+428,blue,3096246,steel blue,N:nn:N
+429,blue,3096245,to ting with blue,V:prep:N
+430,blue,3096248,blue steel,N:nn:N
+431,blue,3096247,album blue,N:nn:N
+432,blue,3096250,color from blue,N:prep:N
+433,blue,3096249,ribbon of blue,N:prep:N
+434,blue,3096251,blue plate,N:mod:A
+435,blue,3096252,pretty blue,N:mod:A
+436,blue,3096255,blue kerchief,N:mod:A
+437,blue,3096254,blue brick,N:mod:A
+438,blue,3096253,blue cushion,N:mod:A
+439,blue,3096256,roomful of blue,N:prep:N
+440,blue,3096257,blue thread,N:mod:A
+441,blue,3096258,figure in blue,N:prep:N
+442,blue,3096259,blue train,N:nn:N
+443,blue,3096260,blue waistcoat,N:mod:A
+444,blue,3096262,blue morocco,N:mod:A
+445,blue,3096261,blue b. b. king,N:nn:N
+446,blue,3096263,blue t-shirt,N:mod:A
+447,blue,3096266,gown of blue,N:prep:N
+448,blue,3096265,combination of blue,N:prep:N
+449,blue,3096264,blue lagoon,N:mod:A
+450,blue,3096267,to feel blue,V:obj:N
+451,blue,3096271,blue finish,V:subj:N
+452,blue,3096270,blue predominate,V:subj:N
+453,blue,3096269,turn blue,N:nn:N
+454,blue,3096268,blue peterels,N:mod:A
+455,blue,3096273,blue polo shirt,N:mod:A
+456,blue,3096272,cold blue,N:mod:A
+457,blue,3096275,blue dye,V:subj:N
+458,blue,3096274,blue ray,N:mod:A
+459,blue,3096276,blue brocade,N:mod:A
+460,blue,3096278,blue broadcloth,N:mod:A
+461,blue,3096277,blue goggles,N:mod:A
+462,blue,3096279,blue carpet,N:mod:A
+463,blue,3096280,egyptian blue,N:mod:A
+464,blue,3096282,blue list,N:nn:N
+465,blue,3096281,blue wool,N:mod:A
+466,blue,3096286,blue dot,N:mod:A
+467,blue,3096285,blue lettering,N:mod:A
+468,blue,3096284,slate blue,N:nn:N
+469,blue,3096283,blue progression,N:nn:N
+470,blue,3096289,blue ball,N:nn:N
+471,blue,3096288,blue stain,V:subj:N
+472,blue,3096287,blue drapery,N:mod:A
+473,blue,3096290,to dye blue,V:obj:N
+474,blue,3096291,background of blue,N:prep:N
+475,blue,3096293,blue mesa,N:nn:N
+476,blue,3096292,blue disease,N:nn:N
+477,blue,3096294,to give me blue,V:obj1+2:N
+478,blue,3096297,very blue,A:mod:A
+479,blue,3096296,to highlight in blue,V:prep:N
+480,blue,3096295,blue wing,N:nn:N
+481,blue,3096298,to melt into blue,V:prep:N
+482,blue,3096302,blue leds,N:mod:A
+483,blue,3096301,blue asbestos,N:mod:A
+484,blue,3096300,silvery blue,N:mod:A
+485,blue,3096299,vault of blue,N:prep:N
+486,blue,3096304,blue kimono,N:mod:A
+487,blue,3096303,blue dusk,N:mod:A
+488,blue,3096305,blue petticoat,N:mod:A
+489,blue,3096306,blue pinafore,N:mod:A
+490,blue,3096307,blue hyacinth,N:mod:A
+491,blue,3096308,blue hood,N:mod:A
+492,blue,3096310,blue lily,N:mod:A
+493,blue,3096309,blue cockade,N:mod:A
+494,blue,3096311,hazy blue,N:mod:A
+495,blue,3096313,to color blue,V:obj:N
+496,blue,3096312,blue wall,N:mod:A
+497,blue,3096314,limpid blue,N:mod:A
+498,blue,3096317,blue pajama,N:mod:A
+499,blue,3096316,blue harmonica,N:nn:N
+500,blue,3096315,shade of the blue,N:prep:N
+501,blue,3096318,blue pigeon,N:mod:A
+502,blue,3096320,blue daffodil,N:mod:A
+503,blue,3096319,blue arch,N:mod:A
+504,blue,3096321,translucent blue,N:mod:A
+505,blue,3096322,blue marble,N:mod:A
+506,blue,3096325,to trim with blue,V:prep:N
+507,blue,3096324,blue green,N:mod:A
+508,blue,3096323,blue eye,V:subj:N
+509,blue,3096328,streak of blue,N:prep:N
+510,blue,3096327,medium blue,N:mod:A
+511,blue,3096326,ethereal blue,N:mod:A
+512,blue,3096329,sea of blue,N:prep:N
+513,blue,3096335,tone of blue,N:prep:N
+514,blue,3096334,to award he blue,V:obj1+2:N
+515,blue,3096333,blue with the stripe,N:prep:N
+516,blue,3096332,blue sun,N:mod:A
+517,blue,3096331,blue as sapphire,N:prep:N
+518,blue,3096330,distinctive blue,N:mod:A
+519,blue,3096336,blue heart,N:nn:N
+520,blue,3096337,blue rectangle,N:mod:A
+521,blue,3096339,blue wing,N:mod:A
+522,blue,3096338,blue larkspur,N:mod:A
+523,blue,3096340,to flash blue,V:obj:N
+524,blue,3096344,blue influence,N:nn:N
+525,blue,3096343,blue garment,N:mod:A
+526,blue,3096342,tinge of blue,N:prep:N
+527,blue,3096341,blue tune,N:nn:N
+528,blue,3096345,blue sunbonnet,N:mod:A
+529,blue,3096348,code blue,N:nn:N
+530,blue,3096347,dark blue,N:nn:N
+531,blue,3096346,dome of blue,N:prep:N
+532,blue,3096353,blue cambric,N:mod:A
+533,blue,3096352,blue costume,N:mod:A
+534,blue,3096351,blue as eye,N:prep:N
+535,blue,3096350,blue rug,N:mod:A
+536,blue,3096349,blend of blue,N:prep:N
+537,blue,3096356,blue plumage,N:mod:A
+538,blue,3096355,to change color to blue,V:obj+prep:N
+539,blue,3096354,blue rosette,N:mod:A
+540,blue,3096358,blue in the distance,N:prep:N
+541,blue,3096357,blue of the horizon,N:prep:N
+542,blue,3096359,to give blue,V:obj:N
+543,blue,3096360,sky of the blue,N:prep:N
+544,blue,3096362,blue damask,N:mod:A
+545,blue,3096361,blue turban,N:mod:A
+546,blue,3096363,blue ballad,N:nn:N
+547,blue,3096366,wonderful blue,N:mod:A
+548,blue,3096365,blue house,N:nn:N
+549,blue,3096364,blue blaze,V:subj:N
+550,blue,3096368,blue spot,V:subj:N
+551,blue,3096367,blue canvas,N:mod:A
+552,blue,3096369,blue king crab,N:mod:A
+553,blue,3096370,blue nun,N:nn:N
+554,blue,3096373,blue van,N:mod:A
+555,blue,3096372,to produce blue,V:obj:N
+556,blue,3096371,soldier in blue,N:prep:N
+557,blue,3096375,definitive guide to the blue,N:prep:N
+558,blue,3096374,horizon blue,N:nn:N
+559,blue,3096377,blue dungaree,N:mod:A
+560,blue,3096376,to cover with blue,V:prep:N
+561,blue,3096378,blue classic,N:nn:N
+562,blue,3096380,blue scale,N:nn:N
+563,blue,3096379,yellow blue,N:mod:A
+564,blue,3096381,blue eye,N:nn:N
+565,blue,3096384,han blue,N:nn:N
+566,blue,3096383,blue revival,N:nn:N
+567,blue,3096382,solid blue,N:mod:A
+568,blue,3096387,dress of blue,N:prep:N
+569,blue,3096386,blue on blue,N:prep:N
+570,blue,3096385,blue allude to,V:subj:N
+571,blue,3096390,blue breech,N:mod:A
+572,blue,3096389,pair of blue,N:prep:N
+573,blue,3096388,blue beard,N:mod:A
+574,blue,3096391,one blue,N:nn:N
+575,blue,3096396,blue kit,N:mod:A
+576,blue,3096395,blue scheme,N:mod:A
+577,blue,3096394,blue flash,V:subj:N
+578,blue,3096393,blue riff,N:nn:N
+579,blue,3096392,blue to black,N:prep:N
+580,blue,3096397,flash of blue,N:prep:N
+581,blue,3096398,blue for infantry,N:prep:N
+582,blue,3096400,china blue,N:nn:N
+583,blue,3096399,blue tights,N:mod:A
+584,blue,3096404,blue appear,V:subj:N
+585,blue,3096403,coat of blue,N:prep:N
+586,blue,3096402,to decorate with blue,V:prep:N
+587,blue,3096401,blue shine,V:subj:N
+588,blue,3096407,blue nose,N:mod:A
+589,blue,3096406,cambridge blue,N:nn:N
+590,blue,3096405,blue mansion,N:nn:N
+591,blue,3096408,white to blue,N:prep:N
+592,blue,3096410,to dress she in blue,V:obj+prep:N
+593,blue,3096409,blue hanging,N:mod:A
+594,blue,3096412,dim blue,N:mod:A
+595,blue,3096411,element of blue,N:prep:N
+596,blue,3096417,sheet of blue,N:prep:N
+597,blue,3096416,greyish blue,N:mod:A
+598,blue,3096415,predominantly blue,A:mod:A
+599,blue,3096414,blue like,V:subj:N
+600,blue,3096413,blue roof,N:mod:A
+601,blue,3096418,touch of blue,N:prep:N
+602,blue,3096420,blue in the sky,N:prep:N
+603,blue,3096419,blue vapour,N:mod:A
+604,blue,3096422,to describe as blue,V:prep:N
+605,blue,3096421,to choose blue,V:obj:N
+606,blue,3096423,diamine blue,N:nn:N
+607,blue,3096427,blue tail,N:mod:A
+608,blue,3096426,blue rose,N:nn:N
+609,blue,3096425,red blue,N:mod:A
+610,blue,3096424,sae blue,N:nn:N
+611,blue,3096432,distant blue,N:mod:A
+612,blue,3096431,blue sheen,N:mod:A
+613,blue,3096430,father of the blue,N:prep:N
+614,blue,3096429,blue marking,N:mod:A
+615,blue,3096428,blue genre,N:nn:N
+616,blue,3096436,blue surtout,N:mod:A
+617,blue,3096435,to repaint into blue,V:prep:N
+618,blue,3096434,strip of blue,N:prep:N
+619,blue,3096433,to consist of blue,V:obj:N
+620,blue,3096440,blue jandek,N:nn:N
+621,blue,3096439,blue streak,V:subj:N
+622,blue,3096438,to award blue,V:obj:N
+623,blue,3096437,blue mark,V:subj:N
+624,blue,3096442,blue wildebeest,N:mod:A
+625,blue,3096441,blue strip,N:mod:A
+626,blue,3096446,blue of the water,N:prep:N
+627,blue,3096445,big blue,N:mod:A
+628,blue,3096444,blue peak,N:mod:A
+629,blue,3096443,blue disc,N:mod:A
+630,blue,3096449,blue bonnet,N:nn:N
+631,blue,3096448,blue agave,N:mod:A
+632,blue,3096447,blue point,N:nn:N
+633,blue,3096453,blue vapor,N:mod:A
+634,blue,3096452,blue vocalist,N:nn:N
+635,blue,3096451,blue grouse,N:mod:A
+636,blue,3096450,blue streamer,N:mod:A
+637,blue,3096455,nypd blue,N:nn:N
+638,blue,3096454,blue explosion,N:nn:N
+639,blue,3096459,livid blue,N:mod:A
+640,blue,3096458,to print in blue,V:prep:N
+641,blue,3096457,sky as blue,N:prep:N
+642,blue,3096456,blue signify,V:subj:N
+643,blue,3096460,blue border,N:mod:A
+644,blue,3096462,blue pantaloon,N:mod:A
+645,blue,3096461,blue space,N:mod:A
+646,blue,3096464,blue rock,V:subj:N
+647,blue,3096463,to range from blue,V:prep:N
+648,blue,3096465,blue bus,N:nn:N
+649,blue,3096472,winsor blue,N:nn:N
+650,blue,3096471,blue bar,N:mod:A
+651,blue,3096470,blue balloon,N:mod:A
+652,blue,3096469,blue dragonfly,N:mod:A
+653,blue,3096468,blue begin,V:subj:N
+654,blue,3096467,blue straggler,N:mod:A
+655,blue,3096466,blue facing,N:mod:A
+656,blue,3096473,to change color from blue,V:obj+prep:N
+657,blue,3096476,blue dress uniform,N:mod:A
+658,blue,3096475,blue bandanna,N:mod:A
+659,blue,3096474,hue of blue,N:prep:N
+660,blue,3096481,blue look,V:subj:N
+661,blue,3096480,blue cross,V:subj:N
+662,blue,3096479,blue pacific,N:mod:A
+663,blue,3096478,blue mare,N:mod:A
+664,blue,3096477,blue fan,N:nn:N
+665,blue,3096486,blue tassel,N:mod:A
+666,blue,3096485,blue tradition,N:nn:N
+667,blue,3096484,blue square,N:mod:A
+668,blue,3096483,arch of blue,N:prep:N
+669,blue,3096482,gleam of blue,N:prep:N
+670,blue,3096488,blue cover,V:subj:N
+671,blue,3096487,luminous blue,N:mod:A
+672,blue,3096493,blue bunting,N:mod:A
+673,blue,3096492,blue letter,N:mod:A
+674,blue,3096491,to refer to as blue,V:prep:N
+675,blue,3096490,blue outline,N:mod:A
+676,blue,3096489,to wear suit of blue,V:obj+prep:N
+677,blue,3096496,blue shouter,N:nn:N
+678,blue,3096495,blue slate,N:mod:A
+679,blue,3096494,young lady in blue,N:prep:N
+680,blue,3096497,to decorate in blue,V:prep:N
+681,blue,3096500,blue as the color,N:prep:N
+682,blue,3096499,blue limestone,N:mod:A
+683,blue,3096498,blue grow,V:subj:N
+684,blue,3096502,blue darkness,N:mod:A
+685,blue,3096501,to wear uniform of blue,V:obj+prep:N
+686,blue,3096508,blue wolf,N:nn:N
+687,blue,3096507,band blue,N:nn:N
+688,blue,3096506,blue with star,N:prep:N
+689,blue,3096505,blue yarn,N:mod:A
+690,blue,3096504,blue abyss,N:mod:A
+691,blue,3096503,blue label,N:nn:N
+692,blue,3096512,mantle of blue,N:prep:N
+693,blue,3096511,blue buddy guy,N:nn:N
+694,blue,3096510,blue bridge,N:nn:N
+695,blue,3096509,to mingle with blue,V:prep:N
+696,blue,3096514,to feature blue,V:obj:N
+697,blue,3096513,blue berry,N:mod:A
+698,blue,3096521,garter blue,N:nn:N
+699,blue,3096520,een blue,N:nn:N
+700,blue,3096519,striped blue,N:mod:A
+701,blue,3096518,to appear in blue,V:prep:N
+702,blue,3096517,blue card,N:nn:N
+703,blue,3096516,mazarine blue,N:nn:N
+704,blue,3096515,stack of blue,N:prep:N
+705,blue,3096524,livery of blue,N:prep:N
+706,blue,3096523,more blue,N:mod:A
+707,blue,3096522,aniline blue,N:nn:N
+708,blue,3096532,blue flash,N:mod:A
+709,blue,3096531,nocturne in blue,N:prep:N
+710,blue,3096530,to line with blue,V:prep:N
+711,blue,3096529,toluidine blue,N:nn:N
+712,blue,3096528,to fade into blue,V:prep:N
+713,blue,3096527,blue spark,N:mod:A
+714,blue,3096526,blue denote,V:subj:N
+715,blue,3096525,blue scholar,N:nn:N
+716,blue,3096534,to gain blue,V:obj:N
+717,blue,3096533,to grow blue,V:obj:N
+718,blue,3096537,blue eliminate,V:subj:N
+719,blue,3096536,blue to violet,N:prep:N
+720,blue,3096535,to vary from blue,V:prep:N
+721,blue,3096540,to show in blue,V:prep:N
+722,blue,3096539,vice of the blue,N:prep:N
+723,blue,3096538,blue foolscap,N:mod:A
+724,blue,3096541,blue leather,N:mod:A
+725,blue,3096542,blue dog,N:nn:N
+726,blue,3096543,blue beat,V:subj:N
+727,blue,3096547,miami blue,N:nn:N
+728,blue,3096546,machinima blue,N:nn:N
+729,blue,3096545,forget-me-not blue,N:nn:N
+730,blue,3096544,blue danube,N:mod:A
+731,blue,3096550,blue wavelength,N:mod:A
+732,blue,3096549,old blue,N:nn:N
+733,blue,3096548,blue falcon,N:mod:A
+734,blue,3096556,robin blue,N:nn:N
+735,blue,3096555,to know as blue,V:prep:N
+736,blue,3096554,blue box,N:nn:N
+737,blue,3096553,boundless blue,N:mod:A
+738,blue,3096552,serene blue,N:mod:A
+739,blue,3096551,blue harebell,N:mod:A
+740,blue,3096558,blue barrel,N:mod:A
+741,blue,3096557,blue cord,N:mod:A
+742,blue,3096563,blue legend,N:nn:N
+743,blue,3096562,blue chalk,N:mod:A
+744,blue,3096561,development of the blue,N:prep:N
+745,blue,3096560,blue taffeta,N:mod:A
+746,blue,3096559,rift of blue,N:prep:N
+747,blue,3096565,piedmont blue,N:nn:N
+748,blue,3096564,blue liquid,N:mod:A
+749,blue,3096568,two-tone blue,N:mod:A
+750,blue,3096567,blue blaze,N:nn:N
+751,blue,3096566,to paint with blue,V:prep:N
+752,blue,3096575,slaty blue,N:mod:A
+753,blue,3096574,cure for the blue,N:prep:N
+754,blue,3096573,velvety blue,N:mod:A
+755,blue,3096572,blue like the sky,N:prep:N
+756,blue,3096571,blue john lee hooker,N:nn:N
+757,blue,3096570,mass of blue,N:prep:N
+758,blue,3096569,blue frit,N:mod:A
+759,blue,3096583,blue grosbeak,N:mod:A
+760,blue,3096582,blue globe,N:mod:A
+761,blue,3096581,blue chiffon,N:mod:A
+762,blue,3096580,to adopt blue,V:obj:N
+763,blue,3096579,blue as blue,N:prep:N
+764,blue,3096578,blue parasol,N:mod:A
+765,blue,3096577,blue bell,N:mod:A
+766,blue,3096576,glow blue,N:nn:N
+767,blue,3096587,classic blue,N:mod:A
+768,blue,3096586,blue tarp,N:mod:A
+769,blue,3096585,blue tiger,N:mod:A
+770,blue,3096584,blue cravat,N:mod:A
+771,blue,3096588,blue gauze,N:mod:A
+772,blue,3096592,blue mud,N:mod:A
+773,blue,3096591,blue ceiling,N:mod:A
+774,blue,3096590,blue dog,N:mod:A
+775,blue,3096589,blue spruce,N:mod:A
+776,blue,3096596,color to blue,N:prep:N
+777,blue,3096595,blue jewel,N:mod:A
+778,blue,3096594,blue play,V:subj:N
+779,blue,3096593,blue to blue,N:prep:N
+780,blue,3096600,blue saltire,N:mod:A
+781,blue,3096599,blue beach,N:nn:N
+782,blue,3096598,blue da ba dee,N:mod:A
+783,blue,3096597,blue muddy waters,N:nn:N
+784,blue,3096604,brilliantly blue,A:mod:A
+785,blue,3096603,blue stuff,N:mod:A
+786,blue,3096602,curtain of blue,N:prep:N
+787,blue,3096601,blue mussel,N:mod:A
+788,blue,3096609,white on blue,N:prep:N
+789,blue,3096608,woman in blue,N:prep:N
+790,blue,3096607,glimpse of blue,N:prep:N
+791,blue,3096606,coomassie blue,N:nn:N
+792,blue,3096605,white with blue,N:prep:N
+793,blue,3096614,blue jumpsuit,N:mod:A
+794,blue,3096613,grey to blue,N:prep:N
+795,blue,3096612,to reflect blue,V:obj:N
+796,blue,3096611,blue fairy,N:mod:A
+797,blue,3096610,to outline against blue,V:prep:N
+798,blue,3096617,blue buffalo,N:nn:N
+799,blue,3096616,blue organdie,N:mod:A
+800,blue,3096615,mountain blue,N:nn:N
+801,blue,3096627,blue screen,N:nn:N
+802,blue,3096626,rhapsody blue,N:nn:N
+803,blue,3096625,blue shawl,N:mod:A
+804,blue,3096624,all blue,A:mod:A
+805,blue,3096623,to turn to blue,V:obj:N
+806,blue,3096622,blue cashmere,N:mod:A
+807,blue,3096621,glorious blue,N:mod:A
+808,blue,3096620,gentleman in blue,N:prep:N
+809,blue,3096619,to colour of blue,V:prep:N
+810,blue,3096618,blue coverlet,N:mod:A
+811,blue,3096638,blue sound,N:nn:N
+812,blue,3096637,to outline in blue,V:prep:N
+813,blue,3096636,blue lighting,N:mod:A
+814,blue,3096635,pink to blue,N:prep:N
+815,blue,3096634,old blue,N:mod:A
+816,blue,3096633,blue check,V:subj:N
+817,blue,3096632,to release blue,V:obj:N
+818,blue,3096631,blue figure,N:mod:A
+819,blue,3096630,blue group,N:nn:N
+820,blue,3096629,green blue,N:mod:A
+821,blue,3096628,blue campanula,N:mod:A
+822,blue,3096644,blue glare,N:mod:A
+823,blue,3096643,forty shades of blue,N:prep:N
+824,blue,3096642,face blue,N:nn:N
+825,blue,3096641,blue with red,N:prep:N
+826,blue,3096640,blue knit,V:subj:N
+827,blue,3096639,blue supercomputer,N:mod:A
+828,blue,3096648,blue greats,N:nn:N
+829,blue,3096647,word for blue,N:prep:N
+830,blue,3096646,far blue,A:mod:A
+831,blue,3096645,mantle blue,N:nn:N
+832,blue,3096652,exquisite blue,N:mod:A
+833,blue,3096651,blue on the background,N:prep:N
+834,blue,3096650,blue dish,N:mod:A
+835,blue,3096649,blue lupine,N:mod:A
+836,blue,3096654,speck in the blue,N:prep:N
+837,blue,3096653,to blue eye,V:obj:N
+838,blue,3096657,blue gem,N:mod:A
+839,blue,3096656,to listen to blue,V:prep:N
+840,blue,3096655,blue led,N:mod:A
+841,blue,3096665,blue of the ocean,N:prep:N
+842,blue,3096664,blue vest,N:mod:A
+843,blue,3096663,blue angelfish,N:mod:A
+844,blue,3096662,veil of blue,N:prep:N
+845,blue,3096661,blue radiance,N:mod:A
+846,blue,3096660,blue hydrangea,N:mod:A
+847,blue,3096659,to replace blue,V:obj:N
+848,blue,3096658,glowing blue,N:mod:A
+849,blue,3096671,texas blue,N:nn:N
+850,blue,3096670,blue teapot,N:mod:A
+851,blue,3096669,speck of blue,N:prep:N
+852,blue,3096668,acoustic blue,N:mod:A
+853,blue,3096667,blue of the eye,N:prep:N
+854,blue,3096666,blue dress-coat,N:mod:A
+855,blue,3096673,mix of blue,N:prep:N
+856,blue,3096672,to bear blue,V:obj:N
+857,blue,3096680,to reflect blue of sky,V:obj+prep:N
+858,blue,3096679,blue silk stocking,N:mod:A
+859,blue,3096678,blue component,N:mod:A
+860,blue,3096677,blue bandana,N:mod:A
+861,blue,3096676,sparkling blue,N:mod:A
+862,blue,3096675,red hot blue,N:nn:N
+863,blue,3096674,blue crush,N:nn:N
+864,blue,3096682,black to blue,N:prep:N
+865,blue,3096681,bonnet of blue,N:prep:N
+866,blue,3096691,blue to rock,N:prep:N
+867,blue,3096690,sugar blue,N:nn:N
+868,blue,3096689,to change colour from blue,V:obj+prep:N
+869,blue,3096688,blue waterlily,N:mod:A
+870,blue,3096687,blue capote,N:mod:A
+871,blue,3096686,blue colour scheme,N:mod:A
+872,blue,3096685,to mix blue,V:obj:N
+873,blue,3096684,blue chart,N:nn:N
+874,blue,3096683,to upholster in blue,V:prep:N
+875,blue,3096697,underglaze blue,N:mod:A
+876,blue,3096696,blue waist,N:mod:A
+877,blue,3096695,to like blue,V:obj:N
+878,blue,3096694,blue venue,N:nn:N
+879,blue,3096693,unclouded blue,N:mod:A
+880,blue,3096692,carolina blue,N:nn:N
+881,blue,3096700,infinite blue,N:mod:A
+882,blue,3096699,blue titmouse,N:mod:A
+883,blue,3096698,blue granite,N:mod:A
+884,blue,3096706,blue circle,V:subj:N
+885,blue,3096705,shirt with blue,N:prep:N
+886,blue,3096704,sash of blue,N:prep:N
+887,blue,3096703,to wear dress of blue,V:obj+prep:N
+888,blue,3096702,blue mitten,N:mod:A
+889,blue,3096701,to dress he in blue,V:obj+prep:N
+890,blue,3096709,style of blue,N:prep:N
+891,blue,3096708,heaven blue,N:nn:N
+892,blue,3096707,blue raincoat,N:mod:A
+893,blue,3096713,mostly blue,A:mod:A
+894,blue,3096712,to colour blue,V:obj:N
+895,blue,3096711,blue lion,N:mod:A
+896,blue,3096710,blue upperparts,N:mod:A
+897,blue,3096721,blue deep,N:mod:A
+898,blue,3096720,blue glow,V:subj:N
+899,blue,3096719,fathomless blue,N:mod:A
+900,blue,3096718,blue project,N:nn:N
+901,blue,3096717,rail blue,N:nn:N
+902,blue,3096716,blue swallow-tailed coat,N:mod:A
+903,blue,3096715,blue baby,N:nn:N
+904,blue,3096714,blue fire,V:subj:N
+905,blue,3096728,blue to flower,N:prep:N
+906,blue,3096727,piece of blue,N:prep:N
+907,blue,3096726,blue gene,N:nn:N
+908,blue,3096725,blue of sea,N:prep:N
+909,blue,3096724,black blue,N:mod:A
+910,blue,3096723,blue lobelia,N:mod:A
+911,blue,3096722,cloud in the blue,N:prep:N
+912,blue,3096738,tangled up in blue,N:prep:N
+913,blue,3096737,soldier blue,N:nn:N
+914,blue,3096736,symphony in blue,N:prep:N
+915,blue,3096735,blue fur,N:mod:A
+916,blue,3096734,blue column,N:mod:A
+917,blue,3096733,blue pebble,N:mod:A
+918,blue,3096732,fusion of blue,N:prep:N
+919,blue,3096731,to silhouette against blue,V:prep:N
+920,blue,3096730,blue metal,N:mod:A
+921,blue,3096729,blue redeco,N:mod:A
+922,blue,3096744,blue merino,N:mod:A
+923,blue,3096743,blue cow,N:nn:N
+924,blue,3096742,to deepen blue,V:obj:N
+925,blue,3096741,deeply blue,A:mod:A
+926,blue,3096740,blue filter,N:mod:A
+927,blue,3096739,bonnet blue,N:nn:N
+928,blue,3096749,heaven of blue,N:prep:N
+929,blue,3096748,blue monkey,N:mod:A
+930,blue,3096747,blue raspberry,N:mod:A
+931,blue,3096746,jet blue,N:nn:N
+932,blue,3096745,blue trade,V:subj:N
+933,blue,3096753,blue record,N:nn:N
+934,blue,3096752,blue planet,N:mod:A
+935,blue,3096751,to have fit of blue,V:obj+prep:N
+936,blue,3096750,blue tour,N:nn:N
+937,blue,3096759,gentian blue,N:nn:N
+938,blue,3096758,blue seem,V:subj:N
+939,blue,3096757,blue surface,N:mod:A
+940,blue,3096756,usually blue,A:mod:A
+941,blue,3096755,blue with white,N:prep:N
+942,blue,3096754,blue root,N:nn:N
+943,blue,3096765,blue atmosphere,N:mod:A
+944,blue,3096764,blue guernsey,N:mod:A
+945,blue,3096763,blue wallpaper,N:mod:A
+946,blue,3096762,blue guitar shorty,N:nn:N
+947,blue,3096761,blue neon,N:mod:A
+948,blue,3096760,water blue,N:nn:N
+949,blue,3096771,blue flower,N:nn:N
+950,blue,3096770,blue bulb,N:mod:A
+951,blue,3096769,whitish blue,N:mod:A
+952,blue,3096768,blue hen,N:mod:A
+953,blue,3096767,blue as turquoise,N:prep:N
+954,blue,3096766,blue wave,N:nn:N
+955,blue,3096776,blue sheet,N:mod:A
+956,blue,3096775,blue rim,N:mod:A
+957,blue,3096774,litmus paper blue,N:nn:N
+958,blue,3096773,colour to blue,N:prep:N
+959,blue,3096772,beautifully blue,A:mod:A
+960,blue,3096781,best blue,A:mod:A
+961,blue,3096780,blue parrot,N:mod:A
+962,blue,3096779,blue saxophonist,N:nn:N
+963,blue,3096778,dance about the blue,N:prep:N
+964,blue,3096777,to wave blue,V:obj:N
+965,blue,3096793,blue giant,N:mod:A
+966,blue,3096792,blue black,N:mod:A
+967,blue,3096791,to stand out against blue,V:prep:N
+968,blue,3096790,watery blue,N:mod:A
+969,blue,3096789,blue blob,N:mod:A
+970,blue,3096788,blue as cornflower,N:prep:N
+971,blue,3096787,blue singer-songwriter,N:nn:N
+972,blue,3096786,blue grey,N:mod:A
+973,blue,3096785,very blue,N:mod:A
+974,blue,3096784,canopy of blue,N:prep:N
+975,blue,3096783,blue twilight,N:mod:A
+976,blue,3096782,one of the blue,N:prep:N
+977,blue,3096803,to fleck blue,V:obj:N
+978,blue,3096802,blue petal,N:mod:A
+979,blue,3096801,blue rock pigeon,N:mod:A
+980,blue,3096800,speck against the blue,N:prep:N
+981,blue,3096799,blue lamp,N:mod:A
+982,blue,3096798,contrast with the blue,N:prep:N
+983,blue,3096797,blue lias,N:mod:A
+984,blue,3096796,blue gleam,V:subj:N
+985,blue,3096795,mission blue,N:nn:N
+986,blue,3096794,blue mass,N:mod:A
+987,blue,3096805,blue coloring,N:mod:A
+988,blue,3096804,darkly blue,A:mod:A
+989,blue,3096811,blue een,N:mod:A
+990,blue,3096810,blue bus,N:mod:A
+991,blue,3096809,blue jam,N:nn:N
+992,blue,3096808,blue jar,N:mod:A
+993,blue,3096807,blue chintz,N:mod:A
+994,blue,3096806,trypan blue,N:nn:N
+995,blue,3096817,blue lose,V:subj:N
+996,blue,3096816,french blue,N:nn:N
+997,blue,3096815,blue water,N:nn:N
+998,blue,3096814,milky blue,N:mod:A
+999,blue,3096813,rather blue,A:mod:A
+1000,blue,3096812,ice blue,N:nn:N
+1001,blue,3096819,blue plastic,N:mod:A
+1002,blue,3096818,blue canton,N:mod:A
+1003,blue,3096822,blue on white,N:prep:N
+1004,blue,3096821,blue greatcoat,N:mod:A
+1005,blue,3096820,blue hole,N:mod:A
+1006,blue,3096827,blue sign,V:subj:N
+1007,blue,3096826,blue sticker,N:mod:A
+1008,blue,3096825,blue sedan,N:mod:A
+1009,blue,3096824,to sweep blue,V:obj:N
+1010,blue,3096823,blue arch,V:subj:N
+1011,blue,3096832,blue dot,V:subj:N
+1012,blue,3096831,to turn from blue,V:prep:N
+1013,blue,3096830,blue as heaven,N:prep:N
+1014,blue,3096829,air force blue,N:nn:N
+1015,blue,3096828,blue as colour,N:prep:N
+1016,blue,3096842,blue in chicago,N:prep:N
+1017,blue,3096841,wing of blue,N:prep:N
+1018,blue,3096840,lake of blue,N:prep:N
+1019,blue,3096839,series blue,N:nn:N
+1020,blue,3096838,blue shimmer,V:subj:N
+1021,blue,3096837,long blue,N:mod:A
+1022,blue,3096836,blue colouration,N:mod:A
+1023,blue,3096835,purple blue,N:mod:A
+1024,blue,3096834,blue lining,N:mod:A
+1025,blue,3096833,blue blood,N:mod:A
+1026,blue,3096848,goal for the blue,N:prep:N
+1027,blue,3096847,blue whiting,N:mod:A
+1028,blue,3096846,blue outfit,N:mod:A
+1029,blue,3096845,rough guide to the blue,N:prep:N
+1030,blue,3096844,blue wear,V:subj:N
+1031,blue,3096843,blue stream,V:subj:N
+1032,blue,3096859,nile blue,N:nn:N
+1033,blue,3096858,startlingly blue,A:mod:A
+1034,blue,3096857,to match blue,V:obj:N
+1035,blue,3096856,teal blue,N:nn:N
+1036,blue,3096855,stain blue,N:nn:N
+1037,blue,3096854,blue tee,N:mod:A
+1038,blue,3096853,to gloss with blue,V:prep:N
+1039,blue,3096852,blue mold,N:mod:A
+1040,blue,3096851,blue skip james,N:nn:N
+1041,blue,3096850,blue dave van ronk,N:nn:N
+1042,blue,3096849,egg blue,N:nn:N
+1043,blue,3096863,milk-jug with blue,N:prep:N
+1044,blue,3096862,blue in mississippi,N:prep:N
+1045,blue,3096861,blue highway,N:nn:N
+1046,blue,3096860,liquid blue,N:mod:A
+1047,blue,3096873,lustrous blue,N:mod:A
+1048,blue,3096872,to lave milk-jug with blue,V:obj+prep:N
+1049,blue,3096871,blue romper,N:mod:A
+1050,blue,3096870,blue swallowtail,N:mod:A
+1051,blue,3096869,to stain with blue,V:prep:N
+1052,blue,3096868,blue jet,N:mod:A
+1053,blue,3096867,look blue,N:nn:N
+1054,blue,3096866,blue turquoise,N:mod:A
+1055,blue,3096865,blue helmet,N:nn:N
+1056,blue,3096864,blue flutter,V:subj:N
+1057,blue,3096879,coloured blue,N:mod:A
+1058,blue,3096878,blue slate roof,N:mod:A
+1059,blue,3096877,hint of blue,N:prep:N
+1060,blue,3096876,black-throated blue,N:mod:A
+1061,blue,3096875,to sail across blue,V:prep:N
+1062,blue,3096874,blue sphere,N:mod:A
+1063,blue,3096886,glimpse of the blue,N:prep:N
+1064,blue,3096885,faintly blue,A:mod:A
+1065,blue,3096884,to darken blue,V:obj:N
+1066,blue,3096883,blue bathrobe,N:mod:A
+1067,blue,3096882,thread of blue,N:prep:N
+1068,blue,3096881,wearer of the blue,N:prep:N
+1069,blue,3096880,to have eye of blue,V:obj+prep:N
+1070,blue,3096895,blue pennant,N:mod:A
+1071,blue,3096894,costume of blue,N:prep:N
+1072,blue,3096893,to score goal for blue,V:obj+prep:N
+1073,blue,3096892,to vary shade of blue,V:obj+prep:N
+1074,blue,3096891,blue pool,N:mod:A
+1075,blue,3096890,blue to green,N:prep:N
+1076,blue,3096889,blue pyjamas,N:mod:A
+1077,blue,3096888,ribbon blue,N:nn:N
+1078,blue,3096887,yale of the blue,N:prep:N
+1079,blue,3096907,blue cone,N:mod:A
+1080,blue,3096906,blue trimming,N:mod:A
+1081,blue,3096905,vividly blue,A:mod:A
+1082,blue,3096904,blue defeat,V:subj:N
+1083,blue,3096903,blue replace,V:subj:N
+1084,blue,3096902,blue discoloration,N:mod:A
+1085,blue,3096901,to enamel in blue,V:prep:N
+1086,blue,3096900,jacket of blue,N:prep:N
+1087,blue,3096899,molybdenum blue,N:nn:N
+1088,blue,3096898,blue bowl,V:subj:N
+1089,blue,3096897,blue with the border,N:prep:N
+1090,blue,3096896,blue sweatshirt,N:mod:A
