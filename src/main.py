@@ -32,11 +32,13 @@ def main():
     for i in range(N):
         random_word_pos = ""
         while random_word_pos == "" or random_word_pos == "noun":
-            request_word = random_words.get_random_word(hasDictionaryDef="true", includePartOfSpeech="adjective,verb", maxLength=N_MATCH_MAX)
-            if request_word is None:
-                continue
-            random_word_pos = tokenize.fetch_target_pos(word=request_word, word_en=request_word, lang="en")
-
+            try:
+                request_word = random_words.get_random_word(hasDictionaryDef="true", includePartOfSpeech="adjective,verb", maxLength=N_MATCH_MAX)
+                if request_word is None:
+                    continue
+                random_word_pos = tokenize.fetch_target_pos(word=request_word, word_en=request_word, lang="en")
+            except Exception:
+                pass
         print(request_word)
         print(LOG_INFO_DEBUG + "request word selected!!!!")
         print(LOG_INFO_DEBUG + "request_word:" + request_word)
