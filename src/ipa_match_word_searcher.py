@@ -41,6 +41,7 @@ BASE_URL = "../data/ipa-dict/data/"
 VOWELS = ["i", "y", "ɨ", "ʉ", "ɯ", "u", "ɪ", "ʏ", "ʊ", "e", "ø", "ɘ", "ɵ", "ɤ", "o", "ə", "ɛ", "œ", "ɜ", "ɞ", "ʌ", "ɔ", "æ"
                 "ɐ", "a", "ɶ", "ɑ", "ɒ", "ɚ", "ɑ˞", "ɔ˞","ɝ"]
 
+VOWELS_STRING = ''.join(VOWELS)
 
 # 似ているアクセントに変換する辞書
 SIMILAR_VOWEL_DICT = {
@@ -162,6 +163,13 @@ class IpaMatchWordSearcher:
         word_vowel_matched = ""
         lang_vowel_matched = ""
         word_vowel_matched_pos = ""
+
+        # 引数の単語はipa_new_formatに変換し、末尾も抽出しておく
+        ipa_vowel_consonents_for_rhyme_formatted = new_format_for_ipa_rhyme(ipa_vowel_consonents_for_rhyme)
+        if len(ipa_vowel_consonents_for_rhyme_formatted) < N_MATCH:
+            return {"word_vowel_matched": word_vowel_matched, "lang_vowel_matched": lang_vowel_matched, "word_vowel_matched_pos": word_vowel_matched_pos}
+        ipa_vowel_consonents_for_rhyme_formatted_last_n_char = set_word_last_n_char(ipa_vowel_consonents_for_rhyme_formatted)
+
         print(LOG_INFO_DEBUG + LOG_INFO_DEBUG_CLASS_NAME + f"{search_lang_li}")
         for lang in search_lang_li:
             print(LOG_INFO_DEBUG + LOG_INFO_DEBUG_CLASS_NAME + f"探索言語：{lang}")
@@ -175,15 +183,15 @@ class IpaMatchWordSearcher:
                 ipa_in_line = ipa_in_line.replace("\n", "")
 
                 ipa_vowel_consonents_for_rhyme_in_line = convert_to_target_vowels_consonents_for_rhyme(ipa_in_line)
-
-                # 末尾 N_MATCH(=3)文字が一致するかどうかをチェック
-                if len(ipa_vowel_consonents_for_rhyme) < N_MATCH or len(ipa_vowel_consonents_for_rhyme_in_line) < N_MATCH:
+                ipa_vowel_consonents_for_rhyme_formatted_in_line = new_format_for_ipa_rhyme(ipa_vowel_consonents_for_rhyme_in_line)
+                if len(ipa_vowel_consonents_for_rhyme_formatted_in_line) < N_MATCH:
                     continue
+                ipa_vowel_consonents_for_rhyme_formatted_last_n_char_in_line = set_word_last_n_char(ipa_vowel_consonents_for_rhyme_formatted_in_line)
 
                 # 整形済みのipa_vowelとipa_vowel_in_lineが一致 && シラブルが一致
-                if (new_format_for_is_ipa_rhyme(ipa_vowel_consonents_for_rhyme)[-N_MATCH:] == new_format_for_is_ipa_rhyme(ipa_vowel_consonents_for_rhyme_in_line)[-N_MATCH:]
-                    and len(ipa_vowel_consonents_for_rhyme) == len(ipa_vowel_consonents_for_rhyme_in_line) ):
-                    print(ipa_vowel_consonents_for_rhyme[-N_MATCH:], ipa_vowel_consonents_for_rhyme_in_line[-N_MATCH:])
+                if (ipa_vowel_consonents_for_rhyme_formatted_last_n_char == ipa_vowel_consonents_for_rhyme_formatted_last_n_char_in_line
+                    and len(ipa_vowel_consonents_for_rhyme_formatted) == len(ipa_vowel_consonents_for_rhyme_formatted_in_line) ):
+                    print(ipa_vowel_consonents_for_rhyme_formatted_last_n_char, ipa_vowel_consonents_for_rhyme_formatted_last_n_char_in_line)
                     word_vowel_matched = line[0]
                     lang_vowel_matched = lang
 
@@ -228,6 +236,21 @@ class IpaMatchWordSearcher:
         ipa = ipa.replace("\n", "")
         return ipa
 
+
+
+def set_word_last_n_char(word: str):
+    LAST_N_CHAR = N_MATCH
+    word_last_n_char = word[-LAST_N_CHAR:]
+    vowel_in_word_last_n_char = ''.join(re.findall(VOWELS_STRING, word_last_n_char))
+    while len(vowel_in_word_last_n_char) < 3:
+        word_last_n_char_previous = word_last_n_char
+        LAST_N_CHAR += 1
+        word_last_n_char = word[-LAST_N_CHAR:]
+        if word_last_n_char == word_last_n_char_previous:
+            break
+        vowel_in_word_last_n_char = ''.join(re.findall(VOWELS_STRING, word_last_n_char))
+    return word_last_n_char
+
 def convert_to_target_vowels_consonents_for_rhyme(ipa:str ) -> str:
     """[summary]
     Args:
@@ -238,7 +261,7 @@ def convert_to_target_vowels_consonents_for_rhyme(ipa:str ) -> str:
     """
     return ''.join(re.findall('[' + VOWELS_CONSONENTS_STRING + ']+', ipa))
 
-def new_format_for_is_ipa_rhyme(ipa_word: str) -> str:
+def new_format_for_ipa_rhyme(ipa_word: str) -> str:
     ipa_formatted = ""
     for index, char in enumerate(ipa_word):
         if char in VOWELS:

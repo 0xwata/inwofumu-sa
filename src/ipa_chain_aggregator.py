@@ -117,12 +117,12 @@ def ipa_chain_aggregator():
     df_concat_d_r["next_word_index_noun"] = group_next_word_index_noun
     df_concat_d_r[output_column]
 
-    df_concat_d_r.to_csv(f'../output/final/{len(df_concat_d_r)}.csv')
+    df_concat_d_r.to_csv(f'../output/final/spacy_match-word-augumentation/{len(df_concat_d_r)}_without_collocations.csv')
     print(f"finish writing output to csv/ {len(df_concat_d_r)}")
 
 
 def create_df():
-    files = glob.glob("../output/*.csv")
+    files = glob.glob("../output/spacy_match-word-augumentation/*.csv")
     for i, file in enumerate(files):
         if i == 0:
             df = pd.read_csv(file, sep=',')

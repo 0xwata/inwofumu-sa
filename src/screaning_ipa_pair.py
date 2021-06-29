@@ -1,10 +1,12 @@
 from numpy import character
 import pandas as pd
 import glob
+import re
 
 # 識別対象の母音
 VOWELS = ["i", "y", "ɨ", "ʉ", "ɯ", "u", "ɪ", "ʏ", "ʊ", "e", "ø", "ɘ", "ɵ", "ɤ", "o", "ə", "ɛ", "œ", "ɜ", "ɞ", "ʌ", "ɔ", "æ"
                 "ɐ", "a", "ɶ", "ɑ", "ɒ", "ɚ", "ɑ˞", "ɔ˞","ɝ"]
+VOWELS_STRING = ''.join(VOWELS)
 
 # 似ているアクセントに変換する辞書
 SIMILAR_VOWEL_DICT = {
@@ -100,9 +102,23 @@ def create_new_format(ipa_word: str) -> str:
                 ipa_formatted += map_consonents(char)
     return ipa_formatted
 
+def set_word_last_n_char(word: str):
+    LAST_N_CHAR = N_MATCH
+    word_last_n_char = word[-LAST_N_CHAR:]
+    vowel_in_word_last_n_char = ''.join(re.findall(VOWELS_STRING, word_last_n_char))
+    while len(vowel_in_word_last_n_char) < 3:
+        word_last_n_char_previous = word_last_n_char
+        LAST_N_CHAR += 1
+        word_last_n_char = word[-LAST_N_CHAR:]
+        if word_last_n_char == word_last_n_char_previous:
+            break
+        vowel_in_word_last_n_char = ''.join(re.findall(VOWELS_STRING, word_last_n_char))
+    return word_last_n_char
+
+
 def main():
     df = create_df()
-   
+
     df.to_csv("../output/spacy_match-word-augumentation/all_before_screaning.csv")
 
 
@@ -117,7 +133,7 @@ def main():
         response_ipa_new_format = create_new_format(response_ipa)
 
         screaning_flg = 0
-        if request_ipa_new_format[-N_MATCH:] == response_ipa_new_format[-N_MATCH:]:
+        if set_word_last_n_char(request_ipa_new_format) == set_word_last_n_char(response_ipa_new_format):
             screaning_flg = 1
 
         screaning_flgs.append(screaning_flg)
