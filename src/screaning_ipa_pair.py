@@ -4,12 +4,14 @@ import glob
 import re
 
 # 識別対象の母音
-VOWELS = ["i", "y", "ɨ", "ʉ", "ɯ", "u", "ɪ", "ʏ", "ʊ", "e", "ø", "ɘ", "ɵ", "ɤ", "o", "ə", "ɛ", "œ", "ɜ", "ɞ", "ʌ", "ɔ", "æ","ɐ", "a", "ɶ", "ɑ", "ɒ", "ɚ", "ɑ˞", "ɔ˞","ɝ"]
+VOWELS = ["i", "y", "ɨ", "ʉ", "ɯ", "u", "ɪ", "ʏ", "ʊ", "e", "ø", "ɘ", "ɵ", "ɤ", "o", "ə", "ɛ", "œ", "ɜ", "ɞ", "ʌ", "ɔ", "æ","ɐ", "a", "ɶ", "ɑ", "ɒ", "ɚ", "ɑ˞", "ɔ˞","ɝ", "ʲ"]
+
 VOWELS_STRING = ''.join(VOWELS)
 
 # 似ているアクセントに変換する辞書
 SIMILAR_VOWEL_DICT = {
     "i":"y",
+    "ʲ":"y",
     "ɨ": "ʉ",
     "ɯ": "u",
     "ɪ": "ʏ",
@@ -37,6 +39,8 @@ CONSONANT_LATERAL_APPPROACH_SOUND = ["l", "Ǐ", "ʎ"] # -> l
 CONSONENTS = CONSONANT_PLOSIVE_UNVOICED + CONSONANT_PLOSIVE_VOICED + \
              CONSONANT_IMPLOSIVE + CONSONANT_FRICATIVE_UNVOICED + CONSONANT_FRICATIVE_VOICED + \
              CONSONANT_NASAL + CONSONANT_LATERAL_APPPROACH_SOUND
+VOWELS_CONSONENTS = VOWELS + CONSONENTS
+VOWELS_CONSONENTS_STRING = ''.join(VOWELS_CONSONENTS)
 
 N_MATCH = 3
 
@@ -49,9 +53,7 @@ def create_df(filepath):
             print(f"count={i}, len(df)={len(df)}")
             continue
         df_tmp = pd.read_csv(file, sep=',')
-        print(f"count={i}, len(df)={len(df_tmp)}")
         df = pd.concat([df, df_tmp])
-    print(f"len(df)={len(df)}")
 
     df_d = df[~df.duplicated()]
     df_d_r = df_d.reset_index(drop=True)
@@ -105,6 +107,15 @@ def fetch_target_vowel(ipa:str) -> str:
             result += char
     return result
 
+def fetch_target_vowel_and_consonents(ipa:str) -> str:
+    result = ""
+    for char in ipa:
+        if char in VOWELS_CONSONENTS_STRING:
+            result += char
+    return result
+
+
+
 def set_word_last_n_char(word: str):
     LAST_N_CHAR = N_MATCH
     word_last_n_char = word[-LAST_N_CHAR:]
@@ -139,17 +150,54 @@ def main():
         request_word = row.request_word
         response_word = row.response_word
 
-        if is_first_letter_upper_char(request_word) or is_first_letter_upper_char(response_word):
-            continue
         request_ipa = row.request_ipa
         response_ipa = row.response_ipa
 
-        request_ipa_new_format = create_new_format(request_ipa)
-        response_ipa_new_format = create_new_format(response_ipa)
+        request_lang = row.request_lang
+        response_lang = row.response_lang
+
+        request_ipa_formatted = row.request_ipa_formatted
+        response_ipa_formatted = row.response_ipa_formatted
+
+
+        request_ipa_new_format = create_new_format(fetch_target_vowel_and_consonents(request_ipa))
+        response_ipa_new_format = create_new_format(fetch_target_vowel_and_consonents(response_ipa))
 
         screaning_flg = 0
-        if set_word_last_n_char(request_ipa_new_format) == set_word_last_n_char(response_ipa_new_format):
-            screaning_flg = 1
+        request_ipa_new_format_last_n_char = set_word_last_n_char(request_ipa_new_format)
+        response_ipa_new_format_last_n_char = set_word_last_n_char(response_ipa_new_format)
+
+
+        ## TODO: シラブルの数を制限
+        request_flag = 0
+        if request_ipa_new_format_last_n_char == response_ipa_new_format_last_n_char:
+            request_flag = 1
+            if request_lang == "en":
+                if is_first_letter_upper_char(request_word):
+                    request_flag = 0
+
+            response_flag = 1
+            if response_lang == "en":
+                if is_first_letter_upper_char(response_word):
+                    response_flag = 0
+
+            if len(request_ipa_new_format) > 5 or len(request_ipa_new_format) > 5:
+                response_flag = 0
+
+            if request_flag == 1 and response_flag == 1:
+                screaning_flg = 1
+
+        # if screaning_flg == 0:
+        #     print(0)
+        #     print(request_word, request_ipa, request_ipa_formatted, request_ipa_new_format, request_ipa_new_format_last_n_char)
+        #     print(response_word, response_ipa, response_ipa_formatted, response_ipa_new_format, request_ipa_new_format_last_n_char)
+        #     print()
+        # else:
+        #     print(1)
+        #     print(request_word, request_ipa, request_ipa_formatted, request_ipa_new_format, request_ipa_new_format_last_n_char)
+        #     print(response_word, response_ipa, response_ipa_formatted, response_ipa_new_format, request_ipa_new_format_last_n_char)
+        #     print()
+
 
         screaning_flgs.append(screaning_flg)
         request_ipa_new_formats.append(request_ipa_new_format)
@@ -164,6 +212,9 @@ def main():
                "response_word", "response_lang", "response_pos", "response_ipa", "response_ipa_new_formatted", "response_ipa_formatted", "response_word_en","screaning_flg"]
     df_with_flg = df[output]
     df_after_screaning = df_with_flg[df_with_flg.screaning_flg == 1].drop('screaning_flg', axis=1)
+    
+    df_after_screaning = df_after_screaning[~df_after_screaning.duplicated()]
+    df_after_screaning = df_after_screaning.reset_index(drop=True)
 
     df_with_flg.to_csv("../output/spacy_match-word-augumentation/all_after_screaning_with_flg.csv")
     df_after_screaning.to_csv("../output/spacy_match-word-augumentation/all_after_screaning.csv")

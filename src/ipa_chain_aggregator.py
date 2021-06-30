@@ -57,13 +57,14 @@ output_column = ["word", "word_lang", "word_pos", "word_ipa", "word_ipa_edited_v
 N_MATCH = 3
 
 # 識別対象の母音
-VOWELS = ["i", "y", "ɨ", "ʉ", "ɯ", "u", "ɪ", "ʏ", "ʊ", "e", "ø", "ɘ", "ɵ", "ɤ", "o", "ə", "ɛ", "œ", "ɜ", "ɞ", "ʌ", "ɔ", "æ","ɐ", "a", "ɶ", "ɑ", "ɒ", "ɚ", "ɑ˞", "ɔ˞","ɝ"]
+VOWELS = ["i", "y", "ɨ", "ʉ", "ɯ", "u", "ɪ", "ʏ", "ʊ", "e", "ø", "ɘ", "ɵ", "ɤ", "o", "ə", "ɛ", "œ", "ɜ", "ɞ", "ʌ", "ɔ", "æ","ɐ", "a", "ɶ", "ɑ", "ɒ", "ɚ", "ɑ˞", "ɔ˞","ɝ", "ʲ"]
 
 VOWELS_STRING = ''.join(VOWELS)
 
 # 似ているアクセントに変換する辞書
 SIMILAR_VOWEL_DICT = {
     "i":"y",
+    "ʲ":"y",
     "ɨ": "ʉ",
     "ɯ": "u",
     "ɪ": "ʏ",
@@ -196,6 +197,7 @@ def ipa_chain_aggregator():
     group_next_word_index_verb = []
     group_next_word_index_noun = []
     group_next_word_index_adjective = []
+    match_full_pair_count = 0
     for i, row_i in df_concat_d_r.iterrows():
         query_word_ipa_edited_vowel = row_i.word_ipa_edited_vowel
         query_word = row_i.word
@@ -221,7 +223,8 @@ def ipa_chain_aggregator():
         if len(next_word_index_verb) >= 3 and \
            len(next_word_index_adjective) >= 3 and \
            len(next_word_index_noun) >= 3:
-
+           match_full_pair_count += 1
+           print(f"match_full_pair_count:{match_full_pair_count}")
            print(f"match_count:{match_count}")
            print(f"match_count_verb:{len(next_word_index_verb)}")
            print(f"match_count_adjective:{len(next_word_index_adjective)}")
@@ -239,6 +242,7 @@ def ipa_chain_aggregator():
 
     df_concat_d_r.to_csv(f'../output/final/spacy_match-word-augumentation/{len(df_concat_d_r)}_without_collocations.csv')
     print(f"finish writing output to csv/ {len(df_concat_d_r)}")
+    print(f"{match_full_pair_count} / {len(df_concat_d_r)}")
 
 if __name__ == "__main__":
     ipa_chain_aggregator()
