@@ -25,13 +25,20 @@ import httpcore
         'jam', Jamaican Creole -> ない
     ・ルーマニア語
         'ro', Romanian
+
+    * アイスランド語: 'is'
+    * アラビア語: 'ar'
+    * ベトナム語: 'vi'
+    * スウェーデン語: 'sv'
+    * フランス語 'fr'
+    * フィンランド語 fi
 """
 
 
 class Translate:
     def __init__(self):
         self.translator = Translator()
-        self.langs = ['ja', 'en', 'de', 'id', 'zh-cn', 'ko', 'eo', 'es', 'ro']
+        self.langs = ['ja', 'en', 'de', 'id', 'zh-cn', 'ko', 'eo', 'es', 'ro', 'ar', 'is', 'vi', 'sv', 'fr', 'fi']
 
     def translate_all_language(self, word: str) -> dict:
         # ランダムに並び替えて初期化
@@ -60,9 +67,11 @@ class Translate:
         try:
             translated_word = self.translator.translate(word, dest=lang, src='en').text
         except httpcore._exceptions.ReadTimeout as e:
-            print("ttpcore._exceptions.ReadTimeout", e)
+            print("httpcore._exceptions.ReadTimeout", e)
         except TypeError as e:
             print("TypeError", e)
+        except httpcore._exceptions.ConnectTimeout as e:
+            print("httpcore._exceptions.ConnectTimeout")
         return translated_word
 
     def translate_to_english_by_language(self, word: str, lang: str) -> str:
@@ -71,6 +80,8 @@ class Translate:
             translated_word = self.translator.translate(word, dest='en', src=lang).text
         except httpcore._exceptions.ReadTimeout as e:
             print("エラー", e)
+        except httpcore._exceptions.ConnectTimeout as e:
+            print("httpcore._exceptions.ConnectTimeout")
         except TypeError as e:
             print("TypeError", e)
         return translated_word

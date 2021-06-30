@@ -76,7 +76,7 @@ CONSONENTS = CONSONANT_PLOSIVE_UNVOICED + CONSONANT_PLOSIVE_VOICED + \
 VOWELS_CONSONENTS = VOWELS + CONSONENTS
 VOWELS_CONSONENTS_STRING = ''.join(VOWELS_CONSONENTS)
 
-LANGS_FOR_SEARCH = ['ja', 'en', 'de', 'id', 'zh-cn', 'ko', 'eo', 'es', 'ro']
+LANGS_FOR_SEARCH = ['ja', 'en', 'de', 'id', 'zh-cn', 'ko', 'eo', 'es', 'ro', 'ar', 'is', 'vi', 'sv', 'fr', 'fi']
 
 N_MATCH = 3
 
@@ -92,6 +92,12 @@ class IpaMatchWordSearcher:
         self.ipa_es_ES_li = self.read_ipa_data(lang="es_ES")
         self.ipa_jam_li = self.read_ipa_data(lang="jam")
         self.ipa_ro_li = self.read_ipa_data(lang="ro")
+        self.ipa_ar_li = self.read_ipa_data(lang="ar")
+        self.ipa_is_li = self.read_ipa_data(lang="is")
+        self.ipa_vi_li = self.read_ipa_data(lang="vi_C")
+        self.ipa_sv_li = self.read_ipa_data(lang="sv")
+        self.ipa_fr_li = self.read_ipa_data(lang="fr_FR")
+        self.ipa_fi_li = self.read_ipa_data(lang="fi")
         self.lang_to_ipa_li_for_search = {
             "ja": self.ipa_ja_li,
             "en": self.ipa_en_li,
@@ -102,7 +108,13 @@ class IpaMatchWordSearcher:
             "eo": self.ipa_eo_li,
             "es": self.ipa_es_ES_li,
             "jam": self.ipa_jam_li,
-            "ro": self.ipa_ro_li
+            "ro": self.ipa_ro_li,
+            "ar": self.ipa_ar_li,
+            "is": self.ipa_is_li,
+            "vi": self.ipa_vi_li,
+            "sv": self.ipa_sv_li,
+            "fr": self.ipa_fr_li,
+            "fi": self.ipa_fi_li
         }
 
     def read_ipa_data(self, lang: str) -> list:

@@ -45,7 +45,7 @@ def main():
         print(LOG_INFO_DEBUG + "request word selected!!!!")
         print(LOG_INFO_DEBUG + "request_word:" + request_word)
 
-        langs = ['ja', 'en', 'de', 'id', 'zh-cn', 'ko', 'eo', 'es', 'ro']
+        langs = ['ja', 'en', 'de', 'id', 'zh-cn', 'ko', 'eo', 'es', 'ro', 'ar', 'is', 'vi', 'sv', 'fr', 'fi']
         index = list(range(7))
         # ランダムに並び替えて初期化
         random.shuffle(index)
