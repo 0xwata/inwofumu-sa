@@ -38,8 +38,7 @@ LOG_INFO_DEBUG_CLASS_NAME = "CLASS: IpaMatchWordSearcher "
 BASE_URL = "../data/ipa-dict/data/"
 
 # 識別対象の母音
-VOWELS = ["i", "y", "ɨ", "ʉ", "ɯ", "u", "ɪ", "ʏ", "ʊ", "e", "ø", "ɘ", "ɵ", "ɤ", "o", "ə", "ɛ", "œ", "ɜ", "ɞ", "ʌ", "ɔ", "æ"
-                "ɐ", "a", "ɶ", "ɑ", "ɒ", "ɚ", "ɑ˞", "ɔ˞","ɝ"]
+VOWELS = ["i", "y", "ɨ", "ʉ", "ɯ", "u", "ɪ", "ʏ", "ʊ", "e", "ø", "ɘ", "ɵ", "ɤ", "o", "ə", "ɛ", "œ", "ɜ", "ɞ", "ʌ", "ɔ", "æ","ɐ", "a", "ɶ", "ɑ", "ɒ", "ɚ", "ɑ˞", "ɔ˞","ɝ"]
 
 VOWELS_STRING = ''.join(VOWELS)
 
@@ -67,14 +66,12 @@ CONSONANT_PLOSIVE_VOICED = ["b", "d", "ǰ", "ɟ", "g", "ɡ", "G", "ʔ"] # -> b
 CONSONANT_IMPLOSIVE = ["ɓ", "ɗ", "ɠ"] # -> ɓ
 CONSONANT_FRICATIVE_UNVOICED = ["ϕ", "f", "θ", "s", "š", "ɕ", "x", "χ", "ħ"] # -> ϕ
 CONSONANT_FRICATIVE_VOICED = ["β", "v", "ð", "z", "ž", "ʑ", "γ", "ʁ", "ʕ"] # -> β
-CONSONANT_NASAL = ["m", "ɱ", "n", "ň", "ɲ", "ŋ", "N"] # -> m
+CONSONANT_NASAL = ["m", "ɱ", "n", "ň", "ɲ", "ŋ", "N", "ɴ"] # -> m
 CONSONANT_LATERAL_APPPROACH_SOUND = ["l", "Ǐ", "ʎ"] # -> l
-CONSONANT_CENTER_APPROXIMATION_SOUND =  ["r", "w", "h"] # -> r
 
 CONSONENTS = CONSONANT_PLOSIVE_UNVOICED + CONSONANT_PLOSIVE_VOICED + \
              CONSONANT_IMPLOSIVE + CONSONANT_FRICATIVE_UNVOICED + CONSONANT_FRICATIVE_VOICED + \
-             CONSONANT_NASAL + CONSONANT_LATERAL_APPPROACH_SOUND + CONSONANT_CENTER_APPROXIMATION_SOUND
-
+             CONSONANT_NASAL + CONSONANT_LATERAL_APPPROACH_SOUND
 VOWELS_CONSONENTS = VOWELS + CONSONENTS
 VOWELS_CONSONENTS_STRING = ''.join(VOWELS_CONSONENTS)
 
@@ -236,19 +233,25 @@ class IpaMatchWordSearcher:
         ipa = ipa.replace("\n", "")
         return ipa
 
+def fetch_target_vowel(ipa:str) -> str:
+    result = ""
+    for char in ipa:
+        if char in VOWELS_STRING:
+            result += char
+    return result
 
 
 def set_word_last_n_char(word: str):
     LAST_N_CHAR = N_MATCH
     word_last_n_char = word[-LAST_N_CHAR:]
-    vowel_in_word_last_n_char = ''.join(re.findall(VOWELS_STRING, word_last_n_char))
+    vowel_in_word_last_n_char = fetch_target_vowel(word_last_n_char)
     while len(vowel_in_word_last_n_char) < 3:
         word_last_n_char_previous = word_last_n_char
         LAST_N_CHAR += 1
         word_last_n_char = word[-LAST_N_CHAR:]
         if word_last_n_char == word_last_n_char_previous:
             break
-        vowel_in_word_last_n_char = ''.join(re.findall(VOWELS_STRING, word_last_n_char))
+        vowel_in_word_last_n_char = fetch_target_vowel(word_last_n_char)
     return word_last_n_char
 
 def convert_to_target_vowels_consonents_for_rhyme(ipa:str ) -> str:
@@ -259,7 +262,11 @@ def convert_to_target_vowels_consonents_for_rhyme(ipa:str ) -> str:
     Returns:
         str: 入力したipaの母音を抽出し、連結し、文字列で返却 例：'ɔəɑə'
     """
-    return ''.join(re.findall('[' + VOWELS_CONSONENTS_STRING + ']+', ipa))
+    result = ""
+    for char in ipa:
+        if char in VOWELS_CONSONENTS_STRING:
+            result += char
+    return result
 
 def new_format_for_ipa_rhyme(ipa_word: str) -> str:
     ipa_formatted = ""
@@ -283,20 +290,14 @@ def new_format_for_ipa_rhyme(ipa_word: str) -> str:
 
 def map_consonents(char):
     result = ""
-    if char in CONSONANT_PLOSIVE_UNVOICED:
-        result = "p"
-    if char in CONSONANT_PLOSIVE_VOICED:
+    if char in CONSONANT_PLOSIVE_UNVOICED \
+        or char in CONSONANT_PLOSIVE_VOICED \
+        or char in CONSONANT_IMPLOSIVE \
+        or char in CONSONANT_FRICATIVE_UNVOICED \
+        or char in CONSONANT_FRICATIVE_VOICED \
+        or char in CONSONANT_LATERAL_APPPROACH_SOUND:
         result = "b"
-    if char in CONSONANT_IMPLOSIVE:
-        result = "ɓ"
-    if char in CONSONANT_FRICATIVE_UNVOICED:
-        result = "ϕ"
-    if char in CONSONANT_FRICATIVE_VOICED:
-        result = "β"
     if char in CONSONANT_NASAL:
         result = "m"
-    if char in CONSONANT_LATERAL_APPPROACH_SOUND:
-        result = "l"
-    if char in CONSONANT_CENTER_APPROXIMATION_SOUND:
-        result = "r"
+
     return result

@@ -6,8 +6,8 @@ from ipa_match_word_searcher import IpaMatchWordSearcher, new_format_for_ipa_rhy
 import random
 import csv
 import datetime
-from wonderwords import random_word
-from random_word import RandomWords
+from wonderwords import RandomWord
+import  time
 
 
 LOG_INFO_DEBUG = "LOG/DEBUG: "
@@ -27,13 +27,15 @@ def main():
     # トークナイザーのインスタンス化
     tokenize = TokenizerSpacy()
 
-    random_words = RandomWords()
+    r = RandomWord()
 
     for i in range(N):
         random_word_pos = ""
-        while random_word_pos == "" or random_word_pos == "noun":
+        request_word = "Apple"
+        while request_word[0].isupper() or (random_word_pos == "" or random_word_pos == "noun"):
             try:
-                request_word = random_words.get_random_word(hasDictionaryDef="true", includePartOfSpeech="adjective,verb", maxLength=N_MATCH_MAX)
+                request_word = r.word(include_parts_of_speech=["verbs", "adjectives"], word_max_length=10)
+                print(request_word)
                 if request_word is None:
                     continue
                 random_word_pos = tokenize.fetch_target_pos(word=request_word, word_en=request_word, lang="en")
@@ -113,11 +115,14 @@ def main():
 
 
     print(LOG_INFO_DEBUG + "start writing output to csv")
-    f = open('../output/spacy_match-word-augumentation/' + str(datetime.datetime.now().time()) + '.csv', 'w')
+    f = open('../output/spacy_match-word-augumentation/' + str(datetime.datetime.now().time()) + '_otameshi.csv', 'w')
     write = csv.writer(f)
     write.writerows(output)
     print(LOG_INFO_DEBUG + f"finish writing output to csv/ {len(output)}")
 
 
 if __name__ == "__main__":
+    start = time.time()
     main()
+    elapsed_time = time.time() - start
+    print ("elapsed_time:{0}".format(elapsed_time) + "[sec]")
