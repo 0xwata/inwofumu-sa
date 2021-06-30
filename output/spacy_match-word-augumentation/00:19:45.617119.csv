@@ -1,0 +1,71 @@
+request_word,request_lang,request_pos,request_ipa,request_ipa_formatted,request_word_en,response_word,response_lang,response_pos,response_ipa,response_ipa_formatted,response_word_en
+bonjol,id,verb,/bondʒol/,omol,knurl,control,es,noun,/kontɾol/,omol,control
+toran,en,verb,/tɔˈɹɑn/,ɔɑm,toran,婆娘,zh-cn,verb,/pʰɔ˧˥ njɑŋ˧˥/,ɔɑm,Husky
+pokes,en,verb,/ˈpoʊks/,oʊpϕ,pokes,Jogurts,de,noun,/ˈjoːgʊɾts/,oʊpϕ,Jogurt
+관,ko,verb,/kwa̠n/,pɶm,tube,plang,id,verb,/plaŋ/,pɶm,signpost
+콩팥,ko,adjective,/kʰo̞ŋpʰa̠t̚/,omɶp,kidneys,lompat,id,verb,/lompat/,omɶp,jump
+熟れる,ja,verb,/ɯɾeɾɯ/,uøu,Be riped,lunecuș,ro,noun,/lunekuʃ/,uøu,slipperiness
+독소,ko,verb,/to̞ks͈o̞/,opo,toxin,德泽,zh-cn,noun,/tɤ˧˥ tsɤ˧˥/,opo,Deze
+描く,ja,verb,/egakɯ/,øɶu,Draw,becheanu,ro,noun,/bekʲ̩̩anu/,øɶu,Becheanu
+macho,en,adjective,/ˈmɑtʃoʊ/,ɑoʊ,macho,上周,zh-cn,noun,/ʂɑŋ˥˩ ʈʂoʊ˥˥/,ɑoʊ,Last week
+jantan,id,adjective,/dʒantan/,ɶmɶm,male,Andrang,de,noun,/ˈʔanˌdɾaŋ/,ɶmɶm,Crowd
+사나이,ko,adjective,/sʰa̠na̠i/,ɶɶy,man,abatí,es,verb,/aβaˈti/,ɶɶy,abatí.
+bangun,id,adjective,/baŋun/,ɶum,Wake up,Backhuhn,de,noun,/ˈbakun/,ɶum,Baking chicken
+mohel,en,adjective,/ˈmoʊəɫ/,oʊə,mohel,丢失,zh-cn,verb,/tjoʊ˥˥ ʂɚ˥˥/,oʊə,Lose
+포장,ko,adjective,/pʰo̞d͡ʑa̠ŋ/,obɶm,Packing,bogdan,ro,noun,/boɡdan/,obɶm,Bogdan.
+망각,ko,verb,/ma̠ŋɡa̠k̚/,ɶmɶp,oblivion,ampat,id,noun,/ampat/,ɶmɶp,Ampat
+dimulai,id,verb,/dimulai/,yuɶy,start,いく人,ja,noun,/ikɯtaɾi/,yuɶy,Person
+begun,en,verb,/ˈbeɪɡən/,øʏəm,begun,böhmischem,de,verb,/ˈbømɪʃəm/,øʏəm,Bohemian
+begannen,de,verb,/bəˈgannən/,əɶməm,began,berantem,id,verb,/bərantəm/,əɶməm,fight
+gebacken,de,verb,/gəˈbakən/,əɶəm,baked,指南针,zh-cn,noun,/ʈʂɚ˨˩˦ nan˧˥ ʈʂən˥˥/,əɶəm,compass
+baked,en,verb,/ˈbeɪkt/,øʏpp,baked,Delikt,de,noun,/ˈdeːlɪkt/,øʏpp,offense
+dipanggang,id,verb,/dipaŋgaŋ/,yɶmɶm,baked,financian,es,verb,/finanθjan/,yɶmɶm,Finance
+biara,id,verb,/biara/,yɶɶ,monastery,귀하다,ko,verb,/kɥiɦa̠da̠/,yɶɶ,Behold
+neigt,de,verb,/ˈnaekt/,ɶøpp,tilt,abject,ro,noun,/abʒekt/,ɶøpp,abject
+works,en,verb,/ˈwɝks/,əpϕ,works,băț,ro,adjective,/bəts/,əpϕ,knock on
+공장,ko,verb,/ko̞ŋd͡ʑa̠ŋ/,ombɶm,factory,comblang,id,noun,/tʃomblaŋ/,ombɶm,Comblang
+bekerja,id,verb,/bəkərdʒa/,əərɶ,work,begehbarer,de,,/bəgəhˈbaɽɐ̯/,əərɶ,walk-in
+우주,ko,adjective,/ud͡ʑu/,ubu,space,dublu,ro,adjective,/dublu/,ubu,double
+打开,zh-cn,verb,/ta˨˩˦ kʰaɪ˥˥/,ɶɶʏ,turn on,anarchischer,de,adjective,/ʔaˈnaʁçɪʃɐ/,ɶɶʏ,anarchic
+brunt,en,verb,/ˈbɹənt/,əmp,brunt,bănci,ro,noun,/bəntʃʲ/,əmp,bed
+失败,zh-cn,verb,/ʂɚ˥˥ paɪ˥˩/,əɶʏ,failure,Bereich,de,noun,/bəˈʀaɪ̯ç/,əɶʏ,Area
+哭泣,zh-cn,verb,/kʰu˥˥ tɕʰi˥˩/,upy,cry,구취,ko,verb,/kut͡ɕʰɥi/,upy,Ward
+weeps,en,verb,/ˈwips/,ypϕ,weeps,chicer,de,noun,/ˈçiːtsɐ̯/,ypϕ,chicer
+glade,en,adjective,/ˈɡɫeɪd/,øʏb,glade,Prediger,de,noun,/ˈpɾeːdɪgɐ̯/,øʏb,preacher
+icing,en,verb,/ˈaɪsɪŋ/,ɶʏʏm,icing,Heidin,de,noun,/ˈhaɪdɪn/,ɶʏʏm,Heidin
+팔뚝,ko,verb,/pʰa̠ɭt͈uk̚/,ɶup,Forearm,acut,ro,verb,/akut/,ɶup,acute
+fokus,id,verb,/fokus/,ouϕ,focus,Fokus,de,noun,/ˈfoːkus/,ouϕ,focus
+focus,en,verb,/ˈfoʊkəs/,oʊəϕ,focus,Vordruckes,de,noun,/ˈfoːɐ̯ˌdɾʊkəs/,oʊəϕ,Form
+eterne,eo,verb,/eterne/,øørø,forever,decerne,ro,noun,/detʃerne/,øørø,award
+환대,ko,verb,/ɸwa̠ndɛ̝/,ɶmœ,hospitality,删削,zh-cn,noun,/ʂan˥˥ ɕɥœ˥˥/,ɶmœ,Delete
+known,en,verb,/ˈnoʊn/,oʊm,known,Bohrturm,de,noun,/ˈboɾtʊɾm/,oʊm,derrick
+마차,ko,adjective,/ma̠t͡ɕʰa̠/,ɶpɶ,carriage,下嫁,zh-cn,noun,/ɕja˥˩ tɕja˥˩/,ɶpɶ,Marry
+잔디밭,ko,verb,/t͡ɕa̠ndiba̠t̚/,pɶmyɶp,lawn,tranzitat,ro,,/tranzitat/,pɶmyɶp,transited
+trennen,de,verb,/ˈtʀɛnən/,œəm,separate,仙人,zh-cn,noun,/ɕjɛn˥˥ ʐən˧˥/,œəm,Cactus
+끊다,ko,verb,/k͈ɯntʰa̠/,umɶ,Quit,buntaș,ro,noun,/buntaʃ/,umɶ,buntah
+memalukan,id,verb,/məmalukan/,əɶuɶm,embarrassing,执法如山,zh-cn,verb,/ʈʂɚ˧˥ fa˨˩˦ ʐu˧˥ ʂan˥˥/,əɶuɶm,Lifting like a mountain
+beschämen,de,verb,/bəˈʃɛːmən/,əœəm,shame,affection,en,noun,/əˈfɛkʃən/,əœəm,affection
+冷却,zh-cn,verb,/lɤŋ˨˩˦ tɕʰɥœ˥˩/,ompœ,cool down,본채,ko,noun,/po̞nt͡ɕʰɛ̝/,ompœ,Irregularity
+냉각,ko,verb,/nɛ̝ŋɡa̠k̚/,œmɶp,Cooling,fernab,de,,/fɛɾnˈʔap/,œmɶp,far-off
+kühlt,de,verb,/ˈkylt/,ylp,cool,kilt,ro,noun,/kʲilt/,ylp,kilt
+apliki,eo,verb,/apliki/,ɶpyy,Apply,zapcii,ro,noun,/zaptʃiji/,ɶpyy,zaps
+apply,en,verb,/əˈpɫaɪ/,əɶʏ,apply,Bereich,de,noun,/bəˈʀaɪ̯ç/,əɶʏ,Area
+申请,zh-cn,verb,/ʂən˥˥ tɕʰɪŋ˨˩˦/,əmpʏm,Application,bumpkin,en,adjective,/ˈbəmpkɪn/,əmpʏm,bumpkin
+tambalan,id,verb,/tambalan/,ɶmɶɶm,Tambalan,șanhaian,ro,noun,/ʃanhajan/,ɶmɶɶm,Şchaian
+흥분,ko,adjective,/xɯŋbun/,umum,excitement,rundún,es,verb,/runˈdun/,umum,Runduna.
+제본,ko,verb,/t͡ɕe̞bo̞n/,pøom,binding,creion,ro,noun,/krejon/,pøom,pencil
+덩어리,ko,verb,/tʌ̹ŋʌ̹ɾi/,ɔɔy,Lump,bohnomie,en,noun,/ˈbɔnɔˌmi/,ɔɔy,bonhomie
+lumps,en,verb,/ˈɫəmps/,əmpϕ,lumps,Bernds,de,noun,/bəˈɾnts/,əmpϕ,Bernds
+轟く,ja,verb,/todoɾokɯ/,ooou,Roar,colofoniu,ro,noun,/kolofonju/,ooou,rosin
+known,en,verb,/ˈnoʊn/,oʊm,known,各种,zh-cn,adjective,/kɤ˥˩ ʈʂʊŋ˨˩˦/,oʊm,Various
+다섯,ko,adjective,/ta̠sʰʌ̹t̚/,ɶɔp,five,Akkord,de,noun,/ˈʔakɔɾt/,ɶɔp,chord
+팽창,ko,verb,/pʰɛ̝ŋt͡ɕʰa̠ŋ/,œmpɶm,expansion,严管,zh-cn,verb,/jɛn˧˥ kwan˨˩˦/,œmpɶm,Severely
+kicks,en,verb,/ˈkɪks/,ʏpϕ,kicks,Chips,de,noun,/ˈçɪps/,ʏpϕ,crisps
+감옥,ko,verb,/ka̠mo̞k̚/,ɶop,prison,amoc,ro,verb,/amok/,ɶop,amok
+나타나다,ko,verb,/na̠tʰa̠na̠da̠/,ɶɶɶɶ,appear,malavara,eo,noun,/malavara/,ɶɶɶɶ,Malavara
+hakilo,eo,verb,/hakilo/,ɶyo,Hack,가위표,ko,verb,/ka̠ɥipʰjo/,ɶyo,Scatteret
+haunt,en,verb,/ˈhɔnt/,ɔmp,haunt,Fond,de,noun,/ˈfɔnt/,ɔmp,Fond
+감옥,ko,verb,/ka̠mo̞k̚/,ɶop,prison,alot,id,noun,/alot/,ɶop,Alot
+otot,id,adjective,/otot/,oop,muscle,robot,es,verb,/roβot/,oop,robot
+근육,ko,adjective,/kɯɲjuk̚/,uup,muscle,buciuc,ro,noun,/butʃ̩uk/,uup,Buiiuc
+爪子,zh-cn,verb,/ʈʂwa˨˩˦ tsɯ˧/,ɶpu,paw,８つ,ja,noun,/jatsːɯ/,ɶpu,Eight

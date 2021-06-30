@@ -1,0 +1,74 @@
+request_word,request_lang,request_pos,request_ipa,request_ipa_formatted,request_word_en,response_word,response_lang,response_pos,response_ipa,response_ipa_formatted,response_word_en
+blest,en,adjective,/ˈbɫɛst/,œϕp,blest,äst,de,verb,/ˈʔɛst/,œϕp,aest
+青い,ja,adjective,/aoi/,ɶoy,blue,가로띠,ko,noun,/ka̠ɾo̞t͈i/,ɶoy,Horizontal
+bangun,id,adjective,/baŋun/,ɶum,Wake up,afum,ro,noun,/afum/,ɶum,smoked
+known,en,verb,/ˈnoʊn/,oʊm,known,Bohrturm,de,noun,/ˈboɾtʊɾm/,oʊm,derrick
+drown,en,adjective,/ˈdɹaʊn/,ɶʊm,drown,专用,zh-cn,verb,/ʈʂwan˥˥ jʊŋ˥˩/,ɶʊm,dedicated
+droni,eo,adjective,/droni/,boy,drown,ジョイ,ja,noun,/dʑoi/,boy,Joy
+溺れる,ja,verb,/oboɾeɾɯ/,ooøu,Be drowned,oloieru,ro,adjective,/olojeru/,ooøu,oloyru
+shaky,en,adjective,/ˈʃeɪki/,øʏy,shaky,伪币,zh-cn,noun,/weɪ˨˩˦ pi˥˩/,øʏy,counterfeit
+goyah,id,adjective,/gojah/,oɶr,Shaky,boșar,ro,noun,/boʃar/,oɶr,Bosar
+swink,en,verb,/ˈswɪŋk/,ϕʏmp,swink,Shrimp,de,noun,/ˈshɾɪmp/,ϕʏmp,Shrimp
+散发,zh-cn,verb,/san˨˩˦ fa˥˩/,ɶmɶ,Distribute,gangbarerer,de,verb,/gaŋˈbaɽɐ̯ɐ̯/,ɶmɶ,gangbarer
+plump,en,verb,/ˈpɫəmp/,əmp,plump,bănci,ro,noun,/bəntʃʲ/,əmp,bed
+tarikan,id,verb,/tarikan/,ɶyɶm,Turn,aliman,ro,noun,/aliman/,ɶyɶm,Aliman
+引っ張る,ja,verb,/çipːaɾɯ/,yɶu,pull,biau,id,noun,/biau/,yɶu,Biau.
+smile,en,verb,/ˈsmaɪɫ/,ϕɶʏ,smile,Fleisch,de,noun,/flaɪ̯ʃ/,ϕɶʏ,flesh
+rideto,eo,verb,/rideto/,yøo,smile,vidéo,id,noun,/video/,yøo,Video.
+tersenyum,id,verb,/tərsəɲum/,ərəum,smile,bărzăun,ro,adjective,/bərzəun/,ərəum,humble-bee
+pinch,en,verb,/ˈpɪntʃ/,ʏmp,pinch,dringt,de,verb,/ˈdɾɪŋt/,ʏmp,penetration
+mencubit,id,verb,/məntʃubit/,əmuyp,pinch,căngiuit,ro,verb,/kəndʒ̩uit/,əmuyp,Congratulated
+한자,ko,verb,/ha̠nt͡ɕ͈a̠/,ɶmpɶ,Chinese character,mantra,id,noun,/mantra/,ɶmpɶ,Mantra
+기초,ko,verb,/kit͡ɕʰo̞/,ypo,Foundation,citro,ro,adjective,/tʃitro/,ypo,CITRO
+wimpy,en,adjective,/ˈwɪmpi/,ʏmy,wimpy,丙戌,zh-cn,noun,/pɪŋ˨˩˦ ɕy˥˥/,ʏmy,Bingshi
+wajah,id,verb,/wadʒah/,ɶɶr,face,amar,ro,adjective,/amar/,ɶɶr,bitter
+높은,ko,adjective,/no̞pʰɯn/,oum,High,común,es,adjective,/koˈmun/,oum,common
+tinggi,id,adjective,/tiŋgi/,ymy,high,bindi,eo,noun,/bindi/,ymy,bindi
+drink,en,verb,/ˈdɹɪŋk/,ʏmp,drink,dringt,de,verb,/ˈdɾɪŋt/,ʏmp,penetration
+minum,id,verb,/minum/,yum,drink,Siechtum,de,noun,/ˈziːçtuːm/,yum,Sampling
+trinken,de,verb,/ˈtrɪŋkən/,pʏməm,drink,勤奋,zh-cn,noun,/tɕʰɪn˧˥ fən˥˩/,pʏməm,diligent
+음주,ko,verb,/ɯmd͡ʑu/,umbu,Drinking,sumbru,ro,noun,/sumbru/,umbu,gloomy
+呕吐,zh-cn,verb,/oʊ˨˩˦ tʰu˥˩/,oʊu,Vomiting,beaucoup,en,noun,/ˌboʊˈku/,oʊu,beaucoup
+pukes,en,verb,/ˈpjuks/,upϕ,pukes,fux,ro,noun,/fuks/,upϕ,fux
+감옥,ko,verb,/ka̠mo̞k̚/,ɶop,prison,abschob,de,verb,/ˈʔapˌʃoːp/,ɶop,shot
+uncut,en,adjective,/ˌənˈkət/,əməp,uncut,zăngăt,ro,noun,/zənɡət/,əməp,clashes
+telanjang,id,adjective,/təlandʒaŋ/,əɶmɶm,naked,吃晚饭,zh-cn,noun,/ʈʂʰɚ˥˥ wan˨˩˦ fan˥˩/,əɶmɶm,have dinner
+honks,en,verb,/ˈhɔŋks/,ɔmpϕ,honks,Fonts,de,noun,/ˈfɔnts/,ɔmpϕ,Font
+kiwis,en,verb,/ˈkiwiz/,yyβ,kiwis,hiñid,es,adjective,/iɲið/,yyβ,Hiñid.
+朗朗,ja,adjective,/ɾoɯɾoɯ/,ouou,sonorous,고들고들,ko,noun,/ko̞dɯɭɡo̞dɯɭ/,ouou,Gobs
+ledern,de,verb,/ˈleːdɛɾn/,øœm,leather,베냉,ko,noun,/pe̞nɛ̝ŋ/,øœm,Benin
+바느질,ko,verb,/pa̠nɯd͡ʑiɭ/,ɶuby,Sewing,サウジ,ja,noun,/saɯdʑi/,ɶuby,Saudi
+genäht,de,verb,/gəˈnɛt/,əœp,sewing,abbett,en,noun,/əˈbɛt/,əœp,abbett
+kamal,en,adjective,/ˈkeɪməɫ/,øʏə,kamal,böhmische,de,adjective,/ˈbømɪʃə/,øʏə,bohemian
+reagieren,de,verb,/ʁeaˈɡiːʁən/,øɶyəm,react,realizăm,ro,noun,/realizəm/,øɶyəm,realize
+react,en,verb,/ɹiˈækt/,ypp,react,tick,es,noun,/tikk/,ypp,tick
+반응,ko,verb,/pa̠nɯŋ/,ɶum,reaction,atún,es,verb,/aˈtun/,ɶum,tuna
+final,en,adjective,/ˈfaɪnəɫ/,ɶʏə,final,abrichte,de,verb,/ˈʔapˌɾɪçtə/,ɶʏə,retrieval
+静か,ja,adjective,/ɕizɯka/,yuɶ,quiet,媳妇儿,zh-cn,noun,/ɕi˧˥ fu˧ aɻ˧/,yuɶ,young married woman
+焊接,zh-cn,verb,/xan˥˩ tɕjɛ˥˥/,ɶmpœ,welding,담채,ko,noun,/ta̠mt͡ɕʰɛ̝/,ɶmpœ,Fabric
+가하다,ko,adjective,/ka̠ɦa̠da̠/,ɶɶɶ,inflict,ababa,es,verb,/aβaβa/,ɶɶɶ,Ababa
+mabuk,id,verb,/mabuʔ/,ɶub,drunk,adjud,ro,adjective,/adʒud/,ɶub,Adjud
+仔细,zh-cn,verb,/tsɯ˨˩˦ ɕi˥˩/,puy,careful,ツイン,ja,noun,/tsɯiɴ/,puy,twin
+tonal,en,adjective,/ˈtoʊnəɫ/,oʊə,tonal,丢失,zh-cn,verb,/tjoʊ˥˥ ʂɚ˥˥/,oʊə,Lose
+lifer,en,verb,/ˈɫaɪfɝ/,ɶʏə,lifer,发薪日,zh-cn,noun,/fa˥˥ ɕɪn˥˥ ʐɚ˥˩/,ɶʏə,Payday
+加重,zh-cn,verb,/tɕja˥˥ ʈʂʊŋ˥˩/,pɶʊm,Aggravation,kapaun,en,noun,/ˈkæpaʊn/,pɶʊm,kapaun
+sedap,id,adjective,/sədap/,əɶp,Sough,băgat,ro,verb,/bəɡat/,əɶp,involved
+파견,ko,adjective,/pʰa̠ɡjʌ̹n/,ɶɔm,dispatch,Nashorn,de,noun,/ˈnasɔɾn/,ɶɔm,rhino
+nicer,en,adjective,/ˈnaɪsɝ/,ɶʏə,nicer,发薪日,zh-cn,noun,/fa˥˥ ɕɪn˥˥ ʐɚ˥˩/,ɶʏə,Payday
+조율,ko,verb,/t͡ɕo̞juɭ/,pou,tuning,咋呼,zh-cn,noun,/tsɤ˧˥ xu˥˥/,pou,show off
+sneed,en,verb,/ˈsnid/,ϕyb,sneed,frig,ro,noun,/friɡ/,ϕyb,cold
+躲避,zh-cn,verb,/tuɔ˨˩˦ pi˥˩/,uɔy,Avoid,금어기,ko,noun,/kɯmʌ̹ɡi/,uɔy,Fabric
+eskapi,eo,verb,/eskapi/,øϕɶy,to escape,déflasi,id,noun,/deflasi/,øϕɶy,deflation
+甘い,ja,adjective,/amai/,ɶɶy,sweet,abadi,id,noun,/abadi/,ɶɶy,Abadi
+manis,id,adjective,/manis/,ɶyϕ,sweet,afif,ro,noun,/afif/,ɶyϕ,Afifi
+sweet,en,adjective,/ˈswit/,ϕyp,sweet,flit,ro,adjective,/flit/,ϕyp,flit
+높은,ko,adjective,/no̞pʰɯn/,oum,High,común,es,adjective,/koˈmun/,oum,common
+tinggi,id,adjective,/tiŋgi/,ymy,high,chianti,en,noun,/tʃiˈænti/,ymy,chianti
+강조,ko,verb,/ka̠ŋd͡ʑo̞/,ɶmbo,emphasis,ambló,es,verb,/aˈmblo/,ɶmbo,Ambló
+질의,ko,verb,/t͡ɕiɾɰi/,pyy,vaginal,ciri,eo,noun,/t͡siri/,pyy,ciri
+kasta,id,verb,/kasta/,ɶϕɶ,caste,astai,ro,adjective,/astaj/,ɶϕɶ,it
+caste,en,verb,/ˈkæst/,pϕp,caste,Pfg,de,noun,/ˈpfk/,pϕp,Pfg
+kasto,eo,verb,/kasto/,ɶϕo,Caste,fiasco,ro,noun,/fjasko/,ɶϕo,fiasco
+카스트,ko,verb,/kʰa̠sʰɯtʰɯ/,ɶuu,caste,aluviu,ro,adjective,/aluvju/,ɶuu,Aluviu
+撒谎,zh-cn,verb,/sa˥˥ xwɑŋ˨˩˦/,ɶϕɑm,lie,Nachahmer,de,noun,/ˈnaxˌʔɑmɐ̯/,ɶϕɑm,Imitator
+그리다,ko,verb,/kɯɾida̠/,uyɶ,draw,budinya,id,noun,/budiɲa/,uyɶ,his beli
