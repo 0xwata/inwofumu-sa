@@ -72,6 +72,8 @@ class Translate:
             print("TypeError", e)
         except httpcore._exceptions.ConnectTimeout as e:
             print("httpcore._exceptions.ConnectTimeout")
+        except AttributeError as e:
+            print("AttributeError")
         return translated_word
 
     def translate_to_english_by_language(self, word: str, lang: str) -> str:

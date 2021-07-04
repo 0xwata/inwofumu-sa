@@ -2,7 +2,8 @@ from nltk import tokenize
 from adjective_noun_pair import AdjectiveNounPairSelector
 from tokenizer import Tokenizer, TokenizerSpacy
 from translate import Translate
-from ipa_match_word_searcher import IpaMatchWordSearcher, new_format_for_ipa_rhyme, convert_to_target_vowels_consonents_for_rhyme
+# from ipa_match_word_searcher import IpaMatchWordSearcher, new_format_for_ipa_rhyme, convert_to_target_vowels_consonents_for_rhyme
+from ipa_match_word_searcher_v2 import IpaMatchWordSearcher, new_format_for_ipa_rhyme, convert_to_target_vowels_consonents_for_rhyme
 import random
 import csv
 import datetime

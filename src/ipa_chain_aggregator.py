@@ -198,26 +198,31 @@ def ipa_chain_aggregator():
     group_next_word_index_noun = []
     group_next_word_index_adjective = []
     match_full_pair_count = 0
-    for i, row_i in df_concat_d_r.iterrows():
-        query_word_ipa_edited_vowel = row_i.word_ipa_edited_vowel
-        query_word = row_i.word
-        query_lang = row_i.word_lang
+    df_concat_d_r_word_lang = df_concat_d_r.word_lang
+    df_concat_d_r_word= df_concat_d_r.word
+    df_concat_d_r_word_ipa_edited_vowel = df_concat_d_r.word_ipa_edited_vowel
+    df_concat_d_r_word_pos = df_concat_d_r.word_pos
+
+    for idx_i in range(df_concat_d_r.shape[0]):
+        query_word_ipa_edited_vowel = df_concat_d_r_word_ipa_edited_vowel.iloc[idx_i]
+        query_word = df_concat_d_r_word.iloc[idx_i]
+        query_lang = df_concat_d_r_word_lang.iloc[idx_i]
 
         next_word_index_verb = []
         next_word_index_noun = []
         next_word_index_adjective = []
         match_count = 0
-        for j, row_j in df_concat_d_r.iterrows():
-            if row_j.word == query_word or row_j.word_lang == query_lang:
+        for idx_j in range(df_concat_d_r.shape[0]):
+            if df_concat_d_r_word.iloc[idx_j] == query_word or df_concat_d_r_word_lang.iloc[idx_j] == query_lang:
                 continue
 
-            if set_word_last_n_char(create_new_format(row_j.word_ipa_edited_vowel)) == set_word_last_n_char(query_word_ipa_edited_vowel):
-                if row_j.word_pos == "verb":
-                    next_word_index_verb.append(str(j))
-                elif row_j.word_pos == "adjective":
-                    next_word_index_adjective.append(str(j))
+            if set_word_last_n_char(create_new_format(df_concat_d_r_word_ipa_edited_vowel.iloc[idx_j])) == set_word_last_n_char(query_word_ipa_edited_vowel):
+                if df_concat_d_r_word_pos.iloc[idx_j] == "verb":
+                    next_word_index_verb.append(str(idx_j))
+                elif df_concat_d_r_word_pos.iloc[idx_j] == "adjective":
+                    next_word_index_adjective.append(str(idx_j))
                 else: # row_j.pos == noun
-                    next_word_index_noun.append(str(j))
+                    next_word_index_noun.append(str(idx_j))
                 match_count += 1
 
         if len(next_word_index_verb) >= 3 and \
@@ -233,14 +238,15 @@ def ipa_chain_aggregator():
         group_next_word_index_adjective.append(":".join(next_word_index_adjective))
         group_next_word_index_noun.append(":".join(next_word_index_noun))
 
-        print(f"next i->{i+1}")
+        output_count += 1
+        print(f"next i->{output_count+1}")
 
     df_concat_d_r["next_word_index_verb"] = group_next_word_index_verb
     df_concat_d_r["next_word_index_adjective"] = group_next_word_index_adjective
     df_concat_d_r["next_word_index_noun"] = group_next_word_index_noun
     df_concat_d_r[output_column]
 
-    df_concat_d_r.to_csv(f'../output/final/spacy_match-word-augumentation/{len(df_concat_d_r)}_without_collocations.csv')
+    df_concat_d_r.to_csv(f'../output/final/final/output.csv')
     print(f"finish writing output to csv/ {len(df_concat_d_r)}")
     print(f"{match_full_pair_count} / {len(df_concat_d_r)}")
 

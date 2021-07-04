@@ -184,6 +184,7 @@ class IpaMatchWordSearcher:
         for lang in search_lang_li:
             print(LOG_INFO_DEBUG + LOG_INFO_DEBUG_CLASS_NAME + f"探索言語：{lang}")
             ipa_li = self.lang_to_ipa_li_for_search[lang]
+            random.shuffle(ipa_li)
             for line in ipa_li:
                 # line[0]:単語 line[1]:IPA
 
