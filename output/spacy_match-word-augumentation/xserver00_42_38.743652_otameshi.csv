@@ -1,0 +1,253 @@
+request_word,request_lang,request_pos,request_ipa,request_ipa_formatted,request_word_en,response_word,response_lang,response_pos,response_ipa,response_ipa_formatted,response_word_en
+great,en,adjective,/ˈɡɹeɪt/,øʏb,great,أيك,ar,adjective,/ʔeɪk/,øʏb,Ike
+큰,ko,adjective,/kxɯn/,bum,large,blum,ro,noun,/blum/,bum,Blum
+开始,zh-cn,verb,/kʰaɪ˥˥ ʂɚ˨˩˦/,ɶʏə,begin,abrichte,de,verb,/ˈʔapˌɾɪçtə/,ɶʏə,retrieval
+start,en,verb,/ˈstɑɹt/,bɑb,start,Flak,de,noun,/ˈflɑːk/,bɑb,Flak
+스타트,ko,verb,/sʰɯtʰa̠tʰɯ/,uɶu,start,búfjár,is,noun,/puːfjaur/,uɶu,livestock
+이야기,ko,verb,/ija̠ɡi/,yɶy,story,disuadí,es,adjective,/diswaˈði/,yɶy,dissuade
+berbicara,id,verb,/bərbitʃara/,əyɶɶ,Speaking,أشبك,ar,verb,/ʔaʃibaka/,ɶyɶɶ,Ask
+paroli,eo,verb,/paroli/,ɶoy,talk,가로띠,ko,noun,/ka̠ɾo̞t͈i/,ɶoy,Horizontal
+acceptable,en,adjective,/ækˈsɛptəbəɫ/,æbœbəə,acceptable,abmeldete,de,verb,/ˈʔapˌmɛldətə/,ɶbœbəə,unsubscribe
+燃やす,ja,verb,/mojasɯ/,oɶu,burn,교환율,ko,noun,/kjoβwa̠ɲjuɭ/,oɶu,Exchange rate
+brennen,de,verb,/ˈbʀɛnən/,œəm,burn,仙人,zh-cn,noun,/ɕjɛn˥˥ ʐən˧˥/,œəm,Cactus
+meningkatkan,id,verb,/məniŋkatkan/,əymɶbɶm,Upgrade,einfaldan,is,adjective,/einfaltan/,øymɶbɶm,solitary
+升级,zh-cn,verb,/ʂɤŋ˥˥ tɕi˧˥/,omby,upgrade,komppi,fi,adjective,/ˈkomppi/,omby,firm
+karut,id,verb,/karut/,ɶub,Karut.,alud,es,verb,/aluð/,ɶub,avalanche
+muddled,en,verb,/ˈmədəɫd/,əəb,muddled,begehrt,de,verb,/bəgəˈhɾt/,əəb,sought-after
+pengembaraan,id,verb,/pəŋəmbaraʔan/,əəmɶɶɶm,odyssey,السرياوران,ar,noun,/aːlsarjaːwaraːn/,ɶbɶɶɶɶm,Sirawan
+徘徊,zh-cn,verb,/pʰaɪ˧˥ xuaɪ˧˥/,ɶʏuɶʏ,Hover,aðbúnaði,is,noun,/aðpunaðɪ/,ɶbuɶʏ,facilities
+방랑,ko,verb,/pa̠ŋna̠ŋ/,ɶmɶm,wandering,camgarn,ro,noun,/kamɡarn/,ɶmɶm,Camarn
+lembut,id,adjective,/ləmbut/,əmub,soft,compute,en,verb,/kəmˈpjut/,əmub,compute
+soft,en,adjective,/ˈsɑft/,ɑbb,soft,atk,fi,verb,/ɑtk/,ɑbb,computing
+柔らかい,ja,adjective,/jaɰᵝaɾakai/,ɶɶɶɶy,soft,갓난아이,ko,noun,/ka̠nna̠na̠i/,ɶmɶɶy,Bag
+꼭지,ko,verb,/k͈o̞k̚t͡ɕ͈i/,obby,tap,nopți,ro,noun,/noptsʲ/,obby,nights
+keran,id,verb,/kəran/,əɶm,tap,băcan,ro,noun,/bəkan/,əɶm,grocer
+memberikan,id,verb,/məmbərikan/,əməyɶm,give,contrefichâmes,fr,noun,/kɔ̃tʁəfiʃam/,ɔbəyɶm,counterflices
+geben,de,verb,/ˈɡeːbən/,øəm,give,cedăm,ro,verb,/tʃedəm/,øəm,yield
+与える,ja,verb,/ataeɾɯ/,ɶɶøu,give away,구상예술,ko,noun,/kusʰa̠ŋje̞sʰuɭ/,uɶøu,Flag Art
+未遂,zh-cn,verb,/weɪ˥˩ sweɪ˥˩/,øʏøʏ,Not attempted,Gufunesi,is,noun,/kʏːvʏneːsɪ/,ʏʏøʏ,Gufunesi
+낙하산,ko,adjective,/na̠kʰa̠sʰa̠n/,ɶɶɶm,parachute,makadam,sv,noun,/makad'amː/,ɶɶɶm,macadam
+gagal,id,adjective,/gagal/,ɶɶb,failed,ác hại,vi,noun,/ak˦˥ haj˨ˀ˩ʔ/,ɶɶb,malign
+receive,en,verb,/ɹəˈsiv/,əyb,receive,cerise,fr,noun,/səʁiz/,əyb,cherry
+menerima,id,verb,/mənərima/,əəyɶ,receive,chưa chi đã,vi,adjective,/cɯə˧˥ ci˧˥ da˧˩˨/,uəyɶ,unprepared
+ricevi,eo,verb,/rit͡sevi/,ybøy,receive,discerní,es,noun,/disθeˈɾni/,ybøy,discerni
+届ける,ja,verb,/todokeɾɯ/,ooøu,deliver,보호세율,ko,noun,/po̞βo̞sʰe̞juɭ/,ooøu,Protection rate
+받다,ko,verb,/pa̠t̚t͈a̠/,ɶbɶ,Receive,afla,is,verb,/apla/,ɶbɶ,provide
+ilmiah,id,adjective,/ilmiah/,ybyɶ,scientific,biscuita,fr,noun,/biskɥita/,ybyɶ,cookies
+과학자,ko,adjective,/kwa̠ɦa̠k̚t͡ɕ͈a̠/,ɶɶbbɶ,Scientist,أدلك,ar,verb,/ʔadallka/,ɶɶbbɶ,I know
+重さ,ja,adjective,/omosa/,ooɶ,weight,châu chấu ma,vi,noun,/cɤ̆w˧˥ cɤ̆w˩˧ ma˧˥/,ooɶ,ghost grasshopper
+wiegen,de,verb,/ˈviːɡən/,yəm,to weigh,bay chuyền,vi,verb,/băj˧˥ cwiəŋ˦˨/,yəm,flying
+sagen,de,verb,/zaːɡən/,ɶəm,say,boacăn,ro,noun,/bŏakən/,ɶəm,Boagan
+menceritakan,id,verb,/məntʃəritakan/,əməyɶɶm,Tellee,القائمقام,ar,noun,/aːlqaːʔimaqaːm/,ɶbɶyɶɶm,The capacity
+matang,id,adjective,/mataŋ/,ɶɶm,mature,aban,es,verb,/aβan/,ɶɶm,ABAN.
+ripe,en,adjective,/ˈɹaɪp/,ɶʏb,ripe,angick,sv,noun,/²'anːjɪkː/,ɶʏb,Angick.
+matura,eo,adjective,/matura/,ɶuɶ,mature,aboucha,fr,noun,/abuʃa/,ɶuɶ,aboucha
+익은,ko,adjective,/iɡɯn/,yum,ripe,bi-tum,vi,noun,/bi˧˥-tum˧˥/,yum,Bi-tum
+gagal,id,verb,/gagal/,ɶɶb,failed,abad,es,noun,/aβað/,ɶɶb,abbot
+失败,zh-cn,verb,/ʂɚ˥˥ paɪ˥˩/,əɶʏ,failure,Bereich,de,noun,/bəˈʀaɪ̯ç/,əɶʏ,Area
+슬픔,ko,verb,/sʰɯɭpʰɯm/,uum,sadness,heung-yeung,en,noun,/ˈhuŋˈjuŋ/,uum,heung-yeung
+悲しみ,ja,adjective,/kanaɕimi/,ɶɶyy,sorrow,amasigi,eo,verb,/amasigi/,ɶɶyy,to accumulate
+悲伤,zh-cn,verb,/peɪ˥˥ ʂɑŋ˥˥/,øʏɑm,sad,aegon,en,noun,/ˈeɪɡɑn/,øʏɑm,aegon
+grieving,en,verb,/ˈɡɹivɪŋ/,yʏm,grieving,bílinn,is,noun,/piːlɪn/,yʏm,the car
+计算,zh-cn,verb,/tɕi˥˩ swan˥˩/,byɶm,Calculate,bridâmes,fr,noun,/bʁidam/,byɶm,bridle
+berechnen,de,verb,/bəˈɾɛçnən/,əœəm,to calculate,affection,en,noun,/əˈfɛkʃən/,əœəm,affection
+계산하다,ko,verb,/kje̞sʰa̠nɦa̠da̠/,øɶɶɶ,Calculate,anagrama,ro,noun,/anaɡrama/,ɶɶɶɶ,anagram
+menghitung,id,verb,/məŋhituŋ/,əyum,calculate,honeymoon,en,noun,/ˈhəniˌmun/,əyum,honeymoon
+compute,en,verb,/kəmˈpjut/,əmub,compute,bentuk,id,noun,/bəntuʔ/,əmub,form
+멋진,ko,adjective,/mʌ̹t̚t͡ɕ͈in/,ɔbbym,Cool,học chính,vi,adjective,/hɔk͡p˨ˀ˩ʔ cin˩˧/,ɔbbym,major
+swanky,en,adjective,/ˈswɑŋki/,ɑmy,swanky,上帝,zh-cn,noun,/ʂɑŋ˥˩ ti˥˩/,ɑmy,God
+repeat,en,verb,/ɹiˈpit/,yyb,repeat,إبريز,ar,adjective,/ʔibriːz/,yyb,Brief
+繰り返す,ja,verb,/kɯɾikaesɯ/,uyɶøu,repeat,반발계수,ko,adjective,/pa̠nba̠ɭɡje̞sʰu/,ɶmɶøu,Rebel coefficient
+ulang,id,verb,/ulaŋ/,uɶm,Repeat,أشنان,ar,noun,/ʔuʃnaːn/,uɶm,potash
+반복,ko,verb,/pa̠nbo̞k̚/,ɶmob,repeat,banloc,ro,noun,/banlok/,ɶmob,Banloc
+若々しい,ja,adjective,/ɰᵝakaɰᵝakaɕii/,ɶɶɶɶyy,Youthful,الأراتيقي,ar,adjective,/aːlʔaraːtiːqijj/,ɶbɶɶyy,Aromatic
+youthful,en,adjective,/ˈjuθfəɫ/,ubə,youthful,buhlte,de,verb,/ˈbultə/,ubə,floor
+젊은,ko,adjective,/t͡ɕʌ̹ɭmɯn/,bɔum,young,storeroom,en,noun,/ˈstɔɹˌɹum/,bɔum,storeroom
+年轻,zh-cn,verb,/njɛn˧˥ tɕʰɪŋ˥˥/,œmbʏm,young,dönskum,is,adjective,/tœnskʏm/,œmbʏm,Danish
+自私,zh-cn,verb,/tsɯ˥˩ sɯ˥˥/,buu,selfish,skohorn,sv,verb,/²sk'uːhuːɳ/,buu,shoehorn
+egoisma,eo,adjective,/egoisma/,øoybɶ,selfish,promulgua,fr,noun,/pʁomylga/,boybɶ,Promulgua
+antikva,eo,adjective,/antikva/,ɶmybɶ,ancient,دانتيلا,ar,noun,/daːntiːllaː/,ɶmybɶ,Dantella
+alte,de,adjective,/ˈʔalte/,ɶbø,old,aktör,sv,noun,/akt'øːr/,ɶbø,actor
+telanjang,id,adjective,/təlandʒaŋ/,əɶmɶm,naked,吃晚饭,zh-cn,noun,/ʈʂʰɚ˥˥ wan˨˩˦ fan˥˩/,əɶmɶm,have dinner
+없는,ko,adjective,/ʌ̹mnɯn/,ɔmum,Do not have,Konsum,de,noun,/kɔnˈzuːm/,ɔmum,consumption
+catatan,id,verb,/tʃatatan/,ɶɶɶm,Note,ababan,es,verb,/aβaβan/,ɶɶɶm,Abano.
+note,en,verb,/ˈnoʊt/,oʊb,note,Bonus,de,noun,/ˈboːnʊs/,oʊb,bonus
+distribui,eo,verb,/distribui/,ybyuy,distribute,أندريوتي,ar,noun,/ʔandriːuːtiː/,ɶmyuy,Andrew
+verteilen,de,verb,/fɛʁˈtaɪ̯lən/,œbɶʏəm,to distribute,太白粉,zh-cn,noun,/tʰaɪ˥˩ paɪ˧˥ fən˨˩˦/,ɶʏɶʏəm,Too white powder
+distribute,en,verb,/dɪˈstɹɪbjut/,ʏbʏub,distribute,frystihús,is,verb,/frɪstɪhuːs/,ʏbʏub,freezing
+배포하다,ko,verb,/pɛ̝pʰo̞ɦa̠da̠/,œoɶɶ,publish,ăm-bờ-ra-da,vi,noun,/ăm˧˥-bɤ˦˨-ʐa˧˥-ja˧˥/,moɶɶ,Five-coast-skin
+mendistribusikan,id,verb,/məndistribusikan/,əmybyuyɶm,distribute,細胞小器官,ja,noun,/saiboɯɕoɯkikaɴ/,ɶyououyɶm,Cell organ
+乐观,zh-cn,verb,/lɤ˥˩ kwan˥˥/,oɶm,optimism,gå an,sv,verb,/goːr'anː/,oɶm,Go AN.
+upbeat,en,adjective,/ˈəpˌbit/,əbyb,upbeat,Belgiers,de,noun,/bəˈlgiːɾs/,əbyb,Belgian
+添加,zh-cn,verb,/tʰjɛn˥˥ tɕja˥˥/,œmbɶ,Add to,nghẹn ngào,vi,verb,/ŋɛŋ˨ˀ˩ʔ ŋaw˦˨/,œmbɶ,choked
+더하다,ko,verb,/tʌ̹ɦa̠da̠/,ɔɶɶ,add,bon-papa,fr,verb,/bɔ̃papa/,ɔɶɶ,dug
+작은,ko,adjective,/t͡ɕa̠ɡɯn/,bɶum,small,klám,is,noun,/kʰlauːm/,bɶum,pornography
+mungil,id,adjective,/muŋil/,uyb,tiny,forntid,sv,noun,/²f'uːɳʈiːd/,uyb,antiquity
+tiny,en,adjective,/ˈtaɪni/,ɶʏy,tiny,Heidi,de,noun,/ˈhaɪ̯di/,ɶʏy,Heidi
+forgive,en,verb,/fɝˈɡɪv/,əʏb,forgive,Begriff,de,noun,/bəˈɡʀɪf/,əʏb,term
+용서하다,ko,verb,/joŋsʰʌ̹ɦa̠da̠/,omɔɶɶ,Forgive,"có rau ăn rau, có cháo ăn cháo",vi,noun,/kɔ˩˧ ʐăw˧˥ ăŋ˧˥ ʐăw˧˥ kɔ˩˧ caw˩˧ ăŋ˧˥ caw˩˧/,ɔmɔɶɶ,"There are vegetables with vegetables, porridge"
+許す,ja,verb,/jɯɾɯsɯ/,uuu,forgive,tururú,es,noun,/tuɾuˈɾu/,uuu,Tourhood
+memaafkan,id,verb,/məmaʔafkan/,əɶɶbɶm,forgive,placardâmes,fr,noun,/plakaʁdam/,bɶɶbɶm,closet
+verzeihen,de,verb,/fɛɐ̯ˈtsaɪ̯ən/,œɐbɶʏəm,forgive,倒不开身,zh-cn,verb,/tɑʊ˨˩˦ pu˧ kʰaɪ˥˥ ʂən˥˥/,ɑʊuɶʏəm,Do not open
+原谅,zh-cn,verb,/ɥœn˧˥ ljɑŋ˥˩/,œmɑm,forgive,embalm,en,noun,/ɛmˈbɑm/,œmɑm,embalm
+mortiga,eo,adjective,/mortiga/,oyɶ,lethal,お久,ja,noun,/oçisa/,oyɶ,Achure
+阐明,zh-cn,verb,/ʈʂʰan˨˩˦ mɪŋ˧˥/,ɶmʏm,Clarify,anging,de,verb,/ˈʔanˌgɪŋ/,ɶmʏm,fingering
+menjelaskan,id,verb,/məndʒəlaskan/,əməɶbɶm,explain,entrelardâmes,fr,verb,/ɑ̃tʁəlaʁdam/,ɑbəɶbɶm,interlude
+밝히다,ko,verb,/pa̠ɭkçida̠/,ɶyɶ,clarify,abría,es,verb,/aˈβɾia/,ɶyɶ,opened
+klären,de,verb,/ˈklɛːɾən/,bœəm,clarify,skelton,en,noun,/ˈskɛɫtən/,bœəm,skelton
+clarify,en,verb,/ˈkɫɛɹəˌfaɪ/,œəɶʏ,clarify,Hehlerei,de,noun,/ˌheːləˈʁaɪ̯/,øəɶʏ,Hot
+明らかにする,ja,adjective,/akiɾakanisɯɾɯ/,ɶyɶɶyuu,Clarify,바이올리니스트,ko,noun,/pa̠io̞ɭʎinisʰɯtʰɯ/,ɶyoyyuu,fiddler
+terang,id,adjective,/təraŋ/,əɶm,light,伸展,zh-cn,verb,/ʂən˥˥ ʈʂan˨˩˦/,əɶm,stretch
+明るい,ja,adjective,/akaɾɯi/,ɶɶuy,bright,desaturdí,es,verb,/desatuˈɾði/,øɶuy,desaturred
+bright,en,adjective,/ˈbɹaɪt/,ɶʏb,bright,angick,sv,noun,/²'anːjɪkː/,ɶʏb,Angick.
+upset,en,adjective,/ˈəpˌsɛt/,əbœb,upset,chevrette,fr,noun,/ʃəvʁɛt/,əbœb,chevret
+menepuk,id,verb,/mənəpuʔ/,əəub,tapping,băbăluc,ro,noun,/bəbəluk/,əəub,blaze
+찰싹,ko,verb,/t͡ɕʰa̠ɭs͈a̠k̚/,bɶɶb,slap,plakat,id,noun,/plakat/,bɶɶb,Plaque
+schlagen,de,verb,/ˈʃlaːɡən/,ɶəm,beat,adem,id,adjective,/adəm/,ɶəm,cool
+berhubungan,id,verb,/bərhubuŋan/,əuuɶm,related,아무르강,ko,noun,/a̠muɾɯɡa̠ŋ/,ɶuuɶm,Amur steel
+relate,en,verb,/ɹiˈɫeɪt/,yøʏb,relate,بأيد,ar,verb,/biʔeɪd/,yøʏb,Hand
+涉及,zh-cn,verb,/ʂɤ˥˩ tɕi˧˥/,oby,Involve,boksi,fi,verb,/ˈboksi/,oby,digs
+말하다,ko,verb,/ma̠ɾɦa̠da̠/,ɶɶɶ,say,Kanada,de,noun,/ˈkanada/,ɶɶɶ,Canada
+vasta,eo,adjective,/vasta/,ɶbɶ,Extensive,Abmarsch,de,noun,/ˈʔapˌmaɾʃ/,ɶbɶ,Departure
+luas,id,adjective,/luas/,uɶb,large,bouchasse,fr,adjective,/buʃas/,uɶb,bouchasse
+届ける,ja,verb,/todokeɾɯ/,ooøu,deliver,kirjopesu,fi,noun,/ˈkirjoˌpesu/,yoøu,soup
+liveri,eo,verb,/liveri/,yøy,to deliver,hihhei,fi,noun,/ˈhihhei/,yøy,belt
+递送,zh-cn,verb,/ti˥˩ sʊŋ˥˩/,yʊm,deliver,Biegung,de,noun,/ˈbiːgʊŋ/,yʊm,Bend
+deliver,en,verb,/dɪˈɫɪvɝ/,ʏʏə,deliver,brüchige,de,adjective,/ˈbrʏçɪgə/,ʏʏə,brittle
+制作,zh-cn,verb,/ʈʂɚ˥˩ tsuɔ˥˩/,əbuɔ,Make,rebroussions,fr,noun,/ʁəbʁusjɔ̃/,əbuɔ,rebroussions
+machen,de,verb,/ˈmaxən/,ɶəm,do,下沉,zh-cn,verb,/ɕja˥˩ ʈʂʰən˧˥/,ɶəm,sink
+make,en,verb,/ˈmeɪk/,øʏb,make,أيك,ar,adjective,/ʔeɪk/,øʏb,Ike
+upbeat,en,adjective,/ˈəpˌbit/,əbyb,upbeat,Belgiers,de,noun,/bəˈlgiːɾs/,əbyb,Belgian
+乐观,zh-cn,verb,/lɤ˥˩ kwan˥˥/,oɶm,optimism,Koran,de,noun,/koˈʁaːn/,oɶm,Koran
+percepti,eo,adjective,/pert͡septi/,øbøby,perceive,éksépsi,id,noun,/eʔsepsi/,øbøby,exception
+인식하다,ko,adjective,/inɕʰikʰa̠da̠/,ymyɶɶ,Cognize,إنديانا,ar,noun,/ʔindiːaːnaː/,ymyɶɶ,Indiana
+melihat,id,adjective,/məlihat/,əyɶb,look,cheminasse,fr,noun,/ʃəminas/,əyɶb,culmination
+perceive,en,adjective,/pɝˈsiv/,əyb,perceive,băcit,ro,adjective,/bətʃit/,əyb,hungry
+meminjamkan,id,verb,/məmindʒamkan/,əymɶmɶm,lend,一心三観,ja,noun,/iɕːiɴsaɴgaɴ/,yymɶmɶm,Three sights
+lend,en,verb,/ˈɫɛnd/,œmb,lend,bent,is,adjective,/pɛn̥t/,œmb,imprent
+属する,ja,verb,/ɕokɯsɯɾɯ/,ouuu,Belong,乐不思蜀,zh-cn,noun,/lɤ˥˩ pu˥˩ sɯ˥˥ ʂu˨˩˦/,ouuu,Don't think about it
+belong,en,verb,/bɪˈɫɔŋ/,ʏɔm,belong,Ichform,de,noun,/ˈʔɪçfɔɾm/,ʏɔm,Ichform
+gehören,de,verb,/gəˈhøːɾən/,əøəm,belong,menéken,id,adjective,/mənekən/,əøəm,Menéken
+있다,ko,verb,/it̚t͈a̠/,ybɶ,have,hyvla,sv,noun,/²h'yːvla/,ybɶ,plane
+termasuk,id,verb,/tərmasuʔ/,əɶub,including,băiatul,ro,noun,/bəjatul/,əɶub,boy
+menuliskan,id,verb,/mənuliskan/,əuybɶm,write,بتركستان,ar,noun,/biturkistaːn/,yuybɶm,Punctan
+menyesap,id,verb,/məɲəsap/,əəɶb,sip,căpătat,ro,verb,/kəpətat/,əəɶb,received
+abadi,id,adjective,/abadi/,ɶɶy,Abadi,آتزر,ar,verb,/aːtazir/,ɶɶy,wear
+perpetual,en,adjective,/pɝˈpɛtʃuəɫ/,əœuə,perpetual,建筑师,zh-cn,noun,/tɕjɛn˥˩ ʈʂu˥˩ ʂɚ˥˥/,bœuə,architect
+porĉiama,eo,adjective,/port͡ʃiama/,oyɶɶ,perpetual,أشبك,ar,verb,/ʔaʃibaka/,ɶyɶɶ,Ask
+높이다,ko,verb,/no̞pʰida̠/,oyɶ,heighten,fobia,id,noun,/fobia/,oyɶ,Fobia
+pleasant,en,adjective,/ˈpɫɛzənt/,œəmb,pleasant,Bettchens,de,noun,/ˈbɛtçəns/,œəmb,Bedside
+nyaman,id,adjective,/ɲaman/,ɶɶm,comfortable,Adam,eo,noun,/adam/,ɶɶm,Adam
+stale,en,adjective,/ˈsteɪɫ/,bøʏ,stale,伜,zh-cn,noun,/tsʰweɪ˥˩/,bøʏ,Bamboo
+陈旧,zh-cn,adjective,/ʈʂʰən˧˥ tɕjoʊ˥˩/,əmboʊ,obsolete,huntco,en,noun,/ˈhəntkoʊ/,əmboʊ,huntco
+receptive,en,adjective,/ɹiˈsɛptɪv/,yœbʏb,receptive,Schmiedestück,de,noun,/ˈʃmiːdɛstʏk/,yœbʏb,Forging
+mengembangkan,id,verb,/məŋəmbaŋkan/,əəmɶmɶm,develop,thuyền tam bản,vi,noun,/tʰwiəŋ˦˨ tam˧˥ baŋ˧˩˨/,yəmɶmɶm,tamboat
+develop,en,verb,/dɪˈvɛɫəp/,ʏœəb,develop,füttertet,de,verb,/ˈfʏtɛɾtət/,ʏœəb,fed
+curang,id,verb,/tʃuraŋ/,uɶm,Alaveness,bức hàng,vi,noun,/bɯk˦˥ haŋ˦˨/,uɶm,bundle
+欺骗,zh-cn,verb,/tɕʰi˥˥ pʰjɛn˥˩/,byœm,deceive,Fliedern,de,noun,/ˈfliːdɛɾn/,byœm,Lilulously
+betrügen,de,verb,/bəˈtʁyː.ɡən/,əbyəm,cheat,fustian,en,adjective,/ˈfəsˌtiən/,əbyəm,fustian
+berpendidikan,id,verb,/bərpəndidikan/,əəmyyɶm,educated,Maximilian,de,noun,/mɑksimilian/,ɑbyyyɶm,Maximilian
+gebildet,de,verb,/gəˈbɪldət/,əʏbəb,educated,forgiveness,en,noun,/fɝˈɡɪvnəs/,əʏbəb,forgiveness
+silenta,eo,adjective,/silenta/,yømɶ,silent,이렛날,ko,noun,/iɾe̞nna̠ɭ/,yømɶ,Ireze Day
+silent,en,adjective,/ˈsaɪɫənt/,ɶʏəmb,silent,seiend,de,,/ˈzaɪ̯ənt/,ɶʏəmb,beyond
+diam,id,adjective,/diam/,yɶm,Silence,bihang,sv,noun,/²b'iːhaŋː/,yɶm,appendage
+괴롭히다,ko,adjective,/kø̞ɾo̞pʰida̠/,øoyɶ,bully,amonia,id,noun,/amonia/,ɶoyɶ,ammonia
+annoy,en,adjective,/əˈnɔɪ/,əɔʏ,annoy,Geräusch,de,noun,/ɡəˈʁɔʏ̯ʃ/,əɔʏ,noise
+保つ,ja,verb,/tamotsɯ/,ɶobu,keep,apoldu,ro,noun,/apoldu/,ɶobu,Apoldu
+保持,zh-cn,verb,/pɑʊ˨˩˦ ʈʂʰɚ˧˥/,ɑʊə,maintain,alura,en,noun,/ɑˈɫʊɹə/,ɑʊə,alura
+유지,ko,verb,/jud͡ʑi/,uby,maintain,أؤتي,ar,verb,/ʔuʔtiː/,uby,I come
+motionless,en,adjective,/ˈmoʊʃənɫəs/,oʊəəb,motionless,besungenes,de,adjective,/bəˈzʊŋənəs/,əʊəəb,agitation
+diam,id,adjective,/diam/,yɶm,Silence,귀감,ko,noun,/kɥiɡa̠m/,yɶm,Quease
+blöd,de,verb,/bløːt/,bøb,stupid,trắc nết,vi,noun,/ʈăk˦˥ net˦˥/,bøb,hussy
+stupid,en,adjective,/ˈstupəd/,buəb,stupid,bắt chước,vi,verb,/băk˦˥ cɯək˦˥/,buəb,copy
+愚か,ja,adjective,/oɾoka/,ooɶ,stupid,고도화,ko,noun,/ko̞do̞βwa̠/,ooɶ,Advancement
+stulta,eo,adjective,/stulta/,bubɶ,stupid,fluctuar,es,verb,/fluktwaɾ/,bubɶ,fluctuate
+bijaksana,id,adjective,/bidʒaʔsana/,yɶbɶɶ,wise,أحبك,ar,noun,/ʔaħabbaka/,ɶɶbɶɶ,I love you
+慎重,zh-cn,verb,/ʂən˥˩ ʈʂʊŋ˥˩/,əʊm,careful,rabourn,en,verb,/ɹəˈbʊɹn/,əʊm,rabourn
+discreet,en,adjective,/dɪsˈkɹit/,ʏbyb,discreet,skilvís,is,noun,/scɪlvis/,ʏbyb,depreciation
+waspada,id,adjective,/waspada/,ɶbɶɶ,alert,aclama,es,verb,/aklama/,ɶbɶɶ,Aclama.
+cautious,en,adjective,/ˈkɔʃəs/,ɔəb,cautious,Bockes,de,noun,/ˈbɔkəs/,ɔəb,Bock
+谨慎,zh-cn,verb,/tɕɪn˨˩˦ ʂən˥˩/,bʏəm,cautious,blichen,de,verb,/ˈplɪçən/,bʏəm,belly
+singarda,eo,adjective,/singarda/,ymɶɶ,cautious,hringana,is,noun,/r̥iŋkana/,ymɶɶ,rings
+imperfect,en,adjective,/ˌɪmˈpɝfɪkt/,ʏməʏbb,imperfect,hingewirkt,de,verb,/hɪngəˈvɪɾkt/,ʏməʏbb,steward
+singarda,eo,adjective,/singarda/,ymɶɶ,cautious,bintara,id,noun,/bintara/,ymɶɶ,Bintara
+waspada,id,adjective,/waspada/,ɶbɶɶ,alert,ác ma phái,vi,noun,/ak˦˥ ma˧˥ faj˩˧/,ɶbɶɶ,evil
+navigi,eo,verb,/navigi/,ɶyy,navigate,下地狱,zh-cn,noun,/ɕja˥˩ ti˥˩ y˥˩/,ɶyy,Hell
+navigate,en,verb,/ˈnævəˌɡeɪt/,æəøʏb,navigate,Gegengewicht,de,noun,/gəgəˈŋeːvɪçt/,əəøʏb,Counterweight
+탐색,ko,verb,/tʰa̠msʰɛ̝k̚/,ɶmœb,quest,an-két,vi,adjective,/aŋ˧˥-kɛk˦˥/,ɶmœb,An-safe
+덮개,ko,verb,/tʌ̹p̚k͈ɛ̝/,ɔbœ,cover,bolmört,sv,noun,/²b'ɔlːmœʈː/,ɔbœ,henbane
+penutup,id,verb,/pənutup/,əuub,Closing,sununu's,en,noun,/səˈnunuz/,əuub,sununu's
+覆盖,zh-cn,verb,/fu˥˩ kaɪ˥˩/,uɶʏ,cover,brookshire,en,verb,/ˈbɹukʃaɪɹ/,uɶʏ,brookshire
+taat,id,adjective,/taʔat/,ɶɶb,Oh,aðal,is,adjective,/aːðal/,ɶɶb,main
+dipompa,id,verb,/dipompa/,yomɶ,pumped,미용사,ko,noun,/mijoŋsʰa̠/,yomɶ,hairdresser
+pumped,en,verb,/ˈpəmpt/,əmbb,pumped,Bernds,de,noun,/bəˈɾnts/,əmbb,Bernds
+mengeluh,id,verb,/məŋəluh/,əəu,complain,知识库,zh-cn,noun,/ʈʂɚ˥˥ ʂɚ˧ kʰu˥˩/,əəu,knowledge base
+불평하다,ko,verb,/puɭpʰjʌ̹ŋɦa̠da̠/,uɔɶɶ,complain,chân giò ngãng ra,vi,noun,/cɤ̆ŋ˧˥ jɔ˦˨ ŋaŋ˧˩˨ ʐa˧˥/,oɔɶɶ,jib
+beschweren,de,verb,/bəˈʃveːʀən/,əøəm,complain,menéken,id,adjective,/mənekən/,əøəm,Menéken
+plendi,eo,verb,/plendi/,bømy,complain,svengi,fi,noun,/ˈsvengi/,bømy,swing
+kesal,id,adjective,/kəsal/,əɶb,Upset,benoîte,fr,adjective,/bənwat/,əɶb,benoite
+rajin,id,adjective,/radʒin/,ɶym,diligent,abîme,fr,noun,/abim/,ɶym,abyss
+diligenta,eo,adjective,/diligenta/,yyømɶ,diligent,アシエンダ,ja,noun,/aɕieɴda/,ɶyømɶ,Acienda
+crazy,en,adjective,/ˈkɹeɪzi/,øʏy,crazy,会议,zh-cn,noun,/xweɪ˥˩ i˥˩/,øʏy,meeting
+freneza,eo,adjective,/freneza/,øøɶ,crazy,beberá,es,verb,/beβeˈɾa/,øøɶ,Drink
+berbicara,id,verb,/bərbitʃara/,əyɶɶ,Speaking,nữ phi hành gia,vi,noun,/nɯ˧˩˨ fi˧˥ han˦˨ ja˧˥/,uyɶɶ,female astronauts
+이야기,ko,verb,/ija̠ɡi/,yɶy,story,إباحي,ar,adjective,/ʔibaːħijj/,yɶy,pornographic
+paroli,eo,verb,/paroli/,ɶoy,talk,áo sơ mi,vi,noun,/aw˩˧ ʂɤ˧˥ mi˧˥/,ɶoy,shirt
+gaping,en,verb,/ˈɡeɪpɪŋ/,øʏʏm,gaping,Königin,de,noun,/ˈkøːnɪgɪn/,øʏʏm,queen
+receive,en,verb,/ɹəˈsiv/,əyb,receive,belief,de,verb,/bəˈliːf/,əyb,relief
+받다,ko,verb,/pa̠t̚t͈a̠/,ɶbɶ,Receive,أب,ar,noun,/ʔabba/,ɶbɶ,Father
+届ける,ja,verb,/todokeɾɯ/,ooøu,deliver,보호세율,ko,noun,/po̞βo̞sʰe̞juɭ/,ooøu,Protection rate
+menerima,id,verb,/mənərima/,əəyɶ,receive,chưa chi đã,vi,adjective,/cɯə˧˥ ci˧˥ da˧˩˨/,uəyɶ,unprepared
+ricevi,eo,verb,/rit͡sevi/,ybøy,receive,mixezi,ro,noun,/miksezʲ/,ybøy,mix
+ilmiah,id,adjective,/ilmiah/,ybyɶ,scientific,diklina,eo,noun,/diklina/,ybyɶ,thline
+과학자,ko,adjective,/kwa̠ɦa̠k̚t͡ɕ͈a̠/,ɶɶbbɶ,Scientist,cá bạc má,vi,noun,/ka˩˧ bak˨ˀ˩ʔ ma˩˧/,ɶɶbbɶ,mackerel
+tepat,id,adjective,/təpat/,əɶb,right,benoîte,fr,adjective,/bənwat/,əɶb,benoite
+preciza,eo,adjective,/pret͡siza/,øbyɶ,precise,péptida,id,noun,/peptida/,øbyɶ,Péptida
+paste,en,verb,/ˈpeɪst/,øʏbb,paste,أيدز,ar,noun,/ʔeɪdz/,øʏbb,AIDS
+粘贴,zh-cn,verb,/ʈʂan˥˥ tʰjɛ˥˥/,ɶmœ,Paste,am-pe,vi,noun,/am˧˥-pɛ˧˥/,ɶmœ,amps
+panik,id,adjective,/paniʔ/,ɶyb,panic,apríl,is,noun,/aːpril/,ɶyb,April
+furioza,eo,adjective,/furioza/,uyoɶ,furious,sériosa,id,noun,/seriosa/,øyoɶ,Sériosa
+erect,en,adjective,/ɪˈɹɛkt/,ʏœbb,erect,Bifröst,is,noun,/pɪvrœst/,ʏœbb,Bifröst
+tegak,id,adjective,/təgaʔ/,əɶb,Tegging,bedarf,de,verb,/bədaˈɾf/,əɶb,requirement
+세우다,ko,adjective,/sʰe̞uda̠/,øuɶ,set up,erfordra,sv,verb,/²'eːrfuːɖra/,øuɶ,require
+早く,ja,adjective,/hajakɯ/,ɶɶu,quickly,abajur,ro,noun,/abaʒur/,ɶɶu,lampshade
+quickest,en,adjective,/ˈkwɪkɪst/,ʏʏbb,quickest,birtist,is,verb,/pɪr̥tɪst/,ʏʏbb,Appears
+요약,ko,verb,/joja̠k̚/,oɶb,summary,aubade,fr,adjective,/obad/,oɶb,aubade
+menabur,id,verb,/mənabur/,əɶu,sow,分岔路,zh-cn,noun,/fən˥˥ ʈʂʰa˥˩ lu˥˩/,əɶu,Bubble
+hide,en,verb,/ˈhaɪd/,ɶʏb,hide,Basis,de,noun,/ˈbaːzɪs/,ɶʏb,Base
+隠す,ja,verb,/kakɯsɯ/,ɶuu,hide,caoutchouc,fr,noun,/kautʃu/,ɶuu,rubber
+menyembunyikan,id,verb,/məɲəmbuɲikan/,əəmuyɶm,hide,albaiulian,ro,noun,/albajulijan/,ɶbɶuyɶm,Alba Iulia
+mahal,id,adjective,/mahal/,ɶɶb,expensive,abac,ro,noun,/abak/,ɶɶb,abacus
+비싼,ko,adjective,/pis͈a̠n/,yɶm,expensive,一贯,zh-cn,verb,/i˧˥ kwan˥˩/,yɶm,consistent
+multekosta,eo,adjective,/multekosta/,ubøobɶ,Expensive,acogérnosla,es,verb,/akoˈxeɾnozla/,ɶoøobɶ,welcome it
+amused,en,adjective,/əmˈjuzd/,əubb,amused,recoudre,fr,verb,/ʁəkudʁ/,əubb,sew
+面白い,ja,adjective,/omoɕiɾoi/,ooyoy,interesting,aksiomi,fi,verb,/ˈɑksiˌomi/,ɑbyoy,axiom
+berniat,id,verb,/bərniat/,əyɶb,intend,bășicat,ro,adjective,/bəʃikat/,əyɶb,blistered
+intend,en,verb,/ˌɪnˈtɛnd/,ʏmœmb,intend,innbrennt,is,noun,/ɪmprɛn̥t/,ʏmœmb,incentive
+打算,zh-cn,verb,/ta˨˩˦ swan˥˩/,ɶɶm,intend,Adam,eo,noun,/adam/,ɶɶm,Adam
+meramalkan,id,verb,/məramalkan/,əɶɶbɶm,predict,adamascan,es,verb,/aðamaskan/,ɶɶɶbɶm,Adamascan.
+执行,zh-cn,verb,/ʈʂɚ˧˥ ɕɪŋ˧˥/,əʏm,carried out,adin,en,verb,/əˈdɪn/,əʏm,adin
+devigi,eo,verb,/devigi/,øyy,force,beibi,fi,noun,/ˈbeibi/,øyy,baby
+melaksanakan,id,verb,/məlaʔsanakan/,əɶbɶɶɶm,doing,kẻ cả; kẻ cả đàn anh,vi,noun,/kɛ˧˩˨ ka˧˩˨ kɛ˧˩˨ ka˧˩˨ daŋ˦˨ an˧˥/,œɶœɶɶɶm,guys;the whole man
+enforce,en,verb,/ɛnˈfɔɹs/,œmɔb,enforce,launmorð,is,noun,/lœjnmɔrð/,œmɔb,assassination
+wählen,de,verb,/ˈvɛːlən/,œəm,choose,aaron,en,adjective,/ˈɛɹən/,œəm,aaron
+고르다,ko,adjective,/ko̞ɾɯda̠/,ouɶ,Choose,bjóða,is,verb,/pjouːða/,ouɶ,invite
+select,en,adjective,/səˈɫɛkt/,əœbb,select,genièvre,fr,noun,/ʒənjɛvʁ/,əœbb,jerk
+选择,zh-cn,verb,/ɕɥœn˨˩˦ tsɤ˧˥/,œmbo,select,냉초,ko,noun,/nɛ̝ŋt͡ɕʰo̞/,œmbo,Cold heat
+menghitung,id,verb,/məŋhituŋ/,əyum,calculate,honeymoon,en,noun,/ˈhəniˌmun/,əyum,honeymoon
+计算,zh-cn,verb,/tɕi˥˩ swan˥˩/,byɶm,Calculate,gligan,ro,noun,/ɡliɡan/,byɶm,glygan
+berechnen,de,verb,/bəˈɾɛçnən/,əœəm,to calculate,affection,en,noun,/əˈfɛkʃən/,əœəm,affection
+계산하다,ko,verb,/kje̞sʰa̠nɦa̠da̠/,øɶɶɶ,Calculate,anagrama,ro,noun,/anaɡrama/,ɶɶɶɶ,anagram
+compute,en,verb,/kəmˈpjut/,əmub,compute,bentuk,id,noun,/bəntuʔ/,əmub,form
+obscene,en,adjective,/ɑbˈsin/,ɑbym,obscene,astin,fi,adjective,/ˈɑstin/,ɑbym,apt
+exclusive,en,adjective,/ɪkˈskɫusɪv/,ʏbbuʏb,exclusive,fullbúið,is,verb,/fʏtl̥puɪð/,ʏbbuʏb,fully equipped
+aksiomatis,id,adjective,/aʔsiomatis/,ɶbyoɶyb,axiomatic,abandonáis,es,noun,/aβandoˈnais/,ɶɶmoɶyb,Abandon
+보증하다,ko,verb,/po̞d͡ʑɯŋɦa̠da̠/,obuɶɶ,guarantee,đa nghi như Tào Tháo,vi,noun,/da˧˥ ŋi˧˥ ɲɯ˧˥ taw˦˨ tʰaw˩˧/,ɶyuɶɶ,Multilinguals like Cao Cao
+memastikan,id,verb,/məmastikan/,əɶbyɶm,ensure,Sebastian,de,noun,/zebastian/,øɶbyɶm,Sebastian
+disvastigi,eo,verb,/disvastigi/,ybɶbyy,To spread,gimnasticii,ro,noun,/dʒimnastitʃij/,ymɶbyy,gymnastics
+확산,ko,verb,/ɸwa̠ks͈a̠n/,ɶbɶm,diffusion,aldrán,es,verb,/aˈldɾan/,ɶbɶm,Aldrán.
+spread,en,verb,/ˈspɹɛd/,bœb,spread,blek,is,noun,/plɛːk/,bœb,ink
+传播,zh-cn,verb,/ʈʂʰwan˧˥ pɔ˥˥/,ɶmɔ,spread,caneton,fr,verb,/kantɔ̃/,ɶmɔ,duckling
+sebaran,id,verb,/səbaran/,əɶɶm,distribution,săracan,ro,noun,/sərakan/,əɶɶm,pauper
+甘い,ja,adjective,/amai/,ɶɶy,sweet,abatis,fr,noun,/abati/,ɶɶy,abatis
+manis,id,adjective,/manis/,ɶyb,sweet,à-pic,fr,noun,/apik/,ɶyb,peak
