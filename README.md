@@ -57,8 +57,7 @@ SIGGRAPH ASIA 2021に応募する作品のマルチリンガルな韻ペアを�
 * wonderwords
 
 ### IPA
-* epitran
-* ipa-dict
+* ipa-dict(https://github.com/open-dict-data/ipa-dict)
 
 ### translation(補足：https://qiita.com/_yushuu/items/83c51e29771530646659)
 * googletrans==4.0.0-rc1
@@ -67,13 +66,3 @@ SIGGRAPH ASIA 2021に応募する作品のマルチリンガルな韻ペアを�
 * nltk
 * spacy
 
-### Random Adjectives-Nouns Pair
-https://wak-tech.com/archives/1625
-
-### Sentiment Polarity
-* VADER
-* TextBlob
-
-## webDriver
-chromedriver-binary==90.0.4430.24.0
-https://qiita.com/hanzawak/items/2ab4d2a333d6be6ac760
