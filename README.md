@@ -59,7 +59,8 @@ SIGGRAPH ASIA 2021に応募する作品のマルチリンガルな韻ペアを�
 ### IPA
 * epitran
 * ipa-dict
-## translation(補足：https://qiita.com/_yushuu/items/83c51e29771530646659)
+
+### translation(補足：https://qiita.com/_yushuu/items/83c51e29771530646659)
 * googletrans==4.0.0-rc1
 
 ### POS(Part-of-speech)
