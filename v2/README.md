@@ -38,5 +38,5 @@ D: uo_to_3_adv : slowly, すごく, growly, うとうと, drolly
     　　　　　　　       df["rhyme_vowel"] == unique_rhyme_vowel
                       ]
               unique_word_group = hoge["word"].extend(hoge["pair_word"]).unique()
-              unique_word_group.to_csv(unique_rhyme_vowel, "_noun_verb.csv", )
+              unique_word_group.to_csv(unique_rhyme_vowel, "_", unique_type, "_", unique_pos, ".csv", )
 ```
