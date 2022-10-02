@@ -48,10 +48,11 @@ def main():
         pos_list.append(pos.name)
     df["pos"] = pos_list
 
+    # TODO: 音節の抽出
+
     """ 韻ペアの抽出 
         品詞（名詞, 形容詞, 副詞）ごとにペアを抽出
     """
-    df_noun[]
     ipa_list = df["Predicted_Pronunciation"]
 
     find_ipa_chain()
