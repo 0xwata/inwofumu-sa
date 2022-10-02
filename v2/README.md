@@ -26,8 +26,6 @@ D: uo_to_3_adv : slowly, すごく, growly, うとうと, drolly
 ```python
   unique_pos_group = df["pos"].unique()
   unique_type_group = df["type"].unique()
-  
-  df_noun_to = df[df["pos"] == noun && df["type"] =="to"]
   unique_rhyme_vowel_list = df_noun_to["rhyme_vowel"].unique()
   
   for unique_pos in unique_pos_group:
