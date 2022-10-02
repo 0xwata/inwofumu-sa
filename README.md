@@ -1,4 +1,4 @@
-# inwofumu-sa2021
+# inwofumu-sa
 SIGGRAPH ASIA 2021に応募する作品のマルチリンガルな韻ペアを収集するスクリプトのリポジトリです。
 
 ## 導入
