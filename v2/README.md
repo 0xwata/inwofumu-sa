@@ -5,7 +5,7 @@
 
 |id|word|pair_id|pair_word|type|rhyme_vowel|pos|
 |----|----|----|----|----|----|----|
-|19|hoge|40||fuga|to or kyaku|ou|noun|
+|19|hoge|40|fuga|to or kyaku|ou|noun|
 
 * id:
 * pair_id:
