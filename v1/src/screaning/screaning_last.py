@@ -42,7 +42,7 @@ def isenglish(s):
 
 output_column = ["word", "word_lang", "word_pos", "word_ipa", "word_ipa_edited_vowel", "word_en", "next_word_index_verb", "next_word_index_noun", "next_word_index_adjective", "word_ch", "word_id", "word_ja"]
 
-df = pd.read_csv("../output/final/final/output_after_screaning_v4.csv", sep=',', index_col=0)
+df = pd.read_csv("../../output/final/final/output_after_screaning_v4.csv", sep=',', index_col=0)
 print(df.columns)
 df_ja_screaning = df[df["word_ja"] != ""]
 df_ja_screaning["word_ja_bool"] = df_ja_screaning["word_ja"].apply(isEnglish)

@@ -9,7 +9,7 @@ def fetch_next_index (next_word_index: str):
     return next_word_indexs
 
 
-df = pd.read_csv("../output/final/final/output_after_screaning_v4_ja_screaning_next_search_index_screaning.csv", sep=",", index_col=0)
+df = pd.read_csv("../../output/final/final/output_after_screaning_v4_ja_screaning_next_search_index_screaning.csv", sep=",", index_col=0)
 
 print(df.columns)
 
