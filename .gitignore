@@ -2,6 +2,7 @@
 .DS_Store
 .idea
 venv
-data/ipa-dict/
-src/__pycache__/
+v1/data/ipa-dict
+v1/src/__pycache__/
+v2/src/__pycache__/
 src/.env
