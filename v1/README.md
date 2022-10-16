@@ -5,7 +5,7 @@ SIGGRAPH ASIA 2021に応募する作品のマルチリンガルな韻ペアを�
 
 セットアップ
 
-1. /dataで、ipa_dictをclone
+1. /dataで、ipa_dict(https://github.com/open-dict-data/ipa-dict)をclone
 2. pip install -r requirements.txt
 3. python nltk_download.py
 4. python -m spacy download zh_core_web_sm(main.pyを実行して怒られる物をインストールしていく)
