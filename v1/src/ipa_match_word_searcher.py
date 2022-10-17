@@ -76,6 +76,7 @@ CONSONENTS = CONSONANT_PLOSIVE_UNVOICED + CONSONANT_PLOSIVE_VOICED + \
 VOWELS_CONSONENTS = VOWELS + CONSONENTS
 VOWELS_CONSONENTS_STRING = ''.join(VOWELS_CONSONENTS)
 
+## https://github.com/open-dict-data/ipa-dict を参考
 LANGS_FOR_SEARCH = ['ja', 'en', 'de', 'id', 'zh-cn', 'ko', 'eo', 'es', 'ro', 'ar', 'is', 'vi', 'sv', 'fr', 'fi']
 
 N_MATCH = 3
