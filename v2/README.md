@@ -3,9 +3,9 @@
 ## 生成する中間テーブル
 ### rhyme_table
 
-|id|word|pair_id|pair_word|type|rhyme_vowel|pos|
-|----|----|----|----|----|----|----|
-|19|hoge|40|fuga|to or kyaku|ou|noun|
+|id|word|pair_id|pair_word|type|rhyme_vowel|pos|syllable|
+|----|----|----|----|----|----|----|----|
+|19|hoge|40|fuga|to or kyaku|ou|noun|3|
 
 * id:
 * pair_id:
