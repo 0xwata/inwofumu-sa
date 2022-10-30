@@ -36,7 +36,6 @@ OUTPUT_COLUMNS = [
 
 def find_rhyme_vowel(ipa_str_vowels_1: str, ipa_str_vowels_2: str, rhyme_type: RhymeType) -> Optional[str]:
     rhyme_bowel = ""
-    print(ipa_str_vowels_1, ipa_str_vowels_2)
 
     if len(ipa_str_vowels_1) > len(ipa_str_vowels_2):
         a = ipa_str_vowels_1
@@ -150,7 +149,7 @@ def main():
                     rhyme_vowel_kyakuin = find_rhyme_vowel(str(ipa_str_i.vowels), str(ipa_str_j.vowels),
                                                            RhymeType.KYAKUIN)
                     if rhyme_vowel_kyakuin is not None:
-                        tmp = [i, word_i, ipa_str_i.vowels, j, word_j, ipa_str_j.vowels, RhymeType.KYAKUIN.name,
+                        tmp = [i, word_i, ipa_str_i.vowels, j, word_j, ipa_str_j.vowels, RhymeType.KYAKUIN.value,
                                rhyme_vowel_kyakuin, pos_i, syllable_i]
                         output.append(tmp)
                     else:
@@ -158,7 +157,7 @@ def main():
                         rhyme_vowel_toin = find_rhyme_vowel(str(ipa_str_i.vowels), str(ipa_str_j.vowels),
                                                             RhymeType.TOIN)
                         if rhyme_vowel_toin is not None:
-                            tmp = [i, word_i, ipa_str_i.vowels, j, word_j, ipa_str_j.vowels, RhymeType.TOIN.name,
+                            tmp = [i, word_i, ipa_str_i.vowels, j, word_j, ipa_str_j.vowels, RhymeType.TOIN.value,
                                    rhyme_vowel_toin, pos_i, syllable_i]
                             output.append(tmp)
 
