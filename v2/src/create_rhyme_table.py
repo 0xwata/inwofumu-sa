@@ -1,10 +1,12 @@
-import ipa
 import pandas
 from ipapy.ipastring import IPAString
 from hyphen import Hyphenator
-from typing import Optional
 from model.rhyme_type import RhymeType
 import csv
+from util.find_syllable_count import find_syllable_count
+from util.format_word_ipa import format_word_ipa
+from util.find_rhyme_vowel import find_rhyme_vowel
+from model.rhyme_type import RhymeType
 
 INPUT_COLUMNS = [
     "word",
@@ -18,72 +20,17 @@ INPUT_COLUMNS = [
 OUTPUT_COLUMNS = [
     "id",
     "word",
-    "word_vowel",
+    "word_vowel", # <-- デバッグ用
+    "word_lang",
     "pair_id",
     "pair_word",
-    "pair_word_vowel",
+    "pair_word_vowel", # <-- デバッグ用
+    "pair_word_lang",
     "type",
     "rhyme_vowel",
     "pos",
     "syllable"
 ]
-
-"""
-@param: ipa_str_vowels_1: IPAStringのObjectのプロパティであるvowels
-@param; ipa_str_vowels_2: 〃
-"""
-
-
-def find_rhyme_vowel(ipa_str_vowels_1: str, ipa_str_vowels_2: str, rhyme_type: RhymeType) -> Optional[str]:
-    rhyme_bowel = ""
-
-    if len(ipa_str_vowels_1) > len(ipa_str_vowels_2):
-        a = ipa_str_vowels_1
-        b = ipa_str_vowels_2
-        max_rhyme_length = len(b)
-    else:
-        a = ipa_str_vowels_2
-        b = ipa_str_vowels_1
-        max_rhyme_length = len(b)
-
-    if rhyme_type == RhymeType.TOIN:
-        """頭韻判定"""
-        for i in range(max_rhyme_length):
-            if i == 0:
-                continue
-            if b.startswith(a[:i + 1]) is True:
-                rhyme_bowel += b[i]
-            else:
-                break
-        # 空文字もしくは1文字しか合致しなかった場合は、Noneを返す
-        if len(rhyme_bowel) == 0 or len(rhyme_bowel) == 1:
-            return None
-        else:
-            return rhyme_bowel
-    else:
-        """脚韻判定"""
-        for i in range(max_rhyme_length):
-            if i == 0:
-                continue
-            if b.endswith(a[-1 * i:]) is True:  ## 後ろから1文字ずつ追加していって判定していく
-                rhyme_bowel += b[-1 * i]
-            else:
-                break
-
-        # 空文字もしくは1文字しか合致しなかった場合は、Noneを返す
-        if len(rhyme_bowel) == 0 or len(rhyme_bowel) == 1:
-            return None
-        else:
-            return rhyme_bowel[::-1]  ## 後ろから1文字ずつ追加しているので最後は反転して渡す
-
-
-def format_word_ipa(ipa: str) -> str:
-    result = ""
-    for char in ipa:
-        if char == "/" or char == "̠ ":
-            continue
-        result += char
-    return result
 
 
 def main():
@@ -103,13 +50,7 @@ def main():
         if type(ipa) != str:
             syllable_count = -1
         else:
-            try:
-                s_ipa = IPAString(unicode_string=format_word_ipa(ipa))
-                vowels = s_ipa.vowels
-                syllable_count = len(vowels)
-            except ValueError as e:
-                print(e)
-                syllable_count = -1
+            syllable_count = find_syllable_count(format_word_ipa(ipa))
         syllable_count_list.append(syllable_count)
     df["syllable"] = syllable_count_list
 
@@ -121,10 +62,13 @@ def main():
     count = 0
     error_count = 0
     output = []
+
+    ## TODO: for文2回回さないで良いようにinputのcsvの再設計をする
     for i, row_i in df.iterrows():
         print("progress rate: ", count, "/", len(df), "success rate: ", (len(df) - error_count) / len(df) * 100, "%")
         count += 1
         word_i = row_i["word"]
+        word_lang_i = row_i["word_lang"]
         pos_i = row_i["word_pos"]
         syllable_i = row_i["syllable"]
         ipa_i = format_word_ipa(row_i["word_ipa"])
@@ -139,6 +83,7 @@ def main():
 
             for j, row_j in df_matching_candidate.iterrows():
                 word_j = row_j["word"]
+                word_lang_j= row_j["word_lang"]
                 if word_i == word_j:  # 同一単語の場合はskip
                     continue
                 else:
@@ -149,7 +94,7 @@ def main():
                     rhyme_vowel_kyakuin = find_rhyme_vowel(str(ipa_str_i.vowels), str(ipa_str_j.vowels),
                                                            RhymeType.KYAKUIN)
                     if rhyme_vowel_kyakuin is not None:
-                        tmp = [i, word_i, ipa_str_i.vowels, j, word_j, ipa_str_j.vowels, RhymeType.KYAKUIN.value,
+                        tmp = [i, word_i, ipa_str_i.vowels,word_lang_i,  j, word_j, ipa_str_j.vowels, word_lang_j, RhymeType.KYAKUIN.value,
                                rhyme_vowel_kyakuin, pos_i, syllable_i]
                         output.append(tmp)
                     else:
@@ -157,7 +102,7 @@ def main():
                         rhyme_vowel_toin = find_rhyme_vowel(str(ipa_str_i.vowels), str(ipa_str_j.vowels),
                                                             RhymeType.TOIN)
                         if rhyme_vowel_toin is not None:
-                            tmp = [i, word_i, ipa_str_i.vowels, j, word_j, ipa_str_j.vowels, RhymeType.TOIN.value,
+                            tmp = [i, word_i, ipa_str_i.vowels, word_lang_i, j, word_j, ipa_str_j.vowels, word_lang_j, RhymeType.TOIN.value,
                                    rhyme_vowel_toin, pos_i, syllable_i]
                             output.append(tmp)
 
@@ -168,6 +113,12 @@ def main():
             print(ipa_i, ipa_j)
             print("")
             pass
+
+
+    ## TODO: 必要であれば、事前に出力する中間テーブルに対して正規化をかける
+    # output_pd = pd.DataFrame(output)
+    # output_pd.columns = OUTPUT_COLUMNS
+
 
     """ 中間テーブル(rhyme_table)の出力 -> rhyme_table.csv"""
     f = open('../output/join_table/rhyme_table.csv', 'w')

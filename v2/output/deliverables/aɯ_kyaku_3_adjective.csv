@@ -1,3 +1,4 @@
-早く
-希薄
-違う
+,id,word,word_vowel,word_lang,pair_id,pair_word,pair_word_vowel,pair_word_lang,type,rhyme_vowel,pos,syllable
+498,23.0,早く,aaɯ,ja,483.0,希薄,iaɯ,ja,kyaku,aɯ,adjective,3.0
+6635,483.0,希薄,iaɯ,ja,23.0,早く,aaɯ,ja,kyaku,aɯ,adjective,3.0
+8063,655.0,違う,aaɯ,ja,23.0,早く,aaɯ,ja,kyaku,aɯ,adjective,3.0

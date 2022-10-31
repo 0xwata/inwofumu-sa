@@ -1,5 +1,6 @@
-유익하다
-인식하다
-매혹하다
-파노라마
-자극하다
+,id,word,word_vowel,word_lang,pair_id,pair_word,pair_word_vowel,pair_word_lang,type,rhyme_vowel,pos,syllable
+1177,71.0,유익하다,uiää,ko,284.0,매혹하다,e̞o̞ää,ko,kyaku,ää,adjective,4.0
+3581,234.0,인식하다,iiää,ko,284.0,매혹하다,e̞o̞ää,ko,kyaku,ää,adjective,4.0
+4326,284.0,매혹하다,e̞o̞ää,ko,71.0,유익하다,uiää,ko,kyaku,ää,adjective,4.0
+4477,296.0,파노라마,äo̞ää,ko,71.0,유익하다,uiää,ko,kyaku,ää,adjective,4.0
+5699,405.0,자극하다,äɯää,ko,71.0,유익하다,uiää,ko,kyaku,ää,adjective,4.0

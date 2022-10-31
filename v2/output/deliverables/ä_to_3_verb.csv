@@ -1,6 +1,7 @@
-취하다
-이야기
-구하다
-주사위
-귀하다
-쉬파리
+,id,word,word_vowel,word_lang,pair_id,pair_word,pair_word_vowel,pair_word_lang,type,rhyme_vowel,pos,syllable
+949,57.0,취하다,iää,ko,121.0,이야기,iäi,ko,to,ä,verb,3.0
+2098,121.0,이야기,iäi,ko,57.0,취하다,iää,ko,to,ä,verb,3.0
+4705,307.0,구하다,uää,ko,325.0,주사위,uäi,ko,to,ä,verb,3.0
+4843,325.0,주사위,uäi,ko,307.0,구하다,uää,ko,to,ä,verb,3.0
+16169,1155.0,귀하다,iää,ko,121.0,이야기,iäi,ko,to,ä,verb,3.0
+20123,1447.0,쉬파리,iäi,ko,57.0,취하다,iää,ko,to,ä,verb,3.0

@@ -1,2 +1,3 @@
-誇らしい
-忙しい
+,id,word,word_vowel,word_lang,pair_id,pair_word,pair_word_vowel,pair_word_lang,type,rhyme_vowel,pos,syllable
+651,33.0,誇らしい,ooaii,ja,74.0,忙しい,ioaii,ja,kyaku,oaii,adjective,5.0
+1219,74.0,忙しい,ioaii,ja,33.0,誇らしい,ooaii,ja,kyaku,oaii,adjective,5.0

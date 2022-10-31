@@ -1,4 +1,5 @@
-낙하산
-달하다
-사나이
-가하다
+,id,word,word_vowel,word_lang,pair_id,pair_word,pair_word_vowel,pair_word_lang,type,rhyme_vowel,pos,syllable
+251,12.0,낙하산,äää,ko,148.0,사나이,ääi,ko,to,̈ä,adjective,3.0
+2259,129.0,달하다,äää,ko,148.0,사나이,ääi,ko,to,̈ä,adjective,3.0
+2657,148.0,사나이,ääi,ko,12.0,낙하산,äää,ko,to,̈ä,adjective,3.0
+2742,163.0,가하다,äää,ko,148.0,사나이,ääi,ko,to,̈ä,adjective,3.0

@@ -1,6 +1,7 @@
-小さい
-meminyaki
-duniawi
-menghiasi
-確かに
-duplikati
+,id,word,word_vowel,word_lang,pair_id,pair_word,pair_word_vowel,pair_word_lang,type,rhyme_vowel,pos,syllable
+1146,67.0,小さい,iiai,ja,385.0,meminyaki,əiai,id,kyaku,iai,adjective,4.0
+5422,385.0,meminyaki,əiai,id,67.0,小さい,iiai,ja,kyaku,iai,adjective,4.0
+6091,434.0,duniawi,uiai,id,67.0,小さい,iiai,ja,kyaku,iai,adjective,4.0
+6143,441.0,menghiasi,əiai,id,67.0,小さい,iiai,ja,kyaku,iai,adjective,4.0
+6991,534.0,確かに,aiai,ja,67.0,小さい,iiai,ja,kyaku,iai,adjective,4.0
+19583,1404.0,duplikati,uiai,eo,67.0,小さい,iiai,ja,kyaku,iai,adjective,4.0

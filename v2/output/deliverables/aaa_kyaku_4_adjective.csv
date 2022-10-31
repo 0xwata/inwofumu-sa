@@ -1,8 +1,9 @@
-朗らか
-berbahaya
-bersahaja
-華やか
-diadakan
-kerajaan
-afmarkaða
-abajaba
+,id,word,word_vowel,word_lang,pair_id,pair_word,pair_word_vowel,pair_word_lang,type,rhyme_vowel,pos,syllable
+1294,77.0,朗らか,oaaa,ja,135.0,berbahaya,əaaa,id,kyaku,aaa,adjective,4.0
+2393,135.0,berbahaya,əaaa,id,77.0,朗らか,oaaa,ja,kyaku,aaa,adjective,4.0
+3234,219.0,bersahaja,əaaa,id,77.0,朗らか,oaaa,ja,kyaku,aaa,adjective,4.0
+5198,361.0,華やか,aaaa,ja,77.0,朗らか,oaaa,ja,kyaku,aaa,adjective,4.0
+6271,456.0,diadakan,iaaa,id,77.0,朗らか,oaaa,ja,kyaku,aaa,adjective,4.0
+6932,526.0,kerajaan,əaaa,id,77.0,朗らか,oaaa,ja,kyaku,aaa,adjective,4.0
+14105,1018.0,afmarkaða,aaaa,is,77.0,朗らか,oaaa,ja,kyaku,aaa,adjective,4.0
+22033,1623.0,abajaba,aaaa,es,77.0,朗らか,oaaa,ja,kyaku,aaa,adjective,4.0

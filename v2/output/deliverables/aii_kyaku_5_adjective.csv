@@ -1,7 +1,8 @@
-恥ずかしい
-誇らしい
-忙しい
-素晴らしい
-難しい
-香ばしい
-diperbaiki
+,id,word,word_vowel,word_lang,pair_id,pair_word,pair_word_vowel,pair_word_lang,type,rhyme_vowel,pos,syllable
+439,20.0,恥ずかしい,aɯaii,ja,33.0,誇らしい,ooaii,ja,kyaku,aii,adjective,5.0
+650,33.0,誇らしい,ooaii,ja,20.0,恥ずかしい,aɯaii,ja,kyaku,aii,adjective,5.0
+1218,74.0,忙しい,ioaii,ja,20.0,恥ずかしい,aɯaii,ja,kyaku,aii,adjective,5.0
+4090,267.0,素晴らしい,ɯaaii,ja,20.0,恥ずかしい,aɯaii,ja,kyaku,aii,adjective,5.0
+5281,366.0,難しい,ɯɯaii,ja,33.0,誇らしい,ooaii,ja,kyaku,aii,adjective,5.0
+6752,501.0,香ばしい,oɯaii,ja,33.0,誇らしい,ooaii,ja,kyaku,aii,adjective,5.0
+14472,1043.0,diperbaiki,iəaii,id,20.0,恥ずかしい,aɯaii,ja,kyaku,aii,adjective,5.0

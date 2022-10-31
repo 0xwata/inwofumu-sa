@@ -3,6 +3,7 @@
 .idea
 venv
 v1/data/ipa-dict
+v2/data/ipa-dict
 v1/src/__pycache__/
 v2/src/__pycache__/
 src/.env

@@ -1,3 +1,4 @@
-menganalisa
-abajaría
-abogacía
+,id,word,word_vowel,word_lang,pair_id,pair_word,pair_word_vowel,pair_word_lang,type,rhyme_vowel,pos,syllable
+3937,253.0,menganalisa,əaaia,id,1514.0,abogacía,aoaia,es,kyaku,aia,verb,5.0
+19093,1358.0,abajaría,aaaia,es,1514.0,abogacía,aoaia,es,kyaku,aia,verb,5.0
+20803,1514.0,abogacía,aoaia,es,253.0,menganalisa,əaaia,id,kyaku,aia,verb,5.0

@@ -1,3 +1,4 @@
-abaluartaba
-abarataba
-abaluartará
+,id,word,word_vowel,word_lang,pair_id,pair_word,pair_word_vowel,pair_word_lang,type,rhyme_vowel,pos,syllable
+12620,916.0,abaluartaba,aaaaa,es,1342.0,abarataba,aaaaa,es,kyaku,aaaa,verb,5.0
+18863,1342.0,abarataba,aaaaa,es,916.0,abaluartaba,aaaaa,es,kyaku,aaaa,verb,5.0
+19742,1428.0,abaluartará,aaaaa,es,916.0,abaluartaba,aaaaa,es,kyaku,aaaa,verb,5.0

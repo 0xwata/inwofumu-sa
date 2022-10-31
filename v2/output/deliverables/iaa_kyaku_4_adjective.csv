@@ -1,6 +1,7 @@
-ordinara
-porĉiama
-lojala
-antidata
-joviala
-いいから
+,id,word,word_vowel,word_lang,pair_id,pair_word,pair_word_vowel,pair_word_lang,type,rhyme_vowel,pos,syllable
+1331,80.0,ordinara,oiaa,eo,415.0,porĉiama,oiaa,eo,kyaku,iaa,adjective,4.0
+5815,415.0,porĉiama,oiaa,eo,80.0,ordinara,oiaa,eo,kyaku,iaa,adjective,4.0
+6160,445.0,lojala,oiaa,eo,80.0,ordinara,oiaa,eo,kyaku,iaa,adjective,4.0
+10536,802.0,antidata,ɑiaa,fr,80.0,ordinara,oiaa,eo,kyaku,iaa,adjective,4.0
+15719,1134.0,joviala,oiaa,eo,80.0,ordinara,oiaa,eo,kyaku,iaa,adjective,4.0
+20057,1445.0,いいから,iiaa,ja,80.0,ordinara,oiaa,eo,kyaku,iaa,adjective,4.0

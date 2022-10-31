@@ -1,6 +1,7 @@
-자극하다
-보증하다
-예측하다
-궁금하다
-상승하다
-가급하다
+,id,word,word_vowel,word_lang,pair_id,pair_word,pair_word_vowel,pair_word_lang,type,rhyme_vowel,pos,syllable
+283,14.0,자극하다,äɯää,ko,63.0,보증하다,o̞ɯää,ko,kyaku,ɯää,verb,4.0
+1055,63.0,보증하다,o̞ɯää,ko,14.0,자극하다,äɯää,ko,kyaku,ɯää,verb,4.0
+1521,90.0,예측하다,e̞ɯää,ko,14.0,자극하다,äɯää,ko,kyaku,ɯää,verb,4.0
+3443,227.0,궁금하다,uɯää,ko,14.0,자극하다,äɯää,ko,kyaku,ɯää,verb,4.0
+4210,276.0,상승하다,äɯää,ko,63.0,보증하다,o̞ɯää,ko,kyaku,ɯää,verb,4.0
+18492,1318.0,가급하다,äɯää,ko,63.0,보증하다,o̞ɯää,ko,kyaku,ɯää,verb,4.0

@@ -1,3 +1,4 @@
-올리다
-돌리다
-높이다
+,id,word,word_vowel,word_lang,pair_id,pair_word,pair_word_vowel,pair_word_lang,type,rhyme_vowel,pos,syllable
+2305,132.0,올리다,o̞iä,ko,241.0,돌리다,o̞iä,ko,kyaku,̞iä,verb,3.0
+3713,241.0,돌리다,o̞iä,ko,132.0,올리다,o̞iä,ko,kyaku,̞iä,verb,3.0
+4771,309.0,높이다,o̞iä,ko,132.0,올리다,o̞iä,ko,kyaku,̞iä,verb,3.0

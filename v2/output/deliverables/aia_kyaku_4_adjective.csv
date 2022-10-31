@@ -1,9 +1,10 @@
-senpartia
-rahasia
-menyajikan
-bergairah
-kavalira
-pli fajna
-aðgæta
-abjadiah
-acadian
+,id,word,word_vowel,word_lang,pair_id,pair_word,pair_word_vowel,pair_word_lang,type,rhyme_vowel,pos,syllable
+580,27.0,senpartia,eaia,eo,73.0,rahasia,aaia,id,kyaku,aia,adjective,4.0
+1197,73.0,rahasia,aaia,id,27.0,senpartia,eaia,eo,kyaku,aia,adjective,4.0
+2262,130.0,menyajikan,əaia,id,27.0,senpartia,eaia,eo,kyaku,aia,adjective,4.0
+2278,131.0,bergairah,əaia,id,27.0,senpartia,eaia,eo,kyaku,aia,adjective,4.0
+2462,137.0,kavalira,aaia,eo,27.0,senpartia,eaia,eo,kyaku,aia,adjective,4.0
+7026,538.0,pli fajna,iaia,eo,27.0,senpartia,eaia,eo,kyaku,aia,adjective,4.0
+12068,869.0,aðgæta,aaia,is,27.0,senpartia,eaia,eo,kyaku,aia,adjective,4.0
+17450,1254.0,abjadiah,aaia,id,27.0,senpartia,eaia,eo,kyaku,aia,adjective,4.0
+17805,1279.0,acadian,aaia,ro,27.0,senpartia,eaia,eo,kyaku,aia,adjective,4.0

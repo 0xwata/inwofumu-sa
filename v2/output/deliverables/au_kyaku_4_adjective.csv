@@ -1,3 +1,4 @@
-berkilau
-miniatur
-brunasár
+,id,word,word_vowel,word_lang,pair_id,pair_word,pair_word_vowel,pair_word_lang,type,rhyme_vowel,pos,syllable
+3591,235.0,berkilau,əiau,id,870.0,brunasár,ʏaau,is,kyaku,au,adjective,4.0
+4985,334.0,miniatur,iiau,id,870.0,brunasár,ʏaau,is,kyaku,au,adjective,4.0
+12089,870.0,brunasár,ʏaau,is,235.0,berkilau,əiau,id,kyaku,au,adjective,4.0

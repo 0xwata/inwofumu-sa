@@ -1,5 +1,6 @@
-계속하다
-홍보하다
-보존하다
-제공하다
-배포하다
+,id,word,word_vowel,word_lang,pair_id,pair_word,pair_word_vowel,pair_word_lang,type,rhyme_vowel,pos,syllable
+463,21.0,계속하다,e̞o̞ää,ko,136.0,홍보하다,o̞o̞ää,ko,kyaku,̞o̞ää,verb,4.0
+2418,136.0,홍보하다,o̞o̞ää,ko,21.0,계속하다,e̞o̞ää,ko,kyaku,̞o̞ää,verb,4.0
+3274,221.0,보존하다,o̞o̞ää,ko,21.0,계속하다,e̞o̞ää,ko,kyaku,̞o̞ää,verb,4.0
+3337,223.0,제공하다,e̞o̞ää,ko,21.0,계속하다,e̞o̞ää,ko,kyaku,̞o̞ää,verb,4.0
+4521,301.0,배포하다,e̞o̞ää,ko,21.0,계속하다,e̞o̞ää,ko,kyaku,̞o̞ää,verb,4.0

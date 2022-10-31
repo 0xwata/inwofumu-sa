@@ -1,4 +1,5 @@
-imaginara
-aŭtomata
-あらいやだ
-お淑やか
+,id,word,word_vowel,word_lang,pair_id,pair_word,pair_word_vowel,pair_word_lang,type,rhyme_vowel,pos,syllable
+1313,78.0,imaginara,iaiaa,eo,969.0,aŭtomata,auoaa,eo,kyaku,aa,adjective,5.0
+13312,969.0,aŭtomata,auoaa,eo,78.0,imaginara,iaiaa,eo,kyaku,aa,adjective,5.0
+13678,991.0,あらいやだ,aaiaa,ja,969.0,aŭtomata,auoaa,eo,kyaku,aa,adjective,5.0
+18094,1293.0,お淑やか,oioaa,ja,78.0,imaginara,iaiaa,eo,kyaku,aa,adjective,5.0

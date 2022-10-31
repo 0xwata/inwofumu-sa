@@ -1,3 +1,4 @@
-이야기
-주사위
-쉬파리
+,id,word,word_vowel,word_lang,pair_id,pair_word,pair_word_vowel,pair_word_lang,type,rhyme_vowel,pos,syllable
+2099,121.0,이야기,iäi,ko,325.0,주사위,uäi,ko,kyaku,äi,verb,3.0
+4842,325.0,주사위,uäi,ko,121.0,이야기,iäi,ko,kyaku,äi,verb,3.0
+20124,1447.0,쉬파리,iäi,ko,121.0,이야기,iäi,ko,kyaku,äi,verb,3.0

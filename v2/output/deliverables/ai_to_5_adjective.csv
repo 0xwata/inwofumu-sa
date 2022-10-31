@@ -1,2 +1,3 @@
-canalicular
-あらいやだ
+,id,word,word_vowel,word_lang,pair_id,pair_word,pair_word_vowel,pair_word_lang,type,rhyme_vowel,pos,syllable
+13220,961.0,canalicular,aaiua,ro,991.0,あらいやだ,aaiaa,ja,to,ai,adjective,5.0
+13677,991.0,あらいやだ,aaiaa,ja,961.0,canalicular,aaiua,ro,to,ai,adjective,5.0

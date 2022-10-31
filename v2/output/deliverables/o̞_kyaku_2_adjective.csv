@@ -1,4 +1,5 @@
-모토
-수로
-로고
-무모
+,id,word,word_vowel,word_lang,pair_id,pair_word,pair_word_vowel,pair_word_lang,type,rhyme_vowel,pos,syllable
+2724,161.0,모토,o̞o̞,ko,343.0,수로,uo̞,ko,kyaku,o̞,adjective,2.0
+5089,343.0,수로,uo̞,ko,161.0,모토,o̞o̞,ko,kyaku,o̞,adjective,2.0
+6845,516.0,로고,o̞o̞,ko,343.0,수로,uo̞,ko,kyaku,o̞,adjective,2.0
+6953,529.0,무모,uo̞,ko,161.0,모토,o̞o̞,ko,kyaku,o̞,adjective,2.0

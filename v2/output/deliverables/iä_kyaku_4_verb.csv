@@ -1,3 +1,4 @@
-어울리다
-일으키다
-아프리카
+,id,word,word_vowel,word_lang,pair_id,pair_word,pair_word_vowel,pair_word_lang,type,rhyme_vowel,pos,syllable
+538,24.0,어울리다,ʌuiä,ko,335.0,일으키다,iɯiä,ko,kyaku,iä,verb,4.0
+4992,335.0,일으키다,iɯiä,ko,24.0,어울리다,ʌuiä,ko,kyaku,iä,verb,4.0
+7177,567.0,아프리카,äɯiä,ko,24.0,어울리다,ʌuiä,ko,kyaku,iä,verb,4.0

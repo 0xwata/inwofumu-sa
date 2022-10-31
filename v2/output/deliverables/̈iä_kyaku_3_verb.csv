@@ -1,3 +1,4 @@
-알리다
-밝히다
-가이단
+,id,word,word_vowel,word_lang,pair_id,pair_word,pair_word_vowel,pair_word_lang,type,rhyme_vowel,pos,syllable
+1503,88.0,알리다,äiä,ko,141.0,밝히다,äiä,ko,kyaku,̈iä,verb,3.0
+2565,141.0,밝히다,äiä,ko,88.0,알리다,äiä,ko,kyaku,̈iä,verb,3.0
+20718,1505.0,가이단,äiä,ko,88.0,알리다,äiä,ko,kyaku,̈iä,verb,3.0

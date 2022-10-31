@@ -1,3 +1,4 @@
-恥ずかしい
-難しい
-香ばしい
+,id,word,word_vowel,word_lang,pair_id,pair_word,pair_word_vowel,pair_word_lang,type,rhyme_vowel,pos,syllable
+442,20.0,恥ずかしい,aɯaii,ja,366.0,難しい,ɯɯaii,ja,kyaku,ɯaii,adjective,5.0
+5280,366.0,難しい,ɯɯaii,ja,20.0,恥ずかしい,aɯaii,ja,kyaku,ɯaii,adjective,5.0
+6751,501.0,香ばしい,oɯaii,ja,20.0,恥ずかしい,aɯaii,ja,kyaku,ɯaii,adjective,5.0

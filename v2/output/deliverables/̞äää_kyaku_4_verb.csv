@@ -1,4 +1,5 @@
-계산하다
-대답하다
-통과하다
-제안하다
+,id,word,word_vowel,word_lang,pair_id,pair_word,pair_word_vowel,pair_word_lang,type,rhyme_vowel,pos,syllable
+1714,97.0,계산하다,e̞äää,ko,115.0,대답하다,e̞äää,ko,kyaku,̞äää,verb,4.0
+2005,115.0,대답하다,e̞äää,ko,97.0,계산하다,e̞äää,ko,kyaku,̞äää,verb,4.0
+2931,179.0,통과하다,o̞äää,ko,97.0,계산하다,e̞äää,ko,kyaku,̞äää,verb,4.0
+4134,270.0,제안하다,e̞äää,ko,97.0,계산하다,e̞äää,ko,kyaku,̞äää,verb,4.0

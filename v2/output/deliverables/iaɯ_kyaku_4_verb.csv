@@ -1,6 +1,7 @@
-生み出す
-失う
-費やす
-気になる
-張り合う
-あいだる
+,id,word,word_vowel,word_lang,pair_id,pair_word,pair_word_vowel,pair_word_lang,type,rhyme_vowel,pos,syllable
+660,35.0,生み出す,ɯiaɯ,ja,72.0,失う,ɯiaɯ,ja,kyaku,iaɯ,verb,4.0
+1186,72.0,失う,ɯiaɯ,ja,35.0,生み出す,ɯiaɯ,ja,kyaku,iaɯ,verb,4.0
+4360,288.0,費やす,ɯiaɯ,ja,35.0,生み出す,ɯiaɯ,ja,kyaku,iaɯ,verb,4.0
+5975,420.0,気になる,iiaɯ,ja,35.0,生み出す,ɯiaɯ,ja,kyaku,iaɯ,verb,4.0
+6639,484.0,張り合う,aiaɯ,ja,35.0,生み出す,ɯiaɯ,ja,kyaku,iaɯ,verb,4.0
+17436,1250.0,あいだる,aiaɯ,ja,35.0,生み出す,ɯiaɯ,ja,kyaku,iaɯ,verb,4.0

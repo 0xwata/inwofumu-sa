@@ -1,5 +1,6 @@
-malĝoja
-melodia
-becoquina
-abocina
-Afrodita
+,id,word,word_vowel,word_lang,pair_id,pair_word,pair_word_vowel,pair_word_lang,type,rhyme_vowel,pos,syllable
+1106,64.0,malĝoja,aoia,eo,232.0,melodia,eoia,eo,kyaku,oia,adjective,4.0
+3544,232.0,melodia,eoia,eo,64.0,malĝoja,aoia,eo,kyaku,oia,adjective,4.0
+9658,753.0,becoquina,eoia,es,64.0,malĝoja,aoia,eo,kyaku,oia,adjective,4.0
+13661,990.0,abocina,aoia,es,64.0,malĝoja,aoia,eo,kyaku,oia,adjective,4.0
+17972,1289.0,Afrodita,aoia,eo,64.0,malĝoja,aoia,eo,kyaku,oia,adjective,4.0

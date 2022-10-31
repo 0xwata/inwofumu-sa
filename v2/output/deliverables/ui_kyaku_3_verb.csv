@@ -1,6 +1,7 @@
-amuzi
-saluti
-aŭdi
-나누기
-aburrí
-akuŝi
+,id,word,word_vowel,word_lang,pair_id,pair_word,pair_word_vowel,pair_word_lang,type,rhyme_vowel,pos,syllable
+493,22.0,amuzi,aui,eo,100.0,saluti,aui,eo,kyaku,ui,verb,3.0
+1802,100.0,saluti,aui,eo,22.0,amuzi,aui,eo,kyaku,ui,verb,3.0
+4684,306.0,aŭdi,aui,eo,22.0,amuzi,aui,eo,kyaku,ui,verb,3.0
+5349,377.0,나누기,äui,ko,22.0,amuzi,aui,eo,kyaku,ui,verb,3.0
+15285,1098.0,aburrí,aui,es,22.0,amuzi,aui,eo,kyaku,ui,verb,3.0
+16912,1217.0,akuŝi,aui,eo,22.0,amuzi,aui,eo,kyaku,ui,verb,3.0

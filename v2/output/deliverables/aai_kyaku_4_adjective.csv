@@ -1,7 +1,8 @@
-berbagai
-memarahi
-甲高い
-汚い
-拙い
-akapari
-tejamaní
+,id,word,word_vowel,word_lang,pair_id,pair_word,pair_word_vowel,pair_word_lang,type,rhyme_vowel,pos,syllable
+1160,68.0,berbagai,əaai,id,157.0,memarahi,əaai,id,kyaku,aai,adjective,4.0
+2685,157.0,memarahi,əaai,id,68.0,berbagai,əaai,id,kyaku,aai,adjective,4.0
+3857,250.0,甲高い,aaai,ja,68.0,berbagai,əaai,id,kyaku,aai,adjective,4.0
+4966,332.0,汚い,iaai,ja,68.0,berbagai,əaai,id,kyaku,aai,adjective,4.0
+7081,544.0,拙い,ɯaai,ja,68.0,berbagai,əaai,id,kyaku,aai,adjective,4.0
+10190,788.0,akapari,aaai,eo,68.0,berbagai,əaai,id,kyaku,aai,adjective,4.0
+16231,1157.0,tejamaní,eaai,es,68.0,berbagai,əaai,id,kyaku,aai,adjective,4.0

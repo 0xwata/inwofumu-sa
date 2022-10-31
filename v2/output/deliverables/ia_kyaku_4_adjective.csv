@@ -1,17 +1,18 @@
-senpartia
-malĝoja
-rahasia
-menyajikan
-bergairah
-kavalira
-melodia
-pli fajna
-manusia
-becoquina
-aðgæta
-abocina
-asusila
-abjadiah
-acadian
-Afrodita
-diskutierbar
+,id,word,word_vowel,word_lang,pair_id,pair_word,pair_word_vowel,pair_word_lang,type,rhyme_vowel,pos,syllable
+579,27.0,senpartia,eaia,eo,64.0,malĝoja,aoia,eo,kyaku,ia,adjective,4.0
+1101,64.0,malĝoja,aoia,eo,27.0,senpartia,eaia,eo,kyaku,ia,adjective,4.0
+1198,73.0,rahasia,aaia,id,64.0,malĝoja,aoia,eo,kyaku,ia,adjective,4.0
+2263,130.0,menyajikan,əaia,id,64.0,malĝoja,aoia,eo,kyaku,ia,adjective,4.0
+2279,131.0,bergairah,əaia,id,64.0,malĝoja,aoia,eo,kyaku,ia,adjective,4.0
+2463,137.0,kavalira,aaia,eo,64.0,malĝoja,aoia,eo,kyaku,ia,adjective,4.0
+3543,232.0,melodia,eoia,eo,27.0,senpartia,eaia,eo,kyaku,ia,adjective,4.0
+7027,538.0,pli fajna,iaia,eo,64.0,malĝoja,aoia,eo,kyaku,ia,adjective,4.0
+7355,592.0,manusia,auia,id,27.0,senpartia,eaia,eo,kyaku,ia,adjective,4.0
+9657,753.0,becoquina,eoia,es,27.0,senpartia,eaia,eo,kyaku,ia,adjective,4.0
+12069,869.0,aðgæta,aaia,is,64.0,malĝoja,aoia,eo,kyaku,ia,adjective,4.0
+13660,990.0,abocina,aoia,es,27.0,senpartia,eaia,eo,kyaku,ia,adjective,4.0
+16585,1193.0,asusila,auia,id,27.0,senpartia,eaia,eo,kyaku,ia,adjective,4.0
+17451,1254.0,abjadiah,aaia,id,64.0,malĝoja,aoia,eo,kyaku,ia,adjective,4.0
+17806,1279.0,acadian,aaia,ro,64.0,malĝoja,aoia,eo,kyaku,ia,adjective,4.0
+17971,1289.0,Afrodita,aoia,eo,27.0,senpartia,eaia,eo,kyaku,ia,adjective,4.0
+22370,1657.0,diskutierbar,ɪuia,de,27.0,senpartia,eaia,eo,kyaku,ia,adjective,4.0

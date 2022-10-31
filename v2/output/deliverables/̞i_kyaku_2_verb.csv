@@ -1,6 +1,7 @@
-소기
-보리
-고리
-솔기
-모일
-보시
+,id,word,word_vowel,word_lang,pair_id,pair_word,pair_word_vowel,pair_word_lang,type,rhyme_vowel,pos,syllable
+2660,149.0,소기,o̞i,ko,169.0,보리,o̞i,ko,kyaku,̞i,verb,2.0
+2751,169.0,보리,o̞i,ko,149.0,소기,o̞i,ko,kyaku,̞i,verb,2.0
+2999,187.0,고리,o̞i,ko,149.0,소기,o̞i,ko,kyaku,̞i,verb,2.0
+5484,391.0,솔기,o̞i,ko,149.0,소기,o̞i,ko,kyaku,̞i,verb,2.0
+7113,548.0,모일,o̞i,ko,149.0,소기,o̞i,ko,kyaku,̞i,verb,2.0
+7297,581.0,보시,o̞i,ko,149.0,소기,o̞i,ko,kyaku,̞i,verb,2.0

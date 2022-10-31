@@ -1,3 +1,4 @@
-모토
-도료
-로고
+,id,word,word_vowel,word_lang,pair_id,pair_word,pair_word_vowel,pair_word_lang,type,rhyme_vowel,pos,syllable
+2725,161.0,모토,o̞o̞,ko,446.0,도료,o̞o,ko,to,̞o,adjective,2.0
+6179,446.0,도료,o̞o,ko,161.0,모토,o̞o̞,ko,to,̞o,adjective,2.0
+6846,516.0,로고,o̞o̞,ko,446.0,도료,o̞o,ko,to,̞o,adjective,2.0

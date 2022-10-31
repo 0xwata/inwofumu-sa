@@ -1,2 +1,3 @@
-berkilau
-miniatur
+,id,word,word_vowel,word_lang,pair_id,pair_word,pair_word_vowel,pair_word_lang,type,rhyme_vowel,pos,syllable
+3588,235.0,berkilau,əiau,id,334.0,miniatur,iiau,id,kyaku,iau,adjective,4.0
+4984,334.0,miniatur,iiau,id,235.0,berkilau,əiau,id,kyaku,iau,adjective,4.0

@@ -1,3 +1,4 @@
-자극하다
-상승하다
-가급하다
+,id,word,word_vowel,word_lang,pair_id,pair_word,pair_word_vowel,pair_word_lang,type,rhyme_vowel,pos,syllable
+307,14.0,자극하다,äɯää,ko,276.0,상승하다,äɯää,ko,kyaku,̈ɯää,verb,4.0
+4204,276.0,상승하다,äɯää,ko,14.0,자극하다,äɯää,ko,kyaku,̈ɯää,verb,4.0
+18486,1318.0,가급하다,äɯää,ko,14.0,자극하다,äɯää,ko,kyaku,̈ɯää,verb,4.0

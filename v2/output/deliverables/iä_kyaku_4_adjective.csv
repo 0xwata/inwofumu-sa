@@ -1,3 +1,4 @@
-괴롭히다
-어울리다
-개다시마
+,id,word,word_vowel,word_lang,pair_id,pair_word,pair_word_vowel,pair_word_lang,type,rhyme_vowel,pos,syllable
+674,36.0,괴롭히다,ø̞o̞iä,ko,396.0,어울리다,ʌuiä,ko,kyaku,iä,adjective,4.0
+5496,396.0,어울리다,ʌuiä,ko,36.0,괴롭히다,ø̞o̞iä,ko,kyaku,iä,adjective,4.0
+20658,1497.0,개다시마,e̞äiä,ko,36.0,괴롭히다,ø̞o̞iä,ko,kyaku,iä,adjective,4.0

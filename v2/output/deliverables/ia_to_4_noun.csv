@@ -1,51 +1,52 @@
-菱形
-吐き出す
-生み出す
-釣り合う
-serigala
-ハイファイ
-부식하다
-sandiwara
-lojala
-嘴
-ナイアス
-迷彩
-budianu
-أنغليكاني
-ajmara
-adiaŭ
-adiraja
-andilau
-ＡＢ型
-aclimata
-أخصائي
-nữ phi hành gia
-أدريانو
-sinh kí thác quy
-１次キャッシュ
-beliau
-imprimátur
-hồng y giáo chủ
-adidaya
-cejana
-hlaupár
-aviadi
-abigarra
-animala
-إنديانا
-chiriașii
-acclimata
-handicapa
-capiau
-Kalligraphie
-cronicarii
-adipati
-ＤＩ
-abdikasi
-Hà Nhì La Mí
-hodiaŭ
-Saurbæ
-أمبراطور
-delikata
-berbiau
-ＣＧＩ
+,id,word,word_vowel,word_lang,pair_id,pair_word,pair_word_vowel,pair_word_lang,type,rhyme_vowel,pos,syllable
+7392,597.0,菱形,iiaa,ja,987.0,sinh kí thác quy,iiai,vi,to,ia,noun,4.0
+7462,600.0,吐き出す,aiaɯ,ja,669.0,ハイファイ,aiai,ja,to,ia,noun,4.0
+7501,606.0,生み出す,ɯiaɯ,ja,678.0,嘴,ɯiai,ja,to,ia,noun,4.0
+7898,637.0,釣り合う,ɯiaɯ,ja,678.0,嘴,ɯiai,ja,to,ia,noun,4.0
+8148,661.0,serigala,əiaa,id,1005.0,beliau,əiau,id,to,ia,noun,4.0
+8261,669.0,ハイファイ,aiai,ja,600.0,吐き出す,aiaɯ,ja,to,ia,noun,4.0
+8331,672.0,부식하다,uiää,ko,751.0,budianu,uiau,ro,to,ia,noun,4.0
+8341,673.0,sandiwara,aiaa,id,600.0,吐き出す,aiaɯ,ja,to,ia,noun,4.0
+8454,677.0,lojala,oiaa,eo,1037.0,hồng y giáo chủ,oiau,vi,to,ia,noun,4.0
+8484,678.0,嘴,ɯiai,ja,606.0,生み出す,ɯiaɯ,ja,to,ia,noun,4.0
+8799,704.0,ナイアス,aiaɯ,ja,669.0,ハイファイ,aiai,ja,to,ia,noun,4.0
+8863,711.0,迷彩,eiai,ja,874.0,ＡＢ型,eiaa,ja,to,ia,noun,4.0
+9618,751.0,budianu,uiau,ro,672.0,부식하다,uiää,ko,to,ia,noun,4.0
+10132,787.0,أنغليكاني,aiai,ar,600.0,吐き出す,aiaɯ,ja,to,ia,noun,4.0
+10270,792.0,ajmara,aiaa,eo,600.0,吐き出す,aiaɯ,ja,to,ia,noun,4.0
+10335,794.0,adiaŭ,aiau,eo,600.0,吐き出す,aiaɯ,ja,to,ia,noun,4.0
+11131,828.0,adiraja,aiaa,id,600.0,吐き出す,aiaɯ,ja,to,ia,noun,4.0
+11831,860.0,andilau,aiau,id,600.0,吐き出す,aiaɯ,ja,to,ia,noun,4.0
+12153,874.0,ＡＢ型,eiaa,ja,711.0,迷彩,eiai,ja,to,ia,noun,4.0
+12839,940.0,aclimata,aiaa,ro,600.0,吐き出す,aiaɯ,ja,to,ia,noun,4.0
+13012,947.0,أخصائي,aiai,ar,600.0,吐き出す,aiaɯ,ja,to,ia,noun,4.0
+13167,960.0,nữ phi hành gia,ɯiaa,vi,606.0,生み出す,ɯiaɯ,ja,to,ia,noun,4.0
+13420,979.0,أدريانو,aiau,ar,600.0,吐き出す,aiaɯ,ja,to,ia,noun,4.0
+13576,987.0,sinh kí thác quy,iiai,vi,597.0,菱形,iiaa,ja,to,ia,noun,4.0
+13680,992.0,１次キャッシュ,iiaɯ,ja,597.0,菱形,iiaa,ja,to,ia,noun,4.0
+13898,1005.0,beliau,əiau,id,661.0,serigala,əiaa,id,to,ia,noun,4.0
+14324,1034.0,imprimátur,iiau,es,597.0,菱形,iiaa,ja,to,ia,noun,4.0
+14380,1037.0,hồng y giáo chủ,oiau,vi,677.0,lojala,oiaa,eo,to,ia,noun,4.0
+14665,1064.0,adidaya,aiaa,id,600.0,吐き出す,aiaɯ,ja,to,ia,noun,4.0
+15489,1110.0,cejana,eiaa,eo,711.0,迷彩,eiai,ja,to,ia,noun,4.0
+15601,1122.0,hlaupár,œiau,is,1564.0,Saurbæ,œiai,is,to,ia,noun,4.0
+15998,1148.0,aviadi,aiai,eo,600.0,吐き出す,aiaɯ,ja,to,ia,noun,4.0
+16379,1187.0,abigarra,aiaa,es,600.0,吐き出す,aiaɯ,ja,to,ia,noun,4.0
+17081,1230.0,animala,aiaa,eo,600.0,吐き出す,aiaɯ,ja,to,ia,noun,4.0
+17372,1244.0,إنديانا,iiaa,ar,987.0,sinh kí thác quy,iiai,vi,to,ia,noun,4.0
+17926,1288.0,chiriașii,iiai,ro,597.0,菱形,iiaa,ja,to,ia,noun,4.0
+18103,1295.0,acclimata,aiaa,fr,600.0,吐き出す,aiaɯ,ja,to,ia,noun,4.0
+18252,1302.0,handicapa,aiaa,ro,600.0,吐き出す,aiaɯ,ja,to,ia,noun,4.0
+19359,1386.0,capiau,aiau,id,600.0,吐き出す,aiaɯ,ja,to,ia,noun,4.0
+19397,1388.0,Kalligraphie,aiai,de,600.0,吐き出す,aiaɯ,ja,to,ia,noun,4.0
+19651,1416.0,cronicarii,oiai,ro,677.0,lojala,oiaa,eo,to,ia,noun,4.0
+19812,1434.0,adipati,aiai,id,600.0,吐き出す,aiaɯ,ja,to,ia,noun,4.0
+20549,1487.0,ＤＩ,eiai,ja,874.0,ＡＢ型,eiaa,ja,to,ia,noun,4.0
+20582,1488.0,abdikasi,aiai,id,600.0,吐き出す,aiaɯ,ja,to,ia,noun,4.0
+20907,1525.0,Hà Nhì La Mí,aiai,vi,600.0,吐き出す,aiaɯ,ja,to,ia,noun,4.0
+21006,1530.0,hodiaŭ,oiau,eo,677.0,lojala,oiaa,eo,to,ia,noun,4.0
+21234,1564.0,Saurbæ,œiai,is,1122.0,hlaupár,œiau,is,to,ia,noun,4.0
+21494,1585.0,أمبراطور,aiau,ar,600.0,吐き出す,aiaɯ,ja,to,ia,noun,4.0
+21624,1597.0,delikata,eiaa,eo,711.0,迷彩,eiai,ja,to,ia,noun,4.0
+21733,1599.0,berbiau,əiau,id,661.0,serigala,əiaa,id,to,ia,noun,4.0
+21798,1609.0,ＣＧＩ,iiai,ja,597.0,菱形,iiaa,ja,to,ia,noun,4.0

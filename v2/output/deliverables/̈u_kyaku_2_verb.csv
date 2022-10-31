@@ -1,3 +1,4 @@
-하류
-다수
-가구
+,id,word,word_vowel,word_lang,pair_id,pair_word,pair_word_vowel,pair_word_lang,type,rhyme_vowel,pos,syllable
+6712,492.0,하류,äu,ko,493.0,다수,äu,ko,kyaku,̈u,verb,2.0
+6714,493.0,다수,äu,ko,492.0,하류,äu,ko,kyaku,̈u,verb,2.0
+6989,533.0,가구,äu,ko,492.0,하류,äu,ko,kyaku,̈u,verb,2.0

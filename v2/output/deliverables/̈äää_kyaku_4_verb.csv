@@ -1,3 +1,4 @@
-나타나다
-찬양하다
-방황하다
+,id,word,word_vowel,word_lang,pair_id,pair_word,pair_word_vowel,pair_word_lang,type,rhyme_vowel,pos,syllable
+344,15.0,나타나다,ääää,ko,171.0,찬양하다,ääää,ko,kyaku,̈äää,verb,4.0
+2759,171.0,찬양하다,ääää,ko,15.0,나타나다,ääää,ko,kyaku,̈äää,verb,4.0
+3990,259.0,방황하다,ääää,ko,15.0,나타나다,ääää,ko,kyaku,̈äää,verb,4.0
