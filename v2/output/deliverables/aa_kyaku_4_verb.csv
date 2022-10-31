@@ -1,33 +1,33 @@
-word,word_lang
-berbicara,id
-mengatakan,id
-mengadakan,id
-menawarkan,id
-dikalahkan,id
-perjalanan,id
-mengalahkan,id
-kejahatan,id
-aukana,is
-المؤطر,ar
-abajaban,es
-أبارك,ar
-bải hoải bài hoài,vi
-仔细观察,zh-cn
-asparaga,id
-agrupará,es
-劈里啪啦,zh-cn
-accaparâmes,fr
-abajaba,es
-abjuraba,es
-ambulaba,es
-أشبك,ar
-octavaba,es
-abajarán,es
-contre-attaqua,fr
-abrigarla,es
-abobaba,es
-chicharraban,es
-abrumaba,es
-实地勘查,zh-cn
-abrigará,es
-abdicaba,es
+word,word_lang,word_en
+berbicara,id,Speaking
+mengatakan,id,say
+mengadakan,id,Over
+menawarkan,id,offer
+dikalahkan,id,Defeated
+perjalanan,id,travel
+mengalahkan,id,beat
+kejahatan,id,crime
+aukana,is,increased
+المؤطر,ar,Framed
+abajaban,es,Bent
+أبارك,ar,I bless
+bải hoải bài hoài,vi,graze
+仔细观察,zh-cn,Observe carefully
+asparaga,id,Asparaga
+agrupará,es,Group
+劈里啪啦,zh-cn,啪 啪
+accaparâmes,fr,grabbing
+abajaba,es,Available.
+abjuraba,es,Abjuraba.
+ambulaba,es,Ambulaba
+أشبك,ar,Ask
+octavaba,es,Octavaba.
+abajarán,es,Away
+contre-attaqua,fr,counter-attacked
+abrigarla,es,Aweh
+abobaba,es,abobaba
+chicharraban,es,Chicharranda.
+abrumaba,es,overwhelm
+实地勘查,zh-cn,Field exploration
+abrigará,es,Wool
+abdicaba,es,abdicated

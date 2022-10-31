@@ -1,20 +1,20 @@
-word,word_lang
-kuraĝa,eo
-fatala,eo
-amara,eo
-biasa,id
-juara,id
-sovaĝa,eo
-barbara,eo
-hazarda,eo
-banala,eo
-utama,id
-裸,ja
-bonhava,eo
-bogata,ro
-a la hán,vi
-bizara,eo
-balaban,ro
-okaza,eo
-إبيض,ar
-korala,eo
+word,word_lang,word_en
+kuraĝa,eo,brave
+fatala,eo,fatal
+amara,eo,bitter
+biasa,id,Ordinary
+juara,id,champion
+sovaĝa,eo,Wild
+barbara,eo,Barbara
+hazarda,eo,random
+banala,eo,trivial
+utama,id,main
+裸,ja,naked
+bonhava,eo,a wealthy
+bogata,ro,rich
+a la hán,vi,a solar
+bizara,eo,bizarre
+balaban,ro,Balaban
+okaza,eo,occasional
+إبيض,ar,white
+korala,eo,Coral

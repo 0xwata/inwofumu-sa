@@ -1,18 +1,18 @@
-word,word_lang
-meratapi,id
-mencapai,id
-menghargai,id
-mengawasi,id
-menyadari,id
-dipahami,id
-menangani,id
-mengamati,id
-memahami,id
-mengatasi,id
-menghadapi,id
-memakai,id
-melayani,id
-不寒而栗,zh-cn
-dứt áo ra đi,vi
-あま噛み,ja
-contrabatí,es
+word,word_lang,word_en
+meratapi,id,mourni.
+mencapai,id,Achieve
+menghargai,id,appreciate
+mengawasi,id,Oversee
+menyadari,id,Realize
+dipahami,id,Understood
+menangani,id,handle
+mengamati,id,observe
+memahami,id,understand
+mengatasi,id,resolve
+menghadapi,id,face
+memakai,id,Wear
+melayani,id,serve
+不寒而栗,zh-cn,shudder
+dứt áo ra đi,vi,escape
+あま噛み,ja,Bite
+contrabatí,es,contrabati

@@ -6,4 +6,6 @@ v1/data/ipa-dict
 v2/data/ipa-dict
 v1/src/__pycache__/
 v2/src/__pycache__/
+v2/src/util/__pycache__/
+v2/src/model/__pycache__/
 src/.env

@@ -1,17 +1,17 @@
-word,word_lang
-resanigi,eo
-fortikigi,eo
-menyakiti,id
-organizi,eo
-senarmigi,eo
-menghadiri,id
-origini,eo
-klasifiki,eo
-mewakili,id
-貸し切り,ja
-disqualifie,fr
-caminiti,en
-amasigi,eo
-ĉasakiri,eo
-dihadiri,id
-alkadrigi,eo
+word,word_lang,word_en
+resanigi,eo,heal
+fortikigi,eo,fortify
+menyakiti,id,hurt
+organizi,eo,to organize
+senarmigi,eo,disarm
+menghadiri,id,attend
+origini,eo,Original
+klasifiki,eo,Classify
+mewakili,id,represent
+貸し切り,ja,Lending
+disqualifie,fr,disqualified
+caminiti,en,caminiti
+amasigi,eo,to accumulate
+ĉasakiri,eo,hunting
+dihadiri,id,attended
+alkadrigi,eo,to alkate

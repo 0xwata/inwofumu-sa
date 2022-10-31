@@ -1,18 +1,18 @@
-word,word_lang
-mengatakan,id
-mengadakan,id
-menawarkan,id
-dikalahkan,id
-perjalanan,id
-mengalahkan,id
-kejahatan,id
-abajaban,es
-أبارك,ar
-bải hoải bài hoài,vi
-asparaga,id
-accaparâmes,fr
-abajaba,es
-octavaba,es
-abajarán,es
-contre-attaqua,fr
-chicharraban,es
+word,word_lang,word_en
+mengatakan,id,say
+mengadakan,id,Over
+menawarkan,id,offer
+dikalahkan,id,Defeated
+perjalanan,id,travel
+mengalahkan,id,beat
+kejahatan,id,crime
+abajaban,es,Bent
+أبارك,ar,I bless
+bải hoải bài hoài,vi,graze
+asparaga,id,Asparaga
+accaparâmes,fr,grabbing
+abajaba,es,Available.
+octavaba,es,Octavaba.
+abajarán,es,Away
+contre-attaqua,fr,counter-attacked
+chicharraban,es,Chicharranda.

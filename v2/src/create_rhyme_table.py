@@ -22,10 +22,12 @@ OUTPUT_COLUMNS = [
     "word",
     "word_vowel", # <-- デバッグ用
     "word_lang",
+    "word_en",
     "pair_id",
     "pair_word",
     "pair_word_vowel", # <-- デバッグ用
     "pair_word_lang",
+    "pair_word_en",
     "type",
     "rhyme_vowel",
     "pos",
@@ -69,6 +71,7 @@ def main():
         count += 1
         word_i = row_i["word"]
         word_lang_i = row_i["word_lang"]
+        word_en_i = row_i["word_en"]
         pos_i = row_i["word_pos"]
         syllable_i = row_i["syllable"]
         ipa_i = format_word_ipa(row_i["word_ipa"])
@@ -84,6 +87,7 @@ def main():
             for j, row_j in df_matching_candidate.iterrows():
                 word_j = row_j["word"]
                 word_lang_j= row_j["word_lang"]
+                word_en_j = row_j["word_en"]
                 if word_i == word_j:  # 同一単語の場合はskip
                     continue
                 else:
@@ -94,7 +98,7 @@ def main():
                     rhyme_vowel_kyakuin = find_rhyme_vowel(str(ipa_str_i.vowels), str(ipa_str_j.vowels),
                                                            RhymeType.KYAKUIN)
                     if rhyme_vowel_kyakuin is not None:
-                        tmp = [i, word_i, ipa_str_i.vowels,word_lang_i,  j, word_j, ipa_str_j.vowels, word_lang_j, RhymeType.KYAKUIN.value,
+                        tmp = [i, word_i, ipa_str_i.vowels,word_lang_i, word_en_i,  j, word_j, ipa_str_j.vowels, word_lang_j, word_en_j, RhymeType.KYAKUIN.value,
                                rhyme_vowel_kyakuin, pos_i, syllable_i]
                         output.append(tmp)
                     else:
@@ -102,7 +106,7 @@ def main():
                         rhyme_vowel_toin = find_rhyme_vowel(str(ipa_str_i.vowels), str(ipa_str_j.vowels),
                                                             RhymeType.TOIN)
                         if rhyme_vowel_toin is not None:
-                            tmp = [i, word_i, ipa_str_i.vowels, word_lang_i, j, word_j, ipa_str_j.vowels, word_lang_j, RhymeType.TOIN.value,
+                            tmp = [i, word_i, ipa_str_i.vowels, word_lang_i, word_en_i, j, word_j, ipa_str_j.vowels, word_lang_j, word_en_j, RhymeType.TOIN.value,
                                    rhyme_vowel_toin, pos_i, syllable_i]
                             output.append(tmp)
 

@@ -1,17 +1,17 @@
-word,word_lang
-話す,ja
-浸す,ja
-誓う,ja
-叱る,ja
-探す,ja
-引っ張る,ja
-違う,ja
-飾る,ja
-上がる,ja
-並ぶ,ja
-曲がる,ja
-流す,ja
-抱く,ja
-洗う,ja
-慕う,ja
-磨く,ja
+word,word_lang,word_en
+話す,ja,speak
+浸す,ja,Immerse
+誓う,ja,swear
+叱る,ja,Scold
+探す,ja,look for
+引っ張る,ja,pull
+違う,ja,Wrong
+飾る,ja,decorate
+上がる,ja,Go up
+並ぶ,ja,line up
+曲がる,ja,Bend
+流す,ja,Flush
+抱く,ja,Hug
+洗う,ja,wash
+慕う,ja,Honor
+磨く,ja,polish
