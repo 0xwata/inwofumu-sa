@@ -1,18 +1,18 @@
-,id,word,word_vowel,word_lang,pair_id,pair_word,pair_word_vowel,pair_word_lang,type,rhyme_vowel,pos,syllable
-1256,76.0,mengatakan,əaaa,id,138.0,mengadakan,əaaa,id,kyaku,aaa,verb,4.0
-2486,138.0,mengadakan,əaaa,id,76.0,mengatakan,əaaa,id,kyaku,aaa,verb,4.0
-3493,228.0,menawarkan,əaaa,id,76.0,mengatakan,əaaa,id,kyaku,aaa,verb,4.0
-4567,302.0,dikalahkan,iaaa,id,76.0,mengatakan,əaaa,id,kyaku,aaa,verb,4.0
-5856,417.0,perjalanan,əaaa,id,76.0,mengatakan,əaaa,id,kyaku,aaa,verb,4.0
-6385,465.0,mengalahkan,əaaa,id,76.0,mengatakan,əaaa,id,kyaku,aaa,verb,4.0
-6891,524.0,kejahatan,əaaa,id,76.0,mengatakan,əaaa,id,kyaku,aaa,verb,4.0
-10436,798.0,abajaban,aaaa,es,76.0,mengatakan,əaaa,id,kyaku,aaa,verb,4.0
-10472,799.0,أبارك,aaaa,ar,76.0,mengatakan,əaaa,id,kyaku,aaa,verb,4.0
-11055,824.0,bải hoải bài hoài,aaaa,vi,76.0,mengatakan,əaaa,id,kyaku,aaa,verb,4.0
-11243,835.0,asparaga,aaaa,id,76.0,mengatakan,əaaa,id,kyaku,aaa,verb,4.0
-13514,983.0,accaparâmes,aaaa,fr,76.0,mengatakan,əaaa,id,kyaku,aaa,verb,4.0
-13624,988.0,abajaba,aaaa,es,76.0,mengatakan,əaaa,id,kyaku,aaa,verb,4.0
-16841,1211.0,octavaba,oaaa,es,76.0,mengatakan,əaaa,id,kyaku,aaa,verb,4.0
-17149,1231.0,abajarán,aaaa,es,76.0,mengatakan,əaaa,id,kyaku,aaa,verb,4.0
-19002,1355.0,contre-attaqua,ɔaaa,fr,76.0,mengatakan,əaaa,id,kyaku,aaa,verb,4.0
-20679,1503.0,chicharraban,iaaa,es,76.0,mengatakan,əaaa,id,kyaku,aaa,verb,4.0
+,word,word_lang
+1256,mengatakan,id
+2486,mengadakan,id
+3493,menawarkan,id
+4567,dikalahkan,id
+5856,perjalanan,id
+6385,mengalahkan,id
+6891,kejahatan,id
+10436,abajaban,es
+10472,أبارك,ar
+11055,bải hoải bài hoài,vi
+11243,asparaga,id
+13514,accaparâmes,fr
+13624,abajaba,es
+16841,octavaba,es
+17149,abajarán,es
+19002,contre-attaqua,fr
+20679,chicharraban,es

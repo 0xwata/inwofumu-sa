@@ -1,18 +1,18 @@
-,id,word,word_vowel,word_lang,pair_id,pair_word,pair_word_vowel,pair_word_lang,type,rhyme_vowel,pos,syllable
-7372,597.0,菱形,iiaa,ja,661.0,serigala,əiaa,id,kyaku,iaa,noun,4.0
-8126,661.0,serigala,əiaa,id,597.0,菱形,iiaa,ja,kyaku,iaa,noun,4.0
-8340,673.0,sandiwara,aiaa,id,597.0,菱形,iiaa,ja,kyaku,iaa,noun,4.0
-8430,677.0,lojala,oiaa,eo,597.0,菱形,iiaa,ja,kyaku,iaa,noun,4.0
-10269,792.0,ajmara,aiaa,eo,597.0,菱形,iiaa,ja,kyaku,iaa,noun,4.0
-11130,828.0,adiraja,aiaa,id,597.0,菱形,iiaa,ja,kyaku,iaa,noun,4.0
-12147,874.0,ＡＢ型,eiaa,ja,597.0,菱形,iiaa,ja,kyaku,iaa,noun,4.0
-12838,940.0,aclimata,aiaa,ro,597.0,菱形,iiaa,ja,kyaku,iaa,noun,4.0
-13166,960.0,nữ phi hành gia,ɯiaa,vi,597.0,菱形,iiaa,ja,kyaku,iaa,noun,4.0
-14664,1064.0,adidaya,aiaa,id,597.0,菱形,iiaa,ja,kyaku,iaa,noun,4.0
-15483,1110.0,cejana,eiaa,eo,597.0,菱形,iiaa,ja,kyaku,iaa,noun,4.0
-16378,1187.0,abigarra,aiaa,es,597.0,菱形,iiaa,ja,kyaku,iaa,noun,4.0
-17080,1230.0,animala,aiaa,eo,597.0,菱形,iiaa,ja,kyaku,iaa,noun,4.0
-17350,1244.0,إنديانا,iiaa,ar,597.0,菱形,iiaa,ja,kyaku,iaa,noun,4.0
-18102,1295.0,acclimata,aiaa,fr,597.0,菱形,iiaa,ja,kyaku,iaa,noun,4.0
-18251,1302.0,handicapa,aiaa,ro,597.0,菱形,iiaa,ja,kyaku,iaa,noun,4.0
-21618,1597.0,delikata,eiaa,eo,597.0,菱形,iiaa,ja,kyaku,iaa,noun,4.0
+,word,word_lang
+7372,菱形,ja
+8126,serigala,id
+8340,sandiwara,id
+8430,lojala,eo
+10269,ajmara,eo
+11130,adiraja,id
+12147,ＡＢ型,ja
+12838,aclimata,ro
+13166,nữ phi hành gia,vi
+14664,adidaya,id
+15483,cejana,eo
+16378,abigarra,es
+17080,animala,eo
+17350,إنديانا,ar
+18102,acclimata,fr
+18251,handicapa,ro
+21618,delikata,eo

@@ -1,21 +1,21 @@
-,id,word,word_vowel,word_lang,pair_id,pair_word,pair_word_vowel,pair_word_lang,type,rhyme_vowel,pos,syllable
-9360,734.0,あら挽き,aaii,ja,790.0,buchirisi,uiii,ro,kyaku,ii,noun,4.0
-10249,790.0,buchirisi,uiii,ro,734.0,あら挽き,aaii,ja,kyaku,ii,noun,4.0
-10516,801.0,auglýsir,œiii,is,734.0,あら挽き,aaii,ja,kyaku,ii,noun,4.0
-11718,856.0,alaihi,aaii,id,790.0,buchirisi,uiii,ro,kyaku,ii,noun,4.0
-12641,921.0,potajií,oaii,es,790.0,buchirisi,uiii,ro,kyaku,ii,noun,4.0
-13695,993.0,드라이기,ɯäii,ko,734.0,あら挽き,aaii,ja,kyaku,ii,noun,4.0
-14127,1019.0,ＶＰＥ,ɯiii,ja,734.0,あら挽き,aaii,ja,kyaku,ii,noun,4.0
-14403,1038.0,أسباجيتي,iaii,ar,790.0,buchirisi,uiii,ro,kyaku,ii,noun,4.0
-14435,1040.0,dĩ hoà vi quí,iaii,vi,790.0,buchirisi,uiii,ro,kyaku,ii,noun,4.0
-14580,1052.0,svínaríi,iaii,is,790.0,buchirisi,uiii,ro,kyaku,ii,noun,4.0
-15463,1109.0,أكسجيني,uiii,ar,734.0,あら挽き,aaii,ja,kyaku,ii,noun,4.0
-16113,1151.0,imaginii,iaii,ro,790.0,buchirisi,uiii,ro,kyaku,ii,noun,4.0
-16350,1184.0,nam nhi chi chí,aiii,vi,734.0,あら挽き,aaii,ja,kyaku,ii,noun,4.0
-19270,1371.0,أودينيزي,uiii,ar,734.0,あら挽き,aaii,ja,kyaku,ii,noun,4.0
-19509,1390.0,bé tỉ tì ti,ɛiii,vi,734.0,あら挽き,aaii,ja,kyaku,ii,noun,4.0
-19869,1436.0,subdividí,uiii,es,734.0,あら挽き,aaii,ja,kyaku,ii,noun,4.0
-20129,1451.0,alnajli,aaii,eo,790.0,buchirisi,uiii,ro,kyaku,ii,noun,4.0
-20277,1464.0,aliigi,aiii,eo,734.0,あら挽き,aaii,ja,kyaku,ii,noun,4.0
-20477,1480.0,musafirii,uaii,ro,790.0,buchirisi,uiii,ro,kyaku,ii,noun,4.0
-21475,1584.0,artificii,aiii,ro,734.0,あら挽き,aaii,ja,kyaku,ii,noun,4.0
+,word,word_lang
+9360,あら挽き,ja
+10249,buchirisi,ro
+10516,auglýsir,is
+11718,alaihi,id
+12641,potajií,es
+13695,드라이기,ko
+14127,ＶＰＥ,ja
+14403,أسباجيتي,ar
+14435,dĩ hoà vi quí,vi
+14580,svínaríi,is
+15463,أكسجيني,ar
+16113,imaginii,ro
+16350,nam nhi chi chí,vi
+19270,أودينيزي,ar
+19509,bé tỉ tì ti,vi
+19869,subdividí,es
+20129,alnajli,eo
+20277,aliigi,eo
+20477,musafirii,ro
+21475,artificii,ro

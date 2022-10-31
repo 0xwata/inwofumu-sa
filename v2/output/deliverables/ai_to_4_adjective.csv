@@ -1,16 +1,16 @@
-,id,word,word_vowel,word_lang,pair_id,pair_word,pair_word_vowel,pair_word_lang,type,rhyme_vowel,pos,syllable
-594,27.0,senpartia,eaia,eo,1356.0,béatifie,eaii,fr,to,ai,adjective,4.0
-1117,65.0,悲しい,aaii,ja,73.0,rahasia,aaia,id,to,ai,adjective,4.0
-1199,73.0,rahasia,aaia,id,65.0,悲しい,aaii,ja,to,ai,adjective,4.0
-2232,127.0,卑しい,iaii,ja,538.0,pli fajna,iaia,eo,to,ai,adjective,4.0
-2464,137.0,kavalira,aaia,eo,65.0,悲しい,aaii,ja,to,ai,adjective,4.0
-2983,183.0,正しい,aaii,ja,73.0,rahasia,aaia,id,to,ai,adjective,4.0
-3593,236.0,悲しみ,aaii,ja,73.0,rahasia,aaia,id,to,ai,adjective,4.0
-6853,517.0,妄りに,iaii,ja,538.0,pli fajna,iaia,eo,to,ai,adjective,4.0
-7029,538.0,pli fajna,iaia,eo,127.0,卑しい,iaii,ja,to,ai,adjective,4.0
-12070,869.0,aðgæta,aaia,is,65.0,悲しい,aaii,ja,to,ai,adjective,4.0
-12134,873.0,أراتيقي,aaii,ar,73.0,rahasia,aaia,id,to,ai,adjective,4.0
-17452,1254.0,abjadiah,aaia,id,65.0,悲しい,aaii,ja,to,ai,adjective,4.0
-17807,1279.0,acadian,aaia,ro,65.0,悲しい,aaii,ja,to,ai,adjective,4.0
-17838,1281.0,trandafiriu,aaii,ro,73.0,rahasia,aaia,id,to,ai,adjective,4.0
-19032,1356.0,béatifie,eaii,fr,27.0,senpartia,eaia,eo,to,ai,adjective,4.0
+,word,word_lang
+594,senpartia,eo
+1117,悲しい,ja
+1199,rahasia,id
+2232,卑しい,ja
+2464,kavalira,eo
+2983,正しい,ja
+3593,悲しみ,ja
+6853,妄りに,ja
+7029,pli fajna,eo
+12070,aðgæta,is
+12134,أراتيقي,ar
+17452,abjadiah,id
+17807,acadian,ro
+17838,trandafiriu,ro
+19032,béatifie,fr

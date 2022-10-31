@@ -1,16 +1,16 @@
-,id,word,word_vowel,word_lang,pair_id,pair_word,pair_word_vowel,pair_word_lang,type,rhyme_vowel,pos,syllable
-8587,685.0,握り,iii,ja,698.0,mirigi,iii,eo,kyaku,ii,noun,3.0
-8759,698.0,mirigi,iii,eo,685.0,握り,iii,ja,kyaku,ii,noun,3.0
-9448,740.0,آحيني,aii,ar,685.0,握り,iii,ja,kyaku,ii,noun,3.0
-9964,777.0,가리비,äii,ko,685.0,握り,iii,ja,kyaku,ii,noun,3.0
-13069,955.0,airi,aii,id,685.0,握り,iii,ja,kyaku,ii,noun,3.0
-13497,982.0,Martini,aii,is,685.0,握り,iii,ja,kyaku,ii,noun,3.0
-14454,1041.0,Swahili,aii,is,685.0,握り,iii,ja,kyaku,ii,noun,3.0
-14840,1076.0,Bikini,iii,de,685.0,握り,iii,ja,kyaku,ii,noun,3.0
-15675,1130.0,amirí,aii,es,685.0,握り,iii,ja,kyaku,ii,noun,3.0
-15827,1138.0,ＩＣ,aii,ja,685.0,握り,iii,ja,kyaku,ii,noun,3.0
-17336,1242.0,ban chỉ huy,aii,vi,685.0,握り,iii,ja,kyaku,ii,noun,3.0
-17791,1278.0,bikini,iii,id,685.0,握り,iii,ja,kyaku,ii,noun,3.0
-18168,1296.0,기밀실,iii,ko,685.0,握り,iii,ja,kyaku,ii,noun,3.0
-20462,1475.0,biisi,iii,fi,685.0,握り,iii,ja,kyaku,ii,noun,3.0
-20524,1485.0,Rimini,iii,is,685.0,握り,iii,ja,kyaku,ii,noun,3.0
+,word,word_lang
+8587,握り,ja
+8759,mirigi,eo
+9448,آحيني,ar
+9964,가리비,ko
+13069,airi,id
+13497,Martini,is
+14454,Swahili,is
+14840,Bikini,de
+15675,amirí,es
+15827,ＩＣ,ja
+17336,ban chỉ huy,vi
+17791,bikini,id
+18168,기밀실,ko
+20462,biisi,fi
+20524,Rimini,is

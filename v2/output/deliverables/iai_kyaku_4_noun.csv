@@ -1,19 +1,19 @@
-,id,word,word_vowel,word_lang,pair_id,pair_word,pair_word_vowel,pair_word_lang,type,rhyme_vowel,pos,syllable
-8263,669.0,ハイファイ,aiai,ja,678.0,嘴,ɯiai,ja,kyaku,iai,noun,4.0
-8486,678.0,嘴,ɯiai,ja,669.0,ハイファイ,aiai,ja,kyaku,iai,noun,4.0
-8853,711.0,迷彩,eiai,ja,669.0,ハイファイ,aiai,ja,kyaku,iai,noun,4.0
-10133,787.0,أنغليكاني,aiai,ar,669.0,ハイファイ,aiai,ja,kyaku,iai,noun,4.0
-13013,947.0,أخصائي,aiai,ar,669.0,ハイファイ,aiai,ja,kyaku,iai,noun,4.0
-13577,987.0,sinh kí thác quy,iiai,vi,669.0,ハイファイ,aiai,ja,kyaku,iai,noun,4.0
-15999,1148.0,aviadi,aiai,eo,669.0,ハイファイ,aiai,ja,kyaku,iai,noun,4.0
-17927,1288.0,chiriașii,iiai,ro,669.0,ハイファイ,aiai,ja,kyaku,iai,noun,4.0
-18552,1328.0,antinazis,ɑiai,fr,669.0,ハイファイ,aiai,ja,kyaku,iai,noun,4.0
-19398,1388.0,Kalligraphie,aiai,de,669.0,ハイファイ,aiai,ja,kyaku,iai,noun,4.0
-19650,1416.0,cronicarii,oiai,ro,669.0,ハイファイ,aiai,ja,kyaku,iai,noun,4.0
-19813,1434.0,adipati,aiai,id,669.0,ハイファイ,aiai,ja,kyaku,iai,noun,4.0
-20538,1487.0,ＤＩ,eiai,ja,669.0,ハイファイ,aiai,ja,kyaku,iai,noun,4.0
-20583,1488.0,abdikasi,aiai,id,669.0,ハイファイ,aiai,ja,kyaku,iai,noun,4.0
-20834,1519.0,Occitanie,ɔiai,fr,669.0,ハイファイ,aiai,ja,kyaku,iai,noun,4.0
-20908,1525.0,Hà Nhì La Mí,aiai,vi,669.0,ハイファイ,aiai,ja,kyaku,iai,noun,4.0
-21218,1564.0,Saurbæ,œiai,is,669.0,ハイファイ,aiai,ja,kyaku,iai,noun,4.0
-21799,1609.0,ＣＧＩ,iiai,ja,669.0,ハイファイ,aiai,ja,kyaku,iai,noun,4.0
+,word,word_lang
+8263,ハイファイ,ja
+8486,嘴,ja
+8853,迷彩,ja
+10133,أنغليكاني,ar
+13013,أخصائي,ar
+13577,sinh kí thác quy,vi
+15999,aviadi,eo
+17927,chiriașii,ro
+18552,antinazis,fr
+19398,Kalligraphie,de
+19650,cronicarii,ro
+19813,adipati,id
+20538,ＤＩ,ja
+20583,abdikasi,id
+20834,Occitanie,fr
+20908,Hà Nhì La Mí,vi
+21218,Saurbæ,is
+21799,ＣＧＩ,ja

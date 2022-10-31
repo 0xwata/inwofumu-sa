@@ -1,20 +1,20 @@
-,id,word,word_vowel,word_lang,pair_id,pair_word,pair_word_vowel,pair_word_lang,type,rhyme_vowel,pos,syllable
-8004,650.0,ぴかぴか,iaia,ja,1038.0,أسباجيتي,iaii,ar,to,ai,noun,4.0
-9359,734.0,あら挽き,aaii,ja,756.0,أقاقيا,aaia,ar,to,ai,noun,4.0
-9676,756.0,أقاقيا,aaia,ar,734.0,あら挽き,aaii,ja,to,ai,noun,4.0
-10376,795.0,吗玩意儿,aaia,zh-cn,734.0,あら挽き,aaii,ja,to,ai,noun,4.0
-11717,856.0,alaihi,aaii,id,756.0,أقاقيا,aaia,ar,to,ai,noun,4.0
-12649,921.0,potajií,oaii,es,1077.0,お上さん,oaia,ja,to,ai,noun,4.0
-13224,963.0,alfavita,aaia,ro,734.0,あら挽き,aaii,ja,to,ai,noun,4.0
-14401,1038.0,أسباجيتي,iaii,ar,650.0,ぴかぴか,iaia,ja,to,ai,noun,4.0
-14433,1040.0,dĩ hoà vi quí,iaii,vi,650.0,ぴかぴか,iaia,ja,to,ai,noun,4.0
-14578,1052.0,svínaríi,iaii,is,650.0,ぴかぴか,iaia,ja,to,ai,noun,4.0
-14862,1077.0,お上さん,oaia,ja,921.0,potajií,oaii,es,to,ai,noun,4.0
-15217,1094.0,analiza,aaia,ro,734.0,あら挽き,aaii,ja,to,ai,noun,4.0
-16111,1151.0,imaginii,iaii,ro,650.0,ぴかぴか,iaia,ja,to,ai,noun,4.0
-16809,1208.0,chí tái chí tam,iaia,vi,1038.0,أسباجيتي,iaii,ar,to,ai,noun,4.0
-20128,1451.0,alnajli,aaii,eo,756.0,أقاقيا,aaia,ar,to,ai,noun,4.0
-20393,1472.0,actualisa,aaia,fr,734.0,あら挽き,aaii,ja,to,ai,noun,4.0
-20810,1517.0,ababilla,aaia,es,734.0,あら挽き,aaii,ja,to,ai,noun,4.0
-21885,1616.0,abadiah,aaia,id,734.0,あら挽き,aaii,ja,to,ai,noun,4.0
-22058,1627.0,apartiga,aaia,eo,734.0,あら挽き,aaii,ja,to,ai,noun,4.0
+,word,word_lang
+8004,ぴかぴか,ja
+9359,あら挽き,ja
+9676,أقاقيا,ar
+10376,吗玩意儿,zh-cn
+11717,alaihi,id
+12649,potajií,es
+13224,alfavita,ro
+14401,أسباجيتي,ar
+14433,dĩ hoà vi quí,vi
+14578,svínaríi,is
+14862,お上さん,ja
+15217,analiza,ro
+16111,imaginii,ro
+16809,chí tái chí tam,vi
+20128,alnajli,eo
+20393,actualisa,fr
+20810,ababilla,es
+21885,abadiah,id
+22058,apartiga,eo

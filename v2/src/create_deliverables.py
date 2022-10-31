@@ -23,7 +23,7 @@ def main():
                     tmp_word = tmp[["word", "word_lang"]]
                     tmp_pair_word = tmp[["pair_word", "pair_word_lang"]]
                     tmp_pair_word.columns = ["word", "word_lang"]
-                    word_group = pd.concat([tmp, tmp_pair_word], axis=0)
+                    word_group = pd.concat([tmp_word, tmp_pair_word], axis=0)
                     unique_word_group = word_group.drop_duplicates(subset='word')
                     if len(unique_word_group) >= row_length_threshold:
                         over_row_length_threshold_count += 1

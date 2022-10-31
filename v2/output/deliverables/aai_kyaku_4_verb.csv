@@ -1,18 +1,18 @@
-,id,word,word_vowel,word_lang,pair_id,pair_word,pair_word_vowel,pair_word_lang,type,rhyme_vowel,pos,syllable
-751,44.0,meratapi,əaai,id,46.0,mencapai,əaai,id,kyaku,aai,verb,4.0
-813,46.0,mencapai,əaai,id,44.0,meratapi,əaai,id,kyaku,aai,verb,4.0
-1378,84.0,menghargai,əaai,id,44.0,meratapi,əaai,id,kyaku,aai,verb,4.0
-1460,86.0,mengawasi,əaai,id,44.0,meratapi,əaai,id,kyaku,aai,verb,4.0
-1567,91.0,menyadari,əaai,id,44.0,meratapi,əaai,id,kyaku,aai,verb,4.0
-1649,93.0,dipahami,iaai,id,44.0,meratapi,əaai,id,kyaku,aai,verb,4.0
-3182,210.0,menangani,əaai,id,44.0,meratapi,əaai,id,kyaku,aai,verb,4.0
-3407,226.0,mengamati,əaai,id,44.0,meratapi,əaai,id,kyaku,aai,verb,4.0
-3606,238.0,memahami,əaai,id,44.0,meratapi,əaai,id,kyaku,aai,verb,4.0
-3900,252.0,mengatasi,əaai,id,44.0,meratapi,əaai,id,kyaku,aai,verb,4.0
-4483,298.0,menghadapi,əaai,id,44.0,meratapi,əaai,id,kyaku,aai,verb,4.0
-5371,380.0,memakai,əaai,id,44.0,meratapi,əaai,id,kyaku,aai,verb,4.0
-6758,503.0,melayani,əaai,id,44.0,meratapi,əaai,id,kyaku,aai,verb,4.0
-9699,761.0,不寒而栗,uaai,zh-cn,44.0,meratapi,əaai,id,kyaku,aai,verb,4.0
-12780,937.0,dứt áo ra đi,ɯaai,vi,44.0,meratapi,əaai,id,kyaku,aai,verb,4.0
-14204,1024.0,あま噛み,aaai,ja,44.0,meratapi,əaai,id,kyaku,aai,verb,4.0
-14730,1066.0,contrabatí,oaai,es,44.0,meratapi,əaai,id,kyaku,aai,verb,4.0
+,word,word_lang
+751,meratapi,id
+813,mencapai,id
+1378,menghargai,id
+1460,mengawasi,id
+1567,menyadari,id
+1649,dipahami,id
+3182,menangani,id
+3407,mengamati,id
+3606,memahami,id
+3900,mengatasi,id
+4483,menghadapi,id
+5371,memakai,id
+6758,melayani,id
+9699,不寒而栗,zh-cn
+12780,dứt áo ra đi,vi
+14204,あま噛み,ja
+14730,contrabatí,es
