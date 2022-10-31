@@ -29,7 +29,7 @@ def main():
                         over_row_length_threshold_count += 1
                         file_name = f'../output/deliverables/{unique_rhyme_vowel}_{unique_type}_{unique_syllable}_{unique_pos}.csv'
                         print(file_name, len(unique_word_group))
-                        unique_word_group.to_csv(file_name)
+                        unique_word_group.to_csv(file_name, index = False)
                     count += 1
     print(f"{over_row_length_threshold_count} / {count}: {(over_row_length_threshold_count / count)*100} %")
 
