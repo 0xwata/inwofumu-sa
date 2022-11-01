@@ -87,3 +87,15 @@ class Translate:
         except TypeError as e:
             print("TypeError", e)
         return translated_word
+
+    def translate_to_japanese_by_language(self, word: str, lang: str) -> str:
+        translated_word = ""
+        try:
+            translated_word = self.translator.translate(word, dest='ja', src=lang).text
+        except httpcore._exceptions.ReadTimeout as e:
+            print("エラー", e)
+        except httpcore._exceptions.ConnectTimeout as e:
+            print("httpcore._exceptions.ConnectTimeout")
+        except TypeError as e:
+            print("TypeError", e)
+        return translated_word

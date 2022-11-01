@@ -43,7 +43,7 @@ def main():
     df_raw = pandas.read_csv("../data/v1_output.csv", index_col=0)
     df = df_raw[INPUT_COLUMNS]
 
-    """ 
+    """
     音節数を調べる(IPAの母音を元にカウントする)
     """
     syllable_count_list = []
@@ -57,9 +57,9 @@ def main():
     df["syllable"] = syllable_count_list
 
     """
-    中間テーブル(rhyme_table)を作成する
-    | id | word | word_vowel | pair_id | pair_word | pair_word | type        | rhyme_vowel | pos  | syllable |
-    | 19 | hoge | oe         | 40      | fuga      | ua        | to or kyaku | ou          | noun | 3        |
+    中間テーブル(rhyme_table)を作成する（id必要ないかも)
+    | id | word | word_vowel | word_lang| word_en | word_ja | pair_id | pair_word | pair_word | type        | rhyme_vowel | pos  | syllable |
+    | 19 | hoge | oe         | 40       | hoge    | ほげ     | 12      |fuga      | ua        | to or kyaku | ou          | noun | 3        |
     """
     count = 0
     error_count = 0

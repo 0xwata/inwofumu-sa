@@ -18,3 +18,4 @@ def find_part_of_speech(word_en: str, lang: str) -> PartOfSpeech:
         return PartOfSpeech.adv
     else:
         return PartOfSpeech.other
+

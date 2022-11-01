@@ -11,10 +11,12 @@ import numpy as np
 https://qiita.com/m__k/items/ffd3b7774f2fde1083fa#%E5%93%81%E8%A9%9E%E3%81%AE%E5%8F%96%E5%BE%97
 """
 
+
 # target_pos_li = ["JJ", "JJR", "JJS", "NN", "NNS", "NNP", "NNPS", "VB", "VBD", "VBN", "VBP", "VBZ"]
 
-class Tokenizer():
-    def fetch_target_pos(self, word) -> str:
+class Tokenizer:
+
+    def fetch_target_pos(self, word: str) -> str:
         morph = nltk.word_tokenize(word)
         pos = nltk.pos_tag(morph)
         pos_tag = pos[0][1]
@@ -28,7 +30,8 @@ class Tokenizer():
             return "verb"
         return ""
 
-class TokenizerSpacy():
+
+class TokenizerSpacy:
     def __init__(self):
         self.spacy_symbol_noun_list = [NOUN, PROPN, PRON]
 
@@ -40,18 +43,18 @@ class TokenizerSpacy():
         self.nlp_ro = spacy.load("ro_core_news_sm")
 
         self.lang_converter_dic_for_spacy = {
-            "de":self.nlp_de,#
-            "en":self.nlp_en,#
-            "es":self.nlp_es,#
-            "ja":self.nlp_ja,#
-            "ro":self.nlp_ro,#
-            "zh-cn":self.nlp_zh,#
+            "de": self.nlp_de,  #
+            "en": self.nlp_en,  #
+            "es": self.nlp_es,  #
+            "ja": self.nlp_ja,  #
+            "ro": self.nlp_ro,  #
+            "zh-cn": self.nlp_zh,  #
             # "eo":"eo",
             # "id":nlp_id,
             # "ko":nlp_ko,
         }
 
-    def fetch_target_pos(self, word, word_en, lang) -> str:
+    def fetch_target_pos(self, word:str, word_en:str, lang:str) -> str:
         if lang in self.lang_converter_dic_for_spacy.keys():
             nlp = self.lang_converter_dic_for_spacy[lang]
             if word is np.nan:
