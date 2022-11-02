@@ -106,7 +106,7 @@ def main():
             if request_word_translated == "":
                 continue
 
-            print(log_debug(f"request_word_translated: {request_word_translated}"))
+            print(log_debug("request_word_translated: {}".format(request_word_translated)))
 
             # 音節が少なくとも３つ以上の単語を採用するようにする
             request_word_ipa = ipaMatchWordSearcher.convert_to_ipa(lang=request_word_lang, word=request_word_translated)
