@@ -1,3 +1,4 @@
+from numpy import deprecate
 import pandas
 from ipapy.ipastring import IPAString
 from hyphen import Hyphenator
@@ -34,7 +35,7 @@ OUTPUT_COLUMNS = [
     "syllable"
 ]
 
-
+@deprecate(message="こちらのメソッドは不使用となります。create_rhyme_pairのメソッドに処理をまとめました")
 def main():
     """ Translatorクラスのインスタンスを生成 """
     # translator = Translator()
