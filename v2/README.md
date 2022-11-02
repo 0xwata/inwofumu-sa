@@ -1,6 +1,6 @@
 ## 生成する中間テーブル
 
-### rhyme_pair_table
+### rhyme_pair.csv
 
 create_rhyme_pair.py を実行して生成されるアウトプット
 | id | word | word_ipa| word_ipa_rhyme | word_lang| word_en | word_ja | pair_word | pair_word_ipa | pair_word_ipa_rhyme |pair_word_en | pair_word_ja | rhyme_type | match_ipa_rhyme | pos | syllable |
@@ -22,7 +22,11 @@ create_rhyme_pair.py を実行して生成されるアウトプット
 
 ## 最終 output の生成方法
 
-期待値
+### deliverables/v\*/(押韻)\_(韻のタイプ)\_(音節)\_(品詞).csv
+
+rhyme_pair.csv を入力として create_deliverables.py を実行して生成されるアウトプット
+
+期待値の例
 
 ```buildoutcfg
 A: uu_kyaku_4_verb : sample, ほじくる, doodle, ひきずる, google
@@ -30,6 +34,8 @@ B: oi_to_2_adj : showy, 遠い, sorry, 多い, holy
 C: ai_to_2_noun : light, あいつ, dive, type, 細工
 D: uo_to_3_adv : slowly, すごく, growly, うとうと, drolly
 ```
+
+疑似コード（最新は異なる可能性あり）
 
 ```python
   unique_pos_group = df["pos"].unique()
