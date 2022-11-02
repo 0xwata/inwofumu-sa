@@ -165,9 +165,9 @@ def main():
             print(log_debug("start writing tmp list to output"))
             # write request info
             tmp.append(request_word_translated)
+            tmp.append(request_word_lang)
             tmp.append(request_word_ipa)
             tmp.append(request_word_ipa_rhyme)
-            tmp.append(request_word_lang)
             tmp.append(
                 translate.translate_to_english_by_language(
                     word=request_word_translated,
@@ -184,9 +184,9 @@ def main():
 
             # --  response
             tmp.append(response_word)
+            tmp.append(response_word_lang)
             tmp.append(response_word_ipa)
             tmp.append(response_word_ipa_rhyme)
-            tmp.append(response_word_lang)
             tmp.append(
                 translate.translate_to_english_by_language(
                     word=response_word,
