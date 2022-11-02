@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 
 def log_debug(text: str) -> str:
     return f"LOG/DEBUG: {text}"

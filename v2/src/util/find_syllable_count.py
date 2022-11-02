@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 from ipapy.ipastring import IPAString
 
 

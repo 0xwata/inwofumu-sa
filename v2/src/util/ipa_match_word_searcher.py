@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 from util.translate import Translate
 from util.tokenizer import Tokenizer, TokenizerSpacy
 from util.find_syllable_count import find_syllable_count

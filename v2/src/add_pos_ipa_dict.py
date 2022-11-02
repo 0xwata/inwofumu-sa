@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 
 from util.ipa_match_word_searcher import IpaMatchWordSearcher
 from util.translate import Translate

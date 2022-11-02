@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from model.rhyme_type import RhymeType
 from typing import Optional
 import random

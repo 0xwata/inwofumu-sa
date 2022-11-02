@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 from googletrans import Translator
 import random
 import httpcore

@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 import sys
 import argparse
 import create_rhyme_pair

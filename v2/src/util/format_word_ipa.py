@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 
 def format_word_ipa(ipa: str) -> str:
     result = ""

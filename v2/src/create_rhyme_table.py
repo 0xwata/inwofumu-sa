@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 from numpy import deprecate
 import pandas
 from ipapy.ipastring import IPAString

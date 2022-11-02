@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 from nltk import tokenize
 import random
 import csv
@@ -32,7 +34,7 @@ N_MATCH_MAX = 5
    出力テーブル(rhyme_table)を作成する（id必要ないかも)
    | id | word | word_ipa| word_ipa_rhyme | word_lang| word_en | word_ja |  pair_word | pair_word_ipa | pair_word_ipa_rhyme |pair_word_en | pair_word_ja | rhyme_type        | match_ipa_rhyme | pos  | syllable |
    | 19 | hoge | oe      | oe             |   ja     |     ho  | hoge    |  fuga      | ua            |    ua               | hoge        |   fdf        | to or kyaku       | ou        | noun | 3        |
-   """
+"""
 
 
 def main():
