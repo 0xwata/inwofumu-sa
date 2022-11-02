@@ -12,7 +12,7 @@ def main():
     files = glob.glob(f"{input_base_url}/*.csv")
 
     count = 0
-    df_total = Optional[DataFrame]
+    df_total = None
     for file in files:
         if count == 0:
             df_total = pd.read_csv(file)

@@ -1,7 +1,8 @@
 from model.rhyme_type import RhymeType
 from typing import Optional
-
+import random
 """
+TODO: 正確にはVowel（母音）だけじゃないからメソッド名変えた方が良さそう
 @param: ipa_str_vowels_1: IPAStringのObjectのプロパティであるvowels
 @param; ipa_str_vowels_2: 〃
 """
@@ -76,7 +77,14 @@ def check_ipa_rhyme_match(ipa_rhyme_1: str, ipa_rhyme_2: str, rhyme_type: RhymeT
         if len(match_ipa_rhyme) == 0 or len(match_ipa_rhyme) == 1:
             return None
         else:
-            return match_ipa_rhyme
+            if len(match_ipa_rhyme) > 2:
+                return match_ipa_rhyme
+            else: # 2文字で韻を踏んでる場合は3割採用
+                isAccept = random.choices([True, False], weights=[0.3, 0.7], k=1)
+                if isAccept:
+                    return match_ipa_rhyme
+                else:
+                    return None
     else:
         """脚韻判定"""
         for i in range(max_rhyme_length):
@@ -92,5 +100,10 @@ def check_ipa_rhyme_match(ipa_rhyme_1: str, ipa_rhyme_2: str, rhyme_type: RhymeT
         if len(match_ipa_rhyme) == 0 or len(match_ipa_rhyme) == 1:
             return None
         else:
-            # 後ろから1文字ずつ追加しているので最後は反転して渡す
-            return match_ipa_rhyme[::-1]
+            if len(match_ipa_rhyme) == 2:
+                isAccept = random.choices([True, False], weights=[0.3, 0.7], k=1)
+                if isAccept:
+                    # 後ろから1文字ずつ追加しているので最後は反転して渡す
+                    return match_ipa_rhyme[::-1]
+                else:
+                    return None
