@@ -1,7 +1,7 @@
-word,word_lang,word_en,word_ja
-sikuri,/ˈsikuri/,chicory,チコリ
-ruuvi,/ˈruuvi/,screw,スクリュー
-物理,/bɯtsɯɾi/,Physics,物理
-文月,/ɸɯzɯki/,July,文月
-tinkturi,/tinkturi/,dye,染料
-비구니,/piɡuni/,Nun,修道女
+word,word_lang,word_en,word_ja,word_ipa_rhyme
+sikuri,fi,chicory,チコリ,yuy
+ruuvi,fi,screw,スクリュー,uuy
+物理,ja,Physics,物理,ubuy
+文月,/ɸɯzɯki/,July,文月,ja
+tinkturi,/tinkturi/,dye,染料,eo
+비구니,/piɡuni/,Nun,修道女,ko

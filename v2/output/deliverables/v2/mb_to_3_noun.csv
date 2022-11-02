@@ -1,11 +1,11 @@
-word,word_lang,word_en,word_ja
-阳台,/jɑŋ˧˥ tʰaɪ˧˥/,balcony,バルコニー
-engineer,/ˈɛndʒəˈnɪɹ/,engineer,エンジニア
-inginer,/indʒiner/,engineer,エンジニア
-햄스터,/hɛ̝msʰɯtʰʌ̹/,hamster,ハムスター
-工作,/kʊŋ˥˥ tsuɔ˥˩/,Work,仕事
-complexes,/ˈkɑmpɫɛksəz/,complexes,複合体
-뱀장어,/pɛ̝md͡ʑa̠ŋʌ̹/,eel,うなぎ
-hringhröðun,/r̥iŋkr̥œðʏn/,ring,指輪
-bernskunnar,/pɛnskʏnar/,childhood,子供時代
-Fundsache,/ˈfʊntzaxə/,found object,見つかったオブジェクト
+word,word_lang,word_en,word_ja,word_ipa_rhyme
+阳台,zh-cn,balcony,バルコニー,ɑmbɶʏ
+engineer,en,engineer,エンジニア,œmbəʏ
+inginer,ro,engineer,エンジニア,ymbyø
+햄스터,ko,hamster,ハムスター,œmbubɔ
+工作,zh-cn,Work,仕事,ʊmbuɔ
+complexes,/ˈkɑmpɫɛksəz/,complexes,複合体,en
+뱀장어,/pɛ̝md͡ʑa̠ŋʌ̹/,eel,うなぎ,ko
+hringhröðun,/r̥iŋkr̥œðʏn/,ring,指輪,is
+bernskunnar,/pɛnskʏnar/,childhood,子供時代,is
+Fundsache,/ˈfʊntzaxə/,found object,見つかったオブジェクト,de

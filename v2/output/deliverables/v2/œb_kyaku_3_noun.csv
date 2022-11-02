@@ -1,7 +1,7 @@
-word,word_lang,word_en,word_ja
-millénaire,/milenɛʁ/,millennium,ミレニアム
-Messgerät,/ˈmɛssgeɾɛt/,Measuring device,測定デバイス
-rennibraut,/rɛnɪprœjt/,slide,滑り台
-svínakjöt,/sviːnacœːt/,pork,豚肉
-dépanneur,/depanœʁ/,convenience store,コンビニ
-thyself,/ˌðaɪˈsɛɫf/,thyself,自分自身
+word,word_lang,word_en,word_ja,word_ipa_rhyme
+millénaire,fr,millennium,ミレニアム,yøœb
+Messgerät,de,Measuring device,測定デバイス,œbbøœb
+rennibraut,is,slide,滑り台,œʏbœb
+svínakjöt,/sviːnacœːt/,pork,豚肉,is
+dépanneur,/depanœʁ/,convenience store,コンビニ,fr
+thyself,/ˌðaɪˈsɛɫf/,thyself,自分自身,en

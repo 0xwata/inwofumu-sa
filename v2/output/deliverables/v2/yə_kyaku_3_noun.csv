@@ -1,7 +1,7 @@
-word,word_lang,word_en,word_ja
-loggia,/ˈɫɑɡiə/,loggia,ロッジア
-kaliber,/kalibər/,caliber,口径
-Olive,/ʔoˈliːfə/,olive,オリーブ
-au prix de,/opʁidə/,at the price of,の価格で
-logică,/lodʒikə/,logic,論理
-peria,/ˈpɛɹiə/,peria,ペリア
+word,word_lang,word_en,word_ja,word_ipa_rhyme
+loggia,en,loggia,ロッジア,ɑyə
+kaliber,id,caliber,口径,ɶyə
+Olive,de,olive,オリーブ,oyə
+au prix de,/opʁidə/,at the price of,の価格で,fr
+logică,/lodʒikə/,logic,論理,ro
+peria,/ˈpɛɹiə/,peria,ペリア,en

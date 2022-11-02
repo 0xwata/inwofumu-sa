@@ -1,23 +1,23 @@
-word,word_lang,word_en,word_ja
-ارتفاع,/irtifaːʕ/,to rise,上る・昇る
-libertad,/liβeɾtað/,freedom,フリーダム
-menyengat,/məɲəŋat/,stinging,刺し傷
-người lạ,/ŋɯəj˦˨ la˨ˀ˩ʔ/,stranger,知らない人
-الفيزياء,/aːlfiːzjaːʔ/,Physics,物理
-accessoire,/akseswaʁ/,accessory,アクセサリー
-انفصال,/infisˤaːl/,Separation,分離
-perawat,/pərawat/,nurse,看護婦
-심리학,/ɕʰimniɦa̠k̚/,psychology,心理学
-الإرهاب,/aːlʔirhaːb/,Terrorism,テロ
-اندفاع,/indifaːʕ/,dash,ダッシュ
-jingoístas,/xiŋgoˈistas/,Jingoist,ジンゴイスト
-gạch ốp lát,/ɣak˨ˀ˩ʔ op˦˥ lak˦˥/,ceramic tiles,セラミックタイル
-yfirvarp,/ɪːvɪrvar̥p/,radius,半径
-steinhart,/ˈʃtaenaɾt/,rock -hard,ロック - ハード
-zodiac,/zodijak/,zodiac,ゾディアック
-토양학,/tʰo̞ja̠ŋɦa̠k̚/,soil science,土壌科学
-tripetal,/tripetal/,trileptal,トリレパル
-caligraf,/kaliɡraf/,calligrapher,書道者
-فكالأب,/fakaaːlʔab/,So the father,だから父
-vélindað,/vjɛːlɪntað/,esophagus,食道
-Skandalblatt,/ˈskandalblat/,Scandal leaf,スキャンダルリーフ
+word,word_lang,word_en,word_ja,word_ipa_rhyme
+ارتفاع,ar,to rise,上る・昇る,yyɶb
+libertad,es,freedom,フリーダム,yøɶb
+menyengat,id,stinging,刺し傷,əəɶb
+người lạ,vi,stranger,知らない人,uəɶb
+الفيزياء,ar,Physics,物理,ɶbybɶb
+accessoire,fr,accessory,アクセサリー,ɶbøbɶb
+انفصال,ar,Separation,分離,ymybɶb
+perawat,id,nurse,看護婦,əɶɶb
+심리학,ko,psychology,心理学,bymyɶb
+الإرهاب,ar,Terrorism,テロ,ɶbyɶb
+اندفاع,ar,dash,ダッシュ,ymyɶb
+jingoístas,/xiŋgoˈistas/,Jingoist,ジンゴイスト,es
+gạch ốp lát,/ɣak˨ˀ˩ʔ op˦˥ lak˦˥/,ceramic tiles,セラミックタイル,vi
+yfirvarp,/ɪːvɪrvar̥p/,radius,半径,is
+steinhart,/ˈʃtaenaɾt/,rock -hard,ロック - ハード,de
+zodiac,/zodijak/,zodiac,ゾディアック,ro
+토양학,/tʰo̞ja̠ŋɦa̠k̚/,soil science,土壌科学,ko
+tripetal,/tripetal/,trileptal,トリレパル,ro
+caligraf,/kaliɡraf/,calligrapher,書道者,ro
+فكالأب,/fakaaːlʔab/,So the father,だから父,ar
+vélindað,/vjɛːlɪntað/,esophagus,食道,is
+Skandalblatt,/ˈskandalblat/,Scandal leaf,スキャンダルリーフ,de

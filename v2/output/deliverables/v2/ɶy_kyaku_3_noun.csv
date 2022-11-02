@@ -1,20 +1,20 @@
-word,word_lang,word_en,word_ja
-badai,/badai/,storm,嵐
-paradis,/paʁadi/,heaven,天国
-敵,/kataki/,enemy,敵
-部隊,/bɯtai/,Unit,部隊
-pribadi,/pribadi/,personal,個人的
-消化器,/ɕoɯkaki/,Digestive organ,消化器
-jerami,/dʒərami/,straw,ストロー
-阻害,/sogai/,Hindrance,阻害
-berlari,/bərlari/,run,走る
-Hraunbæ,/r̥œinpai/,Lava,溶岩
-signali,/signali/,signal,信号
-Bigamie,/ˌbiɡaˈmiː/,bigamy,重婚
-구사리,/kusʰa̠ɾi/,Gusari,グサリ
-鼠害,/sogai/,damage by rats,鼠害
-avari,/avari/,avari,アバリ
-hazardi,/hazardi/,Hazard,危険
-해오라기,/hɛ̝o̞ɾa̠ɡi/,Hagi,hagi
-alkalí,/alkʰali/,alkaline,アルカリ
-Kaiserreich,/ˈka͜izɐra͜iç/,Empire,帝国
+word,word_lang,word_en,word_ja,word_ipa_rhyme
+badai,id,storm,嵐,ɶɶy
+paradis,fr,heaven,天国,ɶɶy
+敵,ja,enemy,敵,ɶɶy
+部隊,ja,Unit,部隊,uɶy
+pribadi,id,personal,個人的,byɶy
+消化器,ja,Digestive organ,消化器,ouɶy
+jerami,id,straw,ストロー,bəɶy
+阻害,ja,Hindrance,阻害,oɶy
+berlari,id,run,走る,əɶy
+Hraunbæ,/r̥œinpai/,Lava,溶岩,is
+signali,/signali/,signal,信号,eo
+Bigamie,/ˌbiɡaˈmiː/,bigamy,重婚,de
+구사리,/kusʰa̠ɾi/,Gusari,グサリ,ko
+鼠害,/sogai/,damage by rats,鼠害,ja
+avari,/avari/,avari,アバリ,eo
+hazardi,/hazardi/,Hazard,危険,eo
+해오라기,/hɛ̝o̞ɾa̠ɡi/,Hagi,hagi,ko
+alkalí,/alkʰali/,alkaline,アルカリ,is
+Kaiserreich,/ˈka͜izɐra͜iç/,Empire,帝国,de

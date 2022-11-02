@@ -1,7 +1,7 @@
-word,word_lang,word_en,word_ja
-チコリ,/tɕikoɾi/,chicory,チコリ
-回廊,/kaiɾoɯ/,corridor,回廊
-几何学,/tɕi˨˩˦ xɤ˧˥ ɕɥœ˧˥/,geometry,ジオメトリ
-chirlones,/tʃiɾlones/,Chirlones,シルロン
-parigot,/paʁigo/,parigot,パリゴー
-grifona,/gɾifona/,Grifona,グリフォナ
+word,word_lang,word_en,word_ja,word_ipa_rhyme
+チコリ,ja,chicory,チコリ,byoy
+回廊,ja,corridor,回廊,ɶyou
+几何学,zh-cn,geometry,ジオメトリ,byobœ
+chirlones,/tʃiɾlones/,Chirlones,シルロン,es
+parigot,/paʁigo/,parigot,パリゴー,fr
+grifona,/gɾifona/,Grifona,グリフォナ,es

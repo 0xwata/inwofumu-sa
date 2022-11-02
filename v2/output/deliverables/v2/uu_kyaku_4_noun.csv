@@ -1,7 +1,7 @@
-word,word_lang,word_en,word_ja
-キューティクル,/kjɯːteikɯɾɯ/,cuticle,キューティクル
-凝集,/gjoɯɕɯɯ/,Cohesion,凝集
-reziduu,/reziduu/,residue,残基
-주글주글,/t͡ɕuɡɯɭd͡ʑuɡɯɭ/,Juggle,ジャグル
-mobutu,/moʊˈbuˌtu/,mobutu,モブツ
-mongosutu,/ˌmɑŋɡoʊˈsutu/,mongosutu,モンゴストゥ
+word,word_lang,word_en,word_ja,word_ipa_rhyme
+キューティクル,ja,cuticle,キューティクル,buøyuu
+凝集,ja,Cohesion,凝集,bouuu
+reziduu,ro,residue,残基,øyuu
+주글주글,/t͡ɕuɡɯɭd͡ʑuɡɯɭ/,Juggle,ジャグル,ko
+mobutu,/moʊˈbuˌtu/,mobutu,モブツ,en
+mongosutu,/ˌmɑŋɡoʊˈsutu/,mongosutu,モンゴストゥ,en

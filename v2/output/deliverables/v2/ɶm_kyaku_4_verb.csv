@@ -1,9 +1,9 @@
-word,word_lang,word_en,word_ja
-perbudakan,/pərbudakan/,slavery,奴隷制
-pelaporan,/pəlaporan/,reporting,報告
-mengharapkan,/məŋharapkan/,expect,予想
-peringatan,/pəriŋatan/,warning,警告
-力挽狂澜,/li˥˩ wan˨˩˦ kʰwɑŋ˧˥ lan˧˥/,Tide,潮
-소집영장,/sʰo̞d͡ʑibjʌ̹ŋd͡ʑa̠ŋ/,Convocation warrant,招集令状
-睡眠パターン,/sɯimiɴpataːɴ/,Sleep pattern,睡眠パターン
-ngồi lì cung thang,/ŋoj˦˨ li˦˨ kuŋ͡m˧˥ tʰaŋ˧˥/,sitting,座っている
+word,word_lang,word_en,word_ja,word_ipa_rhyme
+perbudakan,id,slavery,奴隷制,əuɶɶm
+pelaporan,id,reporting,報告,əɶoɶm
+mengharapkan,id,expect,予想,əmɶɶbɶm
+peringatan,id,warning,警告,əyɶɶm
+力挽狂澜,/li˥˩ wan˨˩˦ kʰwɑŋ˧˥ lan˧˥/,Tide,潮,zh-cn
+소집영장,/sʰo̞d͡ʑibjʌ̹ŋd͡ʑa̠ŋ/,Convocation warrant,招集令状,ko
+睡眠パターン,/sɯimiɴpataːɴ/,Sleep pattern,睡眠パターン,ja
+ngồi lì cung thang,/ŋoj˦˨ li˦˨ kuŋ͡m˧˥ tʰaŋ˧˥/,sitting,座っている,vi

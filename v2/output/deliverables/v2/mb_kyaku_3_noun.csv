@@ -1,11 +1,11 @@
-word,word_lang,word_en,word_ja
-assignment,/əˈsaɪnmənt/,assignment,割り当て
-abundent,/abundent/,abundant,豊富です
-reluctance,/ɹiˈɫəktəns/,reluctance,不本意
-uppfinning,/ʏfɪniŋk/,invention,発明
-attainment,/əˈteɪnmənt/,attainment,達成
-vol-au-vent,/ˈvolɑuvent/,VOL-AU-VEST,Vol-au-Vest
-Gleichstroms,/ˈglaeçstɾɔms/,Direct current,直流
-comitent,/komitent/,principal,主要
-microfilms,/mikɾofilms/,Microfilms,マイクロフィルム
-résonans,/resonans/,Résonans,レソン
+word,word_lang,word_en,word_ja,word_ipa_rhyme
+assignment,en,assignment,割り当て,əɶʏməmb
+abundent,ro,abundant,豊富です,ɶumømb
+reluctance,en,reluctance,不本意,yəbəmb
+uppfinning,is,invention,発明,ʏʏymb
+attainment,en,attainment,達成,əøʏməmb
+vol-au-vent,/ˈvolɑuvent/,VOL-AU-VEST,Vol-au-Vest,fi
+Gleichstroms,/ˈglaeçstɾɔms/,Direct current,直流,de
+comitent,/komitent/,principal,主要,ro
+microfilms,/mikɾofilms/,Microfilms,マイクロフィルム,es
+résonans,/resonans/,Résonans,レソン,id

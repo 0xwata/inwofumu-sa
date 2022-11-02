@@ -1,11 +1,11 @@
-word,word_lang,word_en,word_ja
-suolakurkku,/ˈsuolɑˌkurkku/,pickle,ピクルス
-セラミック,/seɾamikːɯ/,ceramic,セラミック
-リーダーシップ,/ɾiːdaːɕipːɯ/,leadership,リーダーシップ
-恐怖分子,/kʰʊŋ˨˩˦ pu˥˩ fən˥˩ tsɯ˧/,terrorist,テロリスト
-프로젝트,/pʰɯɾo̞d͡ʑe̞k̚tʰɯ/,project,事業
-风险投资,/fɤŋ˥˥ ɕjɛn˨˩˦ tʰoʊ˧˥ tsɯ˥˥/,Venture capital,ベンチャーキャピタル
-agematsu,/ˈæɡəˈmætsu/,agematsu,Agematsu
-mâm son bát sứ,/mɤ̆m˧˥ ʂɔŋ͡m˧˥ bak˦˥ ʂɯ˩˧/,Porcelain lipstick tray,磁器の口紅トレイ
-microtubule,/ˈmaɪˌkɹoʊˈtubjuɫ/,microtubule,微小管
-nasihatku,/nasihatku/,My advice,私のアドバイス
+word,word_lang,word_en,word_ja,word_ipa_rhyme
+suolakurkku,fi,pickle,ピクルス,uoɑubu
+セラミック,ja,ceramic,セラミック,øɶybu
+リーダーシップ,ja,leadership,リーダーシップ,yɶybu
+恐怖分子,zh-cn,terrorist,テロリスト,bʊmuəmbu
+프로젝트,ko,project,事業,buobøbbu
+风险投资,/fɤŋ˥˥ ɕjɛn˨˩˦ tʰoʊ˧˥ tsɯ˥˥/,Venture capital,ベンチャーキャピタル,zh-cn
+agematsu,/ˈæɡəˈmætsu/,agematsu,Agematsu,en
+mâm son bát sứ,/mɤ̆m˧˥ ʂɔŋ͡m˧˥ bak˦˥ ʂɯ˩˧/,Porcelain lipstick tray,磁器の口紅トレイ,vi
+microtubule,/ˈmaɪˌkɹoʊˈtubjuɫ/,microtubule,微小管,en
+nasihatku,/nasihatku/,My advice,私のアドバイス,id

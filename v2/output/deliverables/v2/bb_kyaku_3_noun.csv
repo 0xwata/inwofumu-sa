@@ -1,7 +1,7 @@
-word,word_lang,word_en,word_ja
-skíthæll,/sciːthaitl̥/,pos,Pos
-pianist,/ˈpiənɪst/,pianist,ピアニスト
-therapist,/ˈθɛɹəpəst/,therapist,セラピスト
-thi cử học,/tʰi˧˥ kɯ˧˩˨ hɔk͡p˨ˀ˩ʔ/,exam,テスト
-ستشاد,/satuʃaːdd/,Stepse,stepse
-minigolf,/ˈminigolf/,mini golf,ミニゴルフ
+word,word_lang,word_en,word_ja,word_ipa_rhyme
+skíthæll,is,pos,Pos,bybɶybb
+pianist,en,pianist,ピアニスト,yəʏbb
+therapist,en,therapist,セラピスト,œəəbb
+thi cử học,/tʰi˧˥ kɯ˧˩˨ hɔk͡p˨ˀ˩ʔ/,exam,テスト,vi
+ستشاد,/satuʃaːdd/,Stepse,stepse,ar
+minigolf,/ˈminigolf/,mini golf,ミニゴルフ,fi

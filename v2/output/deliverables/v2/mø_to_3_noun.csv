@@ -1,7 +1,7 @@
-word,word_lang,word_en,word_ja
-vinjeto,/vinjeto/,vignette,ビネット
-神経,/ɕiɴkei/,Nerve,神経
-タンデム,/taɴdemɯ/,Tandem,タンデム
-fingelska,/ˈfingelskɑ/,fingelska,フィンゲルスカ
-indexen,/indeksen/,Indexen,インデックスン
-amnésiques,/amnezik/,amnesiac,健忘
+word,word_lang,word_en,word_ja,word_ipa_rhyme
+vinjeto,eo,vignette,ビネット,ymøo
+神経,ja,Nerve,神経,ymøy
+タンデム,ja,Tandem,タンデム,ɶmøu
+fingelska,/ˈfingelskɑ/,fingelska,フィンゲルスカ,fi
+indexen,/indeksen/,Indexen,インデックスン,es
+amnésiques,/amnezik/,amnesiac,健忘,fr

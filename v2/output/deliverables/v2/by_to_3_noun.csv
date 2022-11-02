@@ -1,9 +1,9 @@
-word,word_lang,word_en,word_ja
-エチル,/etɕiɾɯ/,ethyl,エチル
-الشتاء,/aːlʃitaːʔ/,winter,冬
-keksintö,/ˈkeksintø/,invention,発明
-ازدراء,/izdiraːʔ/,contempt,軽empt
-lebrillos,/leβɾiʎos/,Lebrillos,レブリロス
-垃圾箱,/la˥˥ tɕi˥˥ ɕjɑŋ˥˥/,Garbage,ごみ
-レジェンド,/ɾedʑieɴdo/,legend,レジェンド
-retrieval,/ɹiˈtɹivəɫ/,retrieval,検索
+word,word_lang,word_en,word_ja,word_ipa_rhyme
+エチル,ja,ethyl,エチル,øbyu
+الشتاء,ar,winter,冬,ɶbyɶb
+keksintö,fi,invention,発明,øbymø
+ازدراء,ar,contempt,軽empt,ybyɶb
+lebrillos,/leβɾiʎos/,Lebrillos,レブリロス,es
+垃圾箱,/la˥˥ tɕi˥˥ ɕjɑŋ˥˥/,Garbage,ごみ,zh-cn
+レジェンド,/ɾedʑieɴdo/,legend,レジェンド,ja
+retrieval,/ɹiˈtɹivəɫ/,retrieval,検索,en

@@ -1,21 +1,21 @@
-word,word_lang,word_en,word_ja
-Hurrikan,/ˌhʊʁiˈkaːn/,hurricane,ハリケーン
-serangan,/səraŋan/,attack,攻撃
-混蛋,/xuən˥˩ tan˥˩/,asshole,下衆野郎
-pasukan,/pasukan/,troops,軍
-الكتان,/aːlkattaːn/,Linen,リネン
-pakaian,/pakaian/,clothes,服
-sarapan,/sarapan/,breakfast,朝ごはん
-kemampuan,/kəmampuan/,ability,能力
-Eisenbahn,/ˈaɪ̯zənˌbaːn/,railroad,鉄道
-penemuan,/pənəmuan/,invention,発明
-sendayan,/səndajan/,Sendayan,センダヤン
-优越感,/joʊ˥˥ ɥœ˥˩ kan˨˩˦/,Superiority,優位性
-misogam,/misoɡam/,misogam,ミソガム
-多者間,/taɕakaɴ/,Amateur,多者間
-benturan,/bənturan/,collision,衝突
-拐弯,/kuaɪ˨˩˦ wan˥˥/,Bend,曲げる
-文化遗产,/uən˧˥ xwa˥˩ i˧˥ ʈʂʰan˨˩˦/,Cultural heritage,文化遺産
-Arbeitszwang,/ˈʔaɾbaetstsvaŋ/,Labor force,労働力
-sebucán,/seβuˈkan/,Sebucán,セブカン
-phi thời gian,/fi˧˥ tʰɤj˦˨ jaŋ˧˥/,non -time,非時間
+word,word_lang,word_en,word_ja,word_ipa_rhyme
+Hurrikan,de,hurricane,ハリケーン,ʊyɶm
+serangan,id,attack,攻撃,əɶɶm
+混蛋,zh-cn,asshole,下衆野郎,uəmɶm
+pasukan,id,troops,軍,ɶuɶm
+الكتان,ar,Linen,リネン,ɶbɶbɶm
+pakaian,id,clothes,服,ɶɶyɶm
+sarapan,id,breakfast,朝ごはん,ɶɶɶm
+kemampuan,id,ability,能力,əɶmuɶm
+Eisenbahn,de,railroad,鉄道,ɶʏəmɶm
+penemuan,id,invention,発明,əəuɶm
+sendayan,/səndajan/,Sendayan,センダヤン,id
+优越感,/joʊ˥˥ ɥœ˥˩ kan˨˩˦/,Superiority,優位性,zh-cn
+misogam,/misoɡam/,misogam,ミソガム,ro
+多者間,/taɕakaɴ/,Amateur,多者間,ja
+benturan,/bənturan/,collision,衝突,id
+拐弯,/kuaɪ˨˩˦ wan˥˥/,Bend,曲げる,zh-cn
+文化遗产,/uən˧˥ xwa˥˩ i˧˥ ʈʂʰan˨˩˦/,Cultural heritage,文化遺産,zh-cn
+Arbeitszwang,/ˈʔaɾbaetstsvaŋ/,Labor force,労働力,de
+sebucán,/seβuˈkan/,Sebucán,セブカン,es
+phi thời gian,/fi˧˥ tʰɤj˦˨ jaŋ˧˥/,non -time,非時間,vi

@@ -1,7 +1,7 @@
-word,word_lang,word_en,word_ja
-olento,/ˈolento/,being,であること
-自行车,/tsɯ˥˩ ɕɪŋ˧˥ ʈʂʰɤ˥˥/,bike,自転車
-atingo,/atingo/,achievement,業績
-열전도,/jʌ̹ɭd͡ʑʌ̹ndo̞/,Thermal conductivity,熱伝導率
-patanco,/pataŋko/,Patanco,パタンコ
-mondongo,/mondoŋgo/,Tripe,くだらない話
+word,word_lang,word_en,word_ja,word_ipa_rhyme
+olento,fi,being,であること,oømo
+自行车,zh-cn,bike,自転車,buʏmo
+atingo,eo,achievement,業績,ɶymo
+열전도,/jʌ̹ɭd͡ʑʌ̹ndo̞/,Thermal conductivity,熱伝導率,ko
+patanco,/pataŋko/,Patanco,パタンコ,es
+mondongo,/mondoŋgo/,Tripe,くだらない話,es

@@ -1,13 +1,13 @@
-word,word_lang,word_en,word_ja
-天国,/teɴgokɯ/,heaven,天国
-contorno,/kontoɾno/,outline,概要
-肝臓,/kaɴzoɯ/,liver,肝臓
-点灯,/teɴtoɯ/,Lighting,点灯
-原告,/geɴkokɯ/,plaintiff,原告
-ハンモック,/haɴmokːɯ/,hammock,ハンモック
-pentoză,/pentozə/,pentosis,胎児症
-Tân Hội Trung,/tɤ̆ŋ˧˥ hoj˨ˀ˩ʔ ʈuŋ͡m˧˥/,Tan Hoi Trung,タン・ホイ・トゥング
-半成品,/pan˥˩ ʈʂʰɤŋ˧˥ pʰɪn˨˩˦/,Semi -finished product,セミフィニッシュ製品
-senzorga,/senzorga/,careless,不注意
-nên cơm cháo,/nen˧˥ kɤm˧˥ caw˩˧/,Should rice porridge,ライスポリッジが必要です
-rannsókna,/ransouhkna/,research,リサーチ
+word,word_lang,word_en,word_ja,word_ipa_rhyme
+天国,ja,heaven,天国,ømou
+contorno,es,outline,概要,omoo
+肝臓,ja,liver,肝臓,ɶmou
+点灯,ja,Lighting,点灯,ømou
+原告,ja,plaintiff,原告,ømou
+ハンモック,ja,hammock,ハンモック,ɶmobu
+pentoză,/pentozə/,pentosis,胎児症,ro
+Tân Hội Trung,/tɤ̆ŋ˧˥ hoj˨ˀ˩ʔ ʈuŋ͡m˧˥/,Tan Hoi Trung,タン・ホイ・トゥング,vi
+半成品,/pan˥˩ ʈʂʰɤŋ˧˥ pʰɪn˨˩˦/,Semi -finished product,セミフィニッシュ製品,zh-cn
+senzorga,/senzorga/,careless,不注意,eo
+nên cơm cháo,/nen˧˥ kɤm˧˥ caw˩˧/,Should rice porridge,ライスポリッジが必要です,vi
+rannsókna,/ransouhkna/,research,リサーチ,is

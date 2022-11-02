@@ -1,11 +1,11 @@
-word,word_lang,word_en,word_ja
-コラード,/koɾaːdo/,Collard,コラード
-metano,/metano/,methane,メタン
-kravato,/kravato/,tie,ネクタイ
-romano,/romano/,a novel,小説
-pirato,/pirato/,pirate,海賊
-guano,/ɡuwano/,guano,グアノ
-唐子,/kaɾako/,Karako,唐子
-Idaho,/idao/,Idaho,アイダホ
-miệng na mô,/miəŋ˨ˀ˩ʔ na˧˥ mo˧˥/,Male Model,男性モデル
-guascazo,/gwaskaθo/,Guascazo,グスカゾ
+word,word_lang,word_en,word_ja,word_ipa_rhyme
+コラード,ja,Collard,コラード,oɶo
+metano,es,methane,メタン,øɶo
+kravato,eo,tie,ネクタイ,bɶɶo
+romano,eo,a novel,小説,oɶo
+pirato,eo,pirate,海賊,yɶo
+guano,/ɡuwano/,guano,グアノ,ro
+唐子,/kaɾako/,Karako,唐子,ja
+Idaho,/idao/,Idaho,アイダホ,fr
+miệng na mô,/miəŋ˨ˀ˩ʔ na˧˥ mo˧˥/,Male Model,男性モデル,vi
+guascazo,/gwaskaθo/,Guascazo,グスカゾ,es

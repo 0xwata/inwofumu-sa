@@ -1,7 +1,7 @@
-word,word_lang,word_en,word_ja
-秘密,/çimitsɯ/,secret,秘密
-calibre,/kaliβɾe/,caliber,口径
-liittouma,/ˈliittoumɑ/,alliance,アライアンス
-sirrille,/ˈsirrille/,for Sirri,sirriのために
-大比拼,/ta˥˩ pi˨˩˦ pʰɪn˥˥/,Contest,コンテスト
-quisisteis,/kisisteis/,You wanted,あなたは欲しかった
+word,word_lang,word_en,word_ja,word_ipa_rhyme
+秘密,ja,secret,秘密,yybu
+calibre,es,caliber,口径,ɶybø
+liittouma,fi,alliance,アライアンス,yybouɑ
+sirrille,/ˈsirrille/,for Sirri,sirriのために,fi
+大比拼,/ta˥˩ pi˨˩˦ pʰɪn˥˥/,Contest,コンテスト,zh-cn
+quisisteis,/kisisteis/,You wanted,あなたは欲しかった,es

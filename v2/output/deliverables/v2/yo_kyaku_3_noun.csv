@@ -1,15 +1,15 @@
-word,word_lang,word_en,word_ja
-tornillo,/toɾniʎo/,screw,スクリュー
-kallio,/ˈkɑllio/,rock,石
-rodillo,/roðiʎo/,roller,ローラー
-etilo,/etilo/,ethyl,エチル
-debitor,/debitor/,debtor,債務者
-balailo,/balailo/,sweep,掃く
-kuvio,/ˈkuvio/,pattern,パターン
-ガイド,/gaido/,guide,ガイド
-ロイホ,/ɾoiho/,Royho,ロイホ
-打七折,/ta˨˩˦ tɕʰi˥˥ ʈʂɤ˧˥/,70 % off,70％オフ
-Wohnsilo,/ˈvonzilo/,Silver silo,シルバーサイロ
-casinos,/kazino/,casinos,カジノ
-loạn trí nhớ,/lwaŋ˨ˀ˩ʔ ʈi˩˧ ɲɤ˩˧/,dementia,認知症
-pardillo,/paɾðiʎo/,linnet,リンネット
+word,word_lang,word_en,word_ja,word_ipa_rhyme
+tornillo,es,screw,スクリュー,oyo
+kallio,fi,rock,石,ɑbyo
+rodillo,es,roller,ローラー,oyo
+etilo,es,ethyl,エチル,øyo
+debitor,ro,debtor,債務者,øyo
+balailo,eo,sweep,掃く,ɶɶyo
+kuvio,fi,pattern,パターン,uyo
+ガイド,/gaido/,guide,ガイド,ja
+ロイホ,/ɾoiho/,Royho,ロイホ,ja
+打七折,/ta˨˩˦ tɕʰi˥˥ ʈʂɤ˧˥/,70 % off,70％オフ,zh-cn
+Wohnsilo,/ˈvonzilo/,Silver silo,シルバーサイロ,de
+casinos,/kazino/,casinos,カジノ,fr
+loạn trí nhớ,/lwaŋ˨ˀ˩ʔ ʈi˩˧ ɲɤ˩˧/,dementia,認知症,vi
+pardillo,/paɾðiʎo/,linnet,リンネット,es

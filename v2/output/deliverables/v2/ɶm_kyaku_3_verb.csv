@@ -1,7 +1,7 @@
-word,word_lang,word_en,word_ja
-menaikkan,/mənaiʔkan/,raise,高める
-温暖,/uən˥˥ nwan˨˩˦/,warmth,暖かさ
-ukiran,/ukiran/,carving,彫刻
-tibetan,/tibetan/,Tibetan,チベット
-blăjovan,/bləʒovan/,Blăjovan,ブラジョヴァン
-crisparán,/kɾispaˈɾan/,They will cry out,彼らは叫ぶでしょう
+word,word_lang,word_en,word_ja,word_ipa_rhyme
+menaikkan,id,raise,高める,əɶybɶm
+温暖,zh-cn,warmth,暖かさ,uəmmɶm
+ukiran,id,carving,彫刻,uyɶm
+tibetan,/tibetan/,Tibetan,チベット,ro
+blăjovan,/bləʒovan/,Blăjovan,ブラジョヴァン,ro
+crisparán,/kɾispaˈɾan/,They will cry out,彼らは叫ぶでしょう,es

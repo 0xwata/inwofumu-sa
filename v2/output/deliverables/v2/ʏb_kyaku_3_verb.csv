@@ -1,7 +1,7 @@
-word,word_lang,word_en,word_ja
-transcribe,/tɹænsˈkɹaɪb/,transcribe,転写します
-secretive,/ˈsikɹətɪv/,secretive,秘密
-statistic,/stəˈtɪstɪk/,statistic,統計
-بقيظ,/biqeɪðˤ/,Wasting,浪費
-وبقيل,/wabiqeɪl/,And it was said,そして、それは言われました
-وبصيح,/wabisˤeɪħ/,And shouting,そして叫ぶ
+word,word_lang,word_en,word_ja,word_ipa_rhyme
+transcribe,en,transcribe,転写します,bæmbbɶʏb
+secretive,en,secretive,秘密,ybəʏb
+statistic,en,statistic,統計,bəʏbʏb
+بقيظ,/biqeɪðˤ/,Wasting,浪費,ar
+وبقيل,/wabiqeɪl/,And it was said,そして、それは言われました,ar
+وبصيح,/wabisˤeɪħ/,And shouting,そして叫ぶ,ar

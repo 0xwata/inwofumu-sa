@@ -1,13 +1,13 @@
-word,word_lang,word_en,word_ja
-أقحم,/ʔaqħama/,inset,挿入図
-كاشف,/kaːʃafa/,Detector,検出器
-corbata,/koɾβata/,tie,ネクタイ
-كبت,/kabata/,repression,抑制
-صانع,/sˤaːnaʕa/,maker,メーカー
-بالغ,/baːlaɣa/,Adult,大人
-归纳法,/kweɪ˥˥ na˥˩ fa˨˩˦/,Induction,誘導
-哗喇喇,/xwa˥˥ la˥˥ la˥˥/,Rush,急ぐ
-tiama,/tiama/,at that time,その時
-redata,/redata/,rendered,レンダリング
-dukana,/dukana/,SUB,サブ
-alkala,/alkala/,alkali,アルカリ
+word,word_lang,word_en,word_ja,word_ipa_rhyme
+أقحم,ar,inset,挿入図,ɶbɶɶ
+كاشف,ar,Detector,検出器,ɶɶɶ
+corbata,es,tie,ネクタイ,oɶɶ
+كبت,ar,repression,抑制,ɶɶɶ
+صانع,ar,maker,メーカー,bɶɶɶ
+بالغ,ar,Adult,大人,ɶɶɶ
+归纳法,/kweɪ˥˥ na˥˩ fa˨˩˦/,Induction,誘導,zh-cn
+哗喇喇,/xwa˥˥ la˥˥ la˥˥/,Rush,急ぐ,zh-cn
+tiama,/tiama/,at that time,その時,eo
+redata,/redata/,rendered,レンダリング,ro
+dukana,/dukana/,SUB,サブ,id
+alkala,/alkala/,alkali,アルカリ,eo

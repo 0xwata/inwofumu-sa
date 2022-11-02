@@ -1,7 +1,7 @@
-word,word_lang,word_en,word_ja
-godfather,/ˈɡɑdˌfɑðɝ/,godfather,ゴッドファーザー
-subvention,/sybvɑ̃sjɔ̃/,grant,許す
-pourcentage,/puʁsɑ̃taʒ/,percentage,パーセンテージ
-embranchasses,/ɑ̃bʁɑ̃ʃas/,jam,混雑する
-hitsari,/ˈhitsɑri/,welder,溶接機
-tupsahdus,/ˈtupsɑhdus/,dagger,短剣
+word,word_lang,word_en,word_ja,word_ipa_rhyme
+godfather,en,godfather,ゴッドファーザー,ɑbɑə
+subvention,fr,grant,許す,ybɑbɔ
+pourcentage,fr,percentage,パーセンテージ,ubɑɶ
+embranchasses,/ɑ̃bʁɑ̃ʃas/,jam,混雑する,fr
+hitsari,/ˈhitsɑri/,welder,溶接機,fi
+tupsahdus,/ˈtupsɑhdus/,dagger,短剣,fi

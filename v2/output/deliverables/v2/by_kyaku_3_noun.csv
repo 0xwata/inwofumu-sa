@@ -1,15 +1,15 @@
-word,word_lang,word_en,word_ja
-kartelli,/ˈkɑrtelli/,cartel,カルテル
-vinjetti,/ˈvinjetti/,vignette,ビネット
-kravatti,/ˈkrɑvɑtti/,tie,ネクタイ
-kanootti,/ˈkɑnootti/,canoe,カヌー
-projekti,/ˈprojekti/,project,事業
-geometry,/dʒiˈɑmətɹi/,geometry,ジオメトリ
-infarkti,/ˈinfɑrkti/,infarction,梗塞
-evadne,/ɪˈvɛdni/,evadne,エヴァドネ
-expozanți,/ekspozantsʲ/,exhibitors,出展者
-tổng đại lí,/toŋ͡m˧˩˨ daj˨ˀ˩ʔ li˩˧/,general agents,一般的なエージェント
-日にち,/çinitɕi/,date,日にち
-wildavsky,/wɪɫˈdævski/,wildavsky,ワイルドアブスキー
-tội lệ gì,/toj˨ˀ˩ʔ le˨ˀ˩ʔ ɣi˦˨/,What crime,なんて犯罪
-lsd,/ˌɛˌɫɛsˈdi/,lsd,LSD
+word,word_lang,word_en,word_ja,word_ipa_rhyme
+kartelli,fi,cartel,カルテル,ɑøby
+vinjetti,fi,vignette,ビネット,ymøby
+kravatti,fi,tie,ネクタイ,bɑɑby
+kanootti,fi,canoe,カヌー,ɑooby
+projekti,fi,project,事業,boøby
+geometry,en,geometry,ジオメトリ,byɑəby
+infarkti,fi,infarction,梗塞,ymɑby
+evadne,/ɪˈvɛdni/,evadne,エヴァドネ,en
+expozanți,/ekspozantsʲ/,exhibitors,出展者,ro
+tổng đại lí,/toŋ͡m˧˩˨ daj˨ˀ˩ʔ li˩˧/,general agents,一般的なエージェント,vi
+日にち,/çinitɕi/,date,日にち,ja
+wildavsky,/wɪɫˈdævski/,wildavsky,ワイルドアブスキー,en
+tội lệ gì,/toj˨ˀ˩ʔ le˨ˀ˩ʔ ɣi˦˨/,What crime,なんて犯罪,vi
+lsd,/ˌɛˌɫɛsˈdi/,lsd,LSD,en
