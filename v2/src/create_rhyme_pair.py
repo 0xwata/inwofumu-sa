@@ -84,7 +84,7 @@ def main():
                 #     isAccept = random.choices([True, False], weights=[0.3, 0.7], k=1)
             except Exception:
                 pass
-        print(log_debug(f"request_word: {request_word}"))
+        print(log_debug("request_word: {}".format(request_word)))
 
         langs = ['ja', 'en', 'de', 'id', 'zh-cn', 'ko', 'eo', 'es', 'ro', 'ar', 'is', 'vi', 'sv', 'fr', 'fi']
         # ランダムに並び替えて初期化
@@ -95,7 +95,7 @@ def main():
         全ての言語ではなく、シャッフルした上で先頭7個の言語にtranslateする（※ 7個は適当な値）
         """
         for j, lang in enumerate(langs[:7]):
-            print(log_debug(f"{str(i)} - {str(j)}"))
+            print(log_debug("{0} - {1}".format(str(i), str(j))))
 
             request_word_lang = lang
 
@@ -112,7 +112,7 @@ def main():
             request_word_ipa = ipaMatchWordSearcher.convert_to_ipa(lang=request_word_lang, word=request_word_translated)
             request_word_syllable_count = find_syllable_count(format_word_ipa(request_word_ipa))
             if request_word_syllable_count < SYLLABLE_MIN_COUNT:
-                log_error(f"under SYLLABLE_MIN_COUNT, word:{request_word_translated}")
+                log_error("under SYLLABLE_MIN_COUNT, word:{}".format(request_word_translated))
                 continue
             # print(log_debug(f"request_word_ipa: {request_word_ipa}"))
             # print(log_debug(f"request_word_syllable_count: {request_word_syllable_count}"))
@@ -133,7 +133,7 @@ def main():
             """
             # IPA変換処理
             request_word_ipa_rhyme = find_target_ipa_rhyme(request_word_ipa)
-            print(log_debug(f"request_word_ipa_rhyme: {request_word_ipa_rhyme}"))
+            print(log_debug("request_word_ipa_rhyme: {}".format(request_word_ipa_rhyme)))
 
             # IPAベースで韻を踏む単語を探す
             response_dict = ipaMatchWordSearcher.search(
@@ -145,10 +145,10 @@ def main():
                 translate=translate
             )
             if response_dict is None:
-                print(log_error(f"search error"))
+                print(log_error("search error"))
                 continue
             elif response_dict["pair_word"] == "":
-                print(log_error(f"not found ipa matched word "))
+                print(log_error("not found ipa matched word "))
                 continue
 
             response_word = response_dict["pair_word"]
@@ -208,17 +208,17 @@ def main():
             # 各行の書き込み
             output.append(tmp)
             print(log_debug("======================================================================="))
-            print(log_debug(f"{tmp}"))
-            print(log_debug(f"request_word_pos: {request_word_pos}, response_word_pos: {response_word_pos}"))
+            print(log_debug("{}".format(tmp)))
+            print(log_debug("request_word_pos: {0}, response_word_pos: {1}".format(request_word_pos,request_word_pos)))
             print(log_debug("======================================================================="))
 
     print(log_debug("start writing output to csv"))
     filename = uuid.uuid1()
-    f = open(f'../output/rhyme_pair/v2/{filename}.csv', 'w')
+    f = open('../output/rhyme_pair/v2/{}.csv'.format(filename), 'w')
     write = csv.writer(f)
     write.writerows(output)
-    print(log_debug(f"finish writing output to csv, length: {len(output)}"))
-    print(log_debug(f'filename: {filename}'))
+    print(log_debug("finish writing output to csv, length: {}".format(len(output))))
+    print(log_debug('filename: {}'.format(filename)))
 
 
 if __name__ == "__main__":

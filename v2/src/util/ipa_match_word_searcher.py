@@ -154,7 +154,7 @@ class IpaMatchWordSearcher:
         match_ipa_rhyme = ""
 
         for lang in search_lang_li:
-            print(log_debug(f"{LOG_INFO_DEBUG_CLASS_NAME} 探索言語：{lang}"))
+            print(log_debug("{0} 探索言語：{1}".format(LOG_INFO_DEBUG_CLASS_NAME, lang)))
             pair_word_lang = lang
             ipa_li = self.lang_to_ipa_li_for_search[pair_word_lang]
             random.shuffle(ipa_li)
@@ -176,10 +176,10 @@ class IpaMatchWordSearcher:
                 # 音節が少なくとも３つ以上の単語で、音節が3個以上ある単語を採用するようにする
                 pair_word_syllable_count = find_syllable_count(format_word_ipa(pair_word_ipa))
                 if pair_word_syllable_count < SYLLABLE_MIN_COUNT:
-                    log_error(f"under SYLLABLE_MIN_COUNT")
+                    log_error("under SYLLABLE_MIN_COUNT")
                     continue
                 elif syllable_count != pair_word_syllable_count:
-                    log_error(f"{LOG_INFO_DEBUG_CLASS_NAME} not match syllable count")
+                    log_error("not match syllable count")
                     continue
                 # print(log_debug(f"{LOG_INFO_DEBUG_CLASS_NAME} pair_word_ipa: {pair_word_ipa}"))
 
@@ -194,7 +194,7 @@ class IpaMatchWordSearcher:
                         lang=pair_word_lang
                     )
                     if pair_word_en == "":
-                        print(log_debug(f"{LOG_INFO_DEBUG_CLASS_NAME} not found translated word"))
+                        print(log_debug(" not found translated word"))
                         continue
                     # print(log_debug(f"{LOG_INFO_DEBUG_CLASS_NAME} pair_word_en: {pair_word_en}"))
 
@@ -206,7 +206,7 @@ class IpaMatchWordSearcher:
                     )
                     # 同じ品詞ではない場合、skip
                     if pair_word_pos != pos:
-                        log_error(f"{LOG_INFO_DEBUG_CLASS_NAME} not same pos")
+                        log_error("not same pos")
                         continue
                     # print(log_debug(f"{LOG_INFO_DEBUG_CLASS_NAME} pair_word_pos: {pair_word_pos}"))
                     flg = True
@@ -221,7 +221,7 @@ class IpaMatchWordSearcher:
                             lang=pair_word_lang
                         )
                         if pair_word_en == "":
-                            print(log_debug(f"{LOG_INFO_DEBUG_CLASS_NAME} not found translated word"))
+                            print(log_debug("not found translated word"))
                             continue
                         # print(log_debug(f"{LOG_INFO_DEBUG_CLASS_NAME} pair_word_en: {pair_word_en}"))
 
@@ -232,18 +232,18 @@ class IpaMatchWordSearcher:
                         )
                         # 同じ品詞ではない場合、skip
                         if pair_word_pos != pos:
-                            log_error(f"{LOG_INFO_DEBUG_CLASS_NAME} not same pos")
+                            log_error(" not same pos")
                             continue
                         # print(log_debug(f"{LOG_INFO_DEBUG_CLASS_NAME} pair_word_pos: {pair_word_pos}"))
                         flg = True
                         break
                     else:
-                        log_error(f"{LOG_INFO_DEBUG_CLASS_NAME} not match ipa rhyme")
+                        log_error(" not match ipa rhyme")
                         continue
             if flg:
-                print(log_debug(LOG_INFO_DEBUG_CLASS_NAME + "Loop stop"))
+                print(log_debug("Loop stop"))
                 break
-        print(log_debug(LOG_INFO_DEBUG_CLASS_NAME + "Loop finish"))
+        print(log_debug("Loop finish"))
 
         return {
             "pair_word": pair_word,

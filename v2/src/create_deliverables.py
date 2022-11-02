@@ -28,7 +28,7 @@ def main():
                     # print(unique_word_group)
                     if len(unique_word_group) >= row_length_threshold:
                         over_row_length_threshold_count += 1
-                        file_name = f'../output/deliverables/v2/{unique_ipa_rhyme}_{unique_type}_{unique_syllable}_{unique_pos}.csv'
+                        file_name = '../output/deliverables/v2/{0}_{1}_{2}_{3}.csv'.format(unique_ipa_rhyme,unique_type, unique_syllable, unique_pos)
                         print(file_name, len(unique_word_group))
                         unique_word_group.to_csv(file_name, index=False)
                     count += 1
