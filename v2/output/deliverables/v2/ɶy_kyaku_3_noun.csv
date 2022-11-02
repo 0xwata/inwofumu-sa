@@ -1,4 +1,6 @@
 word,word_lang,word_en,word_ja,word_ipa_rhyme
+酸っぱい,ja,sour,酸っぱい,ubɶy
+障害,ja,hindrance,障害,ouɶy
 badai,id,storm,嵐,ɶɶy
 paradis,fr,heaven,天国,ɶɶy
 敵,ja,enemy,敵,ɶɶy
@@ -8,6 +10,8 @@ pribadi,id,personal,個人的,byɶy
 jerami,id,straw,ストロー,bəɶy
 阻害,ja,Hindrance,阻害,oɶy
 berlari,id,run,走る,əɶy
+không tài gì,/xoŋ͡m˧˥ taj˦˨ ɣi˦˨/,no talent,才能はありません,vi
+alcalis,/alkali/,alkalis,アルカリ,fr
 Hraunbæ,/r̥œinpai/,Lava,溶岩,is
 signali,/signali/,signal,信号,eo
 Bigamie,/ˌbiɡaˈmiː/,bigamy,重婚,de

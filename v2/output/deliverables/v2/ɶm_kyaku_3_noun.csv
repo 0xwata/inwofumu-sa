@@ -1,6 +1,17 @@
 word,word_lang,word_en,word_ja,word_ipa_rhyme
+kejutan,id,shock,ショック,əbuɶm
+tabungan,id,savings,節約,ɶuɶm
+tekanan,id,pressure,プレッシャー,əɶɶm
+대사관,ko,Embassy,大使館,œbɶbɶm
+大使馆,zh-cn,embassy,大使館,ɶəbɶm
+kerenyam,id,geranium,ゼラニウム,əəɶm
+bolovan,ro,boulder,ボルダー,ooɶm
 Hurrikan,de,hurricane,ハリケーン,ʊyɶm
 serangan,id,attack,攻撃,əɶɶm
+anggaran,id,budget,バジェット,ɶmɶɶm
+cakupan,id,scope,範囲,bɶuɶm
+kemurnian,id,purity,純度,əuyɶm
+lingkungan,id,environment,環境,ymuɶm
 混蛋,zh-cn,asshole,下衆野郎,uəmɶm
 pasukan,id,troops,軍,ɶuɶm
 الكتان,ar,Linen,リネン,ɶbɶbɶm
@@ -9,8 +20,19 @@ sarapan,id,breakfast,朝ごはん,ɶɶɶm
 kemampuan,id,ability,能力,əɶmuɶm
 Eisenbahn,de,railroad,鉄道,ɶʏəmɶm
 penemuan,id,invention,発明,əəuɶm
+phạt vi cảnh,/fak˨ˀ˩ʔ ji˧˥ kan˧˩˨/,punishment,罰,vi
+Aufstellplan,/ˈʔaofʃtɛllpˈlan/,Set -up plan,セット-UPプラン,de
+马戏团,/ma˨˩˦ ɕi˥˩ tʰwan˧˥/,circus,サーカス,zh-cn
+農水産,/noɯsɯisaɴ/,Agricultural and marine,農水産,ja
+alaman,/alaman/,Alaman,アラマン,ro
+sjónaukann,/sjouːnœikan/,a telescope,望遠鏡,is
+판권장,/pʰa̠nɡwʌ̹nd͡ʑa̠ŋ/,Copyright,著作権,ko
 sendayan,/səndajan/,Sendayan,センダヤン,id
 优越感,/joʊ˥˥ ɥœ˥˩ kan˨˩˦/,Superiority,優位性,zh-cn
+鈴蘭,/sɯzɯɾaɴ/,lily of the valley,鈴蘭,ja
+cá lành canh,/ka˩˧ lan˦˨ kan˧˥/,soup,スープ,vi
+plebeian,/plebejan/,plebeian,平民,ro
+给水管,/tɕi˨˩˦ ʂweɪ˨˩˦ kwan˨˩˦/,Water pipe,水管,zh-cn
 misogam,/misoɡam/,misogam,ミソガム,ro
 多者間,/taɕakaɴ/,Amateur,多者間,ja
 benturan,/bənturan/,collision,衝突,id
