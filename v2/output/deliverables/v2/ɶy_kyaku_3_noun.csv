@@ -1,20 +1,32 @@
 word,word_lang,word_en,word_ja,word_ipa_rhyme
+pelatih,id,trainer,トレーナー,əɶy
 酸っぱい,ja,sour,酸っぱい,ubɶy
 障害,ja,hindrance,障害,ouɶy
+危害,ja,harm,危害,yɶy
+機械,ja,machine,機械,yɶy
+بيضاوي,ar,Oval,楕円形,øʏbɶy
 badai,id,storm,嵐,ɶɶy
 paradis,fr,heaven,天国,ɶɶy
 敵,ja,enemy,敵,ɶɶy
+痛み,ja,pain,痛み,yɶy
 部隊,ja,Unit,部隊,uɶy
 pribadi,id,personal,個人的,byɶy
 消化器,ja,Digestive organ,消化器,ouɶy
 jerami,id,straw,ストロー,bəɶy
 阻害,ja,Hindrance,阻害,oɶy
 berlari,id,run,走る,əɶy
+補体,ja,complement,補体,oɶy
+存在,ja,Existence,存在,omɶy
+불막이,ko,Disagreement,不一致,uɶy
 không tài gì,/xoŋ͡m˧˥ taj˦˨ ɣi˦˨/,no talent,才能はありません,vi
 alcalis,/alkali/,alkalis,アルカリ,fr
+لوفير,ar,Lovir,lovir,yɶy
+二甲醚,zh-cn,Methalin,メタリン,ɶbbɶy
+enpaki,eo,Package,パッケージ,ømɶy
 Hraunbæ,/r̥œinpai/,Lava,溶岩,is
 signali,/signali/,signal,信号,eo
 Bigamie,/ˌbiɡaˈmiː/,bigamy,重婚,de
+maladie,fr,sickness,病気,ɶɶy
 구사리,/kusʰa̠ɾi/,Gusari,グサリ,ko
 鼠害,/sogai/,damage by rats,鼠害,ja
 avari,/avari/,avari,アバリ,eo
@@ -22,3 +34,5 @@ hazardi,/hazardi/,Hazard,危険,eo
 해오라기,/hɛ̝o̞ɾa̠ɡi/,Hagi,hagi,ko
 alkalí,/alkʰali/,alkaline,アルカリ,is
 Kaiserreich,/ˈka͜izɐra͜iç/,Empire,帝国,de
+والكاوي,ar,And the kaawi,そしてカウィ,ɶɶbɶy
+glitfali,eo,slide,滑り台,bybɶy

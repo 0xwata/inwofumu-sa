@@ -1,0 +1,40 @@
+word,word_lang,word_ipa,word_ipa_rhyme,word_en,word_ja,pair_word,pair_word_lang,pair_word_ipa,pair_word_ipa_rhyme,pair_word_en,pair_word_ja,rhyme_type,match_ipa_rhyme,pos,syllable
+article,en,/ˈɑɹtəkəɫ/,ɑəə,article,論文,mendeder,id,/məndədər/,əməə,dedeter,Dedeter,kyaku,əə,noun,3
+artikel,id,/artikəl/,ɶyəb,article,論文,enemas,en,/ˈɛnəməz/,œəəb,enemas,Enemas,kyaku,əb,noun,3
+brocoli,fr,/bʁɔkɔli/,bɔɔy,broccoli,ブロッコリ,pokunum,is,/pʰɔːkɔnʏm/,bɔɔʏm,bags,バッグ,to,ɔɔ,noun,3
+brokolo,eo,/brokolo/,booo,broccoli,ブロッコリ,tre lồ ô,vi,/ʈɛ˧˥ lo˦˨ o˧˥/,œoo,Bamboo,竹,kyaku,oo,noun,3
+도마뱀,ko,/to̞ma̠bɛ̝m/,oɶœm,lizard,トカゲ,cardizem,en,/ˌkɑɹdɪˈzɛm/,ɑʏœm,cardizem,Cardizem,kyaku,œm,noun,3
+Eidechse,de,/ˈaedɛksə/,ɶøœbə,lizard,トカゲ,atéisme,id,/ateismə/,ɶøybə,atheism,無神論,kyaku,bə,noun,3
+entregar,es,/entɾeɣaɾ/,ømbøɶ,deliver,配達,berkémah,id,/bərkemah/,əøɶ,camping,キャンプ,kyaku,øɶ,verb,3
+afhenda,is,/aːvhɛnta/,ɶbœmɶ,deliver,配達,enlenzar,es,/enlenθaɾ/,ømømɶ,Enlenzar,Enlenzar,kyaku,mɶ,verb,3
+deliver,en,/dɪˈɫɪvɝ/,ʏʏə,deliver,配達,外史,zh-cn,/uaɪ˥˩ ʂɚ˨˩˦/,uɶʏə,Foreign history,外国史,kyaku,ʏə,verb,3
+ペナント,ja,/penaɴto/,øɶmo,pennant,ペナント,朝圣者,zh-cn,/ʈʂʰɑʊ˧˥ ʂɤŋ˥˩ ʈʂɤ˨˩˦/,ɑʊomo,Pilgrims,巡礼者,kyaku,mo,noun,3
+osasto,fi,/ˈosɑsto/,oɑbo,department,デパートメント,inspector,ro,/inspektor/,ymbøbo,inspector,検査官,kyaku,bo,noun,3
+département,fr,/depaʁtəmɑ̃/,øɶbəɑ,department,デパートメント,métastasis,id,/metastasis/,øɶbɶyb,Métastasis,メタスタシス,to,ɶb,noun,4
+Abteilung,de,/ˈʔapˈtəiːlʊŋ/,ɶbəyʊm,department,デパートメント,开门红,zh-cn,/kʰaɪ˥˥ mən˧˥ xʊŋ˧˥/,bɶʏəmʊm,Start a goodbye,さようならを始めてください,kyaku,ʊm,noun,3
+デパートメント,ja,/depaːtomeɴto/,øɶoømo,Department,デパートメント,Gemeinschaftskonto,de,/gəˈmaenʃaftskɔnto/,əɶømɶbbbɔmo,Shared account,共有アカウント,kyaku,mo,noun,5
+departament,ro,/departament/,øɶɶømb,department,デパートメント,veridoping,fi,/ˈveriˌdoping/,øyoymb,blood doping,血液ドーピング,kyaku,mb,noun,4
+tutkimusmatkailija,fi,/ˈtutkiˌmusmɑtˌkɑilijɑ/,ubyubɑbɑyyɑ,explorer,冒険者,internationalisant,fr,/ɛ̃tɛʁnasjɔnalizɑ̃/,œœbɶbɔɶyɑ,internationalizing,国際化,kyaku,yɑ,noun,7
+冒険者,ja,/boɯkeɴɕa/,ouømɶ,Adventurer,冒険者,nhân tính hóa,vi,/ɲɤ̆ŋ˧˥ tin˩˧ hwa˩˧/,omymɶ,humanity,人類,kyaku,mɶ,noun,3
+asimetría,es,/asimeˈtɾia/,ɶyøbyɶ,asymmetry,非対称,kynlífsumræða,is,/cʰɪnlifsʏmraiða/,ʏmybʏmɶyɶ,debate,議論,kyaku,yɶ,verb,5
+asimetrie,ro,/asimetrije/,ɶyøbyø,asymmetry,非対称,Tennisturniere,de,/tɛnnɪstʊɾˈniːɾe/,œmʏbʊyø,Tennis tournaments,テニストーナメント,kyaku,yø,noun,5
+スピリチュアル,ja,/sɯpiɾitɕɯaɾɯ/,uyybuɶu,spiritual,スピリチュアル,وبالتدابر,ar,/wabiaːltadaːbur/,ɶyɶbɶɶu,And with reflection,そして、反省して,kyaku,ɶu,noun,5
+piceo,eo,/pit͡seo/,ybøo,spruce,スプルース,disperați,ro,/disperatsʲ/,ybøɶby,Desperate,やけくそ,to,bø,verb,3
+pengaturan,id,/pəŋaturan/,əɶuɶm,Settings,設定,脚踏两船,zh-cn,/tɕjɑʊ˨˩˦ tʰa˥˩ ljɑŋ˨˩˦ ʈʂʰwan˧˥/,bbɑʊbɶbɑmɶm,Two boats,2隻のボート,kyaku,ɶm,noun,4
+adjustment,en,/əˈdʒəstmənt/,əbəbbəmb,adjustment,調整,ولانج,ar,/waliʔandʒ/,ɶyɶmb,Lang,ラング,kyaku,mb,noun,3
+Turnschuhe,de,/ˈtʊɾnʃuə/,ʊmuə,sneakers,スニーカー,en bout de,fr,/ɑ̃budə/,ɑuə,at the end of,の終わりに,kyaku,uə,noun,3
+운동화,ko,/undo̞ŋβwa̠/,umombɶ,running shoes,ランニングシューズ,Mallorca,de,/maˈlɔʁka/,ɶɔbɶ,Mallorca,マヨルカ,kyaku,bɶ,noun,3
+包み込む,ja,/tsɯtsɯmikomɯ/,bubuyou,Wrap up,包み込む,crucișătură,ro,/krutʃiʃəturə/,bubyəuə,Cruciure,十字,to,ub,verb,5
+التفاف,ar,/iltifaːf/,ybyɶb,Wrapping,ラッピング,tausendfach,de,/ˈtaozɛntfax/,ɶoœmbɶb,thousand times,千回,kyaku,ɶb,verb,3
+kietoa,fi,/ˈkietoɑ/,yøoɑ,wrap,包む,sigelo,eo,/sigelo/,yøo,seal,密閉する,to,øo,verb,3
+出售,zh-cn,/ʈʂʰu˥˥ ʂoʊ˥˩/,uoʊ,sell,売る,olmo,en,/ˈoʊɫmoʊ/,oʊoʊ,olmo,オルモ,kyaku,oʊ,verb,3
+販売,ja,/haɴbai/,ɶmɶy,sale,販売,bandarísks,is,/pantarisks/,ɶmɶybbb,US,私たち,to,mɶy,noun,3
+metronom,ro,/metronom/,øboom,metronome,メトロノーム,reglose,de,/ˈɾeːkloːsə/,øboə,stemless,ステムレス,to,bo,adjective,3
+métronome,fr,/metʁɔnɔm/,øbɔɔm,metronome,メトロノーム,undergone,en,/ˌəndɝˈɡɔn/,əməɔm,undergone,受けた,kyaku,ɔm,adjective,3
+メトロノーム,ja,/metoɾonoːmɯ/,øooou,metronome,メトロノーム,산살바도르,ko,/sʰa̠nsʰa̠ɭba̠do̞ɾɯ/,bɶmbɶɶou,Sansalvador,サンサルバドル,kyaku,ou,noun,5
+immobile,fr,/imɔbil/,yɔyb,motionless,動かない,martinique,en,/mɑɹtɪˈnik/,ɑʏyb,martinique,マルティニーク,kyaku,yb,adjective,3
+inmóvil,es,/iˈmmoβil/,ymoyb,still,まだ,咽喉,ja,/iɴkoɯ/,ymou,throat,咽喉,to,mo,adjective,3
+motionless,en,/ˈmoʊʃənɫəs/,oʊəməb,motionless,動かない,gỗ tứ thiết,vi,/ɣo˧˩˨ tɯ˩˧ tʰiək˦˥/,oubyəb,quadrilateral,四辺形,kyaku,əb,adjective,3
+자주색,ko,/t͡ɕa̠d͡ʑusʰɛ̝k̚/,bɶbubœb,purple,紫の,جسد,ar,/dʒassada/,bɶbɶɶ,body,体,to,ɶb,noun,3
+フェデリーニ,ja,/ɸɯedeɾiːni/,uøøyy,Federini,フェデリーニ,nam nhi chi chí,vi,/nam˧˥ ɲi˧˥ ci˧˥ ci˩˧/,ɶmyyy,Men Chi Chi,男性Chi Chi,kyaku,yy,noun,4
+obsolète,fr,/ɔpsɔlɛt/,ɔbɔœb,obsolete,廃止,norddeutscher,de,/ˈnɔɾtˌdɔøʧɐ̯/,ɔbɔøɐ,North German,北ドイツ,to,bɔ,adjective,3

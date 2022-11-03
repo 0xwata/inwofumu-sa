@@ -1,0 +1,31 @@
+word,word_lang,word_ipa,word_ipa_rhyme,word_en,word_ja,pair_word,pair_word_lang,pair_word_ipa,pair_word_ipa_rhyme,pair_word_en,pair_word_ja,rhyme_type,match_ipa_rhyme,pos,syllable
+hypätä,fi,/ˈhypætæ/,yææ,jump,ジャンプ,ボコ・ハラム,ja,/boko haɾamɯ/,ɶyou,Boko Haram,ボコ・ハラム,,,verb,3
+قرنفل,ar,/qaranful/,ɶɶmub,clove,クローブ,vagantes,es,/baɣantes/,ɶɶmøb,Vagantes,迷走,to,ɶm,noun,3
+المفضل,ar,/aːlmifdˤal/,ɶbybbɶb,the favorite,お気に入り,bụi phóng xạ,vi,/buj˨ˀ˩ʔ fɔŋ͡m˩˧ sa˨ˀ˩ʔ/,ubɔmmɶb,radioactive,放射性,kyaku,ɶb,adjective,3
+retina,es,/retina/,øyɶ,retina,網膜,玻璃碴,zh-cn,/pɔ˥˥ li˧ ʈʂʰa˧˥/,ɔyɶ,Glass,ガラス,kyaku,yɶ,verb,3
+verkkokalvo,fi,/ˈverkkoˌkɑlvo/,øboɑbo,retina,網膜,helcometru,ro,/helkometru/,øboøbu,Helcometer,ヘルメーター,to,bo,noun,4
+retină,ro,/retinə/,øyə,retina,網膜,Ventile,de,/ˈvɛntiːlə/,œmyə,Valve,バルブ,kyaku,yə,noun,3
+kallio,fi,/ˈkɑllio/,ɑbyo,rock,石,葭戸,ja,/joɕido/,oyo,Reed door,葭戸,kyaku,yo,noun,3
+divaani,fi,/ˈdivɑɑni/,yɑɑy,divan,ディバン,jalopy,en,/dʒəˈɫɑpi/,bəɑy,jalopy,ジャロピー,kyaku,ɑy,noun,3
+divano,eo,/divano/,yɶo,a sofa,ソファ,Semaphor,de,/ˈzeːmafoɾ/,øɶo,semaphore,セマフォ,kyaku,ɶo,noun,3
+ruptura,es,/ruptuɾa/,ubuɶ,breaking off,壊れます,Zirkular,de,/tsɪɾkuˈlaɽ/,bʏuɶ,circular,円形,kyaku,uɶ,noun,3
+破坏,zh-cn,/pʰɔ˥˩ xuaɪ˥˩/,bɔuɶʏ,destroy,破壊する,bjargaði,is,/pjarkaðɪ/,bɶɶʏ,saved,保存,kyaku,ɶʏ,verb,3
+Abstimmung,de,/ˈʔapʃtɪmʊŋ/,ɶbʏʊm,poll,世論調査,nafninu,is,/napnɪnʏ/,ɶbʏʏ,the name,名前,to,bʏ,noun,3
+votación,es,/botaˈθjon/,oɶbom,vote,投票,nồi áp suất,vi,/noj˦˨ ap˦˥ ʂwɤ̆k˦˥/,oɶbob,pressure cooker,圧力鍋,to,ɶbo,noun,3
+الاقتراع,ar,/aːliqtiraːʕ/,ɶybyɶb,Voting,投票,Ärmelkanal,de,/ʔɛɾmɛlˈkanal/,œœbɶɶb,Moor canal,ムーア運河,kyaku,ɶb,noun,4
+atkvæðagreiðsla,is,/aːtkvaiðakreiðstla/,ɶbbɶyɶbøybbbɶ,ballot,投票,ソーダ・クラッカー,ja,/soːda kɯɾakːaː/,oɶuɶbɶ,Soda cracker,ソーダ・クラッカー,kyaku,bɶ,noun,5
+sotana,es,/sotana/,oɶɶ,cassock,カソック,赫剌剌,zh-cn,/xɤ˥˩ la˥˩ la˥˩/,oɶɶ,Hyuna,ヒューナ,kyaku,ɶɶ,adjective,3
+sutană,ro,/sutanə/,uɶə,cassock,カソック,ratsame,de,/ˈɾɑːtzaːlə/,ɑbɶə,advisory,アドバイザリー,kyaku,ɶə,adjective,3
+与える,ja,/ataeɾɯ/,ɶɶøu,give,与える,tailladées,fr,/tajade/,ɶɶø,prosper,繁栄,to,ɶø,verb,3
+abusive,en,/əbˈjusɪv/,əbuʏb,abusive,虐待的,-procentig,sv,/prʊsɛnːtɪg/,bʊœmʏb,-percent,-パーセント,kyaku,ʏb,adjective,3
+虐待,zh-cn,/nɥœ˥˩ taɪ˥˩/,mœɶʏ,Abuse,乱用,moins-value,fr,/mwɛ̃valy/,mœɶy,sail,帆,to,œɶ,verb,3
+クレジット,ja,/kɯɾedʑitːo/,uøbybo,credit,クレジット,agricultor,ro,/aɡrikultor/,ɶbyubo,farmer,農家,kyaku,bo,noun,4
+crédito,es,/ˈkɾeðito/,bøyo,credit,クレジット,垃圾车,zh-cn,/la˥˥ tɕi˥˥ ʈʂʰɤ˥˥/,ɶbyo,rubbish truck,ゴミトラック,kyaku,yo,noun,3
+plângere,ro,/plɨndʒere/,bʉmbøø,complaint,苦情文句,에헤헤,ko,/e̞ɦe̞ɦe̞/,øøø,Ehehe,ええ,kyaku,øø,noun,3
+valitus,fi,/ˈvɑlitus/,ɑyub,appeal,訴える,codrescu's,en,/kəˈdɹɛsˌkjuz/,əbœbbub,codrescu's,codrescu's,kyaku,ub,noun,3
+راقب,ar,/raːqaba/,ɶɶɶ,Watch,時計,déglaçage,fr,/deglasaʒ/,øbɶɶ,deglacing,デグレース,kyaku,ɶɶ,verb,3
+lonjakan,id,/londʒakan/,ombɶɶm,surge,うねり,konstipi,eo,/konstipi/,ombyy,Constipate,便秘,to,mb,verb,3
+surtension,fr,/syʁtɑ̃sjɔ̃/,ybɑbɔ,surge,うねり,hiljaa,fi,/ˈhiljɑɑ/,ybɑɑ,shut up,うるさい,to,bɑ,verb,3
+素晴らしい,ja,/sɯbaɾaɕii/,uɶɶyy,Amazing,素晴らしい,느직느직이,ko,/nɯd͡ʑiŋnɯd͡ʑiɡi/,ubymubyy,Nice,良い,kyaku,yy,adjective,5
+mestaroida,fi,/ˈmestɑˌroidɑ/,øbɑoyɑ,meddle,Meddle,wehklagende,de,/ˈveklɑgɛndə/,øbɑœmə,hurt,傷つく,to,bɑ,verb,4
+تدخل,ar,/tadaxxala/,ɶɶbɶɶ,intervention,介入,embarasa,eo,/embarasa/,ømɶɶɶ,embarrassing,恥ずかしい,kyaku,ɶɶ,verb,4

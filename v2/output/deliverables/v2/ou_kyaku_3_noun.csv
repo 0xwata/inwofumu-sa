@@ -1,8 +1,15 @@
 word,word_lang,word_en,word_ja,word_ipa_rhyme
+自動,ja,Automatic,自動,byou
+栄光,ja,glory,栄光,øyou
+所得,ja,income,所得,oou
 再考,ja,Reconsideration,再考,ɶyou
 敗北,ja,defeat,敗北,ɶyou
+情報,ja,information,情報,bouou
+仕様,ja,specification,仕様,you
+黄色,ja,yellow,黄色,ouou
 影響,ja,Impact,影響,øybou
 素朴,ja,Simplicity,素朴,oou
+方向,ja,direction,方向,ouou
 報告,ja,report,報告,ouou
 音量,ja,Volume,音量,omou
 júdó,is,Judo,柔道,uou
@@ -10,12 +17,23 @@ júdó,is,Judo,柔道,uou
 偽造,ja,Counterfeiting,偽造,you
 機能,ja,function,機能,you
 海賊,ja,Pirate,海賊,ɶyou
+銀行,ja,Bank,銀行,ymou
+部族,ja,tribe,部族,uou
 蛇行,ja,meandeling,蛇行,ɶou
 警告,ja,warning,警告,øyou
+主力,ja,Mainstay,主力,uou
+스모그,ko,smog,スモッグ,buou
+水合物,zh-cn,Aquarmers,Aquarmers,øʏou
+jusqu'au bout,fr,until the end,終わりまで,ybou
+Bóbó,is,Bobo,ボボ,ouou
 血色素,/ɕɥœ˥˩ sɤ˥˩ su˥˩/,Hemoglobin,ヘモグロビン,zh-cn
 kammerkór,/kʰamɛrkouːr/,chamber choir,室内合唱団,is
+quyền sở hữu,vi,ownership,所有,yœmou
+混合物,zh-cn,mixture,混合,uəmou
+下颌骨,zh-cn,lower jaw,下顎,bɶou
 đồng sở hữu,/doŋ͡m˦˨ ʂɤ˧˩˨ hɯw˧˩˨/,co-owner,共同所有者,vi
 알고무,/a̠ɭɡo̞mu/,Altitude,高度,ko
+투표율,ko,Turnout,消す,bubou
 俱乐部,/tɕy˥˩ lɤ˥˩ pu˥˩/,club,クラブ,zh-cn
 sígó,/siːkou/,cigo,シガー,is
 tầng đối lưu,/tɤ̆ŋ˦˨ doj˩˧ lɯw˧˥/,convection,対流,vi
@@ -23,5 +41,8 @@ Volvo,/vɔlvou/,Volvo,ボルボ,is
 puosu,/ˈpuosu/,boatswain,ボートウェイン,fi
 keo cú,/keo˧˥ ku˩˧/,curmudgeon,curmudgeon,vi
 puusolu,/ˈpuusolu/,wooden cell,木製のセル,fi
+bolotu,id,Bolotu,ボロツ,oou
+사고율,ko,Accident rate,事故率,bɶou
 drakó,/traːkou/,dragon,ドラゴン,is
-jusqu'au bout,/ʒyskobu/,until the end,終わりまで,fr
+turbobur,ro,turbobur,ターボバー,uou
+bâzocu,ro,Bâziu,bâziu,ʉou

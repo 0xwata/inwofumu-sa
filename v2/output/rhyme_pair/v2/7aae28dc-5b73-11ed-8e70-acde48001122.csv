@@ -1,0 +1,53 @@
+word,word_lang,word_ipa,word_ipa_rhyme,word_en,word_ja,pair_word,pair_word_lang,pair_word_ipa,pair_word_ipa_rhyme,pair_word_en,pair_word_ja,rhyme_type,match_ipa_rhyme,pos,syllable
+paramecium,en,/ˌpɛɹəˈmisiəm/,œəyyəm,paramecium,パラメシウム,imigrésen,id,/imigresən/,yybøəm,Immigrésen,入り口,kyaku,əm,noun,4
+décerner,fr,/desɛʁne/,øœbø,award,アワード,influenței,ro,/influentsej/,ymbuømbø,influence,影響,kyaku,bø,noun,3
+myöntää,fi,/ˈmyøntææ/,yømææ,grant,許す,diménsi,id,/dimensi/,yømy,Diménti,ディメンティ,to,øm,noun,3
+adjudecare,ro,/adʒudekare/,ɶbuøɶø,award,アワード,aglutinasi,id,/aglutinasi/,ɶbuyɶy,agglutination,凝集,to,bu,noun,5
+aŭtomata,eo,/automata/,ɶuoɶɶ,Auto,自動,ولبد,ar,/walabada/,ɶɶɶɶ,Waleed,Waleed,kyaku,ɶɶ,noun,4
+自動,ja,/dʑidoɯ/,byou,Automatic,自動,水合物,zh-cn,/ʂweɪ˨˩˦ xɤ˧˥ u˥˩/,øʏou,Aquarmers,Aquarmers,kyaku,ou,noun,3
+facila,eo,/fat͡sila/,ɶbyɶ,easy,簡単,valía,es,/baˈlia/,ɶyɶ,It was worth,価値がありました,kyaku,yɶ,adjective,3
+伝説,ja,/deɴsetsɯ/,ømøbu,Legend,伝説,ruislimppu,fi,/ˈruislimppu/,uybymbu,mussel,ムール貝,kyaku,bu,noun,3
+legendă,ro,/ledʒendə/,øbømə,the legend,伝説,déplési,id,/deplesi/,øbøy,Déplési,デプレシ,to,bø,noun,3
+legenda,fi,/ˈlegendɑ/,øømɑ,legend,伝説,cautionnement,fr,/kosjɔnmɑ̃/,obɔmɑ,bonding,ボンディング,kyaku,mɑ,verb,3
+contenido,es,/konteniðo/,omøyo,contents,コンテンツ,kondénsasi,id,/kondensasi/,omømɶy,condensation,結露,to,mø,noun,4
+sisältö,fi,/ˈsisæltø/,yæbø,contents,コンテンツ,retemblé,es,/reteˈmble/,øømbø,I re -found,私は再発見されました,kyaku,bø,noun,3
+不機嫌,ja,/ɸɯkigeɴ/,uyøm,Bad mood,不機嫌,tembéréng,id,/təmbereŋ/,əmøøm,potsherd,ポッサード,kyaku,øm,noun,3
+eläke,fi,/ˈelæke/,øæø,pension,年金,cidera,id,/tʃidəra/,byəɶ,injury,けが,,,noun,3
+pensionare,ro,/pensionare/,ømyoɶø,retirement,退職,momentanés,fr,/mɔmɑ̃tane/,ɔɑɶø,momentary,瞬間,kyaku,ɶø,adjective,4
+négocier,fr,/negɔsje/,øɔbø,to negotiate,交渉します,日を追って,ja,/çiootːe/,yoobø,Over the day,日を追って,kyaku,bø,verb,3
+negotiate,en,/nəˈɡoʊʃiˌeɪt/,əoʊyøʏb,negotiate,交渉,undanskilið,is,/ʏntanscɪːlɪð/,ʏmɶmbʏʏb,excluded,除外,kyaku,ʏb,verb,4
+kunnia,fi,/ˈkunniɑ/,umyɑ,honor,名誉,分離派,ja,/bɯɴɾiha/,umyɶ,Separation,分離派,to,my,noun,3
+Herrlichkeit,de,/ˈhɛʁlɪçkaɪ̯t/,œbʏɶʏb,glory,栄光,وللبيت,ar,/walilbeɪt/,ɶybøʏb,And for the house,そして家のために,kyaku,ʏb,noun,3
+栄光,ja,/eikoɯ/,øyou,glory,栄光,jusqu'au bout,fr,/ʒyskobu/,ybou,until the end,終わりまで,kyaku,ou,noun,3
+fisherman,en,/ˈfɪʃɝˌmæn/,ʏəæm,fisherman,漁師,kyykyllään,fi,/ˈkyykyllææn/,yyybææm,squat,スクワット,kyaku,æm,noun,3
+sjómaður,is,/sjouːmaðʏr/,bouɶʏ,sailor,船乗り,racamier,en,/ˈɹækəˌmaɪɹ/,æəɶʏ,racamier,ラサミエ,kyaku,ɶʏ,noun,3
+nelayan,id,/nəlajan/,əɶɶm,fisherman,漁師,đại điền trang,vi,/daj˨ˀ˩ʔ diəŋ˦˨ ʈaŋ˧˥/,ɶbyəmɶm,Dai Dien Trang,Dai Dien Trang,kyaku,ɶm,noun,3
+kalastaja,fi,/ˈkɑlɑsˌtɑjɑ/,ɑɑbɑɑ,fisherman,漁師,documentant,fr,/dɔkymɑ̃tɑ̃/,ɔyɑɑ,documentary,ドキュメンタリー,kyaku,ɑɑ,noun,4
+afkvæmi,is,/avkʰvaimɪ/,ɶbbɶyʏ,offspring,子孫,astronaut,id,/astronaut/,ɶbboɶub,astronaut,宇宙飛行士,to,bb,noun,3
+Vorläufer,de,/ˈfoːɐ̯lɔɪ̯fɐ/,oɐɔʏɐ,precursor,前駆,곡물,ko,/ko̞ŋmuɭ/,uuu,grain,粒,,,noun,3
+先駆者,ja,/seɴkɯɕa/,ømuɶ,Pioneer,先駆者,dầu cù là,vi,/jɤ̆w˦˨ ku˦˨ la˦˨/,ouɶ,oil,油,kyaku,uɶ,noun,3
+interpret,en,/ˌɪnˈtɝpɹət/,ʏməbəb,interpret,解釈,mengkeret,id,/məŋkərət/,əməəb,drag,引っ張る,kyaku,əb,verb,3
+解釈,ja,/kaiɕakɯ/,ɶyɶu,interpretation,解釈,afmá,is,/avmau/,ɶbɶu,erase,消去します,kyaku,ɶu,verb,3
+interpretar,es,/inteɾpɾetaɾ/,ymøbøɶ,interpret,解釈,interrimi,eo,/interrimi/,ymøyy,to intercept,傍受する,to,mø,verb,4
+Fingerling,de,/ˈfɪŋɐ̯lɪŋ/,ʏɐʏm,Fingerling,フィンガーリング,国务卿,zh-cn,/kuɔ˧˥ u˥˩ tɕʰɪŋ˥˥/,uɔubbʏm,Secretary of State,国務長官,kyaku,ʏm,noun,3
+tiiviste,fi,/ˈtiiviste/,yyybø,sealant,シーラント,dididik,id,/dididiʔ/,yyyb,educated,教育を受けた,to,yyb,verb,3
+innsigli,is,/ɪnsɪklɪ/,ʏmʏbʏ,seal,密閉する,inhibit,en,/ˌɪnˈhɪbət/,ʏmʏəb,inhibit,阻害します,to,mʏ,verb,3
+entresuelo,es,/entɾeswelo/,ømbøbøo,mezzanine,メザニン,黒ネコ,ja,/kɯɾoneko/,uoøo,Black cat,黒ネコ,kyaku,øo,verb,4
+mezzanine,en,/ˈmɛzəˌnin/,œəym,mezzanine,メザニン,sähköelin,fi,/ˈsæhkøˌelin/,æøøym,electricity,電気,kyaku,ym,noun,3
+نكش,ar,/nakaʃa/,ɶɶɶ,grub,グラブ,verkanna,is,/vɛr̥kana/,œɶɶ,the deeds,行為,kyaku,ɶɶ,noun,3
+애벌레,ko,/ɛ̝bʌ̹ɭɭe̞/,œɔø,larva,幼虫,griffonner,fr,/gʁifɔne/,byɔø,scratch,スクラッチ,kyaku,ɔø,noun,3
+rypäle,fi,/ˈrypæle/,yæø,cluster,集まる,precipițiu,ro,/pretʃipitsju/,uøø,precipitate,沈殿,,,noun,3
+comida,es,/komiða/,oyɶ,food,食物,何ら,ja,/naniɾa/,ɶyɶ,any,何ら,kyaku,yɶ,noun,3
+vuosikymmen,fi,/ˈvuosiˌkymmen/,uoyymøm,decade,十年,vượt thác qua ghềnh,vi,/jɯək˨ˀ˩ʔ tʰak˦˥ wa˧˥ ɣen˦˨/,uəbbbɶbɶøm,cross the waterfall,滝を渡ります,kyaku,øm,noun,4
+deceniu,ro,/detʃenju/,øbømu,decade,十年,وانخر,ar,/waʔanxur/,ɶɶmu,And sniff,とスニッフ,kyaku,mu,noun,3
+décalage,fr,/dekalaʒ/,øɶɶ,gap,ギャップ,decartat,ro,/dekartat/,øɶɶb,discard,破棄,to,ɶɶ,verb,3
+オフセット,ja,/oɸɯsetːo/,ouøbo,offset,オフセット,formulele,ro,/formulele/,ouøø,FORMULATIONS,定式化,to,uø,noun,4
+rationale,en,/ˌɹæʃəˈnæɫ/,æəæ,rationale,根拠,imperméabiliseras,fr,/ɛ̃pɛʁmeabilizəʁa/,ubɑɶb,Impermeabiliseras,インプルマビリサラ,,,noun,3
+alasan,id,/alasan/,ɶɶɶm,reason,理由,Stimmenfang,de,/ˈʃtɪmmɛnfaŋ/,ʏmœmɶm,Voice,声,kyaku,ɶm,noun,3
+rökstuðningur,is,/rœːkstʏðniŋkʏr/,œbbʏbymʏ,argument,口論,rechtsstaatliches,de,/ˈɾɛçtzstaːtlɪçəs/,œbbbɶbʏəb,constitutional,憲法,to,bb,noun,4
+理由,zh-cn,/li˨˩˦ joʊ˧˥/,yoʊ,reason,理由,naso,en,/ˈnɑsoʊ/,ɑoʊ,naso,鼻,kyaku,oʊ,noun,3
+multiplier,fr,/myltiplije/,ybybyø,multiply,かける,rikkinäisyys,fi,/ˈrikkiˌnæisyys/,ybyæyyyb,brokenness,壊れた,to,by,verb,4
+곱하다,ko,/ko̞pʰa̠da̠/,obɶɶ,multiply,かける,carcasa,es,/kaɾkasa/,ɶɶɶ,Case,場合,kyaku,ɶɶ,verb,3
+multiply,en,/ˈməɫtəˌpɫaɪ/,əəbɶʏ,multiply,かける,爬起来,zh-cn,/pʰa˧˥ tɕʰi˨˩˦ laɪ˧˥/,bɶbbyɶʏ,climb up,登る,kyaku,ɶʏ,verb,4
+multiplicar,es,/multiplikaɾ/,ubybyɶ,multiply,かける,クラウンギア,ja,/kɯɾaɯɴgia/,uɶumyɶ,Crown gear,クラウンギア,kyaku,yɶ,verb,4
+orzuelo,es,/oɾθwelo/,obøo,stye,麦粒腫,reo réo,vi,/ʐeo˧˥ ʐeo˩˧/,øoøo,shout,叫ぶ,kyaku,øo,verb,3

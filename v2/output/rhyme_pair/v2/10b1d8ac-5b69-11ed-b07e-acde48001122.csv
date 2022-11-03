@@ -1,0 +1,33 @@
+word,word_lang,word_ipa,word_ipa_rhyme,word_en,word_ja,pair_word,pair_word_lang,pair_word_ipa,pair_word_ipa_rhyme,pair_word_en,pair_word_ja,rhyme_type,match_ipa_rhyme,pos,syllable
+jousimies,fi,/ˈjousimies/,ouyyøb,Sagittarius,射手座,cavalet,ro,/kavalet/,ɶɶøb,Cavlet,洞窟,kyaku,øb,noun,3
+pemanah,id,/pəmanah/,əɶɶ,archer,射手,prepara,ro,/prepara/,bøɶɶ,prepare,準備,kyaku,ɶɶ,noun,3
+norocos,ro,/norokos/,ooob,lucky,ラッキー,bencenos,es,/benθenos/,ømøob,benzenes,ベンゼン,kyaku,ob,adjective,3
+onnekas,fi,/ˈonnekɑs/,omøɑb,lucky,ラッキー,rompebla,eo,/rompebla/,omøbɶ,Breakable,壊れやすい,to,mø,adjective,3
+exultant,en,/ɪɡˈzəɫtənt/,ʏbəəmb,exultant,歓喜,dixieland,fi,/ˈdixielɑnd/,yyøɑmb,dixieland,ディキシーランド,kyaku,mb,noun,3
+exultant,fr,/ɛgzyltɑ̃/,œbybɑ,exultant,歓喜,everyman,en,/ˈɛvɹimən/,œbyəm,everyman,みんな,to,by,noun,3
+楽しみ,ja,/tanoɕimi/,ɶoyy,fun,楽しみ,ékspédisi,id,/eʔspedisi/,øbbøyy,expedition,遠征,kyaku,yy,noun,4
+disfrute,es,/disfɾute/,ybbuø,enjoyment,楽しみ,비치다,ko,/pit͡ɕʰida̠/,ybbyɶ,hint,ヒント,to,bb,verb,3
+nautinto,fi,/ˈnɑutinto/,ɑuymo,enjoyment,楽しみ,encourir,fr,/ɑ̃kuʁiʁ/,ɑuyb,incur,発生します,to,uy,noun,3
+enjoyment,en,/ˌɛnˈdʒɔɪmənt/,œmbɔʏəmb,enjoyment,楽しみ,뱀장어,ko,/pɛ̝md͡ʑa̠ŋʌ̹/,œmbɶɔ,eel,うなぎ,to,mb,noun,3
+ánægja,is,/auːnaija/,ɶuɶyɶ,cheer,応援,ô xi hoá,vi,/o˧˥ si˧˥ hwa˩˧/,oyɶ,oxygen,空気,kyaku,yɶ,noun,3
+bucurie,ro,/bukurije/,uuyø,joy,喜び,đu đủ tía,vi,/du˧˥ du˧˩˨ tiə˩˧/,uuyə,Popper purple,ポッパーパープル,to,uy,noun,4
+너구리,ko,/nʌ̹ɡuɾi/,ɔuy,Raccoons,アライグマ,お次,ja,/otsɯgi/,obuy,Next,お次,kyaku,uy,noun,3
+acosta,ro,/akosta/,ɶobɶ,to cost,コストに,aufrage,de,/ˈaoˌfɾɑːgə/,ɶobɑə,tag,鬼ごっこ,to,ob,noun,3
+todiste,fi,/ˈtodiste/,oybø,evidence,証拠,nhãn chiết kế,vi,/ɲaŋ˧˩˨ ciək˦˥ ke˩˧/,ɶmyəbø,extract label,ラベルを抽出します,kyaku,bø,noun,3
+暗い,ja,/kɯɾai/,uɶy,dark,暗い,evadí,es,/eβaˈði/,øɶy,I evaded,私は回避しました,kyaku,ɶy,adjective,3
+infernal,ro,/infernal/,ymøɶb,infernal,地獄,synkeä,fi,/ˈsynkeæ/,ymøæ,gloomy,暗い,to,mø,adjective,3
+helvítis,is,/hɛlvitɪs/,œbyʏb,damn,くそ,persistantes,fr,/pɛʁsistɑ̃t/,œbybɑb,persistent,持続的に,to,by,adjective,3
+الجحيم,ar,/aːldʒaħiːm/,ɶbbɶym,Hell,地獄,낮추다,ko,/na̠t̚t͡ɕʰuda̠/,ɶbbbuɶ,lower,低い,to,bb,adjective,3
+dumnezeu,ro,/dumnezew/,umøø,God,神,cetere,eo,/t͡setere/,bøøø,by the way,ところで,kyaku,øø,noun,3
+失業,ja,/ɕitsɯgjoɯ/,ybubou,unemployment,失業,tire-bouchonnée,fr,/tiʁbuʃɔne/,ybuɔø,cork puller,コルクプーラー,to,bu,noun,4
+berkala,id,/bərkala/,əɶɶ,periodically,定期的に,쿨하다,ko,/kʰuɾɦa̠da̠/,buɶɶ,Cool,涼しい,kyaku,ɶɶ,adjective,3
+定期刊行物,ja,/teikikaɴkoɯbɯtsɯ/,øyyɶmouubu,Periodical,定期刊行物,veitingastaðurinn,is,/veiːtiŋkastaːðʏrɪn/,øyymɶbɶʏʏm,restaurant,レストラン,to,yy,noun,6
+périodique,fr,/peʁjɔdik/,øbɔyb,periodic,周期的,prognostic,ro,/proɡnostik/,bobobyb,prognosis,予後,kyaku,yb,adjective,3
+walkway,en,/ˈwɔˌkweɪ/,ɔbøʏ,walkway,通路,Þorsteini,is,/θɔr̥steinɪ/,ɔbøyʏ,Thorstein,トールスタイン,to,bø,noun,3
+alee,ro,/alee/,ɶøø,alley,路地,seméméh,id,/səmemeh/,əøø,Seméméh,セメメ,kyaku,øø,noun,3
+especia,es,/espeθja/,øbøbɶ,spice,スパイス,accorda,fr,/akɔʁda/,ɶɔbɶ,granted,承諾する,kyaku,bɶ,verb,3
+スパイス,ja,/sɯpaisɯ/,uɶyu,spices,スパイス,掸衣服,zh-cn,/tan˨˩˦ i˥˥ fu˧/,ɶmyu,掸 掸 掸,掸掸掸,kyaku,yu,noun,3
+pimenter,fr,/pimɑ̃te/,yɑø,Spice up,スパイス,chianese,en,/kiɑˈneɪzi/,yɑøʏy,chianese,Chianese,to,ɑø,noun,3
+스파게티,ko,/sʰɯpʰa̠ɡe̞tʰi/,bubɶøby,pasta,パスタ,fructifica,ro,/fruktifika/,bubyyɶ,fructify,フラクションをかける,to,ub,noun,4
+spagetti,fi,/ˈspɑgetti/,bɑøby,spaghetti,スパゲッティ,dao động kí,vi,/jaw˧˥ doŋ͡m˨ˀ˩ʔ ki˩˧/,ɶommby,oscillation,発振,kyaku,by,noun,3
+spaghetti,en,/spəˈɡɛti/,bəœy,spaghetti,スパゲッティ,올챙이,ko,/o̞ɭt͡ɕʰɛ̝ŋi/,obbœy,tadpole,タドポール,kyaku,œy,noun,3

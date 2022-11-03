@@ -13,7 +13,7 @@ def main():
 
     count = 0
     over_row_length_threshold_count = 0
-    row_length_threshold = 5
+    row_length_threshold = 15
     for unique_pos in unique_pos_group:
         for unique_type in unique_type_group:
             for unique_syllable in unique_syllable_group:

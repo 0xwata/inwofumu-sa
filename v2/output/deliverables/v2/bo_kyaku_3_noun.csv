@@ -1,5 +1,10 @@
 word,word_lang,word_en,word_ja,word_ipa_rhyme
+unueco,eo,unity,団結,uuøbo
+feliĉo,eo,happiness,幸福,øybo
+contacto,es,Contact,コンタクト,omɶbo
+damaĝo,eo,damage,ダメージ,ɶɶbo
 チケット,ja,ticket,チケット,byøbo
+receptor,es,receiver,受信機,øøbo
 rapakko,fi,puddle,水たまり,ɑɑbo
 director,ro,director,監督,yøbo
 スポット,ja,spot,スポット,uobo
@@ -7,7 +12,17 @@ director,ro,director,監督,yøbo
 Detektor,de,detector,検出器,øœbo
 detector,es,detector,検出器,øøbo
 beleco,eo,beauty,美しさ,øøbo
+スタッド,ja,stud,スタッド,uɶbo
+サミット,ja,Summit,サミット,ɶybo
+カーペット,ja,carpet,カーペット,ɶøbo
+nurmikko,fi,lawn,芝生,uybo
+osasto,fi,department,デパートメント,oɑbo
+Cam Thịnh Tây,vi,Cam Thinh Tay,Cam Thinh Tay,ɶmbymbo
+xuất nhập khẩu,vi,import and export,インポートとエクスポート,bobobbo
+conscriptor,ro,Conscript,徴兵,ombbybo
+koléktor,id,Koléktor,コレクター,oøbo
 partiklo,/partiklo/,particle,粒子,eo
+graafikko,fi,graphic artist,グラフィックアーティスト,bɑɑybo
 volupto,/volupto/,lust,欲望,eo
 étourneaux,/etuʁno/,starlings,星,fr
 潜规则,/tɕʰjɛn˧˥ kweɪ˥˥ tsɤ˧˥/,Unspoken rules,暗黙のルール,zh-cn
@@ -15,3 +30,8 @@ multiflor,/multiflor/,Multiflor,マルチフラー,ro
 tagnokto,/tagnokto/,day night,昼夜,eo
 Anschlussrohr,/ˈʔanˌʃlʊssɾoɾ/,Tube,チューブ,de
 kháng độc tố,/xaŋ˩˧ dok͡p˨ˀ˩ʔ to˩˧/,antitoxin,抗毒素,vi
+magiisto,eo,Magician,魔術師,ɶyybo
+digestor,ro,digestion,消化,ybøbo
+emulsor,ro,emulsifier,乳化剤,øubo
+gepetto,ro,Gepetto,ゲペット,bøøbo
+inspector,ro,inspector,検査官,ymbøbo

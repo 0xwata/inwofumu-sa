@@ -1,0 +1,34 @@
+word,word_lang,word_ipa,word_ipa_rhyme,word_en,word_ja,pair_word,pair_word_lang,pair_word_ipa,pair_word_ipa_rhyme,pair_word_en,pair_word_ja,rhyme_type,match_ipa_rhyme,pos,syllable
+poveste,ro,/poveste/,oøbø,story,話,jääteitse,fi,/ˈjææteitse/,ææøybø,in ice,氷の中で,kyaku,bø,noun,3
+Geschichte,de,/gəˈʃɪçtə/,əʏə,story,話,foxfire,en,/ˈfɑksˌfaɪɝ/,ɑbbɶʏə,foxfire,キツネの火,kyaku,ʏə,noun,3
+historia,es,/istoɾja/,yboɶ,history,歴史,pikkolo,fi,/ˈpikkolo/,yboo,page,ページ,to,bo,noun,3
+痛み,ja,/itami/,yɶy,pain,痛み,maladie,fr,/maladi/,ɶɶy,sickness,病気,kyaku,ɶy,noun,3
+durere,ro,/durere/,uøø,pain,痛み,blatérées,fr,/blateʁe/,bɶøø,joke,ジョーク,kyaku,øø,noun,3
+重い,ja,/omoi/,ooy,heavy,重い,bankroti,eo,/bankroti/,ɶmboy,bankrupt,破産,kyaku,oy,adjective,3
+linaza,es,/linaθa/,yɶɶ,flax,亜麻,ối chà chà,vi,/oj˩˧ ca˦˨ ca˦˨/,oɶɶ,"Oh, rub",ああ、こすります,kyaku,ɶɶ,verb,3
+墨水,zh-cn,/mɔ˥˩ ʂweɪ˨˩˦/,ɔøʏ,ink,インク,schleunigen,de,/ˈʃlɔønɪgən/,ɔøʏəm,quick,素早い,to,øʏ,verb,3
+مرح,ar,/mariħa/,ɶyɶ,cheerful,陽気な,茉莉茶,zh-cn,/mɔ˥˩ li˥˩ ʈʂʰa˧˥/,ɔyɶ,Jasmine tea,ジャスミン茶,kyaku,yɶ,noun,3
+sukacita,id,/sukatʃita/,uɶbyɶ,joy,喜び,ايطاليا,ar,/ʔiːtˤaːliːaː/,ybɶyɶ,Italia,イタリア,kyaku,yɶ,noun,4
+bucurie,ro,/bukurije/,uuyø,joy,喜び,Wundertiere,de,/vʊndɛɾˈtiːɾe/,ʊmœyø,Miracle animals,奇跡の動物,kyaku,yø,noun,4
+dramatic,ro,/dramatik/,bɶɶyb,dramatic,劇的,endalaus,is,/ɛntalœiːs/,œmɶœyb,endless,無限,kyaku,yb,adjective,3
+dramatískt,is,/traːmatist/,bɶɶybb,dramatic,劇的,anzweifelst,de,/ˈʔanˌtsvaefɛlst/,ɶmbbɶøœbbb,test,テスト,kyaku,bb,adjective,3
+劇的,ja,/gekiteki/,øyøy,dramatic,劇的,récupérasses,fr,/ʁekypeʁas/,øyøɶb,recuperation,療養,to,yø,noun,4
+abrasive,en,/əˈbɹeɪsɪv/,əbøʏʏb,abrasive,研磨剤,gedrehtes,de,/gəˈdɾetəs/,əbøəb,rotated,回転,to,bø,adjective,3
+penangkap,id,/pənaŋkap/,əɶmɶb,catcher,キャッチャー,acosas,es,/akosas/,ɶoɶb,harass,嫌がらせ,kyaku,ɶb,noun,3
+receptor,es,/reθeptoɾ/,øøbo,receiver,受信機,graafikko,fi,/ˈgrɑɑfikko/,bɑɑybo,graphic artist,グラフィックアーティスト,kyaku,bo,noun,3
+baterai,id,/batərai/,ɶəɶy,battery,バッテリー,Vesturbæ,is,/vɛstʏrpaiː/,œbʏɶy,West,西,kyaku,ɶy,noun,4
+배터리,ko,/pɛ̝tʰʌ̹ɾi/,œbɔy,battery,バッテリー,Verordnung,de,/fɛʁˈɔʁtnʊŋ/,œbɔbbʊm,regulation,規制,to,bɔ,noun,3
+baterie,ro,/baterije/,ɶøyø,battery,バッテリー,ravelino,eo,/ravelino/,ɶøyo,Ravelin,ラヴェリン,to,øy,noun,4
+impala,en,/ˌɪmˈpɑɫə/,ʏmɑə,impala,インパラ,vorfahre,de,/ˈfoːɐ̯ˌfɑɾə/,oɐɑə,ancestor,祖先,kyaku,ɑə,verb,3
+época,es,/ˈepoka/,øoɶ,epoch,時代,épaulâmes,fr,/epolam/,øoɶm,shoulder,ショルダー,to,oɶ,noun,3
+时代,zh-cn,/ʂɚ˧˥ taɪ˥˩/,əɶʏ,era,時代,kalina,en,/kəˈɫaɪnə/,əɶʏə,kalina,カリーナ,to,ɶʏ,noun,3
+serpihan,id,/sərpihan/,əyɶm,flakes,フレーク,Stromlaufplan,de,/ʃtɾɔmlaofpˈlan/,bɔmɶobbɶm,Circuit plan,回路計画,kyaku,ɶm,noun,3
+escombros,es,/eskombɾos/,øbombob,debris,デブリ,relvojo,eo,/relvoio/,øboyo,a railroad,鉄道,to,bo,noun,3
+adaptasi,id,/adaptasi/,ɶɶbɶy,adaptation,適応,哈萨克族,zh-cn,/xa˥˥ sa˥˩ kʰɤ˥˩ tsu˧˥/,ɶɶbobu,Kazakh,カザフ,to,ɶb,noun,4
+適応,ja,/tekioɯ/,øyou,Adaptation,適応,sériosa,id,/seriosa/,øyoɶ,Sériosa,セリオサ,to,yo,noun,3
+adaptare,ro,/adaptare/,ɶɶbɶø,adaptation,適応,carraspeéis,es,/karaspeˈeis/,ɶɶbøøyb,Carraspe you,あなたをキャラスプ,to,ɶb,noun,4
+aðlögun,is,/aðlœɣʏn/,ɶbœʏm,adjustment,調整,Hartwährung,de,/ˈhaɾtvɛɾʊŋ/,ɶbœʊm,Hard currency,ハード通貨,to,bœ,noun,3
+apariția,ro,/aparitsija/,ɶɶybyɶ,appearance,外観,サラセニア,ja,/saɾasenia/,ɶɶøyɶ,Sarasenia,サラセニア,kyaku,yɶ,noun,5
+aparición,es,/apaɾiˈθjon/,ɶɶybom,appearance,外観,hồng nhan đa truân,vi,/hoŋ͡m˦˨ ɲaŋ˧˥ da˧˥ ʈwɤ̆ŋ˧˥/,ommɶmɶom,Hong Nhan Da Tru,Hong Nhan Da Tru,kyaku,om,noun,4
+出現,ja,/ɕɯtsɯgeɴ/,ubuøm,Appearance,出現,diktieren,de,/dɪkˈtiːɾen/,ʏbyøm,dictate,指示,kyaku,øm,noun,3
+hölynpöly,fi,/ˈhølynˌpøly/,øymøy,nonsense,ナンセンス,reintentaros,es,/reintentaɾos/,øymømɶob,Reintent,再インテント,to,ymø,noun,4

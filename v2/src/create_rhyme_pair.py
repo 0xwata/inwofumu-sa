@@ -18,7 +18,7 @@ from util.find_tartget_ipa import find_target_ipa, find_target_ipa_rhyme
 from util.format_word_ipa import format_word_ipa
 
 SYLLABLE_MIN_COUNT = 3
-N = 100
+N = 25
 N_MATCH_MAX = 5
 
 """
