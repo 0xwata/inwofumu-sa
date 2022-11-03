@@ -1,4 +1,9 @@
 word,word_lang,word_en,word_ja,word_ipa_rhyme
+pencabutan,id,extraction,抽出,əmbɶuɶm
+kegelapan,id,darkness,暗闇,əəɶɶm
+kekuasaan,id,power,パワー,əuɶɶɶm
+kepatuhan,id,obedience,従順,əɶuɶm
+kedatangan,id,arrival,到着,əɶɶɶm
 kesurupan,id,trance,トランス,əuuɶm
 keanggotaan,id,membership,メンバーシップ,əɶmoɶɶm
 kebenaran,id,truth,真実,əəɶɶm
@@ -8,19 +13,29 @@ kedutaan,id,Embassy,大使館,əuɶɶm
 kebanggaan,id,pride,誇り,əɶmɶɶm
 pembayaran,id,payment,支払い,əmɶɶɶm
 kelaparan,id,starving,飢え,əɶɶɶm
+perhubungan,id,Transportation,交通手段,əuuɶm
+kemalasan,id,laziness,怠惰,əɶɶɶm
 penugasan,id,assignment,割り当て,əuɶɶm
-kedatangan,id,arrival,到着,əɶɶɶm
+pengaktifan,id,activation,活性化,əɶbyɶm
 percobaan,id,test,テスト,əboɶɶm
 persekutuan,id,fellowship,フェローシップ,əəuuɶm
-pencabutan,id,extraction,抽出,əmbɶuɶm
 الاهتمام,ar,interest,興味,ɶyyɶm
 sejarawan,id,historian,歴史家,əbɶɶɶm
 penyuluhan,id,counseling,カウンセリング,əuuɶm
 penghinaan,id,insult,侮辱,əmyɶɶm
 kesombongan,id,vanity,虚栄心,əomoɶm
 penyimpangan,id,deviation,偏差,əymɶɶm
+penglihatan,id,vision,ヴィジョン,əmyɶɶm
 mengoyakkan,id,tear,破れ目,əoɶbɶm
+kemarahan,id,anger,怒り,əɶɶɶm
+pengadilan,id,court,裁判所,əɶyɶm
 pengaturan,id,Settings,設定,əɶuɶm
+kecemasan,id,worry,心配,əbəɶɶm
+chí tái chí tam,vi,Chi tam,Chi Tam,yɶyɶm
+lễ bạc tâm thành,vi,Silver Ceremony,シルバーセレモニー,øɶbbombɶm
+وبمقرم,ar,And in a makram,そしてマクラムで,ɶyybɶm
+근사계산,ko,Approximation,近似,umbɶbøbɶm
+makkamessan,is,partner,相棒,ɶɶœɶm
 rafmagnsveitan,is,utility,効用,ɶbɶbbøyɶm
 وبأوطان,ar,And in homelands,そして故郷で,ɶyɶʊbɶm
 chia phượng rẽ loan,/ciə˧˥ fɯəŋ˨ˀ˩ʔ ʐɛ˧˩˨ lwaŋ˧˥/,Chia phoenix,チアフェニックス,vi
@@ -30,7 +45,10 @@ fyrirætlan,is,intention,目的,ʏʏɶybɶm
 intéressâmes,/ɛ̃teʁesam/,interest,興味,fr
 écarquillâmes,fr,sparkle,輝く,øɶbyɶm
 接受挑战,zh-cn,accept the challenge,挑戦を受け入れます,bbœoʊbɑʊɶm
+耐乏予算,ja,Denning budget,耐乏予算,ɶyouoɶm
+当铺老板,zh-cn,Pawnshop boss,質屋のボス,ɑmbuɑʊɶm
 盗用公款,/tɑʊ˥˩ jʊŋ˥˩ kʊŋ˥˥ kʰwan˨˩˦/,Stolen public funds,盗まれた公的資金,zh-cn
+provisionnâmes,fr,provision,規定,bɔybɔɶm
 démaquillâmes,/demakijam/,make -up removal,削除を削除します,fr
 atumultuan,/atumultwan/,Atumultuan,atumultuan,es
 ビッグエンディアン,/bigːɯeɴdeiaɴ/,Big endian,ビッグエンディアン,ja
@@ -41,5 +59,9 @@ penébaran,id,Penébaran,ペネバラン,əøɶɶm
 فالإستجمام,/faaːlistidʒmaːm/,The recreation,レクリエーション,ar
 فللبلغم,ar,To be a wine,ワインになる,ɶybɶbɶm
 Menntaskólann,is,High school,高校,œmɶbouɶm
+问长问短,zh-cn,Ask,聞く,uəmɑmuəmbɶm
 فكالفتن,ar,Vils,ヴィル,ɶɶɶbyɶm
+pangasinán,es,PANGASINAN,パンガシナン,ɶmɶyɶm
+老调重弹,zh-cn,Old bomb,古い爆弾,ɑʊbɑʊʊmbɶm
 脚踏两船,zh-cn,Two boats,2隻のボート,bbɑʊbɶbɑmɶm
+tomaticán,es,Tomaticán,トマティナン,oɶyɶm

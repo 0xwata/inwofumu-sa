@@ -1,5 +1,14 @@
 word,word_lang,word_en,word_ja,word_ipa_rhyme
+avocat,ro,lawyer,法律家,ɶoɶb
+antenas,es,Antennas,アンテナ,ɶmøɶb
+امتثال,ar,compliance,コンプライアンス,ymyɶb
+العقرب,ar,The scorpion,サソリ,ɶbɶbɶb
 enaguas,es,petticoat,ペチコート,øɶɶb
+carreras,es,careers,キャリア,ɶøɶb
+النساء,ar,Women,女性,ɶbɶɶb
+انفصال,ar,Separation,分離,ymybɶb
+karnaval,id,carnival,カーニバル,ɶɶɶb
+kolonial,id,colonial,コロニアル,ooyɶb
 calidad,es,quality,品質,ɶyɶb
 réservoir,fr,tank,タンク,øœbbɶb
 dagatal,is,calendar,カレンダー,ɶɶbɶb
@@ -8,6 +17,8 @@ Postleitzahl,de,postal code,郵便番号,ɔbbɶʏbbɶb
 cénotaphe,fr,cenotaph,セノタフ,øɔɶb
 اشتراك,ar,Participation,参加,yyɶb
 colosal,es,colossal,巨大,ooɶb
+اهتزاز,ar,vibration,振動,yyɶb
+cokelat,id,chocolate,チョコレート,boəɶb
 ارتفاع,ar,to rise,上る・昇る,yyɶb
 penangkap,id,catcher,キャッチャー,əɶmɶb
 libertad,es,freedom,フリーダム,yøɶb
@@ -15,7 +26,6 @@ menyengat,id,stinging,刺し傷,əəɶb
 người lạ,vi,stranger,知らない人,uəɶb
 الفيزياء,ar,Physics,物理,ɶbybɶb
 accessoire,fr,accessory,アクセサリー,ɶbøbɶb
-انفصال,ar,Separation,分離,ymybɶb
 perawat,id,nurse,看護婦,əɶɶb
 البجع,ar,Swallow,飲み込む,ɶbɶbɶb
 منمق,ar,embellished,装飾,uɶmɶb
@@ -23,10 +33,27 @@ perawat,id,nurse,看護婦,əɶɶb
 الإرهاب,ar,Terrorism,テロ,ɶbyɶb
 اندفاع,ar,dash,ダッシュ,ymyɶb
 القفاز,ar,Glove,グローブ,ɶbubɶb
+pendapat,id,opinion,意見,əmɶɶb
+anorak,fr,anorak,アノラック,ɶɔɶb
+Anorak,de,Jacket,ジャケット,ɶoɶb
 épinard,fr,spinach,ほうれん草,øyɶb
 melekat,id,attached,添付,əəɶb
+البنكرياس,ar,Pancreas,膵臓,ɶbɶmbyɶb
+천문학,ko,astronomy,天文学,bbɔmumɶb
+الفلك,ar,Astronomy,天文学,ɶbɶɶb
+tribunal,es,court,裁判所,byuɶb
 hospital,es,hospital,病院,obyɶb
+horquetas,es,Horquetas,ホルケタス,oøɶb
+penggarap,id,cultivators,耕作者,əmɶɶb
+antalas,id,Antalas,アンタラ,ɶmɶɶb
+déclenchâtes,fr,trigger,引き金,øbɑɶb
 chipotasse,fr,chipotasse,チポタス,yɔɶb
+altigraf,ro,Altigraf,アルティグラフ,ɶbybɶb
+paressasse,fr,paressasse,Paressasse,ɶœɶb
+koníak,is,brandy,ブランデー,bɔyɶb
+mismunað,is,difference,違い,ʏbʏɶb
+batigraf,ro,batographer,バトグラファー,ɶybɶb
+lí liệu pháp,vi,therapy,治療,yyəbɶb
 beluntas,id,Beluntas,Beluntas,əumɶb
 HIV,/hauː ɪ vaf/,HIV,HIV,is
 selaras,/səlaras/,In harmony,調和して,id
@@ -36,6 +63,8 @@ neskaupsstað,is,Neskaupstad,neskaupstad,œbbœbbɶb
 zoantropías,/θoantɾoˈpias/,Zoantropia,Zoantropia,es
 mudarat,/mudarat/,Mudarat,ムダラト,id
 incombasse,fr,incumbency,現職,œɔɶb
+decigrad,ro,Decigrad,Decigrad,øbybɶb
+ananas,is,pineapple,パイナップル,ɶɶɶb
 jingoístas,/xiŋgoˈistas/,Jingoist,ジンゴイスト,es
 acosas,es,harass,嫌がらせ,ɶoɶb
 gạch ốp lát,/ɣak˨ˀ˩ʔ op˦˥ lak˦˥/,ceramic tiles,セラミックタイル,vi
@@ -52,6 +81,14 @@ numenal,ro,numen,numen,uøɶb
 vélindað,/vjɛːlɪntað/,esophagus,食道,is
 Skandalblatt,/ˈskandalblat/,Scandal leaf,スキャンダルリーフ,de
 언론학,ko,Journalism,ジャーナリズム,ɔomɶb
+Stellsignal,de,Setting signal,設定信号,œbbʏbɶb
+Bárðardal,is,Bardardalur,バルダルール,ɶuɶɶb
+obstinasse,fr,stubbornness,頑固,ɔbbyɶb
 konforme al,eo,in accordance with,に従い、,omoøɶb
 Friedrichstadt,de,Friedrichstadt,フリードリヒシュタット,bybʏbɶb
+tổng ngân sách,vi,Total budget,総予算,ommomɶb
+nói có sách,vi,speech,スピーチ,ɔɔɶb
+bụng bảo dạ,vi,Bao Da's stomach,バオダの胃,ummbɶɶb
+사회학,ko,sociology,社会学,bɶøɶb
+كالنداف,ar,Calfaf,カルファフ,ɶɶbɶbɶb
 فيكتس,ar,Vitts,vitts,øʏɶbɶb
