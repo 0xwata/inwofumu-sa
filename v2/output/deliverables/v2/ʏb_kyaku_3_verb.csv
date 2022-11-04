@@ -1,27 +1,27 @@
-word,word_lang,word_en,word_ja,word_ipa_rhyme
-deposit,en,deposit,デポジット,əɑʏb
-assorted,en,assorted,品揃え,əɔʏb
-eyelashes,en,eyelashes,睫毛,ɶʏæʏb
-verbalize,en,verbalize,言語化します,əəɶʏb
-estimate,en,estimate,見積もり,œbəøʏb
-transcribe,en,transcribe,転写します,bæmbbɶʏb
-secretive,en,secretive,秘密,ybəʏb
-ossified,en,ossified,骨化,ɑəɶʏb
-motivate,en,motivate,動機付ける,oʊəøʏb
-statistic,en,statistic,統計,bəʏbʏb
-aftershave,en,aftershave,アフターシェーブ,æbəøʏb
-recognize,en,recognize,認識,œəbɶʏb
-فبحيق,ar,Pushed,プッシュ,ɶyøʏb
-íhugul,is,comforting,慰め,yʏʏb
-وبالقيء,ar,And vomiting,と嘔吐,ɶyɶbøʏb
-فبضيع,ar,I am lost,迷っています,ɶybøʏb
-umlukið,is,surround,囲む,ʏmʏʏb
-بقيظ,/biqeɪðˤ/,Wasting,浪費,ar
-وبقيل,/wabiqeɪl/,And it was said,そして、それは言われました,ar
-innsiglið,is,seal,密閉する,ʏmʏbʏb
-flutningsstyrk,is,grant,許す,bʏbymbbʏb
-وبصيح,/wabisˤeɪħ/,And shouting,そして叫ぶ,ar
-úrvalið,is,range,範囲,uɶʏb
-útkrotuð,is,extended,拡張,ubbɔʏb
-überschnitt,de,overlay,かぶせる,yœbbbʏb
-uppgefið,is,exhausted,疲れ果てた,ʏbœʏb
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
+deposit,en,deposit,デポジット,/dəˈpɑzɪt/,əɑʏb
+assorted,en,assorted,品揃え,/əˈsɔɹtɪd/,əɔʏb
+eyelashes,en,eyelashes,睫毛,/ˈaɪˌɫæʃɪz/,ɶʏæʏb
+verbalize,en,verbalize,言語化します,/ˈvɝbəˌɫaɪz/,əəɶʏb
+estimate,en,estimate,見積もり,/ˈɛstəˌmeɪt/,œbəøʏb
+transcribe,en,transcribe,転写します,/tɹænsˈkɹaɪb/,bæmbbɶʏb
+secretive,en,secretive,秘密,/ˈsikɹətɪv/,ybəʏb
+ossified,en,ossified,骨化,/ˈɑsəˌfaɪd/,ɑəɶʏb
+motivate,en,motivate,動機付ける,/ˈmoʊtəˌveɪt/,oʊəøʏb
+statistic,en,statistic,統計,/stəˈtɪstɪk/,bəʏbʏb
+aftershave,en,aftershave,アフターシェーブ,/ˌæftɝˈʃeɪv/,æbəøʏb
+recognize,en,recognize,認識,/ˈɹɛkəɡˌnaɪz/,œəbɶʏb
+فبحيق,ar,Pushed,プッシュ,/fabiħeɪq/,ɶyøʏb
+íhugul,is,comforting,慰め,/iːhʏɣʏl/,yʏʏb
+وبالقيء,ar,And vomiting,と嘔吐,/wabiaːlqeɪʔ/,ɶyɶbøʏb
+فبضيع,ar,I am lost,迷っています,/fabidˤeɪʕ/,ɶybøʏb
+umlukið,is,surround,囲む,/ʏmlʏcɪð/,ʏmʏʏb
+بقيظ,/biqeɪðˤ/,Wasting,浪費,yøʏb,ar
+وبقيل,/wabiqeɪl/,And it was said,そして、それは言われました,ɶyøʏb,ar
+innsiglið,is,seal,密閉する,/ɪnsɪklɪð/,ʏmʏbʏb
+flutningsstyrk,is,grant,許す,/flʏhtniŋkstɪr̥k/,bʏbymbbʏb
+وبصيح,/wabisˤeɪħ/,And shouting,そして叫ぶ,ɶybøʏb,ar
+úrvalið,is,range,範囲,/urvalɪð/,uɶʏb
+útkrotuð,is,extended,拡張,/uːtkʰrɔtʏð/,ubbɔʏb
+überschnitt,de,overlay,かぶせる,/ˈʔyːbɛɾstsnɪt/,yœbbbʏb
+uppgefið,is,exhausted,疲れ果てた,/ʏhpcɛvɪð/,ʏbœʏb

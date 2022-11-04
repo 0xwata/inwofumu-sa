@@ -1,17 +1,17 @@
-word,word_lang,word_en,word_ja,word_ipa_rhyme
-yritys,fi,company,会社,yyyb
-glitilo,eo,Slide,滑り台,byyo
-sleepiness,en,sleepiness,眠気,byyəb
-Privileg,de,privilege,特権,byyøb
-privilège,fr,privilege,特権,byyœ
-fysiikka,fi,physique,体格,yyybɑ
-merimies,fi,sailor,船乗り,øyyøb
-painike,fi,handle,扱う,ɑyyø
-simii,eo,simii,simii,yyy
-schițare,ro,rough-cast,ラフキャスト,byybɶø
-地域化,ja,Regionalization,地域化,byyyɶ
-拘泥不安,zh-cn,Restless,落ち着きがない,byyuɶm
-Zivilehen,de,Civilia,民間,byyøəm
-lichida,/likʲ̩ida/,liquidate,清算します,ro
-聖櫃,ja,Sacred lunch,聖櫃,øyybu
-pardini,en,pardini,パルディーニ,ɑyy
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
+yritys,fi,company,会社,/ˈyritys/,yyyb
+glitilo,eo,Slide,滑り台,/glitilo/,byyo
+sleepiness,en,sleepiness,眠気,/ˈsɫipinəs/,byyəb
+Privileg,de,privilege,特権,/ˈpɾiːvilek/,byyøb
+privilège,fr,privilege,特権,/pʁivilɛʒ/,byyœ
+fysiikka,fi,physique,体格,/ˈfysiikkɑ/,yyybɑ
+merimies,fi,sailor,船乗り,/ˈmerimies/,øyyøb
+painike,fi,handle,扱う,/ˈpɑinike/,ɑyyø
+simii,eo,simii,simii,/simii/,yyy
+schițare,ro,rough-cast,ラフキャスト,/skʲ̩itsare/,byybɶø
+地域化,ja,Regionalization,地域化,/tɕiikika/,byyyɶ
+拘泥不安,zh-cn,Restless,落ち着きがない,/tɕy˥˥ ni˥˩ pu˥˩ an˥˥/,byyuɶm
+Zivilehen,de,Civilia,民間,/ˈtsiːvileən/,byyøəm
+lichida,/likʲ̩ida/,liquidate,清算します,yyyɶ,ro
+聖櫃,ja,Sacred lunch,聖櫃,/seiçitsɯ/,øyybu
+pardini,en,pardini,パルディーニ,/pɑɹˈdini/,ɑyy

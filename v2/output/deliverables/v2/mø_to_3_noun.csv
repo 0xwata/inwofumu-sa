@@ -1,27 +1,27 @@
-word,word_lang,word_en,word_ja,word_ipa_rhyme
-判定,ja,judgement,判定,ɶmøy
-Anregung,de,Stimulation,刺激,ɶmøʊm
-pensetă,ro,tweezers,ピンセット,ømøə
-ピンセット,ja,tweezers,ピンセット,ymøbo
-intelect,ro,intellect,知性,ymøøbb
-インテリ,ja,Intellectual,インテリ,ymøy
-longeco,eo,length,長さ,omøbo
-samheiti,is,synonym,シノニム,ɶmøyʏ
-contexto,es,context,環境,omøbbo
-samhengi,is,sequence,順序,ɶmøymʏ
-vinjeto,eo,vignette,ビネット,ymøo
-神経,ja,Nerve,神経,ymøy
-タンデム,ja,Tandem,タンデム,ɶmøu
-泔水,zh-cn,swill,すすります,ɶmøʏ
-lanterno,eo,lantern,灯籠,ɶmøo
-限定詞,/geɴteiɕi/,Limited lyrics,限定詞,ja
-símleiðis,/simleiðɪs/,by way,ところで,is
-ingerís,/iŋxeˈɾis/,Ingerís,インゲリス,es
-liñuelos,es,Liañuelos,リニュエロス,ymøob
-恩恵,ja,benefit,恩恵,omøy
-难为情,/nan˧˥ weɪ˧˥ tɕʰɪŋ˧˥/,Embarrassed,恥ずかしい,zh-cn
-Pompejo,/pompeio/,Pompeii,ポンペイ,eo
-bánh xèo,/ban˩˧ seo˦˨/,pancakes,パンケーキ,vi
-fingelska,/ˈfingelskɑ/,fingelska,フィンゲルスカ,fi
-indexen,/indeksen/,Indexen,インデックスン,es
-amnésiques,/amnezik/,amnesiac,健忘,fr
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
+判定,ja,judgement,判定,/haɴtei/,ɶmøy
+Anregung,de,Stimulation,刺激,/ˈʔanˌɾeːgʊŋ/,ɶmøʊm
+pensetă,ro,tweezers,ピンセット,/pensetə/,ømøə
+ピンセット,ja,tweezers,ピンセット,/piɴsetːo/,ymøbo
+intelect,ro,intellect,知性,/intelekt/,ymøøbb
+インテリ,ja,Intellectual,インテリ,/iɴteɾi/,ymøy
+longeco,eo,length,長さ,/longet͡so/,omøbo
+samheiti,is,synonym,シノニム,/saːmheitɪ/,ɶmøyʏ
+contexto,es,context,環境,/konteksto/,omøbbo
+samhengi,is,sequence,順序,/saːmheiɲcɪ/,ɶmøymʏ
+vinjeto,eo,vignette,ビネット,/vinjeto/,ymøo
+神経,ja,Nerve,神経,/ɕiɴkei/,ymøy
+タンデム,ja,Tandem,タンデム,/taɴdemɯ/,ɶmøu
+泔水,zh-cn,swill,すすります,/kan˥˥ ʂweɪ˨˩˦/,ɶmøʏ
+lanterno,eo,lantern,灯籠,/lanterno/,ɶmøo
+限定詞,/geɴteiɕi/,Limited lyrics,限定詞,ømøyy,ja
+símleiðis,/simleiðɪs/,by way,ところで,ymøyʏb,is
+ingerís,/iŋxeˈɾis/,Ingerís,インゲリス,ymøyb,es
+liñuelos,es,Liañuelos,リニュエロス,/liɲwelos/,ymøob
+恩恵,ja,benefit,恩恵,/oɴkei/,omøy
+难为情,/nan˧˥ weɪ˧˥ tɕʰɪŋ˧˥/,Embarrassed,恥ずかしい,ɶmøʏbbʏm,zh-cn
+Pompejo,/pompeio/,Pompeii,ポンペイ,omøyo,eo
+bánh xèo,/ban˩˧ seo˦˨/,pancakes,パンケーキ,ɶmøo,vi
+fingelska,/ˈfingelskɑ/,fingelska,フィンゲルスカ,ymøbbɑ,fi
+indexen,/indeksen/,Indexen,インデックスン,ymøbøm,es
+amnésiques,/amnezik/,amnesiac,健忘,ɶmøyb,fr

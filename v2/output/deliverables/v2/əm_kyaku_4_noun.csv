@@ -1,26 +1,26 @@
-word,word_lang,word_en,word_ja,word_ipa_rhyme
-vegetarian,en,vegetarian,ベジタリアン,œbəœyəm
-paramecium,en,paramecium,パラメシウム,œəyyəm
-Unternehmen,de,company,会社,ʊmɐøəm
-dedication,en,dedication,献身,œəøʏəm
-millennium,en,millennium,ミレニアム,əœyəm
-auditorium,en,auditorium,講堂,ɔəɔyəm
-abrogation,en,abrogation,廃止,æbəøʏəm
-ammunition,en,ammunition,弾薬,æməʏəm
-generation,en,generation,世代,bœəøʏəm
-adaptation,en,adaptation,適応,æəbøʏəm
-insulation,en,insulation,絶縁,ʏməøʏəm
-decoration,en,decoration,装飾,œəøʏəm
-Nieselregen,de,Drizzle,霧雨,yœbøəm
-援引条文,zh-cn,Quotation,引用,œmʏmbɑʊuəm
-imigrésen,id,Immigrésen,入り口,yybøəm
-utilizăm,/utilizəm/,use,使用する,ro
-目击证人,/mu˥˩ tɕi˥˥ ʈʂɤŋ˥˩ ʐən˧˥/,Witness,目撃者,zh-cn
-Kaufzwängen,/ˈkaoftsvɛŋən/,Purchase constraints,購入制約,de
-Rechtsexperten,/ˈɾɛçtzɛkspɛɾtən/,Legal expert,法律専門家,de
-chấp mối lương duyên,vi,accept predestined relationship,運命づけられた関係を受け入れます,obouəmyəm
-pérubalsem,id,Pérubalsem,Pérubalsem,øuɶbəm
-thủng trống long chiêng,/tʰuŋ͡m˧˩˨ ʈoŋ͡m˩˧ lɔŋ͡m˧˥ ciəŋ˧˥/,Perforated drum drum gong,穴あきドラムドラムゴン,vi
-Verschönerungen,de,Embellishment,装飾,œɐøɐʊəm
-Hintergehungen,de,Background,バックグラウンド,ʏmœøʊəm
-konvokésyen,id,condoxyen,コンドキシエン,omoøbəm
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
+vegetarian,en,vegetarian,ベジタリアン,/ˌvɛdʒəˈtɛˌɹiən/,œbəœyəm
+paramecium,en,paramecium,パラメシウム,/ˌpɛɹəˈmisiəm/,œəyyəm
+Unternehmen,de,company,会社,/ˌʊntɐˈneːmən/,ʊmɐøəm
+dedication,en,dedication,献身,/ˌdɛdəˈkeɪʃən/,œəøʏəm
+millennium,en,millennium,ミレニアム,/məˈɫɛniəm/,əœyəm
+auditorium,en,auditorium,講堂,/ˌɔdəˈtɔɹiəm/,ɔəɔyəm
+abrogation,en,abrogation,廃止,/ˌæbɹəˈɡeɪʃən/,æbəøʏəm
+ammunition,en,ammunition,弾薬,/ˌæmjəˈnɪʃən/,æməʏəm
+generation,en,generation,世代,/ˌdʒɛnɝˈeɪʃən/,bœəøʏəm
+adaptation,en,adaptation,適応,/ˌædəpˈteɪʃən/,æəbøʏəm
+insulation,en,insulation,絶縁,/ˌɪnsəˈɫeɪʃən/,ʏməøʏəm
+decoration,en,decoration,装飾,/ˌdɛkɝˈeɪʃən/,œəøʏəm
+Nieselregen,de,Drizzle,霧雨,/ˈniːzɛlɾegən/,yœbøəm
+援引条文,zh-cn,Quotation,引用,/ɥœn˧˥ ɪn˨˩˦ tʰjɑʊ˧˥ uən˧˥/,œmʏmbɑʊuəm
+imigrésen,id,Immigrésen,入り口,/imigresən/,yybøəm
+utilizăm,/utilizəm/,use,使用する,uyyəm,ro
+目击证人,/mu˥˩ tɕi˥˥ ʈʂɤŋ˥˩ ʐən˧˥/,Witness,目撃者,ubyoməm,zh-cn
+Kaufzwängen,/ˈkaoftsvɛŋən/,Purchase constraints,購入制約,ɶobbbœəm,de
+Rechtsexperten,/ˈɾɛçtzɛkspɛɾtən/,Legal expert,法律専門家,œbœbbœəm,de
+chấp mối lương duyên,vi,accept predestined relationship,運命づけられた関係を受け入れます,/cɤ̆p˦˥ moj˩˧ lɯəŋ˧˥ jwiəŋ˧˥/,obouəmyəm
+pérubalsem,id,Pérubalsem,Pérubalsem,/perubalsəm/,øuɶbəm
+thủng trống long chiêng,/tʰuŋ͡m˧˩˨ ʈoŋ͡m˩˧ lɔŋ͡m˧˥ ciəŋ˧˥/,Perforated drum drum gong,穴あきドラムドラムゴン,bummommɔmmyəm,vi
+Verschönerungen,de,Embellishment,装飾,/fɛːɐ̯ˈʃøːnɐ̯ʊŋən/,œɐøɐʊəm
+Hintergehungen,de,Background,バックグラウンド,/ˈhɪnˌtɛɾgeʊŋən/,ʏmœøʊəm
+konvokésyen,id,condoxyen,コンドキシエン,/konvokesjən/,omoøbəm

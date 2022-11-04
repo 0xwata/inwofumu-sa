@@ -1,24 +1,24 @@
-word,word_lang,word_en,word_ja,word_ipa_rhyme
-gravity,en,gravity,重力,bæəy
-battery,en,battery,バッテリー,æəy
-legacy,en,legacy,遺産,œəy
-embassy,en,embassy,大使館,œməy
-odyssey,en,odyssey,オデッセイ,ɑəy
-enemy,en,enemy,敵,œəy
-uppity,en,uppity,uppity,əəy
-suvenir,id,souvenir,お土産,uəy
-Sellerie,de,celery,セロリ,œəy
-custody,en,custody,親権,əbəy
-piety,en,piety,信仰心,ɶʏəy
-porcherie,fr,pigsty,ブタ,ɔbəy
-损失率,zh-cn,Losses,損失,uəməy
-garderie,fr,nursery,保育園,ɶbəy
-Vũ Nghĩa Chi,vi,Vu Nghia Chi,Vu nghia chi,uyəy
-galeri,/galəri/,gallery,ギャラリー,id
-entrevît,fr,interview,インタビュー,ɑbəy
-întrebări,/ɨntrebərʲ/,question,質問,ro
-kubeli,id,I bought it,それを買った,uəy
-求知欲,zh-cn,Be insignificant,取るに足らない,bboʊəy
-fourberies,/fuʁbəʁi/,deceit,欺ce,fr
-pateri,id,solder,半田,ɶəy
-cung thiếu nhi,vi,Supply Children,子供を供給します,ummbyəy
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
+gravity,en,gravity,重力,/ˈɡɹævəti/,bæəy
+battery,en,battery,バッテリー,/ˈbætɝi/,æəy
+legacy,en,legacy,遺産,/ˈɫɛɡəsi/,œəy
+embassy,en,embassy,大使館,/ˈɛmbəsi/,œməy
+odyssey,en,odyssey,オデッセイ,/ˈɑdəsi/,ɑəy
+enemy,en,enemy,敵,/ˈɛnəmi/,œəy
+uppity,en,uppity,uppity,/ˈəpəti/,əəy
+suvenir,id,souvenir,お土産,/suvənir/,uəy
+Sellerie,de,celery,セロリ,/ˈzɛləʁi/,œəy
+custody,en,custody,親権,/ˈkəstədi/,əbəy
+piety,en,piety,信仰心,/ˈpaɪəti/,ɶʏəy
+porcherie,fr,pigsty,ブタ,/pɔʁʃəʁi/,ɔbəy
+损失率,zh-cn,Losses,損失,/suən˨˩˦ ʂɚ˥˥ ly˥˩/,uəməy
+garderie,fr,nursery,保育園,/gaʁdəʁi/,ɶbəy
+Vũ Nghĩa Chi,vi,Vu Nghia Chi,Vu nghia chi,/ju˧˩˨ ŋiə˧˩˨ ci˧˥/,uyəy
+galeri,/galəri/,gallery,ギャラリー,ɶəy,id
+entrevît,fr,interview,インタビュー,/ɑ̃tʁəvi/,ɑbəy
+întrebări,/ɨntrebərʲ/,question,質問,ʉmbøəy,ro
+kubeli,id,I bought it,それを買った,/kubəli/,uəy
+求知欲,zh-cn,Be insignificant,取るに足らない,/tɕʰjoʊ˧˥ ʈʂɚ˥˥ y˥˩/,bboʊəy
+fourberies,/fuʁbəʁi/,deceit,欺ce,ubəy,fr
+pateri,id,solder,半田,/patəri/,ɶəy
+cung thiếu nhi,vi,Supply Children,子供を供給します,/kuŋ͡m˧˥ tʰiəw˩˧ ɲi˧˥/,ummbyəy

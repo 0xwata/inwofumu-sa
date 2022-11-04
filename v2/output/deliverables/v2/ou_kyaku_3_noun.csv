@@ -1,87 +1,87 @@
-word,word_lang,word_en,word_ja,word_ipa_rhyme
-quyền sở hữu,vi,ownership,所有,yœmou
-急ぐ,ja,Hurry,急ぐ,you
-コショウ,ja,pepper,コショウ,oou
-武装,ja,Armed,武装,uou
-種族,ja,Race,種族,uou
-費用,ja,cost,費用,you
-疲労,ja,fatigue,疲労,you
-王国,ja,Kingdom,王国,ouou
-結晶,ja,crystal,結晶,øbou
-偽造,ja,Counterfeiting,偽造,you
-陰謀,ja,conspiracy,陰謀,ymou
-労働,ja,Labor,労働,ouou
-自動,ja,Automatic,自動,byou
-栄光,ja,glory,栄光,øyou
-所得,ja,income,所得,oou
-再考,ja,Reconsideration,再考,ɶyou
-敗北,ja,defeat,敗北,ɶyou
-情報,ja,information,情報,bouou
-仕様,ja,specification,仕様,you
-終了,ja,end,終了,uuou
-家族,ja,family,家族,ɶou
-黄色,ja,yellow,黄色,ouou
-影響,ja,Impact,影響,øybou
-素朴,ja,Simplicity,素朴,oou
-方向,ja,direction,方向,ouou
-魅力,ja,charm,魅力,you
-日食,ja,Daily food,日食,ybou
-報告,ja,report,報告,ouou
-音量,ja,Volume,音量,omou
-júdó,is,Judo,柔道,uou
-保証,ja,guarantee,保証,oou
-機能,ja,function,機能,you
-入力,ja,input,入力,muuou
-彫刻,ja,Sculpture,彫刻,bouou
-海賊,ja,Pirate,海賊,ɶyou
-番号,ja,number,番号,ɶmou
-銀行,ja,Bank,銀行,ymou
-部族,ja,tribe,部族,uou
-看護婦,ja,nurse,看護婦,ɶmou
-蛇行,ja,meandeling,蛇行,ɶou
-警告,ja,warning,警告,øyou
-適応,ja,Adaptation,適応,øyou
-精霊,ja,spirit,精霊,ouou
-主力,ja,Mainstay,主力,uou
-眼鏡,ja,glasses,眼鏡,ɶmbou
-フィドル,ja,Fiddle,フィドル,you
-鼓動,ja,Beating,鼓動,oou
-스모그,ko,smog,スモッグ,buou
-puusolu,fi,wooden cell,木製のセル,uuou
-堰塞湖,zh-cn,Damper lake,ダンパー湖,œmou
-búa bổ củi,vi,firewood hammer,fire hammer,uəou
-oiseau-mouche,fr,Hummingbird,ハチドリ,ɶou
-피조물,ko,Creation,創造,bybou
-bolotu,id,Bolotu,ボロツ,oou
-고모부,ko,Uncle,おじさん,oou
-알고무,ko,Altitude,高度,ɶou
-memoriu,ro,memorial,記念,øou
-geysistór,is,geyser,ガイザー,øyʏbou
-水合物,zh-cn,Aquarmers,Aquarmers,øʏou
-jusqu'au bout,fr,until the end,終わりまで,ybou
-Bóbó,is,Bobo,ボボ,ouou
-血色素,/ɕɥœ˥˩ sɤ˥˩ su˥˩/,Hemoglobin,ヘモグロビン,zh-cn
-kammerkór,/kʰamɛrkouːr/,chamber choir,室内合唱団,is
-混合物,zh-cn,mixture,混合,uəmou
-번호부,ko,Number,番号,ɔmou
-下颌骨,zh-cn,lower jaw,下顎,bɶou
-đồng sở hữu,/doŋ͡m˦˨ ʂɤ˧˩˨ hɯw˧˩˨/,co-owner,共同所有者,vi
-투표율,ko,Turnout,消す,bubou
-어제오늘,ko,Yesterday Today,今日は昨日,ɔbøou
-bărbosu,ro,Barbosu,バルボス,əou
-nató,is,NATO,NATO,ɶou
-俱乐部,/tɕy˥˩ lɤ˥˩ pu˥˩/,club,クラブ,zh-cn
-sígó,/siːkou/,cigo,シガー,is
-tầng đối lưu,/tɤ̆ŋ˦˨ doj˩˧ lɯw˧˥/,convection,対流,vi
-Volvo,/vɔlvou/,Volvo,ボルボ,is
-puosu,/ˈpuosu/,boatswain,ボートウェイン,fi
-keo cú,/keo˧˥ ku˩˧/,curmudgeon,curmudgeon,vi
-luusolu,fi,bone cell,骨細胞,uuou
-사고율,ko,Accident rate,事故率,bɶou
-drakó,/traːkou/,dragon,ドラゴン,is
-Erró,is,Erro,エロ,œou
-chủ sở hữu,vi,Owner,オーナー,uou
-turbobur,ro,turbobur,ターボバー,uou
-氨合物,zh-cn,Ammonia,アンモニア,ɶmou
-grigoriu,ro,Gregoriou,Gregoriou,byou
-bâzocu,ro,Bâziu,bâziu,ʉou
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
+quyền sở hữu,vi,ownership,所有,/wiɛŋ˦˨ ʂɤ˧˩˨ hɯw˧˩˨/,yœmou
+急ぐ,ja,Hurry,急ぐ,/isogɯ/,you
+コショウ,ja,pepper,コショウ,/koɕoɯ/,oou
+武装,ja,Armed,武装,/bɯsoɯ/,uou
+種族,ja,Race,種族,/ɕɯzokɯ/,uou
+費用,ja,cost,費用,/çijoɯ/,you
+疲労,ja,fatigue,疲労,/çiɾoɯ/,you
+王国,ja,Kingdom,王国,/oɯkokɯ/,ouou
+結晶,ja,crystal,結晶,/keɕːoɯ/,øbou
+偽造,ja,Counterfeiting,偽造,/gizoɯ/,you
+陰謀,ja,conspiracy,陰謀,/iɴboɯ/,ymou
+労働,ja,Labor,労働,/ɾoɯdoɯ/,ouou
+自動,ja,Automatic,自動,/dʑidoɯ/,byou
+栄光,ja,glory,栄光,/eikoɯ/,øyou
+所得,ja,income,所得,/ɕotokɯ/,oou
+再考,ja,Reconsideration,再考,/saikoɯ/,ɶyou
+敗北,ja,defeat,敗北,/haibokɯ/,ɶyou
+情報,ja,information,情報,/dʑoɯhoɯ/,bouou
+仕様,ja,specification,仕様,/ɕijoɯ/,you
+終了,ja,end,終了,/ɕɯɯɾjoɯ/,uuou
+家族,ja,family,家族,/kazokɯ/,ɶou
+黄色,ja,yellow,黄色,/oɯɕokɯ/,ouou
+影響,ja,Impact,影響,/eikjoɯ/,øybou
+素朴,ja,Simplicity,素朴,/sobokɯ/,oou
+方向,ja,direction,方向,/hoɯkoɯ/,ouou
+魅力,ja,charm,魅力,/miɾjokɯ/,you
+日食,ja,Daily food,日食,/niɕːokɯ/,ybou
+報告,ja,report,報告,/hoɯkokɯ/,ouou
+音量,ja,Volume,音量,/oɴɾjoɯ/,omou
+júdó,is,Judo,柔道,/juːtouː/,uou
+保証,ja,guarantee,保証,/hoɕoɯ/,oou
+機能,ja,function,機能,/kinoɯ/,you
+入力,ja,input,入力,/njɯɯɾjokɯ/,muuou
+彫刻,ja,Sculpture,彫刻,/tɕoɯkokɯ/,bouou
+海賊,ja,Pirate,海賊,/kaizokɯ/,ɶyou
+番号,ja,number,番号,/baɴgoɯ/,ɶmou
+銀行,ja,Bank,銀行,/giɴkoɯ/,ymou
+部族,ja,tribe,部族,/bɯzokɯ/,uou
+看護婦,ja,nurse,看護婦,/kaɴgoɸɯ/,ɶmou
+蛇行,ja,meandeling,蛇行,/dakoɯ/,ɶou
+警告,ja,warning,警告,/keikokɯ/,øyou
+適応,ja,Adaptation,適応,/tekioɯ/,øyou
+精霊,ja,spirit,精霊,/ɕoɯɾjoɯ/,ouou
+主力,ja,Mainstay,主力,/ɕɯɾjokɯ/,uou
+眼鏡,ja,glasses,眼鏡,/gaɴkjoɯ/,ɶmbou
+フィドル,ja,Fiddle,フィドル,/ɸidoɾɯ/,you
+鼓動,ja,Beating,鼓動,/kodoɯ/,oou
+스모그,ko,smog,スモッグ,/sʰɯmo̞ɡɯ/,buou
+puusolu,fi,wooden cell,木製のセル,/ˈpuusolu/,uuou
+堰塞湖,zh-cn,Damper lake,ダンパー湖,/jɛn˥˩ sɤ˥˩ xu˧˥/,œmou
+búa bổ củi,vi,firewood hammer,fire hammer,/buə˩˧ bo˧˩˨ kuj˧˩˨/,uəou
+oiseau-mouche,fr,Hummingbird,ハチドリ,/wazomuʃ/,ɶou
+피조물,ko,Creation,創造,/pʰid͡ʑo̞muɭ/,bybou
+bolotu,id,Bolotu,ボロツ,/bolotu/,oou
+고모부,ko,Uncle,おじさん,/ko̞mo̞bu/,oou
+알고무,ko,Altitude,高度,/a̠ɭɡo̞mu/,ɶou
+memoriu,ro,memorial,記念,/memorju/,øou
+geysistór,is,geyser,ガイザー,/ceiːsɪstouːr/,øyʏbou
+水合物,zh-cn,Aquarmers,Aquarmers,/ʂweɪ˨˩˦ xɤ˧˥ u˥˩/,øʏou
+jusqu'au bout,fr,until the end,終わりまで,/ʒyskobu/,ybou
+Bóbó,is,Bobo,ボボ,/pouːpou/,ouou
+血色素,/ɕɥœ˥˩ sɤ˥˩ su˥˩/,Hemoglobin,ヘモグロビン,bœou,zh-cn
+kammerkór,/kʰamɛrkouːr/,chamber choir,室内合唱団,bɶœou,is
+混合物,zh-cn,mixture,混合,/xuən˥˩ xɤ˧˥ u˥˩/,uəmou
+번호부,ko,Number,番号,/pʌ̹nβo̞bu/,ɔmou
+下颌骨,zh-cn,lower jaw,下顎,/ɕja˥˩ xɤ˧˥ ku˨˩˦/,bɶou
+đồng sở hữu,/doŋ͡m˦˨ ʂɤ˧˩˨ hɯw˧˩˨/,co-owner,共同所有者,ommou,vi
+투표율,ko,Turnout,消す,/tʰupʰjojuɭ/,bubou
+어제오늘,ko,Yesterday Today,今日は昨日,/ʌ̹d͡ʑe̞o̞nɯɭ/,ɔbøou
+bărbosu,ro,Barbosu,バルボス,/bərbosu/,əou
+nató,is,NATO,NATO,/naːtou/,ɶou
+俱乐部,/tɕy˥˩ lɤ˥˩ pu˥˩/,club,クラブ,byou,zh-cn
+sígó,/siːkou/,cigo,シガー,you,is
+tầng đối lưu,/tɤ̆ŋ˦˨ doj˩˧ lɯw˧˥/,convection,対流,omou,vi
+Volvo,/vɔlvou/,Volvo,ボルボ,ɔbou,is
+puosu,/ˈpuosu/,boatswain,ボートウェイン,uou,fi
+keo cú,/keo˧˥ ku˩˧/,curmudgeon,curmudgeon,øou,vi
+luusolu,fi,bone cell,骨細胞,/ˈluusolu/,uuou
+사고율,ko,Accident rate,事故率,/sʰa̠ɡo̞juɭ/,bɶou
+drakó,/traːkou/,dragon,ドラゴン,bɶou,is
+Erró,is,Erro,エロ,/ɛrou/,œou
+chủ sở hữu,vi,Owner,オーナー,/cu˧˩˨ ʂɤ˧˩˨ hɯw˧˩˨/,uou
+turbobur,ro,turbobur,ターボバー,/turbobur/,uou
+氨合物,zh-cn,Ammonia,アンモニア,/an˥˥ xɤ˧˥ u˥˩/,ɶmou
+grigoriu,ro,Gregoriou,Gregoriou,/ɡriɡorju/,byou
+bâzocu,ro,Bâziu,bâziu,/bɨzoku/,ʉou

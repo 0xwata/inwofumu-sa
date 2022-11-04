@@ -1,26 +1,26 @@
-word,word_lang,word_en,word_ja,word_ipa_rhyme
-strategio,eo,strategy,ストラテジー,bbɶøyo
-baterio,eo,battery,バッテリー,ɶøyo
-コンクリート,ja,concrete,コンクリート,omuyo
-チームメイト,ja,teammate,チームメイト,byuøyo
-likakaivo,fi,dirt,泥,yɑɑyo
-cocodrilo,es,alligator,アリゲーター,oobyo
-cobertizo,es,shed,小屋,oøyo
-kalkulilo,eo,calculator,電卓,ɶbuyo
-torbellino,es,whirlwind,旋風,oøyo
-señorío,es,manor,マナー,øoyo
-opinio,eo,opinion,意見,oyyo
-ironio,eo,irony,アイロニー,yoyo
-molipsitor,ro,contagious,伝染性,oybyo
-bí ba bí bô,vi,BACKGROUND,バックグラウンド,yɶyo
-soi đường chỉ lối,vi,Smaking the way,道をスマーディングします,ɔuəmyo
-skénario,/skenario/,scenario,シナリオ,id
-Buchungsbüro,de,Booking office,予約オフィス,ʊʊmbyo
-double-rideaux,fr,double ride,ダブルライド,ubəyo
-pronominaux,fr,pronominal,代名詞,bɔɔyo
-desenvaino,/desembaino/,Blaming,非難,es
-ĉevalido,/t͡ʃevalido/,a colt,コルト,eo
-vice-amiraux,fr,vice-admirals,副監督,yɶyo
-出租汽车,zh-cn,taxi,タクシー,ububbyo
-발상기호,ko,Idea,考え,ɶbɶmyo
-petitio,ro,petitio,プチオ,øybyo
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
+strategio,eo,strategy,ストラテジー,/strategio/,bbɶøyo
+baterio,eo,battery,バッテリー,/baterio/,ɶøyo
+コンクリート,ja,concrete,コンクリート,/koɴkɯɾiːto/,omuyo
+チームメイト,ja,teammate,チームメイト,/tɕiːmɯmeito/,byuøyo
+likakaivo,fi,dirt,泥,/ˈlikɑˌkɑivo/,yɑɑyo
+cocodrilo,es,alligator,アリゲーター,/kokoðɾilo/,oobyo
+cobertizo,es,shed,小屋,/koβeɾtiθo/,oøyo
+kalkulilo,eo,calculator,電卓,/kalkulilo/,ɶbuyo
+torbellino,es,whirlwind,旋風,/toɾβeʎino/,oøyo
+señorío,es,manor,マナー,/seɲoˈɾio/,øoyo
+opinio,eo,opinion,意見,/opinio/,oyyo
+ironio,eo,irony,アイロニー,/ironio/,yoyo
+molipsitor,ro,contagious,伝染性,/molipsitor/,oybyo
+bí ba bí bô,vi,BACKGROUND,バックグラウンド,/bi˩˧ ba˧˥ bi˩˧ bo˧˥/,yɶyo
+soi đường chỉ lối,vi,Smaking the way,道をスマーディングします,/ʂɔj˧˥ dɯəŋ˦˨ ci˧˩˨ loj˩˧/,ɔuəmyo
+skénario,/skenario/,scenario,シナリオ,bøɶyo,id
+Buchungsbüro,de,Booking office,予約オフィス,/ˈbʊxʊŋsbyɾo/,ʊʊmbyo
+double-rideaux,fr,double ride,ダブルライド,/dubləʁido/,ubəyo
+pronominaux,fr,pronominal,代名詞,/pʁɔnɔmino/,bɔɔyo
+desenvaino,/desembaino/,Blaming,非難,øømɶyo,es
+ĉevalido,/t͡ʃevalido/,a colt,コルト,bøɶyo,eo
+vice-amiraux,fr,vice-admirals,副監督,/visamiʁo/,yɶyo
+出租汽车,zh-cn,taxi,タクシー,/ʈʂʰu˥˥ tsu˥˥ tɕʰi˥˩ ʈʂʰɤ˥˥/,ububbyo
+발상기호,ko,Idea,考え,/pa̠ɭsʰa̠ŋɡiβo̞/,ɶbɶmyo
+petitio,ro,petitio,プチオ,/petitsio/,øybyo

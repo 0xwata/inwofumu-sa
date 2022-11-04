@@ -1,25 +1,25 @@
-word,word_lang,word_en,word_ja,word_ipa_rhyme
-pelata,fi,to be afraid,恐れること,øɑɑ
-ruokala,fi,canteen,食堂,uoɑɑ
-vihata,fi,hate,嫌い,yɑɑ
-porata,fi,drill,ドリル,oɑɑ
-johtaa,fi,to lead,リードする,oɑɑ
-vuotaa,fi,leak,リーク,uoɑɑ
-satama,fi,port,ポート,ɑɑɑ
-huutaa,fi,yell,エール,uuɑɑ
-vaeltaa,fi,wander,さまよう,ɑøbɑɑ
-nauraa,fi,laugh,笑う,ɑuɑɑ
-sulaa,fi,melt,溶けた,uɑɑ
-seurata,fi,to follow,従う,øuɑɑ
-jakaa,fi,share,シェア,ɑɑɑ
-loukata,fi,violate,違反,ouɑɑ
-sustentant,fr,suspending,一時停止,ybɑɑ
-gondwana,/ˌɡɑndˈwɑˌnɑ/,gondwana,ゴンドワナ,en
-pigmentant,fr,pigmenting,色素沈着,ybɑɑ
-rechantant,fr,recharging,充電,əɑɑ
-segmentant,fr,segmenting,セグメント化,œbɑɑ
-réinventant,fr,reinventing,再発明,øœɑɑ
-enjambant,fr,spanning,範囲,ɑɑɑ
-décampant,fr,scouring,精査,øɑɑ
-agençant,fr,aging,エージング,ɶɑɑ
-estampant,fr,stamping,スタンピング,œbɑɑ
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
+pelata,fi,to be afraid,恐れること,/ˈpelɑtɑ/,øɑɑ
+ruokala,fi,canteen,食堂,/ˈruokɑlɑ/,uoɑɑ
+vihata,fi,hate,嫌い,/ˈvihɑtɑ/,yɑɑ
+porata,fi,drill,ドリル,/ˈporɑtɑ/,oɑɑ
+johtaa,fi,to lead,リードする,/ˈjohtɑɑ/,oɑɑ
+vuotaa,fi,leak,リーク,/ˈvuotɑɑ/,uoɑɑ
+satama,fi,port,ポート,/ˈsɑtɑmɑ/,ɑɑɑ
+huutaa,fi,yell,エール,/ˈhuutɑɑ/,uuɑɑ
+vaeltaa,fi,wander,さまよう,/ˈvɑeltɑɑ/,ɑøbɑɑ
+nauraa,fi,laugh,笑う,/ˈnɑurɑɑ/,ɑuɑɑ
+sulaa,fi,melt,溶けた,/ˈsulɑɑ/,uɑɑ
+seurata,fi,to follow,従う,/ˈseurɑtɑ/,øuɑɑ
+jakaa,fi,share,シェア,/ˈjɑkɑɑ/,ɑɑɑ
+loukata,fi,violate,違反,/ˈloukɑtɑ/,ouɑɑ
+sustentant,fr,suspending,一時停止,/systɑ̃tɑ̃/,ybɑɑ
+gondwana,/ˌɡɑndˈwɑˌnɑ/,gondwana,ゴンドワナ,ɑmbɑɑ,en
+pigmentant,fr,pigmenting,色素沈着,/pigmɑ̃tɑ̃/,ybɑɑ
+rechantant,fr,recharging,充電,/ʁəʃɑ̃tɑ̃/,əɑɑ
+segmentant,fr,segmenting,セグメント化,/sɛgmɑ̃tɑ̃/,œbɑɑ
+réinventant,fr,reinventing,再発明,/ʁeɛ̃vɑ̃tɑ̃/,øœɑɑ
+enjambant,fr,spanning,範囲,/ɑ̃ʒɑ̃bɑ̃/,ɑɑɑ
+décampant,fr,scouring,精査,/dekɑ̃pɑ̃/,øɑɑ
+agençant,fr,aging,エージング,/aʒɑ̃sɑ̃/,ɶɑɑ
+estampant,fr,stamping,スタンピング,/ɛstɑ̃pɑ̃/,œbɑɑ

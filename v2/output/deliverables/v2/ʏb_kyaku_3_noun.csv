@@ -1,35 +1,35 @@
-word,word_lang,word_en,word_ja,word_ipa_rhyme
-ownership,en,ownership,所有,oʊəʏb
-fratricide,en,fratricide,滅菌,bæbəɶʏb
-Gleichgewicht,de,balance,残高,bɶʏəʏb
-Müdigkeit,de,fatigue,倦怠感,yʏɶʏb
-eftirlit,is,surveillance,監視,œbʏʏb
-oversight,en,oversight,監視,oʊəɶʏb
-Herrlichkeit,de,glory,栄光,œbʏɶʏb
-membership,en,membership,メンバーシップ,œməʏb
-enterprise,en,enterprise,企業,œəbɶʏb
-leadership,en,leadership,リーダーシップ,yəʏb
-Aufsicht,de,At sight,一目で,ɶobʏb
-mayonnaise,en,mayonnaise,マヨネーズ,øʏəøʏb
-paradise,en,paradise,パラダイス,œəɶʏb
-Sonnenlicht,de,sunlight,日光,ɔəmʏb
-Möglichkeit,de,possibility,可能性,øbʏɶʏb
-Ergebnis,de,result,結果,œɐəbʏb
-Kochkenntnis,de,Cooking,料理,ɔbœmmbʏb
-بضويء,ar,Via,経由,ybuøʏb
-guimaraes,en,guimaraes,ギマラエス,ʏəøʏb
-Segelflugzeug,de,Glider,グライダー,øbbbubbɔʏb
-atlantis,is,Atlantis,アトランティス,ɶbɶmʏb
-Luftbasis,de,Air base,空軍基地,ʊbbɑʏb
-svansmerkið,is,the Nordic label,北欧のラベル,bɶmbœʏb
-وللبيت,ar,And for the house,そして家のために,ɶybøʏb
-expressis,de,expressis,Expressis,œbbbəbʏb
-dagsljósið,/taxstljousɪð/,daylight,明け,is
-فكالسيف,ar,The sword,剣,ɶɶɶbøʏb
-التيس,/aːlteɪs/,Tip,ヒント,ar
-Machtantritt,de,Takeover,買収,ɶbɶmbʏb
-hagkerfið,is,economy,経済,ɶœʏb
-فللميز,/falilmeɪz/,For distinction,区別のために,ar
-فللكيس,/falilkeɪs/,Locist,ロケイスト,ar
-salernið,is,the toilet,トイレ,ɶœbʏb
-mutineers,en,mutineers,反乱者,muʏʏb
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
+ownership,en,ownership,所有,/ˈoʊnɝˌʃɪp/,oʊəʏb
+fratricide,en,fratricide,滅菌,/ˈfɹætɹəˌsaɪd/,bæbəɶʏb
+Gleichgewicht,de,balance,残高,/ˈɡlaɪ̯çɡəˌvɪçt/,bɶʏəʏb
+Müdigkeit,de,fatigue,倦怠感,/ˈmyːdɪçˌkaɪ̯t/,yʏɶʏb
+eftirlit,is,surveillance,監視,/ɛftɪrlɪːt/,œbʏʏb
+oversight,en,oversight,監視,/ˈoʊvɝˌsaɪt/,oʊəɶʏb
+Herrlichkeit,de,glory,栄光,/ˈhɛʁlɪçkaɪ̯t/,œbʏɶʏb
+membership,en,membership,メンバーシップ,/ˈmɛmbɝˌʃɪp/,œməʏb
+enterprise,en,enterprise,企業,/ˈɛnɝˌpɹaɪz/,œəbɶʏb
+leadership,en,leadership,リーダーシップ,/ˈɫidɝˌʃɪp/,yəʏb
+Aufsicht,de,At sight,一目で,/ˈʔaofˌzɪçt/,ɶobʏb
+mayonnaise,en,mayonnaise,マヨネーズ,/ˈmeɪəˌneɪz/,øʏəøʏb
+paradise,en,paradise,パラダイス,/ˈpɛɹəˌdaɪs/,œəɶʏb
+Sonnenlicht,de,sunlight,日光,/ˈzɔnənlɪçt/,ɔəmʏb
+Möglichkeit,de,possibility,可能性,/ˈmøːklɪçˌkaɪ̯t/,øbʏɶʏb
+Ergebnis,de,result,結果,/ʔɛːɐgəˈpnɪs/,œɐəbʏb
+Kochkenntnis,de,Cooking,料理,/ˈkɔxkɛnntnɪs/,ɔbœmmbʏb
+بضويء,ar,Via,経由,/bidˤuːeɪʔ/,ybuøʏb
+guimaraes,en,guimaraes,ギマラエス,/ˈɡɪmɝˌeɪz/,ʏəøʏb
+Segelflugzeug,de,Glider,グライダー,/ˈzeːɡl̩ˌfluːktsɔɪ̯k/,øbbbubbɔʏb
+atlantis,is,Atlantis,アトランティス,/ahtlantɪs/,ɶbɶmʏb
+Luftbasis,de,Air base,空軍基地,/ˈlʊftbɑzɪs/,ʊbbɑʏb
+svansmerkið,is,the Nordic label,北欧のラベル,/svansmɛr̥cɪð/,bɶmbœʏb
+وللبيت,ar,And for the house,そして家のために,/walilbeɪt/,ɶybøʏb
+expressis,de,expressis,Expressis,/ˈʔɛkspɾəszɪs/,œbbbəbʏb
+dagsljósið,/taxstljousɪð/,daylight,明け,ɶbbbbouʏb,is
+فكالسيف,ar,The sword,剣,/fakaaːlseɪf/,ɶɶɶbøʏb
+التيس,/aːlteɪs/,Tip,ヒント,ɶbøʏb,ar
+Machtantritt,de,Takeover,買収,/ˈmaxtantɾɪt/,ɶbɶmbʏb
+hagkerfið,is,economy,経済,/haɣcɛrvɪð/,ɶœʏb
+فللميز,/falilmeɪz/,For distinction,区別のために,ɶybøʏb,ar
+فللكيس,/falilkeɪs/,Locist,ロケイスト,ɶybøʏb,ar
+salernið,is,the toilet,トイレ,/saːlɛrtnɪð/,ɶœbʏb
+mutineers,en,mutineers,反乱者,/ˌmjutɪˈnɪɹz/,muʏʏb

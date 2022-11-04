@@ -1,22 +1,22 @@
-word,word_lang,word_en,word_ja,word_ipa_rhyme
-ajedrez,es,Chess,チェス,ɶøbøb
-rebelión,es,rebellion,反乱,øøbom
-elección,es,choice,選択,øøbbom
-Kotelett,de,chop,チョップ,oøbœb
-ステッカー,ja,Sticker,ステッカー,uøbɶ
-Eisbecher,de,Ice cream maker,アイスクリーム製造機,ɶøbœɐ
-fenestro,eo,window,窓,øøbbo
-不滅,ja,immortal,不滅,uøbu
-バケツ,ja,bucket,バケツ,ɶøbu
-cerebro,es,brain,脳,øøbo
-サゼッション,ja,Sustained,サゼッション,ɶøbom
-téléski,fr,ski lift,スキーリフト,øøby
-gaseca,eo,Gasa,ガサ,ɶøbɶ
-vedellä,fi,water,水,øøbæ
-morjesta,fi,from the moan,うめき声から,oøbɑ
-jubeltest,/ˈjuːbelˌtɛst/,cheers test,乾杯テスト,de
-asépsis,id,Asépsis,asépsis,ɶøbyb
-végétions,fr,vegetation,植生,øøbɔ
-buŝpeco,/buʃpet͡so/,mouthpiece,マウスピース,eo
-Weibsbildern,de,Female images,女性の画像,ɶøbbʏbœm
-verestys,fi,blood,血液,øøbyb
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
+ajedrez,es,Chess,チェス,/axeðɾeθ/,ɶøbøb
+rebelión,es,rebellion,反乱,/reβeˈljon/,øøbom
+elección,es,choice,選択,/eleˈkθjon/,øøbbom
+Kotelett,de,chop,チョップ,/koteˈlkɛt/,oøbœb
+ステッカー,ja,Sticker,ステッカー,/sɯtekːaː/,uøbɶ
+Eisbecher,de,Ice cream maker,アイスクリーム製造機,/ˈaesbɛçɐ̯/,ɶøbœɐ
+fenestro,eo,window,窓,/fenestro/,øøbbo
+不滅,ja,immortal,不滅,/ɸɯmetsɯ/,uøbu
+バケツ,ja,bucket,バケツ,/baketsɯ/,ɶøbu
+cerebro,es,brain,脳,/θeɾeβɾo/,øøbo
+サゼッション,ja,Sustained,サゼッション,/sazeɕːoɴ/,ɶøbom
+téléski,fr,ski lift,スキーリフト,/teleski/,øøby
+gaseca,eo,Gasa,ガサ,/gaset͡sa/,ɶøbɶ
+vedellä,fi,water,水,/ˈvedellæ/,øøbæ
+morjesta,fi,from the moan,うめき声から,/ˈmorjestɑ/,oøbɑ
+jubeltest,/ˈjuːbelˌtɛst/,cheers test,乾杯テスト,uøbœbb,de
+asépsis,id,Asépsis,asépsis,/asepsis/,ɶøbyb
+végétions,fr,vegetation,植生,/veʒetjɔ̃/,øøbɔ
+buŝpeco,/buʃpet͡so/,mouthpiece,マウスピース,uøbo,eo
+Weibsbildern,de,Female images,女性の画像,/ˈvaepsbɪldɛɾn/,ɶøbbʏbœm
+verestys,fi,blood,血液,/ˈverestys/,øøbyb

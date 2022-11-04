@@ -1,31 +1,31 @@
-word,word_lang,word_en,word_ja,word_ipa_rhyme
-aturan,id,rule,ルール,ɶuɶm
-pandangan,id,view,見る,ɶmɶɶm
-pakaian,id,clothes,服,ɶɶyɶm
-penjualan,id,sale,セール,əmbuɶɶm
-putaran,id,round,円形,uɶɶm
-pikiran,id,thought,考え,yyɶm
-dorongan,id,encouragement,奨励,ooɶm
-jangkauan,id,range,範囲,bɶmɶuɶm
-menaikkan,id,raise,高める,əɶybɶm
-bersarang,id,nest,ネスト,əɶɶm
-温暖,zh-cn,warmth,暖かさ,uəmmɶm
-ukiran,id,carving,彫刻,uyɶm
-meluangkan,id,to spare,スペアに,əuɶmɶm
-menahan,id,withhold,差し控える,əɶɶm
-melarang,id,forbid,禁止,əɶɶm
-بالمركم,ar,Palmyra,パルミラ,yɶbyɶm
-بالإعلان,ar,By advertising,広告によって,yɶbybɶm
-冰醋酸,zh-cn,glacial acetic acid,氷河酢酸,ʏmbbubɶm
-abgetan,de,dismissed,却下,ɶbəɶm
-nálægan,is,close,近い,ɶuɶyɶm
-氢氯酸,zh-cn,Hydrochloric acid,塩酸,bbʏmybɶm
-duplican,/duplikan/,They duplicate,それらは複製します,es
-phở xốt vang,vi,Pho sauce,フォースソース,oobbɶm
-tibetan,/tibetan/,Tibetan,チベット,ro
-manojean,es,handle,扱う,ɶoøɶm
-blăjovan,/bləʒovan/,Blăjovan,ブラジョヴァン,ro
-crisparán,/kɾispaˈɾan/,They will cry out,彼らは叫ぶでしょう,es
-殖産,ja,Breeding,殖産,ouɶm
-緑眼,ja,Green -eye,緑眼,ouɶm
-나침반,ko,Compass,方位磁針,ɶbbymɶm
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
+aturan,id,rule,ルール,/aturan/,ɶuɶm
+pandangan,id,view,見る,/pandaŋan/,ɶmɶɶm
+pakaian,id,clothes,服,/pakaian/,ɶɶyɶm
+penjualan,id,sale,セール,/pəndʒualan/,əmbuɶɶm
+putaran,id,round,円形,/putaran/,uɶɶm
+pikiran,id,thought,考え,/pikiran/,yyɶm
+dorongan,id,encouragement,奨励,/doroŋan/,ooɶm
+jangkauan,id,range,範囲,/dʒaŋkauan/,bɶmɶuɶm
+menaikkan,id,raise,高める,/mənaiʔkan/,əɶybɶm
+bersarang,id,nest,ネスト,/bərsaraŋ/,əɶɶm
+温暖,zh-cn,warmth,暖かさ,/uən˥˥ nwan˨˩˦/,uəmmɶm
+ukiran,id,carving,彫刻,/ukiran/,uyɶm
+meluangkan,id,to spare,スペアに,/məluaŋkan/,əuɶmɶm
+menahan,id,withhold,差し控える,/mənahan/,əɶɶm
+melarang,id,forbid,禁止,/məlaraŋ/,əɶɶm
+بالمركم,ar,Palmyra,パルミラ,/biaːlmirkam/,yɶbyɶm
+بالإعلان,ar,By advertising,広告によって,/biaːlʔiʕlaːn/,yɶbybɶm
+冰醋酸,zh-cn,glacial acetic acid,氷河酢酸,/pɪŋ˥˥ tsʰu˥˩ swan˥˥/,ʏmbbubɶm
+abgetan,de,dismissed,却下,/ʔapgəˈtan/,ɶbəɶm
+nálægan,is,close,近い,/nauːlaiɣan/,ɶuɶyɶm
+氢氯酸,zh-cn,Hydrochloric acid,塩酸,/tɕʰɪŋ˥˥ ly˥˩ swan˥˥/,bbʏmybɶm
+duplican,/duplikan/,They duplicate,それらは複製します,ubyɶm,es
+phở xốt vang,vi,Pho sauce,フォースソース,/fɤ˧˩˨ sok͡p˦˥ jaŋ˧˥/,oobbɶm
+tibetan,/tibetan/,Tibetan,チベット,yøɶm,ro
+manojean,es,handle,扱う,/manoxean/,ɶoøɶm
+blăjovan,/bləʒovan/,Blăjovan,ブラジョヴァン,bəoɶm,ro
+crisparán,/kɾispaˈɾan/,They will cry out,彼らは叫ぶでしょう,bybɶɶm,es
+殖産,ja,Breeding,殖産,/ɕokɯsaɴ/,ouɶm
+緑眼,ja,Green -eye,緑眼,/ɾjokɯgaɴ/,ouɶm
+나침반,ko,Compass,方位磁針,/na̠t͡ɕʰimba̠n/,ɶbbymɶm

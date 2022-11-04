@@ -1,31 +1,31 @@
-word,word_lang,word_en,word_ja,word_ipa_rhyme
-ピリジン,ja,Pyridine,ピリジン,yybym
-ゼラチン,ja,gelatin,ゼラチン,øɶbym
-mezzanine,en,mezzanine,メザニン,œəym
-자부심,ko,pride,誇り,bɶubym
-rộng thùng thình,vi,baggy,だぶだぶ,ommbbummbym
-sinonim,ro,synonymous,同義語,yoym
-補助金,ja,Subsidy,補助金,oboym
-magazin,ro,store,お店,ɶɶym
-synonyme,fr,synonymous,同義語,yɔym
-المدين,ar,Debtor,債務者,ɶbɶym
-puhelin,fi,phone,電話,uøym
-tahdistin,fi,pacemaker,ペースメーカー,ɑybym
-ripustin,fi,hanger,ハンガー,yubym
-étamine,fr,stamen,雄しべ,øɶym
-semeghin,ro,Semeghin,セメギン,øøyym
-프랑스인,ko,French person,フランス人,buɶmbuym
-sähköelin,fi,electricity,電気,æøøym
-emätin,/ˈemætin/,vagina,膣,fi
-Aðalstein,/aːðalsteiːn/,Mainstream,主流,is
-kuivatin,/ˈkuivɑtin/,dryer,ドライヤー,fi
-crinolines,/kʁinɔlin/,crinolines,クリノリン,fr
-pidätin,fi,detention,拘留,yæym
-pengiring,/pəŋiriŋ/,accompaniment,伴奏,id
-askellin,/ˈɑskellin/,ascub,Ascub,fi
-스케이팅,/sʰɯkʰe̞itʰiŋ/,Skating,スケート,ko
-Espólín,is,Espolin,エスポリン,œbouym
-人云亦云,zh-cn,Renyun Yiyun,レニュン・イユン,əmymyym
-杳无音讯,/jɑʊ˨˩˦ u˧˥ ɪn˥˥ ɕyn˥˩/,杳 杳 讯 杳,杳杳讯杳,zh-cn
-Algeriern,de,Algerians,アルジェリア人,ɶbøym
-cân thiên bình,vi,Weigh Thien Binh,ティエン・ビンの重さ,ombyəmym
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
+ピリジン,ja,Pyridine,ピリジン,/piɾidʑiɴ/,yybym
+ゼラチン,ja,gelatin,ゼラチン,/zeɾatɕiɴ/,øɶbym
+mezzanine,en,mezzanine,メザニン,/ˈmɛzəˌnin/,œəym
+자부심,ko,pride,誇り,/t͡ɕa̠buɕʰim/,bɶubym
+rộng thùng thình,vi,baggy,だぶだぶ,/ʐoŋ͡m˨ˀ˩ʔ tʰuŋ͡m˦˨ tʰin˦˨/,ommbbummbym
+sinonim,ro,synonymous,同義語,/sinonim/,yoym
+補助金,ja,Subsidy,補助金,/hodʑokiɴ/,oboym
+magazin,ro,store,お店,/maɡazin/,ɶɶym
+synonyme,fr,synonymous,同義語,/sinɔnim/,yɔym
+المدين,ar,Debtor,債務者,/aːlmadiːn/,ɶbɶym
+puhelin,fi,phone,電話,/ˈpuhelin/,uøym
+tahdistin,fi,pacemaker,ペースメーカー,/ˈtɑhdistin/,ɑybym
+ripustin,fi,hanger,ハンガー,/ˈripustin/,yubym
+étamine,fr,stamen,雄しべ,/etamin/,øɶym
+semeghin,ro,Semeghin,セメギン,/semegʲ̩in/,øøyym
+프랑스인,ko,French person,フランス人,/pʰɯɾa̠ŋsʰɯin/,buɶmbuym
+sähköelin,fi,electricity,電気,/ˈsæhkøˌelin/,æøøym
+emätin,/ˈemætin/,vagina,膣,øæym,fi
+Aðalstein,/aːðalsteiːn/,Mainstream,主流,ɶɶbbøym,is
+kuivatin,/ˈkuivɑtin/,dryer,ドライヤー,uyɑym,fi
+crinolines,/kʁinɔlin/,crinolines,クリノリン,byɔym,fr
+pidätin,fi,detention,拘留,/ˈpidætin/,yæym
+pengiring,/pəŋiriŋ/,accompaniment,伴奏,əyym,id
+askellin,/ˈɑskellin/,ascub,Ascub,ɑbøbym,fi
+스케이팅,/sʰɯkʰe̞itʰiŋ/,Skating,スケート,bubøybym,ko
+Espólín,is,Espolin,エスポリン,/ɛspouliːn/,œbouym
+人云亦云,zh-cn,Renyun Yiyun,レニュン・イユン,/ʐən˧˥ yn˧˥ i˥˩ yn˧˥/,əmymyym
+杳无音讯,/jɑʊ˨˩˦ u˧˥ ɪn˥˥ ɕyn˥˩/,杳 杳 讯 杳,杳杳讯杳,ɑʊuʏmym,zh-cn
+Algeriern,de,Algerians,アルジェリア人,/ˈʔalgeɾiːɾn/,ɶbøym
+cân thiên bình,vi,Weigh Thien Binh,ティエン・ビンの重さ,/kɤ̆ŋ˧˥ tʰiəŋ˧˥ bin˦˨/,ombyəmym

@@ -1,17 +1,17 @@
-word,word_lang,word_en,word_ja,word_ipa_rhyme
-lakimies,fi,lawyer,法律家,ɑyyøb
-siipimies,fi,winger,ウィンガー,yyyyøb
-Abstellgleis,de,siding,サイディング,ɶbœbbbɶøb
-putkimies,fi,plumber,配管工,ubyyøb
-rumores,es,Rumors,噂,uoøb
-jousimies,fi,Sagittarius,射手座,ouyyøb
-Geldbeutel,de,wallet,財布,əbbɔøøb
-vihannes,fi,vegetable,野菜,yɑmøb
-amanet,ro,pawn,ポーン,ɶɶøb
-arracheuses,fr,wadders,ワーダー,ɶɶøb
-trilingües,es,Trilingual,三言語,byymbøb
-Thái Dương Hệ,/tʰaj˩˧ jɯəŋ˧˥ he˨ˀ˩ʔ/,Solar system,太陽系,vi
-uittomies,/ˈuittomies/,swimmen,水泳選手,fi
-cavalet,ro,Cavlet,洞窟,ɶɶøb
-sveitaprests,is,countryside,田舎,bøyɶbøb
-sobrades,es,Sobrades,ソブレード,obɶøb
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
+lakimies,fi,lawyer,法律家,/ˈlɑkimies/,ɑyyøb
+siipimies,fi,winger,ウィンガー,/ˈsiipimies/,yyyyøb
+Abstellgleis,de,siding,サイディング,/ˈʔapˌʃtɛllglaes/,ɶbœbbbɶøb
+putkimies,fi,plumber,配管工,/ˈputkimies/,ubyyøb
+rumores,es,Rumors,噂,/rumoɾes/,uoøb
+jousimies,fi,Sagittarius,射手座,/ˈjousimies/,ouyyøb
+Geldbeutel,de,wallet,財布,/gəˈltbɔøtel/,əbbɔøøb
+vihannes,fi,vegetable,野菜,/ˈvihɑnnes/,yɑmøb
+amanet,ro,pawn,ポーン,/amanet/,ɶɶøb
+arracheuses,fr,wadders,ワーダー,/aʁaʃøz/,ɶɶøb
+trilingües,es,Trilingual,三言語,/tɾiliŋgwes/,byymbøb
+Thái Dương Hệ,/tʰaj˩˧ jɯəŋ˧˥ he˨ˀ˩ʔ/,Solar system,太陽系,bɶuəmøb,vi
+uittomies,/ˈuittomies/,swimmen,水泳選手,uyboyøb,fi
+cavalet,ro,Cavlet,洞窟,/kavalet/,ɶɶøb
+sveitaprests,is,countryside,田舎,/sveiːtapʰres/,bøyɶbøb
+sobrades,es,Sobrades,ソブレード,/soβɾaðes/,obɶøb

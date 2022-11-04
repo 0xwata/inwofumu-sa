@@ -1,34 +1,34 @@
-word,word_lang,word_en,word_ja,word_ipa_rhyme
-agama,id,religion,宗教,ɶɶɶ
-makanan,id,food,食物,ɶɶɶm
-pizarra,es,board,ボード,yɶɶ
-حكم,ar,Rule,ルール,ɶɶɶ
-halangan,id,obstacle,障害,ɶɶɶm
-carnaval,es,carnival,カーニバル,ɶɶɶb
-バナナ,ja,banana,バナナ,ɶɶɶ
-شعر,ar,Poetry,詩,ɶɶɶ
-cigarra,es,cicada,蝉,yɶɶ
-صحافي,ar,journalist,ジャーナリスト,bɶɶy
-ذيل,ar,Tail,しっぽ,ɶɶɶ
-budaya,id,culture,文化,uɶɶ
-رقم,ar,number,番号,ɶɶɶ
-기하학,ko,geometry,ジオメトリ,yɶɶb
-طابق,ar,floor,床,bɶɶɶ
-سلامة,ar,safety,安全性,ɶɶɶ
-llanadas,es,Llanadas,ラナダス,ɶɶɶb
-bahaano,eo,Bahaan,バハーン,ɶɶɶo
-Gigabyte,de,Gigabyte,ギガバイト,yɶɶyb
-wawasan,id,outlook,見通し,ɶɶɶm
-barbara,eo,Barbara,バーバラ,ɶɶɶ
-玉菜,ja,cabbage,玉菜,ɶɶɶ
-pajazas,es,Pajazas,パジャザ,ɶɶɶb
-lazabais,es,lazabais,ラザバイ,ɶɶɶyb
-كنشاش,/kanaʃʃaːʃ/,Kanshash,カンシャッシュ,ar
-Thái Giàng Phố,vi,Thai Giang Pho,タイ・ジアン・フォー,bɶɶmo
-chảo quai vạc,vi,canton,カントン,ɶɶɶbb
-turradas,es,turned,,uɶɶb
-tasarlas,es,Table them,それらをテーブル,ɶɶɶb
-pi gia ma,/pi˧˥ ja˧˥ ma˧˥/,Pi Gia Ma,Pi gia ma,vi
-狭带纪,zh-cn,Tiny,小さい,bɶɶʏby
-sábanas,es,sheets,シート,ɶɶɶb
-banaĥa,eo,Banah,バナ,ɶɶɶ
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
+agama,id,religion,宗教,/agama/,ɶɶɶ
+makanan,id,food,食物,/makanan/,ɶɶɶm
+pizarra,es,board,ボード,/piθara/,yɶɶ
+حكم,ar,Rule,ルール,/ħakama/,ɶɶɶ
+halangan,id,obstacle,障害,/halaŋan/,ɶɶɶm
+carnaval,es,carnival,カーニバル,/kaɾnaβal/,ɶɶɶb
+バナナ,ja,banana,バナナ,/banana/,ɶɶɶ
+شعر,ar,Poetry,詩,/ʃaʕara/,ɶɶɶ
+cigarra,es,cicada,蝉,/θiɣara/,yɶɶ
+صحافي,ar,journalist,ジャーナリスト,/sˤaħaːfijj/,bɶɶy
+ذيل,ar,Tail,しっぽ,/ðajjala/,ɶɶɶ
+budaya,id,culture,文化,/budaja/,uɶɶ
+رقم,ar,number,番号,/raqama/,ɶɶɶ
+기하학,ko,geometry,ジオメトリ,/kiɦa̠ɦa̠k̚/,yɶɶb
+طابق,ar,floor,床,/tˤaːbaqa/,bɶɶɶ
+سلامة,ar,safety,安全性,/salaːma/,ɶɶɶ
+llanadas,es,Llanadas,ラナダス,/ʎanaðas/,ɶɶɶb
+bahaano,eo,Bahaan,バハーン,/bahaano/,ɶɶɶo
+Gigabyte,de,Gigabyte,ギガバイト,/ˈɡiːɡaˌbai̯t/,yɶɶyb
+wawasan,id,outlook,見通し,/wawasan/,ɶɶɶm
+barbara,eo,Barbara,バーバラ,/barbara/,ɶɶɶ
+玉菜,ja,cabbage,玉菜,/tamana/,ɶɶɶ
+pajazas,es,Pajazas,パジャザ,/paxaθas/,ɶɶɶb
+lazabais,es,lazabais,ラザバイ,/laθaβais/,ɶɶɶyb
+كنشاش,/kanaʃʃaːʃ/,Kanshash,カンシャッシュ,ɶɶɶ,ar
+Thái Giàng Phố,vi,Thai Giang Pho,タイ・ジアン・フォー,/tʰaj˩˧ jaŋ˦˨ fo˩˧/,bɶɶmo
+chảo quai vạc,vi,canton,カントン,/caw˧˩˨ waj˧˥ jak˨ˀ˩ʔ/,ɶɶɶbb
+turradas,es,turned,,/turaðas/,uɶɶb
+tasarlas,es,Table them,それらをテーブル,/tasaɾlas/,ɶɶɶb
+pi gia ma,/pi˧˥ ja˧˥ ma˧˥/,Pi Gia Ma,Pi gia ma,yɶɶ,vi
+狭带纪,zh-cn,Tiny,小さい,/ɕja˧˥ taɪ˥˩ tɕi˥˩/,bɶɶʏby
+sábanas,es,sheets,シート,/ˈsaβanas/,ɶɶɶb
+banaĥa,eo,Banah,バナ,/banaxa/,ɶɶɶ

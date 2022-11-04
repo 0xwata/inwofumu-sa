@@ -1,18 +1,18 @@
-word,word_lang,word_en,word_ja,word_ipa_rhyme
-lokasi,id,location,位置,oɶy
-外科医,ja,surgeon,外科医,øɶy
-بشري,ar,Human,人間,ɶɶy
-機会,ja,chance,機会,yɶy
-rhumatisme,fr,rheumatism,リウマチ,yɶybm
-フライト,ja,Flight,フライト,uɶyo
-belati,id,dagger,短剣,əɶy
-gravité,fr,severity,重大度,bɶyø
-ổi xá lị,vi,guava,グアバ,oɶyb
-semajno,eo,week,週,øɶyo
-paparías,/papaˈɾias/,paparías,パパリアス,es
-visarion,ro,Vissarion,ヴィッサリオン,yɶyom
-hagræði,is,benefit,利点,ɶɶyʏ
-tirarías,es,You would throw,あなたは投げるでしょう,yɶyɶb
-úrræði,is,remedy,療法,uɶyʏ
-Germanien,de,Germania,ゲルマニア,əɶyəm
-jadikan,id,make it,成功する,bɶyɶm
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
+lokasi,id,location,位置,/lokasi/,oɶy
+外科医,ja,surgeon,外科医,/gekai/,øɶy
+بشري,ar,Human,人間,/baʃarijj/,ɶɶy
+機会,ja,chance,機会,/kikai/,yɶy
+rhumatisme,fr,rheumatism,リウマチ,/ʁymatism/,yɶybm
+フライト,ja,Flight,フライト,/ɸɯɾaito/,uɶyo
+belati,id,dagger,短剣,/bəlati/,əɶy
+gravité,fr,severity,重大度,/gʁavite/,bɶyø
+ổi xá lị,vi,guava,グアバ,/oj˧˩˨ sa˩˧ li˨ˀ˩ʔ/,oɶyb
+semajno,eo,week,週,/semaino/,øɶyo
+paparías,/papaˈɾias/,paparías,パパリアス,ɶɶyɶb,es
+visarion,ro,Vissarion,ヴィッサリオン,/visarion/,yɶyom
+hagræði,is,benefit,利点,/haɣraiðɪ/,ɶɶyʏ
+tirarías,es,You would throw,あなたは投げるでしょう,/tiɾaˈɾias/,yɶyɶb
+úrræði,is,remedy,療法,/uraiðɪ/,uɶyʏ
+Germanien,de,Germania,ゲルマニア,/gəɾˈmaniːən/,əɶyəm
+jadikan,id,make it,成功する,/dʒadikan/,bɶyɶm

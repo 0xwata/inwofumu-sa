@@ -1,41 +1,41 @@
-word,word_lang,word_en,word_ja,word_ipa_rhyme
-syömäpuikko,fi,chopstick,箸,yøæuybo
-fratricidio,es,fratricide,滅菌,bɶbyybo
-algoritmo,es,algorithm,アルゴリズム,ɶboybo
-monoteísmo,es,monotheism,一神教,ooøybo
-käyttöönotto,fi,introduction,前書き,æybøøobo
-avioliitto,fi,marriage,結婚,ɑyoyybo
-ボブキャット,ja,Bobcat,ボブキャット,oubɶbo
-atletismo,es,athletics,陸上競技,ɶbøybo
-konateco,eo,acquaintance,知り合い,oɶøbo
-クレジット,ja,credit,クレジット,uøbybo
-kilómetro,es,kilometer,キロメートル,yoøbo
-riippumatto,fi,hammock,ハンモック,yybuɑbo
-desembolso,es,disbursement,支払い,øømobo
-ajanjakso,fi,period,限目,ɑɑmɑbo
-merirosvo,fi,pirate,海賊,øyobo
-erinaco,eo,a hedgehog,ハリネズミ,øyɶbo
-terrorismo,es,terrorism,テロ,øoybo
-ヘルメット,ja,Helmet,ヘルメット,øuøbo
-gigantismo,es,giantism,巨大主義,yɶmybo
-丸カッコ,ja,Round parentheses,丸カッコ,ɶuɶbo
-cương ngựa ách trâu,vi,Buffalo,バッファロー,uəmuəbɶbo
-빙심옥호,ko,Bingsimokho,Bingsimokho,ymbyobo
-高深莫测,zh-cn,Unpredictable,予測不可能な,ɑʊəmɔbbo
-imprésario,fr,impresario,インプレッサリオ,œbøɶbo
-paradoxaux,fr,paradoxical,逆説的,ɶɶɔbo
-gióng trống phất cờ,vi,Giong drum flag,Giong Drum Flag,ɔmmommobo
-väkijoukko,/ˈvækijoˌukko/,crowd,群衆,fi
-散房花序,/saɴboɯkadʑo/,Scattered blossoming,散房花序,ja
-agricultor,ro,farmer,農家,ɶbyubo
-goudajuusto,fi,gouda cheese,ゴーダチーズ,ouɑuubo
-筹思计策,zh-cn,Consider,検討,oʊubybbo
-elektristo,eo,electrician,電気技師,øøbbybo
-isorokko,/ˈisoˌrokko/,smallpox,天然痘,fi
-trosatiĝo,/trosatid͡ʒo/,overgrowth,過成長,eo
-manifésto,id,manifesto,マニフェスト,ɶyøbo
-望梅止渴,/wɑŋ˥˩ meɪ˧˥ ʈʂɚ˨˩˦ kʰɤ˨˩˦/,Water thirst,水の渇き,zh-cn
-면사무소,/mjʌ̹nsʰa̠musʰo̞/,Cotton office,綿事務所,ko
-ガス・マット,/gasɯ matːo/,Gas mat,ガス・マット,ja
-avion-cargo,fr,plane-cargo,飛行機炭火,ɶbɔɶbo
-소승불교,ko,Soseung Buddhism,ソセン仏教,bobumubo
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
+syömäpuikko,fi,chopstick,箸,/ˈsyømæˌpuikko/,yøæuybo
+fratricidio,es,fratricide,滅菌,/fɾatɾiθiðjo/,bɶbyybo
+algoritmo,es,algorithm,アルゴリズム,/algoɾitmo/,ɶboybo
+monoteísmo,es,monotheism,一神教,/monoteˈizmo/,ooøybo
+käyttöönotto,fi,introduction,前書き,/ˈkæytˌtøønotto/,æybøøobo
+avioliitto,fi,marriage,結婚,/ˈɑvioˌliitto/,ɑyoyybo
+ボブキャット,ja,Bobcat,ボブキャット,/bobɯkjatːo/,oubɶbo
+atletismo,es,athletics,陸上競技,/atletizmo/,ɶbøybo
+konateco,eo,acquaintance,知り合い,/konatet͡so/,oɶøbo
+クレジット,ja,credit,クレジット,/kɯɾedʑitːo/,uøbybo
+kilómetro,es,kilometer,キロメートル,/kiˈlometɾo/,yoøbo
+riippumatto,fi,hammock,ハンモック,/ˈriippuˌmɑtto/,yybuɑbo
+desembolso,es,disbursement,支払い,/desembolso/,øømobo
+ajanjakso,fi,period,限目,/ˈɑjɑnˌjɑkso/,ɑɑmɑbo
+merirosvo,fi,pirate,海賊,/ˈmeriˌrosvo/,øyobo
+erinaco,eo,a hedgehog,ハリネズミ,/erinat͡so/,øyɶbo
+terrorismo,es,terrorism,テロ,/teroɾizmo/,øoybo
+ヘルメット,ja,Helmet,ヘルメット,/heɾɯmetːo/,øuøbo
+gigantismo,es,giantism,巨大主義,/xiɣantizmo/,yɶmybo
+丸カッコ,ja,Round parentheses,丸カッコ,/maɾɯkakːo/,ɶuɶbo
+cương ngựa ách trâu,vi,Buffalo,バッファロー,/kɯəŋ˧˥ ŋɯə˨ˀ˩ʔ ak˦˥ ʈɤ̆w˧˥/,uəmuəbɶbo
+빙심옥호,ko,Bingsimokho,Bingsimokho,/piŋɕʰimo̞kʰo̞/,ymbyobo
+高深莫测,zh-cn,Unpredictable,予測不可能な,/kɑʊ˥˥ ʂən˥˥ mɔ˥˩ tsʰɤ˥˩/,ɑʊəmɔbbo
+imprésario,fr,impresario,インプレッサリオ,/ɛ̃pʁesaʁjo/,œbøɶbo
+paradoxaux,fr,paradoxical,逆説的,/paʁadɔkso/,ɶɶɔbo
+gióng trống phất cờ,vi,Giong drum flag,Giong Drum Flag,/jɔŋ͡m˩˧ ʈoŋ͡m˩˧ fɤ̆k˦˥ kɤ˦˨/,ɔmmommobo
+väkijoukko,/ˈvækijoˌukko/,crowd,群衆,æyoubo,fi
+散房花序,/saɴboɯkadʑo/,Scattered blossoming,散房花序,ɶmouɶbo,ja
+agricultor,ro,farmer,農家,/aɡrikultor/,ɶbyubo
+goudajuusto,fi,gouda cheese,ゴーダチーズ,/ˈgoudɑˌjuusto/,ouɑuubo
+筹思计策,zh-cn,Consider,検討,/ʈʂʰoʊ˧˥ sɯ˥˥ tɕi˥˩ tsʰɤ˥˩/,oʊubybbo
+elektristo,eo,electrician,電気技師,/elektristo/,øøbbybo
+isorokko,/ˈisoˌrokko/,smallpox,天然痘,yoobo,fi
+trosatiĝo,/trosatid͡ʒo/,overgrowth,過成長,boɶybo,eo
+manifésto,id,manifesto,マニフェスト,/manifesto/,ɶyøbo
+望梅止渴,/wɑŋ˥˩ meɪ˧˥ ʈʂɚ˨˩˦ kʰɤ˨˩˦/,Water thirst,水の渇き,ɑmøʏəbo,zh-cn
+면사무소,/mjʌ̹nsʰa̠musʰo̞/,Cotton office,綿事務所,mɔmbɶubo,ko
+ガス・マット,/gasɯ matːo/,Gas mat,ガス・マット,ɶuɶbo,ja
+avion-cargo,fr,plane-cargo,飛行機炭火,/avjɔ̃kaʁgo/,ɶbɔɶbo
+소승불교,ko,Soseung Buddhism,ソセン仏教,/sʰo̞sʰɯŋbuɭɡjo/,bobumubo

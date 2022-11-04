@@ -1,17 +1,17 @@
-word,word_lang,word_en,word_ja,word_ipa_rhyme
-good-bye,en,good-bye,さようなら,ʊbɶʏ
-障碍,zh-cn,obstacle,障害,ɑmɶʏ
-sjómaður,is,sailor,船乗り,bouɶʏ
-大麦,zh-cn,barley,オオムギ,ɶɶʏ
-比赛,zh-cn,Contest,コンテスト,yɶʏ
-芹菜,zh-cn,celery,セロリ,bbʏmbbɶʏ
-胶带,zh-cn,adhesive tape,粘着テープ,bbɑʊɶʏ
-蔬菜,zh-cn,vegetable,野菜,ubbɶʏ
-skagaði,is,skin,肌,bɶɶʏ
-smíðaði,is,construction,工事,byɶʏ
-racamier,en,racamier,ラサミエ,æəɶʏ
-skarkaði,is,scout,スカウト,bɶɶʏ
-unaður,is,pleasure,喜び,ʏɶʏ
-macintyre,/ˈmækənˌtaɪɹ/,macintyre,マッキンタイア,en
-xuemei,en,xuemei,Xuemei,uɶʏ
-Datei,de,file,ファイル,ɶɶʏ
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
+good-bye,en,good-bye,さようなら,/ˈɡʊdˌbaɪ/,ʊbɶʏ
+障碍,zh-cn,obstacle,障害,/ʈʂɑŋ˥˩ aɪ˥˩/,ɑmɶʏ
+sjómaður,is,sailor,船乗り,/sjouːmaðʏr/,bouɶʏ
+大麦,zh-cn,barley,オオムギ,/ta˥˩ maɪ˥˩/,ɶɶʏ
+比赛,zh-cn,Contest,コンテスト,/pi˨˩˦ saɪ˥˩/,yɶʏ
+芹菜,zh-cn,celery,セロリ,/tɕʰɪn˧˥ tsʰaɪ˥˩/,bbʏmbbɶʏ
+胶带,zh-cn,adhesive tape,粘着テープ,/tɕjɑʊ˥˥ taɪ˥˩/,bbɑʊɶʏ
+蔬菜,zh-cn,vegetable,野菜,/ʂu˥˥ tsʰaɪ˥˩/,ubbɶʏ
+skagaði,is,skin,肌,/skaːɣaðɪ/,bɶɶʏ
+smíðaði,is,construction,工事,/smiːðaðɪ/,byɶʏ
+racamier,en,racamier,ラサミエ,/ˈɹækəˌmaɪɹ/,æəɶʏ
+skarkaði,is,scout,スカウト,/skar̥kaðɪ/,bɶɶʏ
+unaður,is,pleasure,喜び,/ʏːnaðʏr/,ʏɶʏ
+macintyre,/ˈmækənˌtaɪɹ/,macintyre,マッキンタイア,æəmɶʏ,en
+xuemei,en,xuemei,Xuemei,/ˈzuˈmaɪ/,uɶʏ
+Datei,de,file,ファイル,/daˈtaɪ̯/,ɶɶʏ

@@ -1,19 +1,19 @@
-word,word_lang,word_en,word_ja,word_ipa_rhyme
-tynnyri,fi,barrel,たる,ymyy
-kunnia,fi,honor,名誉,umyɑ
-Vampir,de,vampire,吸血鬼,ɶmyɐ
-동의어,ko,synonym,シノニム,omyɔ
-cantină,ro,canteen,食堂,ɶmyə
-Kantine,de,canteen,食堂,ɶmyə
-Anliegen,de,Issue,問題,ɶmyəm
-anfügen,de,add,追加,ɶmyəm
-認識,ja,recognition,認識,ymyy
-Bình Trinh Đông,vi,Binh Trinh Dong,ビン・トリン・ドン,ymymomm
-分離派,ja,Separation,分離派,umyɶ
-anticlor,ro,antique,アンティーク,ɶmybo
-bonfido,/bonfido/,good faith,誠実,eo
-mannlífsins,is,human life,人間の生活,ɶmybʏmb
-annuité,fr,annuity,年金,ɶmyø
-lancino,es,Lancino,ランチーノ,ɶmyo
-Antigvo,eo,Antigua,アンティグア,ɶmybo
-힌디어,ko,Hindi,ヒンディー語,ymyɔ
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
+tynnyri,fi,barrel,たる,/ˈtynnyri/,ymyy
+kunnia,fi,honor,名誉,/ˈkunniɑ/,umyɑ
+Vampir,de,vampire,吸血鬼,/vamˈpiːɐ̯/,ɶmyɐ
+동의어,ko,synonym,シノニム,/to̞ŋɰiʌ̹/,omyɔ
+cantină,ro,canteen,食堂,/kantinə/,ɶmyə
+Kantine,de,canteen,食堂,/kanˈtiːnə/,ɶmyə
+Anliegen,de,Issue,問題,/ˈʔanˌliːgən/,ɶmyəm
+anfügen,de,add,追加,/ˈanˌfyːɡən/,ɶmyəm
+認識,ja,recognition,認識,/niɴɕiki/,ymyy
+Bình Trinh Đông,vi,Binh Trinh Dong,ビン・トリン・ドン,/bin˦˨ ʈin˧˥ doŋ͡m˧˥/,ymymomm
+分離派,ja,Separation,分離派,/bɯɴɾiha/,umyɶ
+anticlor,ro,antique,アンティーク,/antiklor/,ɶmybo
+bonfido,/bonfido/,good faith,誠実,omyo,eo
+mannlífsins,is,human life,人間の生活,/manlifsɪns/,ɶmybʏmb
+annuité,fr,annuity,年金,/anɥite/,ɶmyø
+lancino,es,Lancino,ランチーノ,/lanθino/,ɶmyo
+Antigvo,eo,Antigua,アンティグア,/antigvo/,ɶmybo
+힌디어,ko,Hindi,ヒンディー語,/çindiʌ̹/,ymyɔ

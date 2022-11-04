@@ -1,21 +1,21 @@
-word,word_lang,word_en,word_ja,word_ipa_rhyme
-kirurgi,fi,surgeon,外科医,yuy
-減衰,ja,Attenuation,減衰,ømuy
-원숭이,ko,monkey,猿,ɔmbuy
-sikuri,fi,chicory,チコリ,yuy
-ruuvi,fi,screw,スクリュー,uuy
-seerumi,fi,serum,血清,øøuy
-物理,ja,Physics,物理,ubuy
-手首,ja,wrist,手首,øuy
-너구리,ko,Raccoons,アライグマ,ɔuy
-ライ麦,ja,Rye,ライ麦,ɶyuy
-rămuriș,ro,branches,枝,əuy
-徇私舞弊,zh-cn,Fraud in private,プライベートでの詐欺,ymuuy
-työkausi,fi,working season,ワーキングシーズン,yøɑuy
-文月,/ɸɯzɯki/,July,文月,ja
-tinkturi,/tinkturi/,dye,染料,eo
-quang chu kì,vi,Optical cycle,光学サイクル,ɶmuy
-비구니,/piɡuni/,Nun,修道女,ko
-laturi,fi,charger,充電器,ɑuy
-お次,ja,Next,お次,obuy
-leikkuri,fi,cutter,カッター,øybuy
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
+kirurgi,fi,surgeon,外科医,/ˈkirurgi/,yuy
+減衰,ja,Attenuation,減衰,/geɴsɯi/,ømuy
+원숭이,ko,monkey,猿,/wʌ̹nsʰuŋi/,ɔmbuy
+sikuri,fi,chicory,チコリ,/ˈsikuri/,yuy
+ruuvi,fi,screw,スクリュー,/ˈruuvi/,uuy
+seerumi,fi,serum,血清,/ˈseerumi/,øøuy
+物理,ja,Physics,物理,/bɯtsɯɾi/,ubuy
+手首,ja,wrist,手首,/tekɯbi/,øuy
+너구리,ko,Raccoons,アライグマ,/nʌ̹ɡuɾi/,ɔuy
+ライ麦,ja,Rye,ライ麦,/ɾaimɯgi/,ɶyuy
+rămuriș,ro,branches,枝,/rəmuriʃ/,əuy
+徇私舞弊,zh-cn,Fraud in private,プライベートでの詐欺,/ɕyn˥˩ sɯ˥˥ u˨˩˦ pi˥˩/,ymuuy
+työkausi,fi,working season,ワーキングシーズン,/ˈtyøkɑusi/,yøɑuy
+文月,/ɸɯzɯki/,July,文月,uuy,ja
+tinkturi,/tinkturi/,dye,染料,ymbuy,eo
+quang chu kì,vi,Optical cycle,光学サイクル,/waŋ˧˥ cu˧˥ ki˦˨/,ɶmuy
+비구니,/piɡuni/,Nun,修道女,yuy,ko
+laturi,fi,charger,充電器,/ˈlɑturi/,ɑuy
+お次,ja,Next,お次,/otsɯgi/,obuy
+leikkuri,fi,cutter,カッター,/ˈleikkuri/,øybuy

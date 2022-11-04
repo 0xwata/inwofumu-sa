@@ -1,41 +1,41 @@
-word,word_lang,word_en,word_ja,word_ipa_rhyme
-卵巣,ja,Ovarian,卵巣,ɶmou
-完了,ja,completion,完了,ɶmou
-阴谋,zh-cn,conspiracy,陰謀,ʏmoʊ
-参照,ja,reference,参照,ɶmou
-剣道,ja,kendo,剣道,ømou
-番号,ja,number,番号,ɶmou
-コンソール,ja,console,コンソール,omou
-konsoli,fi,console,コンソール,omoy
-天国,ja,heaven,天国,ømou
-contorno,es,outline,概要,omoo
-監督,ja,directed by,監督,ɶmou
-肝臓,ja,liver,肝臓,ɶmou
-点灯,ja,Lighting,点灯,ømou
-原告,ja,plaintiff,原告,ømou
-心臓,ja,heart,心臓,ymou
-ハンモック,ja,hammock,ハンモック,ɶmobu
-mentori,fi,mentor,メンター,ømoy
-ゴンドラ,ja,gondola,ゴンドラ,omoɶ
-gondoli,fi,gondola,ゴンドラ,omoy
-銀行,ja,Bank,銀行,ymou
-半成品,zh-cn,Semi -finished product,セミフィニッシュ製品,ɶmombʏm
-anggota,id,member,メンバー,ɶmoɶ
-umsóknar,is,application,応用,ʏmoubɶ
-đánh trống lảng,vi,change the subject,主題を変更します,ɶmommɶm
-enrosque,es,curl,カール,ømobø
-ancoșă,/ankoʃə/,notch,ノッチ,ro
-lommoilla,fi,tag,鬼ごっこ,omoybɑ
-romboedros,es,Romboedros,Romboedros,omoøbob
-pentoză,/pentozə/,pentosis,胎児症,ro
-Tân Hội Trung,/tɤ̆ŋ˧˥ hoj˨ˀ˩ʔ ʈuŋ͡m˧˥/,Tan Hoi Trung,タン・ホイ・トゥング,vi
-ancoré,es,I anchor,アンカー,ɶmoø
-senzorga,/senzorga/,careless,不注意,eo
-nên cơm cháo,/nen˧˥ kɤm˧˥ caw˩˧/,Should rice porridge,ライスポリッジが必要です,vi
-encoged,es,shrink,縮む,ømoøb
-importi,eo,Import,輸入,ymoy
-rannsókna,/ransouhkna/,research,リサーチ,is
-vểnh râu trê,vi,crop,作物,ømoø
-kondori,fi,condor,コンドル,omoy
-동호회,ko,club,クラブ,omoø
-熏蒸剂,zh-cn,Fumigation,燻蒸,ymomby
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
+卵巣,ja,Ovarian,卵巣,/ɾaɴsoɯ/,ɶmou
+完了,ja,completion,完了,/kaɴɾjoɯ/,ɶmou
+阴谋,zh-cn,conspiracy,陰謀,/ɪn˥˥ moʊ˧˥/,ʏmoʊ
+参照,ja,reference,参照,/saɴɕoɯ/,ɶmou
+剣道,ja,kendo,剣道,/keɴdoɯ/,ømou
+番号,ja,number,番号,/baɴgoɯ/,ɶmou
+コンソール,ja,console,コンソール,/koɴsoːɾɯ/,omou
+konsoli,fi,console,コンソール,/ˈkonsoli/,omoy
+天国,ja,heaven,天国,/teɴgokɯ/,ømou
+contorno,es,outline,概要,/kontoɾno/,omoo
+監督,ja,directed by,監督,/kaɴtokɯ/,ɶmou
+肝臓,ja,liver,肝臓,/kaɴzoɯ/,ɶmou
+点灯,ja,Lighting,点灯,/teɴtoɯ/,ømou
+原告,ja,plaintiff,原告,/geɴkokɯ/,ømou
+心臓,ja,heart,心臓,/ɕiɴzoɯ/,ymou
+ハンモック,ja,hammock,ハンモック,/haɴmokːɯ/,ɶmobu
+mentori,fi,mentor,メンター,/ˈmentori/,ømoy
+ゴンドラ,ja,gondola,ゴンドラ,/goɴdoɾa/,omoɶ
+gondoli,fi,gondola,ゴンドラ,/ˈgondoli/,omoy
+銀行,ja,Bank,銀行,/giɴkoɯ/,ymou
+半成品,zh-cn,Semi -finished product,セミフィニッシュ製品,/pan˥˩ ʈʂʰɤŋ˧˥ pʰɪn˨˩˦/,ɶmombʏm
+anggota,id,member,メンバー,/aŋgota/,ɶmoɶ
+umsóknar,is,application,応用,/ʏmsouhknar/,ʏmoubɶ
+đánh trống lảng,vi,change the subject,主題を変更します,/dan˩˧ ʈoŋ͡m˩˧ laŋ˧˩˨/,ɶmommɶm
+enrosque,es,curl,カール,/enroske/,ømobø
+ancoșă,/ankoʃə/,notch,ノッチ,ɶmoə,ro
+lommoilla,fi,tag,鬼ごっこ,/ˈlommoillɑ/,omoybɑ
+romboedros,es,Romboedros,Romboedros,/romboeðɾos/,omoøbob
+pentoză,/pentozə/,pentosis,胎児症,ømoə,ro
+Tân Hội Trung,/tɤ̆ŋ˧˥ hoj˨ˀ˩ʔ ʈuŋ͡m˧˥/,Tan Hoi Trung,タン・ホイ・トゥング,omobumm,vi
+ancoré,es,I anchor,アンカー,/aŋkoˈɾe/,ɶmoø
+senzorga,/senzorga/,careless,不注意,ømoɶ,eo
+nên cơm cháo,/nen˧˥ kɤm˧˥ caw˩˧/,Should rice porridge,ライスポリッジが必要です,ømomɶ,vi
+encoged,es,shrink,縮む,/eŋkoxeð/,ømoøb
+importi,eo,Import,輸入,/importi/,ymoy
+rannsókna,/ransouhkna/,research,リサーチ,ɶmoubɶ,is
+vểnh râu trê,vi,crop,作物,/jen˧˩˨ ʐɤ̆w˧˥ ʈe˧˥/,ømoø
+kondori,fi,condor,コンドル,/ˈkondori/,omoy
+동호회,ko,club,クラブ,/to̞ŋβo̞ɦø̞/,omoø
+熏蒸剂,zh-cn,Fumigation,燻蒸,/ɕyn˥˥ ʈʂɤŋ˥˥ tɕi˥˩/,ymomby

@@ -1,39 +1,39 @@
-word,word_lang,word_en,word_ja,word_ipa_rhyme
-empresa,es,business,仕事,ømbøɶ
-ambiente,es,ambient,アンビエント,ɶmbømø
-intrigo,eo,plot,プロット,ymbyo
-방정식,ko,equation,方程式,ɶmbɔmbyb
-鸣叫,zh-cn,tweet,つぶやき,ʏmbbɑʊ
-방지책,ko,hedge,ヘッジ,ɶmbybbœb
-membrană,ro,membrane,膜,ømbɶə
-pantteri,fi,panther,パンサー,ɑmbøy
-阳台,zh-cn,balcony,バルコニー,ɑmbɶʏ
-눈사람,ko,snow man,スノーマン,umbɶɶm
-眼鏡,ja,glasses,眼鏡,ɶmbou
-amplekso,eo,amplitude,振幅,ɶmbøbo
-engineer,en,engineer,エンジニア,œmbəʏ
-inginer,ro,engineer,エンジニア,ymbyø
-햄스터,ko,hamster,ハムスター,œmbubɔ
-工作,zh-cn,Work,仕事,ʊmbuɔ
-enjoyment,en,enjoyment,楽しみ,œmbɔʏəmb
-computer,en,computer,コンピューター,əmbuə
-덴푸라,ko,Tenfura,Tenfura,ømbuɶ
-samstarfsmenn,is,co-workers,同僚,ɶmbɶbbœm
-임계온도,ko,Critical temperature,臨界温度,ymbøomo
-andleysið,is,disorder,障害,ɶmbœʏb
-singular,en,singular,特異な,ʏmbəə
-vanguardia,/baŋgwaɾðja/,Vanguard,ヴァンガード,es
-encueve,/eŋkweβe/,Encove,エンコーブ,es
-montgomery,en,montgomery,モンゴメリー,ɑmbəmy
-complexes,/ˈkɑmpɫɛksəz/,complexes,複合体,en
-moondreamers,en,moondreamers,ムーンドリーマー,umbyəb
-방사백,ko,Radiation,放射線,ɶmbɶœb
-Handdrucker,/ˈhanddɾʊkɐ̯/,Hand printer,ハンドプリンター,de
-뱀장어,/pɛ̝md͡ʑa̠ŋʌ̹/,eel,うなぎ,ko
-hringhröðun,/r̥iŋkr̥œðʏn/,ring,指輪,is
-bernskunnar,/pɛnskʏnar/,childhood,子供時代,is
-Fundsache,/ˈfʊntzaxə/,found object,見つかったオブジェクト,de
-sandviĉo,eo,sandwich,サンドイッチ,ɶmbybo
-网球场,zh-cn,tennis court,テニスコート,ɑmbboʊɑm
-ankrejo,eo,an anchorage,アンカレッジ,ɶmbøyo
-penjahit,id,seamstress,仕立て屋,əmbɶyb
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
+empresa,es,business,仕事,/empɾesa/,ømbøɶ
+ambiente,es,ambient,アンビエント,/ambjente/,ɶmbømø
+intrigo,eo,plot,プロット,/intrigo/,ymbyo
+방정식,ko,equation,方程式,/pa̠ŋd͡ʑʌ̹ŋɕʰik̚/,ɶmbɔmbyb
+鸣叫,zh-cn,tweet,つぶやき,/mɪŋ˧˥ tɕjɑʊ˥˩/,ʏmbbɑʊ
+방지책,ko,hedge,ヘッジ,/pa̠ŋd͡ʑit͡ɕʰɛ̝k̚/,ɶmbybbœb
+membrană,ro,membrane,膜,/membranə/,ømbɶə
+pantteri,fi,panther,パンサー,/ˈpɑntteri/,ɑmbøy
+阳台,zh-cn,balcony,バルコニー,/jɑŋ˧˥ tʰaɪ˧˥/,ɑmbɶʏ
+눈사람,ko,snow man,スノーマン,/nunsʰa̠ɾa̠m/,umbɶɶm
+眼鏡,ja,glasses,眼鏡,/gaɴkjoɯ/,ɶmbou
+amplekso,eo,amplitude,振幅,/amplekso/,ɶmbøbo
+engineer,en,engineer,エンジニア,/ˈɛndʒəˈnɪɹ/,œmbəʏ
+inginer,ro,engineer,エンジニア,/indʒiner/,ymbyø
+햄스터,ko,hamster,ハムスター,/hɛ̝msʰɯtʰʌ̹/,œmbubɔ
+工作,zh-cn,Work,仕事,/kʊŋ˥˥ tsuɔ˥˩/,ʊmbuɔ
+enjoyment,en,enjoyment,楽しみ,/ˌɛnˈdʒɔɪmənt/,œmbɔʏəmb
+computer,en,computer,コンピューター,/kəmˈpjutɝ/,əmbuə
+덴푸라,ko,Tenfura,Tenfura,/te̞npʰuɾa̠/,ømbuɶ
+samstarfsmenn,is,co-workers,同僚,/samstarvsmɛn/,ɶmbɶbbœm
+임계온도,ko,Critical temperature,臨界温度,/imɡje̞o̞ndo̞/,ymbøomo
+andleysið,is,disorder,障害,/antlɛjsɪð/,ɶmbœʏb
+singular,en,singular,特異な,/ˈsɪŋɡjəɫɝ/,ʏmbəə
+vanguardia,/baŋgwaɾðja/,Vanguard,ヴァンガード,ɶmbɶbɶ,es
+encueve,/eŋkweβe/,Encove,エンコーブ,ømbøø,es
+montgomery,en,montgomery,モンゴメリー,/mɑntˈɡəmɹi/,ɑmbəmy
+complexes,/ˈkɑmpɫɛksəz/,complexes,複合体,ɑmbœbəb,en
+moondreamers,en,moondreamers,ムーンドリーマー,/ˈmunˌdɹimɝz/,umbyəb
+방사백,ko,Radiation,放射線,/pa̠ŋsʰa̠bɛ̝k̚/,ɶmbɶœb
+Handdrucker,/ˈhanddɾʊkɐ̯/,Hand printer,ハンドプリンター,ɶmbbʊɐ,de
+뱀장어,/pɛ̝md͡ʑa̠ŋʌ̹/,eel,うなぎ,œmbɶɔ,ko
+hringhröðun,/r̥iŋkr̥œðʏn/,ring,指輪,ymbœʏm,is
+bernskunnar,/pɛnskʏnar/,childhood,子供時代,œmbʏɶ,is
+Fundsache,/ˈfʊntzaxə/,found object,見つかったオブジェクト,ʊmbɶə,de
+sandviĉo,eo,sandwich,サンドイッチ,/sandvit͡ʃo/,ɶmbybo
+网球场,zh-cn,tennis court,テニスコート,/wɑŋ˨˩˦ tɕʰjoʊ˧˥ ʈʂʰɑŋ˨˩˦/,ɑmbboʊɑm
+ankrejo,eo,an anchorage,アンカレッジ,/ankreio/,ɶmbøyo
+penjahit,id,seamstress,仕立て屋,/pəndʒahit/,əmbɶyb

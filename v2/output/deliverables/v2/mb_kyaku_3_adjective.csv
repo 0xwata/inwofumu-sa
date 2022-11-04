@@ -1,20 +1,20 @@
-word,word_lang,word_en,word_ja,word_ipa_rhyme
-important,ro,important,重要,ymoɶmb
-pergament,ro,parchment,羊皮紙,øɶømb
-hesitant,en,hesitant,ためらう,œʏəmb
-abundant,en,abundant,豊富です,əəməmb
-ofertant,ro,BIDDER,入札者,oøɶmb
-excellent,en,excellent,優れた,œbəəmb
-attendant,en,attendant,アテンダント,əœməmb
-obedient,en,obedient,従順,oʊyyəmb
-reclamant,ro,complainant,申立人,øbɶɶmb
-cây thuốc phiện,vi,poppy,ポピー,obuəbyəmb
-insolvent,en,insolvent,支払不能,ʏmɑəmb
-وبالبنج,/wabiaːlbandʒ/,And anesthetic,と麻酔,ar
-fox-hound,/fɔksaund/,fox-hound,フォックスハウンド,fr
-Salzfässchens,/ˈzaltsfɛsʃɛns/,Salt barrels,塩樽,de
-propulsant,ro,propulsion,推進,boubɶmb
-majorant,ro,major,選考科目,ɶoɶmb
-phản tác dụng,vi,counterproductive,逆効果,ɶmɶbummb
-supplicant,en,supplicant,サプリカント,əbəəmb
-kvendýrsins,is,the female,女性,bœmyʏmb
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
+important,ro,important,重要,/important/,ymoɶmb
+pergament,ro,parchment,羊皮紙,/perɡament/,øɶømb
+hesitant,en,hesitant,ためらう,/ˈhɛzɪtənt/,œʏəmb
+abundant,en,abundant,豊富です,/əˈbəndənt/,əəməmb
+ofertant,ro,BIDDER,入札者,/ofertant/,oøɶmb
+excellent,en,excellent,優れた,/ˈɛksəɫənt/,œbəəmb
+attendant,en,attendant,アテンダント,/əˈtɛndənt/,əœməmb
+obedient,en,obedient,従順,/oʊˈbidiənt/,oʊyyəmb
+reclamant,ro,complainant,申立人,/reklamant/,øbɶɶmb
+cây thuốc phiện,vi,poppy,ポピー,/kɤ̆j˧˥ tʰuək˦˥ fiəŋ˨ˀ˩ʔ/,obuəbyəmb
+insolvent,en,insolvent,支払不能,/ˌɪnˈsɑɫvənt/,ʏmɑəmb
+وبالبنج,/wabiaːlbandʒ/,And anesthetic,と麻酔,ɶyɶbɶmb,ar
+fox-hound,/fɔksaund/,fox-hound,フォックスハウンド,ɔbɶumb,fr
+Salzfässchens,/ˈzaltsfɛsʃɛns/,Salt barrels,塩樽,ɶbbbœbœmb,de
+propulsant,ro,propulsion,推進,/propulsant/,boubɶmb
+majorant,ro,major,選考科目,/maʒorant/,ɶoɶmb
+phản tác dụng,vi,counterproductive,逆効果,/faŋ˧˩˨ tak˦˥ juŋ͡m˨ˀ˩ʔ/,ɶmɶbummb
+supplicant,en,supplicant,サプリカント,/ˈsəpɫəkənt/,əbəəmb
+kvendýrsins,is,the female,女性,/kʰvɛntir̥sɪns/,bœmyʏmb

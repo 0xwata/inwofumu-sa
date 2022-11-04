@@ -1,23 +1,23 @@
-word,word_lang,word_en,word_ja,word_ipa_rhyme
-collateral,en,collateral,担保,əæəə
-retina,en,retina,網膜,œəə
-capital,en,capital,資本,æəə
-formula,en,formula,方式,ɔməə
-carnival,en,carnival,カーニバル,ɑəə
-governor,en,governor,知事,əəə
-vinegar,en,vinegar,お酢,ʏəə
-decimal,en,decimal,小数,œəə
-miracle,en,miracle,奇跡,ʏəə
-clavicle,en,clavicle,鎖骨,bæəə
-gondola,en,gondola,ゴンドラ,ɑməə
-vegetable,en,vegetable,野菜,œbəə
-article,en,article,論文,ɑəə
-Tiefsee,de,Deep sea,深海,ybəə
-tumbărău,ro,Tumbărău,Tumbîrò,uməə
-molălău,ro,Molălău,モルラ,oəə
-表示式,zh-cn,Represent,代表する,bɑʊəə
-Embleme,/ˈʔɛmbləmə/,Emblems,エンブレム,de
-mendeder,/məndədər/,dedeter,Dedeter,id
-măgădău,ro,Măgădău,マガダウ,əəə
-Püree,de,puree,ピューレ,yəə
-lacrămă,ro,tears,涙,ɶbəə
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
+collateral,en,collateral,担保,/kəˈɫætɝəɫ/,əæəə
+retina,en,retina,網膜,/ˈɹɛtənə/,œəə
+capital,en,capital,資本,/ˈkæpətəɫ/,æəə
+formula,en,formula,方式,/ˈfɔɹmjəɫə/,ɔməə
+carnival,en,carnival,カーニバル,/ˈkɑɹnəvəɫ/,ɑəə
+governor,en,governor,知事,/ˈɡəvɝnɝ/,əəə
+vinegar,en,vinegar,お酢,/ˈvɪnəɡɝ/,ʏəə
+decimal,en,decimal,小数,/ˈdɛsəməɫ/,œəə
+miracle,en,miracle,奇跡,/ˈmɪɹəkəɫ/,ʏəə
+clavicle,en,clavicle,鎖骨,/ˈkɫævəkəɫ/,bæəə
+gondola,en,gondola,ゴンドラ,/ˈɡɑndəɫə/,ɑməə
+vegetable,en,vegetable,野菜,/ˈvɛdʒtəbəɫ/,œbəə
+article,en,article,論文,/ˈɑɹtəkəɫ/,ɑəə
+Tiefsee,de,Deep sea,深海,/ˈtiːfzəə/,ybəə
+tumbărău,ro,Tumbărău,Tumbîrò,/tumbərəw/,uməə
+molălău,ro,Molălău,モルラ,/molələw/,oəə
+表示式,zh-cn,Represent,代表する,/pjɑʊ˨˩˦ ʂɚ˥˩ ʂɚ˥˩/,bɑʊəə
+Embleme,/ˈʔɛmbləmə/,Emblems,エンブレム,œmbəə,de
+mendeder,/məndədər/,dedeter,Dedeter,əməə,id
+măgădău,ro,Măgădău,マガダウ,/məɡədəw/,əəə
+Püree,de,puree,ピューレ,/ˈpyːɾəə/,yəə
+lacrămă,ro,tears,涙,/lakrəmə/,ɶbəə
