@@ -1,8 +1,13 @@
 word,word_lang,word_en,word_ja,word_ipa_rhyme
+keamanan,id,security,安全,əɶɶɶm
 الظلام,ar,the darkness,闇,ɶbbɶɶm
 bendungan,id,dam,ダム,əmuɶm
 menyerang,id,attack,攻撃,əəɶm
 التزام,ar,commitment,献身,ybyɶm
+jaminan,id,guarantee,保証,bɶyɶm
+cadangan,id,reserve,予約,bɶɶɶm
+penyelam,id,diver,ダイバー,əəɶm
+図書館,ja,library,図書館,uoɶm
 nelayan,id,fisherman,漁師,əɶɶm
 alasan,id,reason,理由,ɶɶɶm
 kejutan,id,shock,ショック,əbuɶm
@@ -22,6 +27,8 @@ wartawan,id,reporter,記者,ɶɶɶm
 錯乱,ja,confusion,錯乱,ɶuɶm
 hubungan,id,connection,繋がり,uuɶm
 kebencian,id,hatred,憎しみ,əəmbyɶm
+akuntan,id,accountant,会計士,ɶumɶm
+切断,ja,Cutting,切断,øbuɶm
 Hurrikan,de,hurricane,ハリケーン,ʊyɶm
 serangan,id,attack,攻撃,əɶɶm
 kematian,id,Dead,死,əɶyɶm
@@ -34,23 +41,37 @@ kemurnian,id,purity,純度,əuyɶm
 lingkungan,id,environment,環境,ymuɶm
 混蛋,zh-cn,asshole,下衆野郎,uəmɶm
 pasukan,id,troops,軍,ɶuɶm
+水族馆,zh-cn,aquarium,水族館,øʏbubɶm
+keranjang,id,basket,バスケット,əɶmbɶm
+kawanan,id,herd,群れ,ɶɶɶm
 الكتان,ar,Linen,リネン,ɶbɶbɶm
 sarapan,id,breakfast,朝ごはん,ɶɶɶm
 pelican,ro,pelican,ペリカン,øyɶm
+pembuangan,id,disposal,廃棄,əmuɶɶm
+rekaman,id,recording,録音,əɶɶm
 percikan,id,spark,スパーク,əbyɶm
+keadilan,id,justice,正義,əɶyɶm
+perhiasan,id,jewellery,ジュエリー,əyɶɶm
+ukuran,id,size,サイズ,uuɶm
 kemampuan,id,ability,能力,əɶmuɶm
 Eisenbahn,de,railroad,鉄道,ɶʏəmɶm
 penemuan,id,invention,発明,əəuɶm
 pelayan,id,waiter,ウェイター,əɶɶm
 gambaran,id,description,説明,ɶmɶɶm
 senapan,id,gun,銃,əɶɶm
+Gewahrsam,de,custody,親権,əɶɐɶm
 memesan,id,order,注文,əəɶm
 kesunyian,id,silence,沈黙,əuyɶm
 segenggam,id,handful,一握り,əəmɶm
+hațiegan,ro,Hatiegan,ハチーガン,ɶbbøɶm
 Bật đèn xanh,vi,Green light on,緑色の光,obbœmɶm
 알사탕,ko,Albanist,アルバニスト,ɶbɶbɶm
 zambullan,es,dive,飛び込む,ɶmuɶm
 인조인간,ko,Artificial man,人工男,ymboymɶm
+deslenguan,es,Sleeping,睡眠,øbømbɶm
+优越感,zh-cn,Superiority,優位性,oʊœɶm
+浚泥船,zh-cn,Mud boat,マッドボート,bymyɶm
+ببرسام,ar,With a painter,画家と,yyɶm
 đại điền trang,vi,Dai Dien Trang,Dai Dien Trang,ɶbyəmɶm
 Stimmenfang,de,Voice,声,ʏmœmɶm
 phạt vi cảnh,/fak˨ˀ˩ʔ ji˧˥ kan˧˩˨/,punishment,罰,vi
@@ -67,11 +88,11 @@ sjónaukann,/sjouːnœikan/,a telescope,望遠鏡,is
 kjölfestan,is,ballot,投票,œbœbɶm
 변성암,ko,Metamorphosis,変態,bɔmbɔɶm
 كأفعوان,ar,Like a nap,昼寝のように,ɶubuɶm
-keranjang,id,basket,バスケット,əɶmbɶm
 áhættan,is,the risk,リスク,ɶuɶyɶm
 zugetan,de,duties,義務,buəɶm
+ヨウ素酸,ja,Iodine,ヨウ素酸,ouoɶm
+pirouettâmes,fr,pirouettâme,Pirouettâme,ybœɶm
 sendayan,/səndajan/,Sendayan,センダヤン,id
-优越感,/joʊ˥˥ ɥœ˥˩ kan˨˩˦/,Superiority,優位性,zh-cn
 오도당,ko,Ododang,オドダン,ooɶm
 夹生饭,zh-cn,Raw meal,生の食事,bbɶomɶm
 초지일관,ko,Consistency,一貫性,bbobyybɶm
@@ -84,16 +105,26 @@ plebeian,/plebejan/,plebeian,平民,ro
 给水管,/tɕi˨˩˦ ʂweɪ˨˩˦ kwan˨˩˦/,Water pipe,水管,zh-cn
 misogam,/misoɡam/,misogam,ミソガム,ro
 多者間,/taɕakaɴ/,Amateur,多者間,ja
+bintangan,id,Bintangan,ビンタンガン,ymɶɶm
+색채감,ko,Color,色,bœbbbœɶm
+söngkonan,is,singer,歌手,œymbɔɶm
 benturan,/bənturan/,collision,衝突,id
 拐弯,/kuaɪ˨˩˦ wan˥˥/,Bend,曲げる,zh-cn
 文化遗产,/uən˧˥ xwa˥˩ i˧˥ ʈʂʰan˨˩˦/,Cultural heritage,文化遺産,zh-cn
+minutâmes,fr,minutam,ミヌタム,yyɶm
+للزيدان,ar,For Zidane,ジダン用,ybøʏɶm
+فكالأمر,ar,So the matter,だから問題,ɶɶɶbɶm
 Trần Nguyên Đán,vi,Tran Nguyen Dan,Tran Nguyen Dan,ommyəmɶm
+corrodâmes,fr,corrodâme,腐敗,ɔɔɶm
+ダライ盤,ja,Dalai board,ダライ盤,ɶɶyɶm
+moderan,es,moderate,適度,oøɶm
 Arbeitszwang,/ˈʔaɾbaetstsvaŋ/,Labor force,労働力,de
 sebucán,/seβuˈkan/,Sebucán,セブカン,es
 phi thời gian,/fi˧˥ tʰɤj˦˨ jaŋ˧˥/,non -time,非時間,vi
 marouflâmes,fr,marouflâmes,マルフフルーム,ɶubɶm
 审美观,zh-cn,Aesthetic,美的,əmøʏbɶm
 prénommâmes,fr,first name,ファーストネーム,bøɔɶm
+ハロタン,ja,Halotan,ハロタン,ɶoɶm
 celofán,es,cellophane,セロハン,øoɶm
 فالهيام,ar,Valham,バルハム,ɶɶbøʏɶm
 駐車違反,ja,Parking violation,駐車違反,buuɶyɶm

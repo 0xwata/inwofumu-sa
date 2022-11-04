@@ -1,4 +1,90 @@
 word,word_lang,word_ipa,word_ipa_rhyme,word_en,word_ja,pair_word,pair_word_lang,pair_word_ipa,pair_word_ipa_rhyme,pair_word_en,pair_word_ja,rhyme_type,match_ipa_rhyme,pos,syllable
+lokasi,id,/lokasi/,oɶy,location,位置,ổi xá lị,vi,/oj˧˩˨ sa˩˧ li˨ˀ˩ʔ/,oɶyb,guava,グアバ,to,ɶy,noun,3
+طوباوي,ar,/tˤuːbaːwijj/,buɶy,Utopian,ユートピア,ancai,id,/antʃai/,ɶmbɶy,AF,af,kyaku,ɶy,adjective,3
+utopique,fr,/ytɔpik/,yɔyb,Utopian,ユートピア,الأزتيك,ar,/aːlʔaztiːk/,ɶbɶbyb,Aztec,アステカ,kyaku,yb,adjective,3
+kapitalisme,id,/kapitalismə/,ɶyɶybə,capitalism,資本主義,reviviscență,ro,/revivistʃentsə/,øyybbømbə,Reviviscence,reviviviscence,kyaku,bə,noun,5
+capitalism,en,/ˈkæpɪtəˌɫɪzəm/,æʏəʏəm,capitalism,資本主義,铁杵磨成针,zh-cn,/tʰjɛ˨˩˦ ʈʂʰu˨˩˦ mɔ˧˥ ʈʂʰɤŋ˧˥ ʈʂən˥˥/,bœuɔoməm,Iron pestle grind into a needle,鉄の乳棒は針に粉砕します,kyaku,əm,noun,5
+capitalismo,es,/kapitalizmo/,ɶyɶybo,capitalism,資本主義,æðasjúkdómum,is,/aiːðasjuːktoumʏm/,ɶyɶbubouʏm,vasculature,血管系,to,yɶ,noun,5
+Kapitalismus,de,/kɑˈpiːtalɪsmʊs/,ɑyɶʏbʊb,capitalism,資本主義,catacosinos,en,/kəˌtækəˈsinoʊs/,əæəyoʊb,catacosinos,カタコシノ,kyaku,ʊb,noun,5
+presencia,es,/pɾesenθja/,bøømbɶ,presence,面前,광행차,ko,/kwa̠ŋɦɛ̝ŋt͡ɕʰa̠/,bɶmœmbbɶ,Mine,私の,kyaku,bɶ,noun,3
+rasisti,fi,/ˈrɑsisti/,ɑyby,racist,人種差別主義者,xanh hồ thuỷ,vi,/san˧˥ ho˦˨ tʰwi˧˩˨/,ɶmoby,Green Lake Thuy,グリーンレイクツー,kyaku,by,noun,3
+racista,es,/raθista/,ɶybɶ,racist,人種差別主義者,原っぱ,ja,/haɾapːa/,ɶɶbɶ,Rattle,原っぱ,kyaku,bɶ,adjective,3
+筷子,zh-cn,/kʰuaɪ˥˩ tsɯ˧/,buɶʏbu,Chopsticks,箸,đô ngự sử,vi,/do˧˥ ŋɯ˨ˀ˩ʔ ʂɯ˧˩˨/,oubu,capital,資本,kyaku,bu,noun,3
+syömäpuikko,fi,/ˈsyømæˌpuikko/,yøæuybo,chopstick,箸,丸カッコ,ja,/maɾɯkakːo/,ɶuɶbo,Round parentheses,丸カッコ,kyaku,bo,noun,4
+الدافع,ar,/aːldaːfiʕ/,ɶbɶyb,Motive,動かす,malfari,eo,/malfari/,ɶbɶy,to undo,元に戻すには,to,bɶy,verb,3
+hebilla,es,/eβiʎa/,øyɶ,buckle,バックル,bifilar,de,/biˈfiːlaɽ/,yyɶ,bifilar,バイラー,kyaku,yɶ,verb,3
+estäjä,fi,/ˈestæjæ/,øbææ,inhibitor,阻害剤,bar,sv,/bɑːr/,œbbœbʊ,bar,バー,,,noun,3
+generosity,en,/ˌdʒɛnɝˈɑsəti/,bœəɑəy,generosity,寛大さ,kẻ nể người vì,vi,/kɛ˧˩˨ ne˧˩˨ ŋɯəj˦˨ ji˦˨/,œøuəy,The one who respects people,人々を尊敬する人,kyaku,əy,noun,4
+générosité,fr,/ʒeneʁɔzite/,øøɔyø,generosity,寛大さ,事のついで,ja,/kotonotsɯide/,ooobuyø,In addition to things,事のついで,kyaku,yø,noun,5
+generozitate,ro,/dʒenerozitate/,bøøoyɶø,generosity,寛大さ,Gefühlsduselei,de,/gəˈfylsduzelae/,əybbuøɶø,Emotion,感情,kyaku,ɶø,verb,6
+generosidad,es,/xeneɾosiðað/,øøoyɶb,generosity,寛大さ,hegemonii,eo,/hegemonii/,øøoyy,hegemonii,hegemonii,to,øoy,noun,5
+قطر,ar,/qatˤara/,ɶbɶɶ,Diameter,直径,debara,ro,/debara/,øɶɶ,storage closet,ストレージクローゼット,kyaku,ɶɶ,noun,3
+ovario,es,/oβaɾjo/,oɶo,ovary,卵巣,planator,ro,/planator/,bɶɶo,plan,予定,kyaku,ɶo,adjective,3
+卵巣,ja,/ɾaɴsoɯ/,ɶmou,Ovarian,卵巣,半成品,zh-cn,/pan˥˩ ʈʂʰɤŋ˧˥ pʰɪn˨˩˦/,ɶmombʏm,Semi -finished product,セミフィニッシュ製品,to,mo,noun,3
+viiniköynnös,fi,/ˈviinikøˌynnøs/,yyyøymøb,vine,ぶどうの木,Dopingmittel,de,/ˈdoːpɪŋmɪtel/,oʏmʏøb,Doping agent,ドーピングエージェント,kyaku,øb,noun,4
+economía,es,/ekonoˈmia/,øooyɶ,economy,経済,거푼거리다,ko,/kʌ̹pʰunɡʌ̹ɾida̠/,ɔbumɔyɶ,Rescue,救援,kyaku,yɶ,noun,5
+اقتصاد,ar,/iqtisˤaːd/,ybybɶb,Economie,エコーシー,喜剧片,zh-cn,/ɕi˨˩˦ tɕy˥˩ pʰjɛn˥˩/,ybybœm,comedy,コメディ,to,byb,noun,3
+経済,ja,/keizai/,øyɶy,Economy,経済,guerrillas,es,/geriʎas/,øyɶb,guerrillas,ゲリラ,to,yɶ,noun,3
+economie,ro,/ekonomije/,øooyø,economy,経済,métodologi,id,/metodologi/,øoooy,methodology,方法論,to,oo,noun,5
+重力,ja,/dʑɯɯɾjokɯ/,buuou,gravity,重力,kruunaaja,fi,/ˈkruunɑɑjɑ/,buuɑɑɑ,crown,クラウン,to,uu,noun,3
+gravity,en,/ˈɡɹævəti/,bæəy,gravity,重力,损失率,zh-cn,/suən˨˩˦ ʂɚ˥˥ ly˥˩/,uəməy,Losses,損失,kyaku,əy,noun,3
+painovoima,fi,/ˈpɑinoˌvoimɑ/,ɑyooyɑ,gravity,重力,incontinent,fr,/ɛ̃kɔ̃tinɑ̃/,œɔyɑ,incontinent,失禁,kyaku,yɑ,noun,4
+gravedad,es,/gɾaβeðað/,bɶøɶb,gravity,重力,لنصاح,ar,/linusˤˤaːħ/,yubɶb,Ling,リン,kyaku,ɶb,noun,3
+フリック,ja,/ɸɯɾikːɯ/,uybu,Flick,フリック,cvintuplu,ro,/kvintuplu/,bymubu,quintuple,quintuple,kyaku,bu,noun,3
+カートリッジ,ja,/kaːtoɾidʑːi/,ɶoybby,cartridge,カートリッジ,hành lang pháp lí,vi,/han˦˨ laŋ˧˥ fap˦˥ li˩˧/,ɶmɶmɶby,legal corridor,法的回廊,kyaku,by,noun,4
+doselera,es,/doseleɾa/,oøøɶ,valance,バランス,chơi lê quên lựu,vi,/cɤj˧˥ le˧˥ wen˧˥ lɯw˨ˀ˩ʔ/,oøømub,Play Le forgetting pomegranate,ザクロを忘れてプレイしてください,to,øø,verb,4
+epoxy,en,/ɪˈpɑksi/,ʏɑby,epoxy,エポキシ,kopisti,fi,/ˈkopisti/,oyby,tackle,タックル,kyaku,by,noun,3
+licențiere,ro,/litʃentsiere/,ybømbyøø,License,ライセンス,trí tuệ nhân tạo,vi,/ʈi˩˧ twe˨ˀ˩ʔ ɲɤ̆ŋ˧˥ taw˨ˀ˩ʔ/,ybøbomɶb,artificial intelligence,人工知能,to,bø,noun,4
+الترخيص,ar,/aːltarxiːsˤ/,ɶbɶyb,License,ライセンス,발자국,ko,/pa̠ɭd͡ʑa̠ɡuk̚/,ɶbɶub,footprint,フットプリント,to,bɶ,verb,3
+licensing,en,/ˈɫaɪsənsɪŋ/,ɶʏəmʏm,licensing,ライセンス,万马齐喑,zh-cn,/wan˥˩ ma˨˩˦ tɕʰi˧˥ ɪn˥˥/,ɶmɶbbyʏm,Wan Ma Qi,wan ma qi,kyaku,ʏm,verb,3
+라이센스,ko,/ɾa̠isʰe̞nsʰɯ/,ɶybømbu,license,ライセンス,berbaju,id,/bərbadʒu/,əɶbu,dressed,服を着た,kyaku,bu,verb,3
+eignarhald,is,/eiknarhalt/,øybɶɶbb,ownership,所有,بمجد,ar,/bimudʒidd/,yubybb,Glory,栄光,kyaku,bb,noun,3
+ownership,en,/ˈoʊnɝˌʃɪp/,oʊəʏb,ownership,所有,Kochkenntnis,de,/ˈkɔxkɛnntnɪs/,ɔbœmmbʏb,Cooking,料理,kyaku,ʏb,noun,3
+proprietate,ro,/proprijetate/,bobyøɶø,property,財産,nhổ cỏ nhổ cả rễ,vi,/ɲo˧˩˨ kɔ˧˩˨ ɲo˧˩˨ ka˧˩˨ ʐe˧˩˨/,oɔoɶø,weeding all roots,すべての根を除草します,kyaku,ɶø,noun,5
+quyền sở hữu,vi,/wiɛŋ˦˨ ʂɤ˧˩˨ hɯw˧˩˨/,yœmou,ownership,所有,puusolu,fi,/ˈpuusolu/,uuou,wooden cell,木製のセル,kyaku,ou,noun,3
+ocelot,en,/ˈɑsəˌɫɑt/,ɑəɑb,ocelot,オセロット,Geschäftsjahrs,de,/gəˈʃɛftsjɑɾs/,əœbbbɑb,Financial year,会計年,kyaku,ɑb,noun,3
+entreprise,fr,/ɑ̃tʁəpʁiz/,ɑbəbyb,company,会社,ونقيح,ar,/wanaqiːħ/,ɶɶyb,Refinement,洗練,kyaku,yb,noun,3
+企業,ja,/kigjoɯ/,ybou,Company,企業,kirkkoisä,fi,/ˈkirkkoisæ/,yboyæ,ecclesiastics,教会,to,bo,noun,3
+yritys,fi,/ˈyritys/,yyyb,company,会社,simii,eo,/simii/,yyy,simii,simii,to,yy,noun,3
+empresa,es,/empɾesa/,ømbøɶ,business,仕事,덴푸라,ko,/te̞npʰuɾa̠/,ømbuɶ,Tenfura,Tenfura,to,mb,noun,3
+寻找,zh-cn,/ɕyn˧˥ ʈʂɑʊ˨˩˦/,ymɑʊ,Look for,探す,hinkata,fi,/ˈhinkɑtɑ/,ymɑɑ,rub,こする,to,mɑ,verb,3
+mencari,id,/məntʃari/,əmbɶy,look for,探す,鵜飼い,ja,/ɯkai/,uɶy,cormorant fishing,鵜飼い,kyaku,ɶy,verb,3
+etsiä,fi,/ˈetsiæ/,øbyæ,search,探す,vệ sinh viên,vi,/je˨ˀ˩ʔ ʂin˧˥ jiəŋ˧˥/,øbymyəm,guard,ガード,to,by,verb,3
+بحث,ar,/baħaθa/,ɶɶɶ,Search,探す,墙旮旯,zh-cn,/tɕʰjɑŋ˧˥ ka˥˥ la˧˥/,bbɑmɶɶ,Wall,壁,kyaku,ɶɶ,verb,3
+卒業,ja,/sotsɯgjoɯ/,obubou,graduation,卒業,bồ tu bồ túi,vi,/bo˦˨ tu˧˥ bo˦˨ tuj˩˧/,ouou,Bodhi Bodhi,bodhi bodhi,kyaku,ou,noun,4
+útskrifast,is,/uːtskrɪvast/,ubbbʏɶbb,graduate,卒業,homoséks,id,/homoseʔs/,ooøbb,Homoséks,ホモセクス,kyaku,bb,verb,3
+졸업하다,ko,/t͡ɕo̞ɾʌ̹pʰa̠da̠/,boɔbɶɶ,graduate,卒業,envisagea,fr,/ɑ̃vizaʒa/,ɑyɶɶ,envisaged,想定されています,kyaku,ɶɶ,verb,4
+تخرج,ar,/taxarradʒa/,ɶɶɶbɶ,Graduation,卒業,欺上瞒下,zh-cn,/tɕʰi˥˥ ʂɑŋ˥˩ man˧˥ ɕja˥˩/,bbyɑmɶmbɶ,Bully,いじめっ子,kyaku,bɶ,verb,4
+absolvent,ro,/apsolvent/,ɶbobømb,graduate,卒業,imbalance,en,/ɪmˈbæɫəns/,ʏmæəmb,imbalance,不均衡,kyaku,mb,noun,3
+bersumpah,id,/bərsumpah/,əumɶ,swear,誓う,debranșa,ro,/debranʃa/,øbɶmɶ,Unplug,プラグを抜く,kyaku,mɶ,verb,3
+أقسم,ar,/ʔaqsama/,ɶbɶɶ,I swear,私は誓います,samsara,ro,/samsara/,ɶmɶɶ,middleman,仲介者,kyaku,ɶɶ,verb,3
+lumipuku,fi,/ˈlumiˌpuku/,uyuu,snow suit,スノースーツ,逆風,ja,/gjakɯɸɯɯ/,bɶuuu,Headwind,逆風,kyaku,uu,noun,4
+被子植物,ja,/çiɕiɕokɯbɯtsɯ/,yyouubu,Coach,被子植物,Vạn Kiếp tông bí truyền thư,vi,/jaŋ˨ˀ˩ʔ kiəp˦˥ toŋ͡m˧˥ bi˩˧ ʈwiəŋ˦˨ tʰɯ˧˥/,ɶmbyəbommyyəmbu,Van Kiep Tong esoteric,van Kiep Tong Esoteric,kyaku,bu,noun,6
+被子植物,zh-cn,/peɪ˥˩ tsɯ˨˩˦ ʈʂɚ˧˥ u˥˩/,øʏbuəu,Quilt plant,キルトプラント,ehrfürchtiger,de,/ˈʔeɾfʏɾtstɪgɐ̯/,øʏbbʏɐ,awesome,驚くばかり,to,ʏb,noun,4
+abrupta,eo,/abrupta/,ɶbubɶ,abruptly,突然,熱め,ja,/atsɯme/,ɶbuø,Hot,熱め,to,bu,adjective,3
+자라다,ko,/t͡ɕa̠ɾa̠da̠/,bɶɶɶ,grow,育つ,dégrafa,fr,/degʁafa/,øbɶɶ,degreen,degreen,kyaku,ɶɶ,verb,3
+育つ,ja,/sodatsɯ/,oɶbu,growing up,育つ,挂货铺,zh-cn,/kwa˥˩ xuɔ˥˩ pʰu˥˩/,bɶuɔbu,Hanging store,ハンギングストア,kyaku,bu,verb,3
+espíritu,es,/eˈspiɾitu/,øbyyu,spirit,精神,出違う,ja,/detɕigaɯ/,øbyɶu,Be wrong,出違う,to,by,verb,4
+الخمور,ar,/aːlxumuːr/,ɶbuu,Alcohol,アルコール,vyöruusu,fi,/ˈvyøruusu/,yøuuu,shingles,帯状疱疹,kyaku,uu,verb,3
+áfengi,is,/auːfeiɲcɪ/,ɶuøymʏ,liquor,酒,aureolat,ro,/aureolat/,ɶuøoɶb,haloed,ハロー,to,uø,verb,3
+agama,id,/agama/,ɶɶɶ,religion,宗教,llanadas,es,/ʎanaðas/,ɶɶɶb,Llanadas,ラナダス,to,ɶɶ,noun,3
+religion,en,/ɹiˈɫɪdʒən/,yʏbəm,religion,宗教,踹门,zh-cn,/ʈʂʰuaɪ˥˩ mən˧˥/,uɶʏəm,Door,ドア,kyaku,əm,noun,3
+religión,es,/reliˈxjon/,øybom,religion,宗教,séductions,fr,/sedyksjɔ̃/,øybbɔ,seduction,誘惑,to,yb,noun,3
+宗教,ja,/ɕɯɯkjoɯ/,uubou,religion,宗教,cusurgiu,ro,/kusurdʒiw/,uuby,finical,フィニアル,to,ub,noun,3
+Uniform,de,/ˈuːnifɔʁm/,uyɔbm,uniform,ユニフォーム,shamanism,en,/ˈʃeɪməˌnɪzm/,øʏəʏbm,shamanism,シャーマニズム,kyaku,bm,noun,3
+ユニフォーム,ja,/jɯniɸoːmɯ/,uyou,uniform,ユニフォーム,nintendó,is,/nɪntɛntou/,ʏmœmou,nintendo,任天堂,kyaku,ou,noun,4
+uniforme,fr,/ynifɔʁm/,yyɔbm,uniform,ユニフォーム,Klebefilm,de,/ˈkleːbefɪlm/,bøøʏbm,Adhesive film,接着剤フィルム,kyaku,bm,noun,3
+uniforme,es,/unifoɾme/,uyoø,uniform,ユニフォーム,punahome,fi,/ˈpunɑˌhome/,uɑoø,red,赤,kyaku,oø,adjective,4
+barnabarn,is,/patnapatn̥/,ɶbɶɶbm,granddaughter,孫娘,학하다,ko,/ha̠kʰa̠da̠/,ɶbɶɶ,Collect,収集,to,bɶɶ,verb,3
+lapsenlapsi,fi,/ˈlɑpsenˌlɑpsi/,ɑbømɑby,grandchild,孫,benveniste,en,/bɛnvɛˈnisti/,œmœyby,benveniste,ベンベニステ,kyaku,by,verb,4
+keamanan,id,/kəamanan/,əɶɶɶm,security,安全,hațiegan,ro,/hatsjeɡan/,ɶbbøɶm,Hatiegan,ハチーガン,kyaku,ɶm,noun,3
+Sicherheit,de,/zɪçɛɾˈəiːt/,ʏœəyb,security,安全,sjúkrabíl,is,/sjuːkrapiːl/,bubɶyb,ambulance,救急車,kyaku,yb,noun,3
+急ぐ,ja,/isogɯ/,you,Hurry,急ぐ,堰塞湖,zh-cn,/jɛn˥˩ sɤ˥˩ xu˧˥/,œmou,Damper lake,ダンパー湖,kyaku,ou,noun,3
+يعتذر,ar,/jaʕtaðir/,ɶbɶy,Apologize,謝罪,fallandi,is,/fatlantɪ/,ɶbɶmʏ,fall,秋,to,bɶ,verb,3
+entschuldigen,de,/ɛntˈʃʊldiɡən/,œmbʊbyəm,to apologize,謝罪する,higginbottom,en,/hɪɡɪnˈbɑtəm/,ʏʏmɑəm,higginbottom,higginbottom,kyaku,əm,verb,4
+disculparse,es,/diskulpaɾse/,ybubɶø,apologize,謝罪,repudiate,en,/ɹipˈjudiˌeɪt/,ybuyøʏb,repudiate,拒否,to,bu,verb,4
+眉をひそめる,ja,/majɯoçisomeɾɯ/,ɶuoyoøu,Peel the eyebrows,眉をひそめる,paludologie,ro,/paludolodʒije/,ɶuoobyø,Paludology,パラドロジー,to,uo,noun,6
+brennisteinn,is,/prɛnɪstɛjtn̥/,bœʏbœbm,sulphur,硫黄,éthylisme,fr,/etilism/,øyybm,ethylism,エチリズム,kyaku,bm,noun,3
 utilizare,ro,/utilizare/,uyyɶø,use,使用する,musiikkikauppa,fi,/ˈmusiikˌkikɑˌuppɑ/,uyybyɑubɑ,music store,ミュージックストア,to,yy,noun,5
 utilisation,fr,/ytilizasjɔ̃/,yyyɶbɔ,use,使用する,dirigierende,de,/ˈdiːɾigiːɾɛndə/,yyyœmə,conductor,導体,to,yy,verb,5
 echidna,en,/ɪˈkɪdnə/,ʏʏbə,echidna,エキドナ,durnoisme,id,/durnoismə/,uoybə,Durnoism,ダーヌイズム,kyaku,bə,noun,3
@@ -443,6 +529,289 @@ hajota,fi,/ˈhɑjotɑ/,ɑoɑ,decompose,分解します,opposant,fr,/ɔpozɑ̃/,�
 骨董,ja,/kotːoɯ/,obou,antique,骨董,bộ sấy hơi,vi,/bo˨ˀ˩ʔ ʂɤ̆j˩˧ hɤj˧˥/,oboo,steam kit,スチームキット,to,bo,noun,3
 منحني,ar,/munħaniː/,umɶy,curve,曲線,後退,ja,/koɯtai/,ouɶy,Recession,後退,kyaku,ɶy,noun,3
 kerudung,id,/kəruduŋ/,əuum,veil,ベール,lăurușcă,ro,/ləuruʃkə/,əuuə,Little,少し,to,uu,noun,3
+modernity,en,/mɑˈdɝnəti/,ɑəəy,modernity,現代性,trung thần nghĩa sĩ,vi,/ʈuŋ͡m˧˥ tʰɤ̆ŋ˦˨ ŋiə˧˩˨ ʂi˧˩˨/,ummbomyəy,Trung Than Nghia Si,nghia siよりもトゥング,kyaku,əy,noun,4
+modernidad,es,/moðeɾniðað/,oøyɶb,modernity,現代性,ポディウム,ja,/podeiɯmɯ/,oøyuu,Podium,ポディウム,to,øy,noun,4
+Modernität,de,/modɛɾniˈtɛːt/,oœyœb,modernity,現代性,almendarez,en,/ɑɫmeɪnˈdɑɹɛz/,ɑøʏmɑœb,almendarez,アルメンデレス,kyaku,œb,noun,4
+depozit,ro,/depozit/,øoyb,deposit,デポジット,sienestys,fi,/ˈsienestys/,yøøbyb,mushroom picking,キノコピッキング,kyaku,yb,verb,3
+보증금,ko,/po̞d͡ʑɯŋɡɯm/,obumum,deposit,デポジット,saut-de-mouton,fr,/sodmutɔ̃/,obuɔ,mouton jump,ムートンジャンプ,to,bu,verb,3
+menyetorkan,id,/məɲətorkan/,əəoɶm,deposit,デポジット,ferðataskan,is,/fɛrðatʰaskan/,œɶbɶbɶm,suitcase,スーツケース,kyaku,ɶm,verb,4
+deposit,en,/dəˈpɑzɪt/,əɑʏb,deposit,デポジット,فبحيق,ar,/fabiħeɪq/,ɶyøʏb,Pushed,プッシュ,kyaku,ʏb,verb,3
+depósito,es,/deˈposito/,øoyo,Deposit,デポジット,défaufilât,fr,/defofila/,øoyɶ,defaufilât,difaufilât,to,oy,noun,4
+gistiheimili,is,/cɪstɪheiːmɪlɪ/,ʏbʏøyʏʏ,hostel,ホステル,equivocating,en,/ɪˈkwɪvəˌkeɪtɪŋ/,ʏbʏəøʏʏm,equivocating,微量,to,bʏ,verb,5
+majatalo,fi,/ˈmɑjɑˌtɑlo/,ɑɑɑo,inn,宿,baldassare,en,/bɑɫdɑˈsɑɹi/,ɑɑɑy,baldassare,バルダサレ,to,ɑɑ,verb,4
+gastejo,eo,/gasteio/,ɶbøyo,Inn,宿,nachreden,de,/ˈnaxˌɾeːdən/,ɶbøəm,talk,話,to,bø,verb,3
+小説,ja,/ɕoɯsetsɯ/,ouøbu,novel,小説,corrugues,es,/koruɣes/,ouøb,corrugated,ひだのついた,to,uøb,noun,3
+nacio,eo,/nat͡sio/,ɶbyo,nation,国家,marklínu,is,/mar̥klinʏ/,ɶbyʏ,target line,ターゲットライン,to,by,noun,3
+防ぐ,ja,/ɸɯsegɯ/,uøu,prevent,防ぐ,견제구,ko,/kjʌ̹nd͡ʑe̞ɡu/,bɔmbøu,Check,小切手,kyaku,øu,verb,3
+estää,fi,/ˈestææ/,øbææ,prevent,防ぐ,smooth,en,/ˈsmuð/,ɑəəm,smooth,スムーズ,,,verb,3
+예방하다,ko,/je̞ba̠ŋɦa̠da̠/,øɶmɶɶ,prevent,防ぐ,抽抽搭搭,zh-cn,/ʈʂʰoʊ˥˥ ʈʂʰoʊ˥˥ ta˥˥ ta˥˥/,oʊoʊɶɶ,Pump,ポンプ,kyaku,ɶɶ,verb,4
+empêcher,fr,/ɑ̃pɛʃe/,ɑœø,to prevent,防ぐため,averell,en,/ɑvɛˈɹeɪɫ/,ɑœøʏ,averell,アベレル,to,œø,verb,3
+pergament,ro,/perɡament/,øɶømb,parchment,羊皮紙,insolvent,en,/ˌɪnˈsɑɫvənt/,ʏmɑəmb,insolvent,支払不能,kyaku,mb,adjective,3
+ベラム,ja,/beɾamɯ/,øɶu,Bellam,ベラム,氯化物,zh-cn,/ly˥˩ xwa˥˩ u˥˩/,ybɶu,chloride,塩化,kyaku,ɶu,noun,3
+牛皮纸,zh-cn,/njoʊ˧˥ pʰi˧˥ ʈʂɚ˨˩˦/,moʊbyə,Cowhide,カウハイド,strafidă,ro,/strafidə/,bbɶyə,Strafid,strafid,kyaku,yə,noun,3
+石英,ja,/sekiei/,øyøy,quartz,石英,herirles,es,/eɾiɾles/,øyøb,hurt them,それらを傷つけます,to,yø,noun,3
+accessible,en,/ækˈsɛsəbəɫ/,æbœəə,accessible,アクセス可能,ascultămă,ro,/askultəmə/,ɶbubəə,hear me out,聞いてください,kyaku,əə,adjective,4
+accesibil,ro,/aktʃesibil/,ɶbbøyyb,accessible,アクセス可能,inoffensives,fr,/inɔfɑ̃siv/,yɔɑyb,harmless,無害,kyaku,yb,adjective,4
+saatavilla,fi,/ˈsɑɑtɑˌvillɑ/,ɑɑɑybɑ,at hand,手元に,apparentement,fr,/apaʁɑ̃tmɑ̃/,ɶɶɑbɑ,apparent,見かけ上,kyaku,bɑ,adjective,4
+aðgengilegt,is,/aðceiɲcɪlɛxt/,ɶbøymʏœbb,accessible,アクセス可能,لاتخف,ar,/liʔataxaff/,yɶɶɶbb,Do not be afraid,恐れることはありません,kyaku,bb,adjective,4
+päärynä,fi,/ˈpæærynæ/,ææyæ,pear,梨,rezistare,ro,/rezistare/,umuɶb,resisted,抵抗した,kyaku,,verb,3
+كمثرى,ar,/kummaθraː/,umɶbɶ,pears,洋ナシ,供鲜花,zh-cn,/kʊŋ˥˩ ɕjɛn˥˥ xwa˥˥/,ʊmbœmbɶ,Bloom,咲く,kyaku,bɶ,verb,3
+nemandi,is,/nɛːmantɪ/,œɶmʏ,student,学生,lukenbill,en,/ˈɫukɪnbɪɫ/,uʏmʏ,lukenbill,ルケンビル,kyaku,mʏ,noun,3
+ストレッチ,ja,/sɯtoɾetɕːi/,uoøbby,stretch,ストレッチ,Lagerhaustür,de,/ˈlɑːgɛɾaostyɾ/,ɑœɶoby,Warehouse door,倉庫のドア,kyaku,by,noun,4
+venyttää,fi,/ˈvenyttææ/,øybææ,stretch,ストレッチ,revigliĝi,eo,/reviglid͡ʒi/,øybyby,to recover,回復する,to,yb,verb,4
+claridad,es,/klaɾiðað/,bɶyɶb,clarity,明快さ,hidrograd,ro,/hidroɡrad/,ybobɶb,hydrograde,ハイドログレード,kyaku,ɶb,noun,3
+trong trẻo,vi,/ʈɔŋ͡m˧˥ ʈeo˧˩˨/,ɔmmøo,clarity,明快さ,가계도,ko,/ka̠ɡje̞do̞/,ɶbøo,family tree,家系図,kyaku,øo,noun,3
+útblástur,is,/uːtplaustʏr/,ubbɶubʏ,exhaust,排気,くっ付く,ja,/kɯtsːɯkɯ/,ubbuu,Stick to,くっ付く,to,bb,noun,3
+pakokaasu,fi,/ˈpɑkoˌkɑɑsu/,ɑoɑɑu,exhaust,排気,toshiharu,en,/ˌtoʊʃɪˈhɑɹu/,oʊʏɑu,toshiharu,トシハル,kyaku,ɑu,noun,4
+escape,es,/eskape/,øbɶø,,,외삼촌,ko,/ø̞sʰa̠mt͡ɕʰo̞n/,øbɶmbbom,uncle,おじさん,to,bɶ,noun,3
+王国,ja,/oɯkokɯ/,ouou,Kingdom,王国,堰塞湖,zh-cn,/jɛn˥˩ sɤ˥˩ xu˧˥/,œmou,Damper lake,ダンパー湖,kyaku,ou,noun,3
+Königreich,de,/ˈkøːnɪkˌʁai̯ç/,øʏbɶy,kingdom,王国,Tout-Paris,fr,/tupaʁi/,uɶy,All-Paris,オールパリ,kyaku,ɶy,noun,3
+kerajaan,id,/kəradʒaʔan/,əɶbɶɶm,kingdom,王国,Vierjahresplan,de,/viːɾjɑɾɛspˈlan/,yɑœbbɶm,Four -year plan,4年計画,kyaku,ɶm,noun,4
+たとえ話,ja,/tatoebanaɕi/,ɶoøɶɶy,Parable,たとえ話,Taucherausrüstung,de,/ˈtaoxeɾaosɾʏstʊŋ/,ɶoøɶobʏbʊm,Diving equipment,ダイビング機器,to,oøɶ,noun,5
+perumpamaan,id,/pərumpamaʔan/,əumɶɶɶm,parable,たとえ話,대기대순환,ko,/tɛ̝ɡidɛ̝sʰunβwa̠n/,œyœbumbɶm,Atmospheric,大気,kyaku,ɶm,adjective,5
+parable,en,/ˈpɛɹəbəɫ/,œəə,parable,たとえ話,keseser,id,/kəsəsər/,əəə,kesser,ケサー,kyaku,əə,adjective,3
+アプライアンス,ja,/apɯɾaiaɴsɯ/,ɶuɶyɶmu,Appliance,アプライアンス,경제장성률,ko,/kjʌ̹ŋd͡ʑe̞d͡ʑa̠ŋsʰʌ̹ŋɲjuɭ/,bɔmbøbɶmbɔmmu,Economic Jangseong Rate,経済的なジャンソングレート,kyaku,mu,noun,5
+appareil,fr,/apaʁɛj/,ɶɶœ,device,デバイス,선발대,ko,/sʰʌ̹nba̠ɭdɛ̝/,bɔmɶœ,Starter,スターター,kyaku,ɶœ,noun,3
+appliance,en,/əˈpɫaɪəns/,əbɶʏəmb,appliance,アプライアンス,thuyết định mệnh,vi,/tʰwiək˦˥ din˨ˀ˩ʔ men˨ˀ˩ʔ/,byəbymbømb,fate theory,運命理論,kyaku,mb,noun,3
+callejón,es,/kaʎeˈxon/,ɶøom,alley,路地,terowong,id,/tərowoŋ/,əoom,tunnel,トンネル,kyaku,om,noun,3
+markaður,is,/mar̥kaðʏr/,ɶɶʏ,market,市場,daranging,de,/daˈɾaŋɪŋ/,ɶɶʏm,in this,これで,to,ɶʏ,noun,3
+pemasar,id,/pəmasar/,əɶɶ,marketer,マーケティング担当者,バーサーカ,ja,/baːsaːka/,ɶɶɶ,Berserker,バーサーカー,kyaku,ɶɶ,noun,3
+شيطاني,ar,/ʃeɪtˤaːnijj/,øʏbɶy,demonic,悪魔,sómakær,is,/souːmacaiːr/,ouɶɶy,reasonable,適正,kyaku,ɶy,adjective,3
+gjaldkeri,is,/caltcɛrɪ/,ɶbbœʏ,cashier,レジ,ザッツオーケー,ja,/zatsːɯoːkeː/,ɶbbuoø,Zets OK,ザッツオーケー,to,bb,noun,3
+teatteri,fi,/ˈteɑtˌteri/,øɑbøy,theater,シアター,aveulie,fr,/avøli/,ɶøy,convenience,快適,kyaku,øy,noun,3
+delikata,eo,/delikata/,øyɶɶ,delicate,繊細,良かったら,ja,/jokatːaɾa/,oɶbɶɶ,If you'd like,良かったら,kyaku,ɶɶ,adjective,4
+keengganan,id,/kəʔəŋganan/,əəmɶɶm,reluctance,不本意,annunzio,en,/əˈnənzioʊ/,əəmyoʊ,annunzio,Annunzio,to,əm,noun,4
+reluctance,en,/ɹiˈɫəktəns/,yəbəmb,reluctance,不本意,parament,ro,/parament/,ɶɶømb,facing,顔に,kyaku,mb,noun,3
+不本意,ja,/ɸɯhoɴi/,uoy,Unwilling,不本意,escomí,es,/eskoˈmi/,øboy,I escomí,私はエスコンです,kyaku,oy,noun,3
+omega,en,/oʊˈmeɪɡə/,oʊøʏə,omega,オメガ,nachdrücke,de,/ˈnaxˌdɾʏkə/,ɶbbʏə,follow -up,ファローアップ,kyaku,ʏə,noun,3
+omega,es,/omeɣa/,oøɶ,omega,オメガ,잘되다,ko,/t͡ɕa̠ɭdø̞da̠/,bɶøɶ,go well,うまく行きます,kyaku,øɶ,verb,3
+오메가,ko,/o̞me̞ɡa̠/,oøɶ,omega,オメガ,affrétas,fr,/afʁeta/,ɶbøɶ,charter,チャーター,kyaku,øɶ,noun,3
+チンチラ,ja,/tɕiɴtɕiɾa/,bymbyɶ,Chinchilla,チンチラ,berlidah,id,/bərlidah/,əyɶ,tongue,舌,kyaku,yɶ,noun,3
+친칠라,ko,/t͡ɕʰint͡ɕʰiɭɭa̠/,bbymbbyɶ,chinchilla,チンチラ,bibirnya,id,/bibirɲa/,yyɶ,His lips,彼の唇,kyaku,yɶ,noun,3
+サスペンド,ja,/sasɯpeɴdo/,ɶuømo,suspend,サスペンド,nosocomiaux,fr,/nɔzɔkɔmjo/,ɔɔɔmo,nosocomia,Nosocomia,kyaku,mo,noun,4
+interrompi,eo,/interrompi/,ymøomy,to interrupt,邪魔をして,nilakandi,id,/nilakandi/,yɶɶmy,azure,azure,kyaku,my,verb,4
+aussetzen,de,/ˈʔaosˌzɛtsən/,ɶobœbəm,expose,公開,保つ,ja,/tamotsɯ/,ɶobu,keep,保つ,to,ob,verb,3
+osteri,fi,/ˈosteri/,obøy,oyster,カキ,potreemos,es,/potɾeemos/,obøøob,Let's plead,嘆願しましょう,to,bø,verb,3
+stridie,ro,/stridije/,bbyyø,oyster,カキ,squeamishness,en,/ˈskwimɪʃnəs/,bbyʏəb,squeamishness,きしむ,to,by,noun,3
+Personal,de,/pɛɾˈzoːnal/,œoɶb,staff,スタッフ,فالبشمق,ar,/faaːlbaʃmaq/,ɶɶbɶɶb,Pscroch,pscroch,kyaku,ɶb,noun,3
+personnel,fr,/pɛʁsɔnɛl/,œbɔœb,personal,個人的,개평방,ko,/kɛ̝pʰjʌ̹ŋba̠ŋ/,œbɔmɶm,Dog,犬,to,bɔ,noun,3
+tiimalasi,fi,/ˈtiimɑˌlɑsi/,yyɑɑy,hourglass,砂時計,mastronardi,en,/mæstɹoʊˈnɑɹdi/,æbboʊɑy,mastronardi,マストロナルディ,kyaku,ɑy,verb,4
+melestarikan,id,/mələstarikan/,əəbɶyɶm,conserve,保存します,novelizaran,es,/noβeliθaɾan/,oøyɶɶm,novelized,新規,kyaku,ɶm,verb,5
+bewahren,de,/bəˈvaːʁən/,əɶəm,maintain,維持,gối đầu giường,vi,/ɣoj˩˧ dɤ̆w˦˨ jɯəŋ˦˨/,oouəm,pillow,まくら,kyaku,əm,verb,3
+conservare,ro,/konservare/,omøɶø,conservation,保全,ĉiaokaze,eo,/t͡ʃiaokaze/,byɶoɶø,just in case,念のため,kyaku,ɶø,noun,4
+Analogie,de,/ˈʔanʔɑloˈgiː/jə/,ɶmɑoyə,analogy,類推,ốm liệt giường liệt chiếu,vi,/om˩˧ liək˨ˀ˩ʔ jɯəŋ˦˨ liək˨ˀ˩ʔ ciəw˩˧/,omyəbbuəmyəbbyə,bedridden bed,寝たきりベッド,kyaku,yə,noun,5
+類推,ja,/ɾɯisɯi/,uyuy,analogy,類推,Musikus,de,/ˈmuːzikus/,uyub,Music,音楽,to,yu,noun,3
+analogía,es,/analoˈxia/,ɶɶoyɶ,analogy,類推,阿爾及,ja,/aɾɯdʑieɾia/,ɶubyøyɶ,Aji and,阿爾及,kyaku,yɶ,verb,5
+analogie,fr,/analɔʒi/,ɶɶɔy,analogy,類推,Paradoxon,de,/paˈʁaːdɔksɔn/,ɶɶɔbɔm,Paradox,逆説,to,ɶɔ,noun,4
+sköpunargáfu,is,/skœːpʏnarkauːvʏ/,bœʏɶɶuʏ,creativity,創造性,specification,en,/ˌspɛsɪfɪˈkeɪʃən/,bœʏʏøʏəm,specification,仕様,to,œʏ,noun,5
+creativity,en,/ˌkɹieɪˈtɪvəti/,byøʏʏəy,creativity,創造性,慈善事業,ja,/dʑizeɴdʑigjoɯ/,byømbybou,Charity business,慈善事業,to,yø,noun,5
+aldea,es,/aldea/,ɶbøɶ,village,村,pikema,eo,/pikema/,yøɶ,stinging,刺し傷,kyaku,øɶ,verb,3
+senaatti,fi,/ˈsenɑɑtti/,øɑɑby,senate,上院,hafnarfrí,is,/hapnarfriː/,ɶbɶby,port holiday,ポートホリデー,kyaku,by,noun,3
+参议院,zh-cn,/tsʰan˥˥ i˥˩ ɥœn˥˩/,bbɶmyœm,Senate,上院,stratosfér,id,/stratosfer/,bbɶobø,Stratosfér,stratosfér,to,bɶ,noun,3
+senado,es,/senaðo/,øɶo,senate,上院,miogalo,eo,/miogalo/,yoɶo,myogal,myogal,kyaku,ɶo,adjective,3
+tuomio,fi,/ˈtuomio/,uoyo,judgment,判定,chữ gô tích,vi,/cɯ˧˩˨ ɣo˧˥ tit˦˥/,uoyb,The word Gho,ghoという言葉,to,oy,noun,3
+判定,ja,/haɴtei/,ɶmøy,judgement,判定,泔水,zh-cn,/kan˥˥ ʂweɪ˨˩˦/,ɶmøʏ,swill,すすります,to,mø,noun,3
+Beurteilung,de,/bəʔʊɾˈtəiːlʊŋ/,əʊəyʊm,judgement,判定,executone,en,/ˌɛɡˈzɛkjuˌtoʊn/,œbœbuoʊm,executone,executone,kyaku,ʊm,noun,4
+حكم,ar,/ħakama/,ɶɶɶ,Rule,ルール,wawasan,id,/wawasan/,ɶɶɶm,outlook,見通し,to,ɶɶ,noun,3
+inglenook,en,/ˈɪŋɡəɫˌnʊk/,ʏməʊb,inglenook,Inglenook,丙申年,zh-cn,/pɪŋ˨˩˦ ʂən˥˥ njɛn˧˥/,ʏməmmœm,Bingshen Year,ビンシェンの年,to,mə,noun,3
+회로망,ko,/hø̞ɾo̞ma̠ŋ/,øoɶm,network,通信網,defora,eo,/defora/,øoɶ,Defora,デフォラ,to,oɶ,noun,3
+akatemia,fi,/ˈɑkɑˌtemiɑ/,ɑɑøyɑ,academy,学校,Nordcarolina,de,/ˈnɔɾtkɑɾolinɑ/,ɔbɑoyɑ,North Carolina,ノースカロライナ州,kyaku,yɑ,noun,5
+academy,en,/əˈkædəmi/,əæəy,academy,学校,bădădăi,ro,/bədədəi/,əəəy,Bădădăi,bîdòdæ,kyaku,əy,noun,4
+academie,ro,/akademije/,ɶɶøyø,academy,学校,匂菫,ja,/nioisɯmiɾe/,yoyuyø,Fragrance,匂菫,kyaku,yø,noun,5
+academia,es,/akaðemja/,ɶɶømɶ,academy,学校,nýbyggingar,is,/niːpɪciŋkar/,yʏymɶ,new building,新しい建物,kyaku,mɶ,noun,4
+学校,ja,/gakːoɯ/,ɶbou,school,学校,alkóa,is,/alkoua/,ɶbouɶ,alcohol,アルコール,to,bou,noun,3
+مخطط,ar,/muxatˤˤitˤ/,uɶbyb,Scheme,図式,Selbstkritik,de,/ˈzɛlpstkɾitik/,œbbbbbyyb,Self -criticism,自己批判,kyaku,yb,noun,3
+kaavio,fi,/ˈkɑɑvio/,ɑɑyo,chart,チャート,염기도,ko,/jʌ̹mɡido̞/,ɔmyo,basicity,基本性,kyaku,yo,noun,3
+متستر,ar,/mutasattir/,uɶɶby,sneaky,卑劣,Húsabakka,is,/huːsapahka/,uɶɶɶ,Húsabakki,húsabakki,to,ɶɶ,noun,4
+conformidad,es,/komfoɾmiðað/,omoyɶb,accordance,に従って,somnolență,ro,/somnolentsə/,omoømbə,sleepiness,眠気,to,mo,noun,4
+samkomulag,is,/samkʰɔmʏlaːɣ/,ɶmbɔʏɶ,pact,協定,mạnh bạo xó bếp,vi,/man˨ˀ˩ʔ baw˨ˀ˩ʔ sɔ˩˧ bep˦˥/,ɶmbɶbɔøb,strong kitchen,強いキッチン,to,mb,noun,4
+توافق,ar,/taʊaːfaqa/,ɶʊɶɶɶ,agree,同意,après-rasages,fr,/apʁɛʁazaʒ/,ɶbœɶɶ,after-shaving,株式後,kyaku,ɶɶ,noun,4
+다이어리,ko,/ta̠iʌ̹ɾi/,ɶyɔy,diary,日記,萝卜泥,zh-cn,/luɔ˧˥ pɔ˧ ni˧˥/,uɔɔy,Radish,だいこん,kyaku,ɔy,noun,3
+diary,en,/ˈdaɪɝi/,ɶʏəy,diary,日記,Waschküche,de,/ˈvaʃkʏçə/,ɶʏə,washroom,洗面所,to,ʏə,noun,3
+オールディー,ja,/oːɾɯdeiː/,ouøy,Oldie,オールディー,ruumiinkieli,fi,/ˈruumiinˌkieli/,uuyymyøy,body language,ボディランゲージ,kyaku,øy,noun,4
+maljunulo,eo,/maljunulo/,ɶbuuo,old man,老人,kansantulo,fi,/ˈkɑnsɑnˌtulo/,ɑmɑmuo,entry,エントリ,kyaku,uo,noun,4
+verkefni,is,/vɛr̥kɛpnɪ/,œœbʏ,undertaking,事業,blogosphere,en,/ˈbɫɔɡəsˌfɪɹ/,bɔəbʏ,blogosphere,ブロゴスフィア,kyaku,bʏ,noun,3
+kylvää,fi,/ˈkylvææ/,ybææ,sow,播種,redrafted,en,/ɹiˈdɹæftɪd/,ybæbʏb,redrafted,再生された,to,bæ,verb,3
+menabur,id,/mənabur/,əɶu,sow,播種,afmá,is,/avmau/,ɶbɶu,erase,消去します,kyaku,ɶu,verb,3
+مشمئز,ar,/muʃmaʔizz/,uɶybb,disgusted,うんざり,kunagi,eo,/kunagi/,uɶy,to join,参加する,to,ɶy,verb,3
+disgustado,es,/dizɣustaðo/,ybubɶo,disgusted,うんざり,cả tiếng dài hơi,vi,/ka˧˩˨ tiəŋ˩˧ jaj˦˨ hɤj˧˥/,ɶyəmɶo,The whole hour is long,1時間は長いです,kyaku,ɶo,adjective,4
+disgusted,en,/dɪsˈɡəstəd/,ʏbəbəb,disgusted,うんざり,keresek,id,/kərəsəʔ/,əəəb,scraping,スクレイピング,kyaku,əb,verb,3
+dégoûté,fr,/degute/,øuø,disgust,嫌悪,konsulér,id,/konsuler/,omuø,consular,領事,kyaku,uø,verb,3
+結晶,ja,/keɕːoɯ/,øbou,crystal,結晶,알고무,ko,/a̠ɭɡo̞mu/,ɶou,Altitude,高度,kyaku,ou,noun,3
+revolver,fr,/ʁevɔlvɛʁ/,øɔbœb,revolver,リボルバー,erschüttert,de,/ʔɛːɐˈʃʏtɛɾt/,œɐʏœb,shocked,ショックを受けた,kyaku,œb,verb,3
+revolveri,fi,/ˈrevolˌveri/,øobøy,revolver,リボルバー,murmuregi,eo,/murmuregi/,uuøy,to mutter,つぶやく,kyaku,øy,verb,4
+revolver,en,/ɹɪˈvɑɫvɝ/,ʏɑə,revolver,リボルバー,berate,de,/bəˈɾɑːtə/,əɑə,advisory,アドバイザリー,kyaku,ɑə,verb,3
+revólver,es,/reˈβolβeɾ/,øobø,stir,混ぜる,steinalte,de,/ˈʃtəɪnˌʔalte/,əʏmɶbø,stone altitude,石の高度,kyaku,bø,verb,3
+maatila,fi,/ˈmɑɑtilɑ/,ɑɑyɑ,farm,農場,Lexika,de,/ˈleːksikɑ/,øbyɑ,Lexica,レキサ,kyaku,yɑ,noun,3
+colateral,es,/kolateɾal/,oɶøɶb,collateral,担保,وكالأقوياء,ar,/wakaaːlʔaqwiːaːʔ/,ɶɶɶbɶbyɶb,And the powerful,そして強力な,kyaku,ɶb,adjective,4
+jaminan,id,/dʒaminan/,bɶyɶm,guarantee,保証,deslenguan,es,/dezleŋgwan/,øbømbɶm,Sleeping,睡眠,kyaku,ɶm,noun,3
+collateral,en,/kəˈɫætɝəɫ/,əæəə,collateral,担保,Tiefsee,de,/ˈtiːfzəə/,ybəə,Deep sea,深海,kyaku,əə,noun,3
+tryggingar,is,/tʰrɪciŋkar/,bʏymɶ,insurance,保険,flamenco,fr,/flamɛnka/,bɶœmɶ,flamenco,フラメンコ,kyaku,mɶ,noun,3
+Broschüre,de,/bʀɔˈʃyːʀə/,bɔyə,brochure,パンフレット,garnica,en,/ɡɑɹˈnikə/,ɑyə,garnica,ガルニカ,kyaku,yə,noun,3
+小册子,zh-cn,/ɕjɑʊ˨˩˦ tsʰɤ˥˩ tsɯ˧/,bɑʊbbobu,booklet,冊子,Zahlungsort,de,/ˈtsɑlʊŋzɔɾt/,bɑʊmɔb,Place of payment,支払い場所,to,ɑʊ,noun,3
+respaldo,es,/respaldo/,øbɶbo,back,戻る,neuvosto,fi,/ˈneuvosto/,øuobo,council,評議会,kyaku,bo,noun,3
+دعم,ar,/daʕama/,ɶɶɶ,to support,サポートする,nước đời nhà ai,vi,/nɯək˦˥ dɤj˦˨ ɲa˦˨ aj˧˥/,uəboɶɶ,Water of whose family,その家族の水,kyaku,ɶɶ,noun,3
+cadangan,id,/tʃadaŋan/,bɶɶɶm,reserve,予約,优越感,zh-cn,/joʊ˥˥ ɥœ˥˩ kan˨˩˦/,oʊœɶm,Superiority,優位性,kyaku,ɶm,noun,3
+subsidiary,en,/səbˈsɪdiˌɛɹi/,əbʏyœy,subsidiary,子会社,Betrübnissen,de,/bəˈtɾʏbnɪszən/,əbʏbʏbəm,Sadness,悲しみ,to,bʏ,noun,4
+子公司,zh-cn,/tsɯ˨˩˦ kʊŋ˥˥ sɯ˥˥/,buʊmu,Subsidiary,子会社,cảm thán ngữ,vi,/kam˧˩˨ tʰaŋ˩˧ ŋɯ˧˩˨/,ɶmbɶmu,exclamation,感嘆符,kyaku,mu,noun,3
+자회사,ko,/t͡ɕa̠ɦø̞sʰa̠/,bɶøbɶ,Subsidiary company,子会社,adiknya,id,/adiʔɲa/,ɶybɶ,his sister,妹,kyaku,bɶ,noun,3
+Tochtergesellschaft,de,/ˈtɔxtɛɾgezɛllstshaft/,ɔbœøœbbbbbɶbb,subsidiary,子会社,فسنستطب,ar,/fasanastatˤibb/,ɶɶɶbɶbybb,We will all,私たちは皆でしょう,kyaku,bb,noun,5
+tytäryhtiö,fi,/ˈtytæˌryhtiø/,yæyyø,subsidiary,子会社,xerografíe,es,/kseɾoɣɾaˈfie/,bøoɶyø,xerograpia,Xerograpia,kyaku,yø,noun,5
+地殻,ja,/tɕikakɯ/,byɶu,Crust,地殻,benalu,id,/bənalu/,əɶu,parasite,寄生虫,kyaku,ɶu,noun,3
+lainsäätäjä,fi,/ˈlɑinsææˌtæjæ/,ɑymææææ,lawgiver,Lawgiver,galindo,en,/ɡɑˈɫindoʊ/,ɑymoʊ,galindo,ガリンド,to,ym,noun,4
+legislator,en,/ˈɫɛdʒəˌsɫeɪtɝ/,œbəbøʏə,legislator,議員,bergeronnettes,fr,/bɛʁʒəʁɔnɛt/,œbəɔœb,shepherds,羊飼い,to,bə,noun,4
+Kampagne,de,/ˈkampagnə/,ɶmɶbə,campaign,運動,淡彩画,ja,/taɴsaiga/,ɶmɶyɶ,Light painting,淡彩画,to,mɶ,noun,3
+campanie,ro,/kampanije/,ɶmɶyø,campaign,運動,반항문학,ko,/pa̠nɦa̠ŋmunɦa̠k̚/,ɶmɶmumɶb,Rebellion,反乱,to,mɶ,noun,4
+kampanja,fi,/ˈkɑmpɑnjɑ/,ɑmɑmɑ,campaign,運動,gandara,en,/ɡɑnˈdɑɹə/,ɑmɑə,gandara,ガンダラ,to,mɑ,noun,3
+kampanye,id,/kampaɲə/,ɶmɶə,campaign,運動,تمتصص,ar,/tamtasˤisˤ/,ɶmɶbyb,Suck,吸う,to,mɶ,noun,3
+penyelam,id,/pəɲəlam/,əəɶm,diver,ダイバー,浚泥船,zh-cn,/tɕyn˥˩ ni˧˥ ʈʂʰwan˧˥/,bymyɶm,Mud boat,マッドボート,kyaku,ɶm,noun,3
+プランジャー,ja,/pɯɾaɴdʑaː/,uɶmbɶ,Planger,プランジャー,úrlausnar,is,/urlœistnar/,uœybbɶ,resolution,解像度,kyaku,bɶ,noun,3
+تؤثر,ar,/tuʔaθθir/,uɶby,effect,効果,súrsaðri,is,/sur̥saðrɪ/,uɶbʏ,pickled,ピクルス,to,ɶb,verb,3
+affecter,fr,/afɛkte/,ɶœbø,affect,影響,appelsín,is,/ahpɛlsin/,ɶœbym,orange,,to,œb,verb,3
+vaikuttaa,fi,/ˈvɑikuttɑɑ/,ɑyubɑɑ,influence,影響,montesdeoca,en,/moʊntɛsdiˈɑkɑ/,oʊmœbyɑɑ,montesdeoca,モンテスデオカ,kyaku,ɑɑ,verb,4
+beeinträchtigen,de,/bəˈʔaenˌtɾɛçtɪgən/,əɶømbœʏəm,affect,影響,得理不饶人,zh-cn,/tɤ˧˥ li˨˩˦ pu˥˩ ʐɑʊ˧˥ ʐən˧˥/,oyuɑʊəm,Ignorant,無知,kyaku,əm,verb,5
+suggestion,fr,/sygʒɛstjɔ̃/,ybœbbɔ,suggestion,提案,Spielbällen,de,/ˈʃpiːlbɛllən/,ybœbəm,Play balls,ボールをプレイします,to,bœb,noun,3
+Anregung,de,/ˈʔanˌɾeːgʊŋ/,ɶmøʊm,Stimulation,刺激,lanterno,eo,/lanterno/,ɶmøo,lantern,灯籠,to,mø,noun,3
+ehdotus,fi,/ˈehdotus/,øoub,proposal,提案,pămătuf,ro,/pəmətuf/,əəub,whisk,泡立てます,kyaku,ub,noun,3
+tillaga,is,/tʰɪlaɣa/,bʏɶɶ,proposition,命題,위안하다,ko,/ɥia̠nɦa̠da̠/,yɶmɶɶ,Comfort,快適,kyaku,ɶɶ,noun,3
+suggestion,en,/səˈdʒɛstʃən/,əbœbbəm,suggestion,提案,notulen,id,/notulən/,ouəm,Minutes,分,kyaku,əm,noun,3
+sugerencia,es,/suxeɾenθja/,uøømbɶ,suggestion,提案,语言学家,zh-cn,/y˨˩˦ jɛn˧˥ ɕɥœ˧˥ tɕja˥˥/,yœmbœbbɶ,linguist,言語学者,kyaku,bɶ,noun,4
+fanatik,id,/fanatiʔ/,ɶɶyb,fanatical,狂信的,supersede,en,/ˌsupɝˈsid/,uəyb,supersede,代替,kyaku,yb,verb,3
+yltiöpäinen,fi,/ˈyltiøˌpæinen/,ybyøæyøm,rabid,狂犬病,lastimasen,es,/lastimasen/,ɶbyɶøm,Lasts in,続きます,kyaku,øm,verb,4
+タウンシップ,ja,/taɯɴɕipːɯ/,ɶumybu,Township,タウンシップ,námsgreinar,is,/naumskreinar/,ɶumbbøyɶ,subject,主題,to,um,noun,3
+Labyrinth,de,/ˈlɑːbyɾɪnt/,ɑyʏmb,labyrinth,ラビリンス,conversant,en,/kənˈvɝsənt/,əməəmb,conversant,精通,kyaku,mb,noun,3
+madriguera,es,/maðɾiɣeɾa/,ɶbyøɶ,burrow,潜る,passivierten,de,/pasˈziːfiːɾtən/,ɶbyyəm,passivated,パッシブ,to,by,verb,4
+economics,en,/ˌɛkəˈnɑmɪks/,œəɑʏbb,economics,経済,dótturfélags,is,/touhtʏrfjɛːlaxs/,ouʏbœɶbb,subsidiary,子会社,kyaku,bb,noun,4
+économie,fr,/ekɔnɔmi/,øɔɔy,economy,経済,폐수처리,ko,/pʰje̞sʰut͡ɕʰʌ̹ɾi/,bøbubbɔy,Wastewater treatment,廃水処理,kyaku,ɔy,noun,4
+경제학,ko,/kjʌ̹ŋd͡ʑe̞ɦa̠k̚/,bɔmbøɶb,economics,経済,Nachgeschmack,de,/ˈnaːxɡəˌʃmak/,ɶbəɶb,aftertaste,後味,kyaku,ɶb,noun,3
+manicure,en,/ˈmænɪkjɝ/,æʏbə,manicure,マニキュア,peniță,ro,/penitsə/,øybə,pen,ペン,kyaku,bə,noun,3
+マニキュア,ja,/manikjɯa/,ɶybuɶ,Manicure,マニキュア,maizviskio,eo,/maizviskio/,ɶybybyo,corn whiskey,コーンウイスキー,to,yb,noun,4
+manikyyri,fi,/ˈmɑniˌkyyri/,ɑyyyy,manicure,マニキュア,mengasini,id,/məŋasini/,əɶyy,ASTALI,アスタリ,kyaku,yy,noun,4
+방정식,ko,/pa̠ŋd͡ʑʌ̹ŋɕʰik̚/,ɶmbɔmbyb,equation,方程式,andleysið,is,/antlɛjsɪð/,ɶmbœʏb,disorder,障害,to,mb,noun,3
+persamaan,id,/pərsamaʔan/,əɶɶɶm,equality,平等,فلاعصام,ar,/faliʔaʕsˤaːm/,ɶyɶbbɶm,Issam,イサム,kyaku,ɶm,noun,4
+yhtälö,fi,/ˈyhtælø/,yæø,equation,方程式,生闷气,zh-cn,/ʂɤŋ˥˥ mən˥˩ tɕʰi˥˩/,oməmbby,Sulking,ゆっくり,,,noun,3
+lainsuojaton,fi,/ˈlɑinsuoˌjɑton/,ɑymuoɑom,outlaw,無法者,troquelaron,es,/tɾokelaɾon/,boøɶom,They struggled,彼らは苦労しました,kyaku,om,verb,4
+penjahat,id,/pəndʒahat/,əmbɶɶb,criminal,犯罪的,珍贵,zh-cn,/ʈʂən˥˥ kweɪ˥˩/,əmbøʏ,precious,貴重,to,mb,verb,3
+votlendi,is,/vɔːtlɛntɪ/,ɔbœmʏ,marsh,マーシュ,doppelnden,de,/ˈdɔppɛlndən/,ɔbœbməm,double,ダブル,to,bœ,verb,3
+dublare,ro,/dublare/,ubɶø,doubling,倍増,側女,ja,/sobame/,oɶø,Side woman,側女,kyaku,ɶø,noun,3
+doubling,en,/ˈdəbəɫɪŋ/,əəʏm,doubling,倍増,不要紧,zh-cn,/pu˧˥ jɑʊ˥˩ tɕɪn˨˩˦/,uɑʊbʏm,Not tight,きつくない,kyaku,ʏm,verb,3
+tvöföldun,is,/tʰvœːfœltʏn/,bœœbʏm,duplication,複製,combating,en,/kəmˈbætɪŋ/,əmæʏm,combating,戦闘,kyaku,ʏm,verb,3
+vahingoittaa,fi,/ˈvɑhinˌgoittɑɑ/,ɑymoybɑɑ,damage,ダメージ,Herrenpyjama,de,/ˈheːɐ̯ˌɾɛnpyjɑmɑ/,øɐœmyɑɑ,Men's pyjamas,男性のパジャマ,kyaku,ɑɑ,noun,5
+todellisuus,fi,/ˈtodelˌlisuus/,oøbyuub,reality,現実,badmintonráð,is,/patmɪntʰɔnraːuð/,ɶbʏmbɔmɶub,badminton,バドミントン,kyaku,ub,noun,4
+référence,fr,/ʁefeʁɑ̃s/,øøɑb,reference,参照,Telegraf,de,/ˈteːlɛgɾɑf/,øœbɑb,Telegraph,電信,kyaku,ɑb,noun,3
+المرجعي,ar,/aːlmardʒiʕijj/,ɶbɶbyy,Reference,参照,アッパーカット,ja,/apːaːkatːo/,ɶbɶɶbo,Upper cut,アッパーカット,to,bɶ,noun,4
+参照,ja,/saɴɕoɯ/,ɶmou,reference,参照,đánh trống lảng,vi,/dan˩˧ ʈoŋ͡m˩˧ laŋ˧˩˨/,ɶmommɶm,change the subject,主題を変更します,to,mo,noun,3
+pirrandi,is,/pʰɪrantɪ/,bʏɶmʏ,annoying,迷惑,whittinghill,en,/ˈhwɪtɪŋˌhɪɫ/,ʏʏmʏ,whittinghill,Whittinghill,kyaku,mʏ,verb,3
+irritante,es,/iritante/,yyɶmø,annoying,迷惑,quân chủ chuyên chế,vi,/wɤ̆ŋ˧˥ cu˧˩˨ cwiəŋ˧˥ ce˩˧/,omuyəmø,monarchy,君主制,kyaku,mø,adjective,4
+annoying,en,/əˈnɔɪɪŋ/,əɔʏʏm,annoying,迷惑,heranging,de,/hɛˈɾanˌgɪŋ/,œɶmʏm,rectification,整流,kyaku,ʏm,verb,3
+mengganggu,id,/məŋgaŋgu/,əmɶmu,disturb,乱す,renouassiez,fr,/ʁənwasje/,əmɶbø,revive,復活します,to,mɶ,verb,3
+悪夢,ja,/akɯmɯ/,ɶuu,nightmare,悪夢,propriului,ro,/proprjuluj/,bobuu,of one's own,自分の,kyaku,uu,adjective,3
+dipimpin,id,/dipimpin/,yymym,led,導いた,匠心独运,zh-cn,/tɕjɑŋ˥˩ ɕɪn˥˥ tu˧˥ yn˥˩/,bbɑmʏmuym,Ingenious,独創的,kyaku,ym,verb,3
+maleolo,eo,/maleolo/,ɶøoo,ankle,足首,Mitautor,de,/ˈmɪtˌaotoɾ/,ʏbɶoo,Co -author,共著者,kyaku,oo,noun,3
+sonrojo,es,/sonroxo/,omoo,blush,赤面,șamotor,ro,/ʃamotor/,ɶoo,shaman,シャーマン,kyaku,oo,noun,3
+赤面,ja,/akatsːɯɾa/,ɶɶbbuɶ,blush,赤面,bão táp phong ba,vi,/baw˧˩˨ tap˦˥ fɔŋ͡m˧˥ ba˧˥/,ɶɶbɔmmɶ,Storm storm,ストームストーム,to,ɶb,noun,4
+منبسط,ar,/munbasitˤ/,umɶyb,flat,平らな,sälähdys,fi,/ˈsælæhdys/,ææyb,splash,スプラッシュ,kyaku,yb,verb,3
+トレッド,ja,/toɾedːo/,oøbo,tread,トレッド,conjunctor,ro,/konʒunktor/,omumbo,conjunction,接続詞,kyaku,bo,noun,3
+kulkea,fi,/ˈkulkeɑ/,ubøɑ,pass,合格,útleigu,is,/uːtleiɣʏ/,ubøyʏ,rent,家賃,to,bø,verb,3
+نكد,ar,/nakida/,ɶyɶ,moodiness,気分,wanita,id,/wanita/,ɶyɶ,woman,女性,kyaku,yɶ,noun,3
+lumihiutale,fi,/ˈlumiˌhiutɑle/,uyyuɑø,snowflake,スノーフレーク,muzikistaro,eo,/muzikistaro/,uyybɶo,music staff,音楽スタッフ,to,yy,noun,5
+スノーフレーク,ja,/sɯnoːɸɯɾeːkɯ/,uouøu,Snow flakes,スノーフレーク,후고구려국,ko,/ˈɸʷuːɡo̞ɡuɾjʌ̹ɡuk̚/,uouɔub,Hugo Guryeo -guk,Hugo Guryeo -Guk,to,ou,noun,5
+impeccable,fr,/ɛ̃pekabl/,œøɶbb,flawless,完璧,olocaust,ro,/olokaust/,ooɶubb,holocaust,ホロコースト,kyaku,bb,verb,3
+imaculat,ro,/imakulat/,yɶuɶb,immaculate,真っ白な,calligraphiâtes,fr,/kaligʁafjat/,ɶybɶbɶb,calligraphiâtes,書道,kyaku,ɶb,verb,4
+グラスファイバー,ja,/gɯɾasɯɸaibaː/,uɶuɶyɶ,Glass fiber,グラスファイバー,فبالاندمار,ar,/fabiaːlindimaːr/,ɶyɶymyɶ,Balmadar,バルマダール,kyaku,yɶ,noun,5
+lasikuitu,fi,/ˈlɑsiˌkuitu/,ɑyuyu,fiberglass,グラスファイバー,sơn thanh thuỷ tú,vi,/ʂɤŋ˧˥ tʰan˧˥ tʰwi˧˩˨ tu˩˧/,ombɶmbyu,Son Thuy Tu,息子のthuy tu,kyaku,yu,noun,4
+korppikotka,fi,/ˈkorppiˌkotkɑ/,obyobɑ,vulture,ハゲタカ,girozentrale,en,/ɡɪˈɹoʊzənˌtɹɑɫ/,ʏoʊəmbɑ,girozentrale,ジロゼントレール,kyaku,bɑ,noun,4
+taco,en,/ˈtɑkoʊ/,ɑoʊ,taco,タコス,阴谋,zh-cn,/ɪn˥˥ moʊ˧˥/,ʏmoʊ,conspiracy,陰謀,kyaku,oʊ,noun,3
+タコス,ja,/takosɯ/,ɶou,Taco,タコス,Schaubude,de,/ˈʃaobudə/,ɶouə,Show,見せる,to,ou,noun,3
+飾り羽,ja,/kazaɾibane/,ɶɶyɶø,Decorative feathers,飾り羽,amatirisme,id,/amatirismə/,ɶɶyybə,amateurism,アマチュアリズム,to,ɶy,noun,5
+penacho,es,/penatʃo/,øɶbo,plume,飾り羽,legalsten,de,/ˈleːgalstən/,øɶbbəm,most legal,最も合法,to,ɶb,verb,3
+plumaro,eo,/plumaro/,buɶo,plumage,羽,truhaneabas,es,/tɾuaneaβas/,buɶøɶɶb,Truhaneabas,Truhaneabas,to,uɶ,noun,3
+cronică,ro,/kronikə/,boyə,chronicle,クロニクル,ý nghĩa,vi,/i˩˧ ŋiə˧˩˨/,yyə,meaningful,意味があります,kyaku,yə,adjective,3
+kronikka,fi,/ˈkronikkɑ/,boybɑ,chronicle,クロニクル,Etatjahr,de,/ˈʔeːtatjɑɾ/,øɶbɑ,Budget year,予算年,kyaku,bɑ,noun,3
+crónica,es,/ˈkɾonika/,boyɶ,chronicle,クロニクル,gelisah,id,/gəlisah/,əyɶ,nervous,緊張,kyaku,yɶ,adjective,3
+chronicle,en,/ˈkɹɑnɪkəɫ/,bɑʏə,chronicle,クロニクル,坏事,zh-cn,/xuaɪ˥˩ ʂɚ˥˩/,uɶʏə,bad thing,悪いこと,kyaku,ʏə,noun,3
+contratación,es,/kontɾataˈθjon/,ombɶɶbom,hiring,雇用,rakkaudeton,fi,/ˈrɑkkɑuˌdeton/,ɑbɑuøom,loveless,愛のない,kyaku,om,noun,4
+Bergbau,de,/bəˈɾkbao/,əbɶo,Mining,マイニング,replâtrant,fr,/ʁəplatʁɑ̃/,əbɶbɑ,replute,再生,to,bɶ,noun,3
+pendapat,id,/pəndapat/,əmɶɶb,opinion,意見,competas,es,/kompetas/,omøɶb,Competes,競争します,kyaku,ɶb,noun,3
+競合,ja,/kjoɯgoɯ/,bouou,Conflict,競合,sportumi,eo,/sportumi/,bouy,to sport,スポーツに,to,ou,verb,3
+contention,fr,/kɔ̃tɑ̃sjɔ̃/,ɔɑbɔ,restraint,拘束,인과설,ko,/inɡwa̠sʰʌ̹ɭ/,ymbɶbɔ,Phosphorus,リン,kyaku,bɔ,noun,3
+vegetarano,eo,/vegetarano/,øøɶɶo,vegetarian,ベジタリアン,コマーシャルアート,ja,/komaːɕaɾɯaːto/,oɶɶuɶo,Commercial art,コマーシャルアート,kyaku,ɶo,noun,5
+vegetarian,en,/ˌvɛdʒəˈtɛˌɹiən/,œbəœyəm,vegetarian,ベジタリアン,援引条文,zh-cn,/ɥœn˧˥ ɪn˨˩˦ tʰjɑʊ˧˥ uən˧˥/,œmʏmbɑʊuəm,Quotation,引用,kyaku,əm,noun,4
+咖啡,zh-cn,/kʰa˥˥ feɪ˥˥/,bɶøʏ,coffee,コーヒー,사회학,ko,/sʰa̠ɦø̞ɦa̠k̚/,bɶøɶb,sociology,社会学,to,ɶø,noun,3
+보드카,ko,/po̞dɯkʰa̠/,oubɶ,vodka,ウォッカ,penetra,eo,/penetra/,øøbɶ,penetrating,浸透,kyaku,bɶ,verb,3
+falsificación,es,/falsifikaˈθjon/,ɶbyyɶbom,falsification,改ざん,セカンドオピニオン,ja,/sekaɴdoopinioɴ/,øɶmooyyom,Second opinion,セカンドオピニオン,kyaku,om,noun,5
+偽造,ja,/gizoɯ/,you,Counterfeiting,偽造,oiseau-mouche,fr,/wazomuʃ/,ɶou,Hummingbird,ハチドリ,kyaku,ou,noun,3
+伪造,zh-cn,/weɪ˨˩˦ tsɑʊ˥˩/,øʏbɑʊ,Fake,偽,سيطر,ar,/seɪtˤara/,øʏbɶɶ,Control,コントロール,to,ʏb,noun,3
+pokero,eo,/pokero/,oøo,poker,ポーカー,Speiserohr,de,/ˈʃpaezeɾoɾ/,ɶøøo,Die,死ぬ,kyaku,øo,noun,3
+familinomo,eo,/familinomo/,ɶyyoo,surname,姓,toạ sơn quan hổ đấu,vi,/twa˨ˀ˩ʔ ʂɤŋ˧˥ waŋ˧˥ ho˧˩˨ dɤ̆w˩˧/,bɶbomɶmoo,Lo Son Quan Tiger,Lo Son Quan Tiger,kyaku,oo,noun,5
+eftirnafn,is,/ɛftɪrnapn̥/,œbʏɶbm,surname,姓,فكالإبن,ar,/fakaaːlibn/,ɶɶɶybm,So the son,だから息子,kyaku,bm,noun,3
+samheiti,is,/saːmheitɪ/,ɶmøyʏ,synonym,シノニム,ambetant,ro,/ambetant/,ɶmøɶmb,Ambet,アンベット,to,mø,adjective,3
+sinonimo,eo,/sinonimo/,yoyo,synonym,シノニム,pilorită,ro,/piloritə/,yoyə,Pilorite,ピロライト,to,oy,adjective,4
+synonyymi,fi,/ˈsynoˌnyymi/,yoyyy,synonym,シノニム,어부지리,ko,/ʌ̹bud͡ʑiɾi/,ɔubyy,Fisherman,漁師,kyaku,yy,adjective,4
+synonymous,en,/səˈnɑnəməs/,əɑəəb,synonymous,同義語,verplapperndes,de,/fɛːɐ̯ˈplappɛɾndəs/,œɐbɶbœməb,chatter,おしゃべり,kyaku,əb,adjective,4
+retină,ro,/retinə/,øyə,retina,網膜,Amtsmühle,de,/ˈʔamtsmylə/,ɶmbbyə,Office mill,オフィスミル,kyaku,yə,noun,3
+網膜,ja,/moɯmakɯ/,ouɶu,retina,網膜,tripatouillent,fr,/tʁipatuj/,byɶu,tripatouil,Tripatouil,kyaku,ɶu,noun,3
+retina,en,/ˈɹɛtənə/,œəə,retina,網膜,tumbărău,ro,/tumbərəw/,uməə,Tumbărău,Tumbîrò,kyaku,əə,noun,3
+خطأ,ar,/xatˤˤaʔa/,ɶbɶɶ,Error,エラー,bakþanka,is,/paːkθauŋ̊ka/,ɶbɶumɶ,rear,後方,to,bɶ,verb,3
+sopia,fi,/ˈsopiɑ/,oyɑ,make up,化粧,jaunissant,fr,/ʒonisɑ̃/,oyɑ,yellowing,黄金,kyaku,yɑ,verb,3
+conspiration,fr,/kɔ̃spiʁasjɔ̃/,ɔbyɶbɔ,conspiracy,陰謀,postino,en,/pɔˈstinoʊ/,ɔbyoʊ,postino,postino,to,by,noun,4
+conspiracy,en,/kənˈspɪɹəsi/,əmbʏəy,conspiracy,陰謀,Benzinfasses,de,/bəˈntsɪnfaszəs/,əmbʏmɶbəb,Petrol barrel,ガソリンバレル,to,mbʏ,noun,4
+konspiro,eo,/konspiro/,ombyo,conspiracy,陰謀,sclipitor,ro,/sklipitor/,bbyyo,brilliant,素晴らしい,kyaku,yo,noun,3
+陰謀,ja,/iɴboɯ/,ymou,conspiracy,陰謀,memoriu,ro,/memorju/,øou,memorial,記念,kyaku,ou,noun,3
+Kojote,de,/koˈjoːtə/,ooə,coyote,コヨーテ,doeloe,id,/doəloə/,oəoə,Doeloe,ドロエ,kyaku,oə,noun,3
+coyote,es,/koʝote/,ooø,coyote,コヨーテ,verbohre,de,/ˈvɛɾpˌʔoɾe/,œboø,bullet,銃弾,kyaku,oø,verb,3
+コヨーテ,ja,/kojoːte/,ooø,Coyote,コヨーテ,memore,eo,/memore/,øoø,in memory,メモリで,kyaku,oø,noun,3
+kojootti,fi,/ˈkojootti/,oooby,coyote,コヨーテ,invitați,ro,/invitatsʲ/,ymyɶby,guests,ゲスト,kyaku,by,verb,3
+danĝera,eo,/dand͡ʒera/,ɶmbøɶ,dangerous,危険な,berbéda,id,/bərbeda/,əøɶ,different,違う,kyaku,øɶ,adjective,3
+رمح,ar,/ramaħa/,ɶɶɶ,Spear,槍,líp ba ga,vi,/lip˦˥ ba˧˥ ɣa˧˥/,ybɶɶ,Ba Ga,ba ga,kyaku,ɶɶ,noun,3
+capital,en,/ˈkæpətəɫ/,æəə,capital,資本,molălău,ro,/molələw/,oəə,Molălău,モルラ,kyaku,əə,noun,3
+capital,ro,/kapital/,ɶyɶb,capital,資本,assiégeasses,fr,/asjeʒas/,ɶbøɶb,besiegeasses,包皮,kyaku,ɶb,noun,3
+応答,ja,/oɯtoɯ/,ouou,response,応答,kornuso,eo,/kornuso/,ouo,cornus,コーナス,to,uo,noun,3
+menanggapi,id,/mənaŋgapi/,əɶmɶy,respond,応答,forregali,eo,/forregali/,oøɶy,gift away,贈り物,kyaku,ɶy,verb,4
+somnolencia,es,/somnolenθja/,omoømbɶ,drowsiness,眠気,咱们大家,zh-cn,/tsan˧˥ mən˧ ta˥˩ tɕja˥˥/,bɶməmɶbbɶ,Let us everyone,みなさん,kyaku,bɶ,noun,4
+眠気,ja,/nemɯke/,øuø,sleepiness,眠気,삼부회,ko,/sʰa̠mbuɦø̞/,bɶmuø,Trilateral,三国間,kyaku,uø,noun,3
+sleepiness,en,/ˈsɫipinəs/,byyəb,sleepiness,眠気,地域化,ja,/tɕiikika/,byyyɶ,Regionalization,地域化,to,yy,noun,3
+symmetria,fi,/ˈsymmetˌriɑ/,ymøbyɑ,symmetry,対称,zamarripa,en,/ˌzɑmɑˈɹipɑ/,ɑɑyɑ,zamarripa,ザマリパ,kyaku,yɑ,noun,4
+simetrie,ro,/simetrije/,yøbyø,symmetry,対称,Steppentiere,de,/ʃtɛpˈpɛntiːɾe/,œbœmyø,Steppe animals,草原動物,kyaku,yø,noun,4
+対称,ja,/taiɕoɯ/,ɶyou,Symmetry,対称,Bariton,de,/ˈbaɽiːtoːn/,ɶyom,baritone,バリトン,to,yo,noun,3
+ajedrez,es,/axeðɾeθ/,ɶøbøb,Chess,チェス,gaseca,eo,/gaset͡sa/,ɶøbɶ,Gasa,ガサ,to,øb,noun,3
+atenție,ro,/atentsije/,ɶømbyø,Careful,気をつけろ,améndemén,id,/amendəmen/,ɶøməøm,Améndemén,アメンデメン,to,øm,noun,4
+pandangan,id,/pandaŋan/,ɶmɶɶm,view,見る,بالإعلان,ar,/biaːlʔiʕlaːn/,yɶbybɶm,By advertising,広告によって,kyaku,ɶm,verb,3
+respecto,es,/respekto/,øbøbo,regard,由来,괴죄죄,ko,/kø̞d͡ʑø̞d͡ʑø̞/,øbøbø,Perspective,視点,to,bøb,noun,3
+aufführen,de,/ˈʔaofˌfyɾən/,ɶobyəm,list,リスト,balotrajt,eo,/balotrait/,ɶobɶyb,voting,投票,to,ob,verb,3
+リスト,ja,/ɾisɯto/,yuo,list,リスト,ajutor,ro,/aʒutor/,ɶuo,help,ヘルプ,kyaku,uo,noun,3
+kuuntelu,fi,/ˈkuuntelu/,uumøu,hearing,聴覚,mildeu,es,/mildeu/,ybøu,Mildu,Mildu,kyaku,øu,verb,3
+mendengarkan,id,/məndəŋarkan/,əməɶɶm,listen,聞く,déracinâmes,fr,/deʁasinam/,øɶyɶm,uprooted,根こそぎ,kyaku,ɶm,verb,4
+الاستماع,ar,/aːlistimaːʕ/,ɶybyɶb,Listen,聞く,nhớn nha nhớn nhác,vi,/ɲɤŋ˩˧ ɲa˧˥ ɲɤŋ˩˧ ɲak˦˥/,omɶomɶb,Remember,覚えて,kyaku,ɶb,verb,4
+listening,en,/ˈɫɪsənɪŋ/,ʏəʏm,listening,聞いている,薄荷锭,zh-cn,/pɔ˥˩ xɤ˧ tɪŋ˥˩/,ɔoʏm,Mint,ミント,kyaku,ʏm,verb,3
+نسخ,ar,/nasaxa/,ɶɶɶ,Copied,コピー,然あらぬ,ja,/saaɾanɯ/,ɶɶɶu,I can't do it,然あらぬ,to,ɶɶ,verb,3
+copiere,ro,/kopijere/,oyøø,Copy,コピー,toisenlainen,fi,/ˈtoisenˌlɑinen/,oyømɑyøm,different,違う,to,yø,adjective,4
+打哈欠,zh-cn,/ta˨˩˦ xa˥˥ tɕʰjɛn˧/,ɶɶbbœm,,欠伸,ستجهم,ar,/satadʒhum/,ɶɶbum,It will be stressed,それは強調されます,to,ɶb,verb,3
+taikina,fi,/ˈtɑikinɑ/,ɑyyɑ,dough,生地,validiert,de,/vɑliˈdiːɾt/,ɑyyb,validated,検証,to,yy,verb,3
+confiture,fr,/kɔ̃fityʁ/,ɔyyb,jam,混雑する,räsähdys,fi,/ˈræsæhdys/,ææyb,crunch,噛み砕く,kyaku,yb,verb,3
+mermelada,es,/meɾmelaða/,øøɶɶ,jam,混雑する,ordinara,eo,/ordinara/,oyɶɶ,ordinary,普通,kyaku,ɶɶ,adjective,4
+marmeladi,fi,/ˈmɑrmeˌlɑdi/,ɑøɑy,marmalade,マーマレード,sous-entendît,fr,/suzɑ̃tɑ̃di/,uɑɑy,implied,暗示されています,kyaku,ɑy,verb,4
+سابق,ar,/saːbaqa/,ɶɶɶ,former,前の,cadenassât,fr,/kadnasa/,ɶbɶɶ,cadenassât,Cadenassât,kyaku,ɶɶ,adjective,3
+ehemalige,de,/ʔeˈəmalɪgə/,øəɶʏə,former,前の,bénefaktif,id,/benəfaʔtif/,øəɶbyb,Bénefactive,ベネファクティブ,to,əɶ,adjective,4
+針鰻,ja,/haɾiɯnagi/,ɶyuɶy,elver,針鰻,thuyết bất khả tri,vi,/tʰwiək˦˥ bɤ̆k˦˥ xa˧˩˨ ʈi˧˥/,byəbobɶy,agnosticism,不可知論,kyaku,ɶy,noun,4
+pakaian,id,/pakaian/,ɶɶyɶm,clothes,服,冰醋酸,zh-cn,/pɪŋ˥˥ tsʰu˥˩ swan˥˥/,ʏmbbubɶm,glacial acetic acid,氷河酢酸,kyaku,ɶm,verb,3
+penjaga,id,/pəndʒaga/,əmbɶɶ,Security,安全,Kanada,de,/ˈkanada/,ɶɶɶ,Canada,カナダ,kyaku,ɶɶ,noun,3
+クループ,ja,/kɯɾɯːpɯ/,uuu,Croup,クループ,sauðfjárbú,is,/sœjðfjaurpu/,œbbɶuu,sheep,羊,kyaku,uu,noun,3
+엉덩이,ko,/ˈɘːŋdʌ̹ŋi/,ɘmɔy,hip,ヒップ,íshokkí,is,/iːshɔhci/,ybɔy,hockey,ホッケー,kyaku,ɔy,noun,3
+presumir,es,/pɾesumiɾ/,bøuy,to show off,見せびらかす,formulir,id,/formulir/,ouy,form,形,kyaku,uy,verb,3
+membanggakan,id,/məmbaŋgakan/,əmɶmɶɶm,boast,自慢,hữu chí cánh thành,vi,/hɯw˧˩˨ ci˩˧ kan˩˧ tʰan˦˨/,uyɶmbɶm,Huu Chi winged,Huu Chi Winged,kyaku,ɶm,verb,4
+目标,zh-cn,/mu˥˩ pjɑʊ˥˥/,ubɑʊ,Target,目標,pourfendions,fr,/puʁfɑ̃djɔ̃/,ubɑbɔ,toe,つま先,to,bɑ,noun,3
+vastalause,fi,/ˈvɑstɑˌlɑuse/,ɑbɑɑuø,objection,異議,lazzaro,en,/ɫɑtˈsɑɹoʊ/,ɑbɑoʊ,lazzaro,ラザロ,to,bɑ,noun,4
+keberatan,id,/kəbəratan/,əəɶɶm,object,物体,garabatean,es,/gaɾaβatean/,ɶɶɶøɶm,Garabatean,ガラバテアン,kyaku,ɶm,noun,4
+objection,en,/əbˈdʒɛkʃən/,əbbœbəm,objection,異議,nălțime,ro,/nəltsime/,əbbyø,Narrow,狭い,to,bb,noun,3
+ayuda,es,/aʝuða/,ɶuɶ,aid,援助,bantunya,id,/bantuɲa/,ɶmuɶ,his pillow,彼の枕,kyaku,uɶ,noun,3
+ajutor,ro,/aʒutor/,ɶuo,help,ヘルプ,了不得,zh-cn,/ljɑʊ˨˩˦ pu˧ tɤ˧˥/,bɑʊuo,Impressive,印象的,kyaku,uo,noun,3
+einstellen,de,/ˈʔaenˌʃtɛllən/,ɶømœbəm,set to,に設定,anémiâtes,fr,/anemjat/,ɶømɶb,anemiâtes,anemiâtes,to,øm,verb,3
+atomi,fi,/ˈɑtomi/,ɑoy,atom,原子,御年,ja,/oɴtoɕi/,omoy,Age,御年,kyaku,oy,noun,3
+atomo,eo,/atomo/,ɶoo,atom,原子,koiruoho,fi,/ˈkoiruoho/,oyuoo,wormwood,ワームウッド,kyaku,oo,noun,3
+varovainen,fi,/ˈvɑroˌvɑinen/,ɑoɑyøm,careful,気をつけろ,firmeneigen,de,/ˈfɪɾmənˌaeˌgeːn/,ʏəmɶøøm,company,会社,kyaku,øm,adjective,4
+注意深い,ja,/tɕɯɯibɯkai/,buuyuɶy,careful,注意深い,hétérogamies,fr,/eteʁɔgami/,øøɔɶy,heterogamic,異種,kyaku,ɶy,adjective,5
+singarda,eo,/singarda/,ymɶɶ,cautious,注意深い,쿨하다,ko,/kʰuɾɦa̠da̠/,buɶɶ,Cool,涼しい,kyaku,ɶɶ,adjective,3
 paviaani,fi,/ˈpɑviˌɑɑni/,ɑyɑɑy,baboon,ヒヒ,amüsantem,de,/ʔɑmyˈzɑntəm/,ɑyɑməm,amusing,面白い,to,yɑ,noun,4
 mejorar,es,/mexoɾaɾ/,øoɶ,to improve,改善する,embaumas,fr,/ɑ̃boma/,ɑoɶ,hiring,雇用,kyaku,oɶ,verb,3
 erweitern,de,/ʔɛɐ̯ˈvaɪ̯tɐn/,œɐɶʏɐm,extend,拡張する,décapsulais,fr,/dekapsylɛ/,œbɶɶb,Délélais,デレライ,,,verb,3
@@ -550,6 +919,96 @@ muzică,ro,/muzikə/,uyə,the music,音楽,thìa lia,vi,/tʰiə˦˨ liə˧˥/,by
 menyesatkan,id,/məɲəsatkan/,əəɶbɶm,misleading,誤解を招く,ozonisâmes,fr,/ozɔnizam/,oɔyɶm,ozonisâme,オゾニサーム,kyaku,ɶm,verb,4
 irreführen,de,/ˈʔɪɾɾeˌfyɾən/,ʏøyəm,mislead,誤解を招く,hypotheken,en,/ˌhaɪˈpɑθəkən/,ɶʏɑəəm,hypotheken,仮説,kyaku,əm,verb,4
 villandi,is,/vɪtlantɪ/,ʏbɶmʏ,deceitful,欺ce,mitteiltet,de,/ˈmɪtˌtaeltət/,ʏbɶøbəb,communicated,通信,to,bɶ,verb,3
+sjampó,is,/sjam̥pou/,bɶmou,shampoo,シャンプー,transverso,eo,/transverso/,bɶmbøo,transverse,横方向,to,ɶm,noun,3
+هستيري,ar,/histiːrijj/,ybyy,hysterical,ヒステリック,diluirles,es,/dilwiɾles/,ybyøb,Dilute them,それらを希釈します,to,by,adjective,3
+ヒステリック,ja,/çisɯteɾikːɯ/,yuøybu,Hysterical,ヒステリック,Minutenzeiger,de,/minuˈtentsəɪgɐ̯/,yuømbəʏɐ,Minute hand,分針,to,uø,noun,5
+histeria,eo,/histeria/,ybøyɶ,hysteria,ヒステリー,subdéléguer,fr,/sybdelege/,ybøøø,sub -delegate,サブデレゲート,to,bø,adjective,4
+歇斯底里,zh-cn,/ɕjɛ˥˥ sɯ˥˥ ti˨˩˦ li˨˩˦/,bœuyy,hysteria,ヒステリー,infinity,ro,/infiniti/,ymyyy,Infinity,無限,kyaku,yy,noun,4
+karateo,eo,/karateo/,ɶɶøo,karate,空手,fatahengið,is,/faːtaheiɲcɪð/,ɶɶøymʏb,clock,時計,to,ɶø,verb,4
+Karate,de,/ˈkɑːɾɑtə/,ɑɑə,karate,空手,niedbala,en,/nidˈbɑɫə/,ybɑə,niedbala,ニーダバラ,kyaku,ɑə,noun,3
+sungai,id,/suŋai/,uɶy,river,川,ليصاهر,ar,/liːusˤaːhir/,yubɶy,To be fascinated,魅了される,kyaku,ɶy,verb,3
+نهر,ar,/nahara/,ɶɶɶ,River,川,打哈哈,zh-cn,/ta˨˩˦ xa˥˥ xa˧/,ɶɶɶ,make fun of,からかう,kyaku,ɶɶ,verb,3
+مخطط,ar,/muxatˤˤitˤ/,uɶbyb,Scheme,図式,järkevyys,fi,/ˈjærkevyys/,æøyyb,rationality,合理性,kyaku,yb,noun,3
+図式,ja,/zɯɕiki/,uyy,Diagram,図式,pelisir,id,/pəlisir/,əyy,pleats,プリーツ,kyaku,yy,noun,3
+áætlun,is,/auːaihtlʏn/,ɶuɶybʏm,plan,予定,eveline,en,/ˈɛvəɫɪn/,œəʏm,eveline,Eveline,kyaku,ʏm,noun,3
+volumen,es,/bolumen/,ouøm,volume,音量,Wurzelkeim,de,/ˈvʊɾtsɛlkaem/,ʊbœbɶøm,Root germ,根胚芽,kyaku,øm,noun,3
+metsästäjä,fi,/ˈmetsæsˌtæjæ/,øbæbææ,hunter,猟師,máy dệt,vi,/măj˩˧ jet˨ˀ˩ʔ/,omɶmɶɶ,looms,織機,,,noun,4
+aikakausi,fi,/ˈɑikɑˌkɑusi/,ɑyɑɑuy,era,時代,甘之如饴,zh-cn,/kan˥˥ ʈʂɚ˥˥ ʐu˧˥ i˧˥/,ɶməuy,Gan Zhi Ruya,ガン・ジ・ルヤ,kyaku,uy,noun,4
+时代,zh-cn,/ʂɚ˧˥ taɪ˥˩/,əɶʏ,era,時代,Geleise,de,/gəˈlaɪ̯zə/,əɶʏə,Track,追跡,to,ɶʏ,noun,3
+epocă,ro,/epokə/,øoə,epoch,時代,Steinkohle,de,/ˈʃtaeŋkolə/,ɶømoə,Hard coal,無煙炭,kyaku,oə,noun,3
+عصر,ar,/ʕasˤara/,ɶbɶɶ,squeeze out,絞り出します,calvaseis,es,/kalβaseis/,ɶbɶøyb,Calvase,calvase,to,bɶ,noun,3
+pelata,fi,/ˈpelɑtɑ/,øɑɑ,to be afraid,恐れること,sustentant,fr,/systɑ̃tɑ̃/,ybɑɑ,suspending,一時停止,kyaku,ɑɑ,verb,3
+abspielen,de,/ˈʔapˌʃpiːlən/,ɶbyəm,play,遊ぶ,aflijan,es,/aflixan/,ɶbyɶm,They afflict,彼らは苦しむ,to,by,verb,3
+trumpetti,fi,/ˈtrumpetti/,bumøby,trumpet,トランペット,للعبري,ar,/lilʕibrijj/,ybyby,Hebrew,ヘブライ語,kyaku,by,noun,3
+trompeta,es,/tɾompeta/,bomøɶ,trumpet,トランペット,spontaanius,fi,/ˈspontɑɑˌnius/,bomɑɑyub,spontaneity,自発性,to,om,noun,3
+Banane,de,/baˈnaːnə/,ɶɶə,banana,バナナ,车把式,zh-cn,/ʈʂʰɤ˥˥ pa˨˩˦ ʂɚ˧/,oɶə,Handlebars,ハンドルバー,kyaku,ɶə,noun,3
+香蕉,zh-cn,/ɕjɑŋ˥˥ tɕjɑʊ˥˥/,bɑmbbɑʊ,banana,バナナ,franchini,en,/fɹɑnˈkini/,bɑmyy,franchini,フランチーニ,to,ɑm,noun,3
+バナナ,ja,/banana/,ɶɶɶ,banana,バナナ,pajazas,es,/paxaθas/,ɶɶɶb,Pajazas,パジャザ,to,ɶɶ,noun,3
+sosialisti,fi,/ˈsosiɑˌlisti/,oyɑyby,socialist,社会主義者,paparazzi,fr,/papaʁadzi/,ɶɶɶby,paparazzi,パパラッチ,kyaku,by,noun,4
+sosialis,id,/sosialis/,oyɶyb,socialist,社会主義者,oxiacid,ro,/oksiatʃid/,obyɶbyb,oxyacid,酸素,kyaku,yb,noun,3
+socialist,en,/ˈsoʊʃəɫəst/,oʊəəbb,socialist,社会主義者,îndrăzneț,ro,/ɨndrəznets/,ʉmbəbøbb,daring,大胆,kyaku,bb,noun,3
+commotion,en,/kəˈmoʊʃən/,əoʊəm,commotion,騒ぎ,慢吞吞,zh-cn,/man˥˩ tʰuən˥˥ tʰuən˥˥/,ɶmbuəmbuəm,Swallow,飲み込む,kyaku,əm,noun,3
+levottomuus,fi,/ˈlevotˌtomuus/,øobouub,agitation,攪拌,Gesamtbezug,de,/gəˈzamtbetsuk/,əɶmbøbub,Overall reference,全体的な参照,kyaku,ub,noun,4
+agitation,fr,/aʒitasjɔ̃/,ɶyɶbɔ,hustle,ハッスル,cavalli-sfor,en,/kəˌvæɫisˈfɔɹ/,əæybɔ,cavalli-sfor,Cavalli-sfor,kyaku,bɔ,noun,4
+垒球,zh-cn,/leɪ˨˩˦ tɕʰjoʊ˧˥/,øʏbboʊ,softball,,mero,en,/ˈmɛɹoʊ/,œoʊ,mero,メロ,kyaku,oʊ,noun,3
+hydrater,fr,/idʁate/,ybɶø,hydrate,水和物,dicari,id,/ditʃari/,ybɶy,searching for,探している,to,bɶ,verb,3
+加水分解,ja,/kasɯibɯɴkai/,ɶuyumɶy,Hydrolysis,加水分解,hátíðarhöldin,is,/hauːtiðarhœltɪn/,ɶuyɶœbʏm,the celebrations,お祝い,to,uy,noun,5
+fortuno,eo,/fortuno/,ouo,fortune,運,șerpușor,ro,/ʃerpuʃor/,øuo,snake,ヘビ,kyaku,uo,noun,3
+fortuna,es,/foɾtuna/,ouɶ,fortune,運,Antiquar,de,/ˈʔantikvuaɽ/,ɶmybuɶ,Antiquarian,古物,kyaku,uɶ,noun,3
+avere,ro,/avere/,ɶøø,wealth,富,alerces,es,/aleɾθes/,ɶøøb,allerces,Allerces,to,øø,noun,3
+pengembara,id,/pəŋəmbara/,əəmɶɶ,wanderer,ワンダラー,푸덕하다,ko,/pʰudʌ̹kʰa̠da̠/,buɔbɶɶ,Pudy,プディ,kyaku,ɶɶ,noun,4
+grignoter,fr,/gʁiɲɔte/,byɔø,nibble,ニブル,free-for-all,en,/ˈfɹifɔˌɹɔɫ/,byɔɔ,free-for-all,万人に無料,to,yɔ,adjective,3
+kadota,fi,/ˈkɑdotɑ/,ɑoɑ,disappear,消える,composant,fr,/kɔ̃pozɑ̃/,ɔoɑ,making up,構成する,kyaku,oɑ,verb,3
+disappear,en,/ˌdɪsəˈpiɹ/,ʏəy,disappear,消える,hineilen,de,/ˈhɪnəiːlən/,ʏəyəm,rush,急ぐ,to,əy,verb,3
+orizont,ro,/orizont/,oyomb,skyline,スカイライン,ひょいひょい,ja,/çjoiçjoi/,oyoy,Hyohyoii,ひょいひょい,to,yo,adjective,3
+地平線,ja,/tɕiheiseɴ/,byøyøm,horizon,地平線,ĉieesto,eo,/t͡ʃieesto/,byøøbo,an all -out there,そこにすべて,to,yø,noun,3
+수평선,ko,/sʰupʰjʌ̹ŋsʰʌ̹n/,bubɔmbɔm,horizon,地平線,bogelsong,en,/ˈbɑɡəɫsɔŋ/,ɑəɔm,bogelsong,Bogelsong,kyaku,ɔm,noun,3
+sjóndeildarhring,is,/sjounteiltar̥iŋk/,boumøybɶymb,horizon,地平線,produktado,eo,/produktado/,boubɶo,production,製造,to,ou,noun,4
+地平线,zh-cn,/ti˥˩ pʰɪŋ˧˥ ɕjɛn˥˩/,ybʏmbœm,horizon,地平線,nhà cầm quyền,vi,/ɲa˦˨ kɤ̆m˦˨ wiɛŋ˦˨/,ɶomyœm,Gorverment,ゴルベメント,kyaku,œm,noun,3
+arbeitete,de,/ʔaɾˈbəiːtətə/,ɶəyəə,worked,働いた,pornographer,en,/ˌpɔɹˈnɑɡɹəfɝ/,ɔɑbəə,pornographer,ポルノ,kyaku,əə,verb,4
+erfiði,is,/ɛrvɪðɪ/,œʏʏ,effort,努力,diminish,en,/dɪˈmɪnɪʃ/,ʏʏʏ,diminish,減少します,kyaku,ʏʏ,verb,3
+工作,zh-cn,/kʊŋ˥˥ tsuɔ˥˩/,ʊmbuɔ,Work,仕事,to như voi,vi,/tɔ˧˥ ɲɯ˧˥ jɔj˧˥/,ɔuɔ,Elephant,象,kyaku,uɔ,noun,3
+laborieux,fr,/labɔʁjø/,ɶɔbø,laborious,面倒,thống giác kế,vi,/tʰoŋ͡m˩˧ jak˦˥ ke˩˧/,bommɶbø,sense,検出,kyaku,bø,verb,3
+労働,ja,/ɾoɯdoɯ/,ouou,Labor,労働,geysistór,is,/ceiːsɪstouːr/,øyʏbou,geyser,ガイザー,kyaku,ou,noun,3
+kepadatan,id,/kəpadatan/,əɶɶɶm,density,密度,Gewissenszwang,de,/gəˈvɪszɛnstsvaŋ/,əʏbœmbbbɶm,Conscience,良心,kyaku,ɶm,noun,4
+密度,ja,/mitsɯdo/,ybuo,density,密度,coadunó,es,/koaðuˈno/,oɶuo,Coadunó,コアドゥノ,kyaku,uo,noun,3
+density,en,/ˈdɛnsəti/,œməy,density,密度,enteister,de,/ʔɛntəɪstɐ̯/,œməʏbɐ,daring,大胆,to,mə,noun,3
+densidad,es,/densiðað/,ømyɶb,density,密度,scintigraf,ro,/stʃintiɡraf/,bbymybɶb,scintigraphy,シンチグラフィ,kyaku,ɶb,noun,3
+전문가,ko,/t͡ɕʌ̹nmunɡa̠/,bɔmumɶ,expert,エキスパート,Stromleitern,de,/ˈʃtɾɔmlaetɛɾn/,bɔmɶøœm,Power ladder,パワーラダー,to,ɔm,noun,3
+pernikahan,id,/pərnikahan/,əyɶɶm,wedding,結婚式,acculturâmes,fr,/akyltyʁam/,ɶybyɶm,acculturâme,教会,kyaku,ɶm,noun,4
+matrimonio,es,/matɾimonjo/,ɶbyomo,marriage,結婚,Abschiedsspiele,de,/ˈʔapˌʃiːtzspiːlə/,ɶbybbbyə,Farewell games,別れゲーム,to,by,noun,4
+avioliitto,fi,/ˈɑvioˌliitto/,ɑyoyybo,marriage,結婚,paradoxaux,fr,/paʁadɔkso/,ɶɶɔbo,paradoxical,逆説的,kyaku,bo,noun,4
+تعتمد,ar,/taʕtamid/,ɶbɶyb,Depends,依存します,guaranteed,en,/ˌɡɛɹənˈtid/,œəmyb,guaranteed,保証されています,kyaku,yb,verb,3
+abhängen,de,/ˈʔaphɛŋən/,ɶbœəm,depend,それによる,sáng tinh sương,vi,/ʂaŋ˩˧ tin˧˥ ʂɯəŋ˧˥/,ɶmymuəm,dew,露,kyaku,əm,verb,3
+依靠,zh-cn,/i˥˥ kʰɑʊ˥˩/,ybɑʊ,rely on,に頼る,distanciaient,fr,/distɑ̃sjɛ/,ybɑbœ,distinguished,際立っています,to,bɑ,verb,3
+bergantung,id,/bərgantuŋ/,əɶmum,depending,依存します,optimum,ro,/optimum/,obyum,optimum,最適,kyaku,um,verb,3
+コンクリート,ja,/koɴkɯɾiːto/,omuyo,concrete,コンクリート,soi đường chỉ lối,vi,/ʂɔj˧˥ dɯəŋ˦˨ ci˧˩˨ loj˩˧/,ɔuəmyo,Smaking the way,道をスマーディングします,kyaku,yo,noun,4
+betono,eo,/betono/,øoo,concrete,コンクリート,登革热,zh-cn,/tɤŋ˥˥ kɤ˧˥ ʐɤ˥˩/,omoo,dengue,デング熱,kyaku,oo,noun,3
+価格設定,ja,/kakakɯsetːei/,ɶɶuøbøy,Price setting,価格設定,baráttusveitinni,is,/paːrauhtʏsveiːtɪnɪ/,ɶɶuʏbøyʏʏ,band,バンド,to,ɶu,noun,6
+fijación,es,/fixaˈθjon/,yɶbom,fixation,固定,siaspeca,eo,/siaspet͡sa/,yɶbøbɶ,of a kind,種類の,to,ɶb,noun,3
+hinnoittelu,fi,/ˈhinnoitˌtelu/,ymoybøu,pricing,価格設定,intonasi,id,/intonasi/,ymoɶy,intonation,イントネーション,to,mo,noun,4
+Preisgestaltung,de,/ˈpɾaesgɛstaltʊŋ/,bɶøbœbɶbʊm,Pricing,価格設定,وكفرعون,ar,/wakafirʕaʊn/,ɶɶyɶʊm,And Kafron,とカフロン,kyaku,ʊm,noun,4
+أرق,ar,/ʔariqa/,ɶyɶ,insomnia,不眠症,belia,id,/bəlia/,əyɶ,young,若い,kyaku,yɶ,adjective,3
+valikoima,fi,/ˈvɑliˌkoimɑ/,ɑyoyɑ,selection,選択,exorcisant,fr,/ɛgzɔʁsizɑ̃/,œbɔbyɑ,exorcising,エクササイズ,kyaku,yɑ,verb,4
+assorted,en,/əˈsɔɹtɪd/,əɔʏb,assorted,品揃え,íhugul,is,/iːhʏɣʏl/,yʏʏb,comforting,慰め,kyaku,ʏb,verb,3
+haitallinen,fi,/ˈhɑitɑlˌlinen/,ɑyɑbyøm,harmful,危害を与える,クロミフェン,ja,/kɯɾomiɸɯeɴ/,uoyuøm,clomiphene,クロミフェン,kyaku,øm,adjective,4
+図書館,ja,/zɯɕokaɴ/,uoɶm,library,図書館,ببرسام,ar,/bibirsaːm/,yyɶm,With a painter,画家と,kyaku,ɶm,noun,3
+biblioteca,es,/biβljoteka/,ybboøɶ,library,図書館,tylppysolu,fi,/ˈtylppyˌsolu/,ybbyou,dull cell,鈍いセル,to,bb,noun,4
+bibliothèque,fr,/biblijɔtɛk/,ybyɔœb,library,図書館,tích y phòng hàn,vi,/tit˦˥ i˧˥ fɔŋ͡m˦˨ haŋ˦˨/,ybyɔmmɶm,Welding room,溶接室,to,byɔ,noun,4
+bókasafn,is,/pouːkasapn̥/,ouɶɶbm,library,図書館,eclectism,ro,/eklektism/,øbøbybm,eclecticism,折衷,kyaku,bm,noun,3
+menyelesaikan,id,/məɲələsaikan/,əəəɶyɶm,complete,完了,名不见经传,zh-cn,/mɪŋ˧˥ pu˧˥ tɕjɛn˥˩ tɕɪŋ˥˥ ʈʂwan˥˩/,ʏmubbœmbʏmɶm,Don’t see the Biography,伝記が見えないでください,kyaku,ɶm,verb,5
+finalizar,es,/finaliθaɾ/,yɶyɶ,Finalize,確定します,痛み入る,ja,/itamiiɾɯ/,yɶyyu,be greatly obliged,痛み入る,to,ɶy,verb,4
+matematiikka,fi,/ˈmɑtemɑˌtiikkɑ/,ɑøɑyybɑ,mathematics,数学,écodéveloppement,fr,/ekɔdevlɔpmɑ̃/,øɔøbɔbɑ,eco -development,Eco -Development,kyaku,bɑ,noun,5
+reumatismo,es,/reumatizmo/,øuɶybo,rheumatism,リウマチ,persuadat,ro,/persuwadat/,øuɶɶb,persuade,説く,to,uɶ,verb,4
+邮票,zh-cn,/joʊ˧˥ pʰjɑʊ˥˩/,oʊbɑʊ,stamp,スタンプ,ospina,en,/oʊˈspinə/,oʊbyə,ospina,オスピナ,to,ʊb,noun,3
+ختم,ar,/xatama/,ɶɶɶ,Stamp,スタンプ,Schemata,de,/ˈʃeːmata/,øɶɶ,Schemata,スキーマ,kyaku,ɶɶ,noun,3
+surfaco,eo,/surfat͡so/,uɶbo,surface,水面,يغلف,ar,/juɣallif/,uɶbyb,Encases,encases,to,ɶb,noun,3
+yfirborð,is,/ɪːvɪrpɔrð/,ʏʏɔb,surface,水面,allomorph,en,/ˈæɫəmɔɹf/,æəɔb,allomorph,アロモルフ,kyaku,ɔb,noun,3
+permukaan,id,/pərmukaʔan/,əuɶɶm,surface,水面,ولنشان,ar,/waliniʃaːn/,ɶyyɶm,And Lenshhan,とレンシュハン,kyaku,ɶm,noun,4
+pengetahuan,id,/pəŋətahuan/,əəɶuɶm,knowledge,知識,soumissionnâmes,fr,/sumisjɔnam/,uybɔɶm,submission,提出,kyaku,ɶm,noun,4
+scipovi,eo,/st͡sipovi/,bbyoy,to know,知るために,fluidifiasse,fr,/flɥidifjas/,bbyybɶb,fluidifies,流動化します,to,by,noun,3
+know-how,en,/ˈnoʊˌhaʊ/,oʊɶʊ,know-how,ノーハウ,فسنور,ar,/fasinnaʊr/,ɶymɶʊ,Sennour,老人,kyaku,ɶʊ,noun,3
+tervehdys,fi,/ˈtervehdys/,øøyb,greeting,挨拶,교대식,ko,/kjodɛ̝ɕʰik̚/,boœbyb,Shift,シフト,kyaku,yb,verb,3
 吐き気,ja,/hakike/,ɶyø,nausea,吐き気,gan chí mề,vi,/ɣaŋ˧˥ ci˩˧ me˦˨/,ɶmyø,liver,肝臓,kyaku,yø,noun,3
 nauseating,en,/ˈnɔʒiˌeɪtɪŋ/,ɔyøʏʏm,nauseating,吐き気,endurskorinn,is,/ɛntʏrskɔrɪn/,œmʏbɔʏm,reduced,減少,kyaku,ʏm,verb,4
 ógleði,is,/ouːklɛðɪ/,oubœʏ,nausea,吐き気,forputri,eo,/forputri/,ouby,to rot,腐敗へ,to,ub,verb,3
@@ -907,6 +1366,92 @@ material,en,/məˈtɪɹiəɫ/,əʏyə,material,素材,désainer,id,/desainər/,�
 materiaali,fi,/ˈmɑteriˌɑɑli/,ɑøyɑɑy,material,素材,Amerikaners,de,/ˈʔɑːmeɾikɑnɛɾs/,ɑøyɑœb,American,アメリカ人,to,øyɑ,noun,5
 bongusta,eo,/bongusta/,omubɶ,Delicious,おいしい,存分に,ja,/zoɴbɯɴni/,omumy,To the full extent,存分に,to,mu,adjective,3
 înveliș,ro,/ɨnveliʃ/,ʉmøy,COVER,カバー,jääkeli,fi,/ˈjæækeli/,ææøy,iceberg,氷山,kyaku,øy,noun,3
+location,en,/ɫoʊˈkeɪʃən/,oʊøʏəm,location,位置,hiệu đoàn trưởng,vi,/hiəw˨ˀ˩ʔ dwaŋ˦˨ ʈɯəŋ˧˩˨/,yəbbɶmuəm,Delegation,代表団,kyaku,əm,noun,3
+tegaĵo,eo,/tegaʒo/,øɶo,lining,粘膜,신사도,ko,/ɕʰinsʰa̠do̞/,bymbɶo,Shrine,神社,kyaku,ɶo,noun,3
+mehukas,fi,/ˈmehukɑs/,øuɑb,juicy,ジューシー,gigaflop,en,/ˈɡɪɡəˌfɫɑp/,ʏəbɑb,gigaflop,ギガフロップ,kyaku,ɑb,adjective,3
+suculent,ro,/sukulent/,uuømb,juicy,ジューシー,スウェード,ja,/sɯɯeːdo/,uuøo,Suede,スウェード,to,uø,noun,3
+gewöhnliche,de,/gəˈvønlɪçə/,əømʏə,ordinary,普通,angermeier,en,/ˈeɪŋɡɝmaɪɝ/,øʏməɶʏə,angermeier,Angermeier,kyaku,ʏə,adjective,4
+ordinary,en,/ˈɔɹdəˌnɛɹi/,ɔəœy,ordinary,普通,게으름쟁이,ko,/ke̞ɯɾɯmd͡ʑɛ̝ŋi/,øuumbœy,Lazy,怠惰,kyaku,œy,adjective,4
+ordinaire,fr,/ɔʁdinɛʁ/,ɔbyœb,ordinary,普通,vasotec,en,/ˈveɪzoʊˌtɛk/,øʏoʊœb,vasotec,Vasotec,kyaku,œb,adjective,3
+agentti,fi,/ˈɑgentti/,ɑømby,agent,エージェント,vizaĝi,eo,/vizad͡ʒi/,yɶby,face to face,面と向かって,kyaku,by,noun,3
+agente,es,/axente/,ɶømø,agent,エージェント,agénsi,id,/agensi/,ɶømy,Agénti,アギンティ,to,øm,noun,3
+agento,eo,/agento/,ɶømo,an agent,エージェント,johdanto,fi,/ˈjohdɑnto/,oɑmo,introduction,前書き,kyaku,mo,noun,3
+enojarse,es,/enoxaɾse/,øoɶø,get angry,怒る,kontextfrei,de,/ˈkɔntɛkstfɾae/,ɔmœbbbbɶø,context -free,コンテキスト - フリー,kyaku,ɶø,verb,4
+ärsyttää,fi,/ˈærsyttææ/,æybææ,annoy,迷惑,thu nhập quốc dân,vi,/tʰu˧˥ ɲɤ̆p˨ˀ˩ʔ wok͡p˦˥ jɤ̆ŋ˧˥/,buobbobbom,National income,国民所得,to,,verb,4
+ennuyer,fr,/ɑ̃nɥije/,ɑmyø,annoy,迷惑,sanmiguel,en,/sɑnmiˈɡɛɫ/,ɑmyœ,sanmiguel,サンミゲル,to,my,verb,3
+penitent,en,/ˈpɛnɪtɪnt/,œʏʏmb,penitent,悔い改め,microfilms,es,/mikɾofilms/,yboybmb,Microfilms,マイクロフィルム,kyaku,mb,noun,3
+rangaistus,fi,/ˈrɑngɑistus/,ɑmɑybub,penalty,ペナルティ,浪潮,zh-cn,/lɑŋ˥˩ ʈʂʰɑʊ˧˥/,ɑmɑʊ,wave,波,to,mɑ,noun,3
+kjúklingur,is,/cʰuhkliŋkʏr/,ubymʏ,chicken,チキン,Zeichentisch,de,/ˈtsaeçɛntɪʃ/,bɶøœmʏ,Drawing table,描画テーブル,kyaku,mʏ,noun,3
+haalari,fi,/ˈhɑɑlɑri/,ɑɑɑy,jump suit,ジャンプスーツ,Ararat,de,/ˈʔɑːɾɑɾɑt/,ɑɑɑb,Ararat,アララト,to,ɑɑ,noun,3
+vendaval,es,/bendaβal/,ømɶɶb,gale,ゲイル,点訳,ja,/teɴjakɯ/,ømɶu,Translation,点訳,to,mɶ,noun,3
+グリップ,ja,/gɯɾipːɯ/,uybu,grip,グリップ,فندجو,ar,/fanaddʒuː/,ɶɶbbu,Vando,ヴァンド,kyaku,bu,noun,3
+Astrologie,de,/ʔastɾoloˈgiː/jə/,ɶbbooyə,astrology,占星術,aðkomumanna,is,/aðkʰɔmʏmana/,ɶbbɔʏɶɶ,strangers,見知らぬ人,to,bb,noun,5
+astrology,en,/əˈstɹɑɫədʒi/,əbbɑəby,astrology,占星術,koloristi,fi,/ˈkoloˌristi/,ooyby,columnist,コラムニスト,kyaku,by,noun,4
+astrología,es,/astɾoloˈxia/,ɶbbooyɶ,astrology,占星術,umhverfisgæða,is,/ʏmkʰvɛrvɪscaiːða/,ʏmbœʏbɶyɶ,environmental quality,環境品質,kyaku,yɶ,noun,5
+perbintangan,id,/pərbintaŋan/,əymɶɶm,astrology,占星術,Zukunftsroman,de,/ˈtsuːkʊnftsɾoˈman/,buʊmbbboɶm,Future novel,未来の小説,kyaku,ɶm,noun,4
+deseo,es,/deseo/,øøo,desire,欲望,만세보,ko,/ma̠nsʰe̞bo̞/,ɶmbøo,Long live,ロングライブ,kyaku,øo,verb,3
+gémissement,fr,/ʒemismɑ̃/,øybɑ,groan,うめき声,定休,ja,/teikjɯɯ/,øybuu,Regular leave,定休,to,yb,verb,3
+kitistä,fi,/ˈkitistæ/,yybæ,whine,泣き声,لغطريس,ar,/liɣitˤriːs/,yybyb,To cover,カバーするために,to,yb,verb,3
+タンブール,ja,/taɴbɯːɾɯ/,ɶmuu,Tumbul,タンブール,한문식,ko,/ha̠nmunɕʰik̚/,ɶmumbyb,Korean -style,韓国スタイル,to,mu,noun,3
+adaptor,id,/adaptor/,ɶɶbo,adapter,アダプタ,laquassions,fr,/lakasjɔ̃/,ɶɶbɔ,laquassion,ラコシオン,to,ɶb,noun,3
+adapter,en,/əˈdæptɝ/,əæbə,adapter,アダプタ,Staubwolke,de,/ˈʃtaopvɔlkə/,ɶobɔbə,Dust cloud,ダストクラウド,kyaku,bə,noun,3
+adaptador,es,/aðaptaðoɾ/,ɶɶbɶo,adapter,アダプタ,図書カード,ja,/toɕokaːdo/,ooɶo,Library card,図書カード,kyaku,ɶo,noun,4
+refugio,es,/refuxjo/,øubo,shelter,シェルター,アヒージョ,ja,/açiːdʑo/,ɶybo,Ahijo,アヒージョ,kyaku,bo,noun,3
+لجأ,ar,/ladʒaʔa/,ɶbɶɶ,Refuge,避難,abweisen,de,/ˈapˌvaɪ̯zən/,ɶbɶʏəm,reject,拒絶,to,bɶ,verb,3
+dinosaur,en,/ˈdaɪnəˌsɔɹ/,ɶʏəɔ,dinosaur,恐竜,matschigen,de,/ˈmaʧɪgən/,ɶʏəm,mushy,どろどろ,to,ʏə,verb,3
+dinosaŭro,eo,/dinosauro/,yoɶuo,dinosaur,恐竜,biseautassions,fr,/bizotasjɔ̃/,yoɶbɔ,bevels,ベベル,to,oɶ,verb,4
+Dinosaurier,de,/dinozɑuːɐiːɐ̯/,yoɑuɐyɐ,dinosaur,恐竜,isolaatio,fi,/ˈisoˌlɑɑtio/,yoɑɑyo,isolation,隔離,to,oɑ,noun,5
+dinosaure,fr,/dinozɔʁ/,yoɔb,dinosaur,恐竜,fiberboard,en,/ˈfaɪbɝˌbɔɹd/,ɶʏəɔb,fiberboard,ファイバーボード,kyaku,ɔb,verb,3
+dinosaurio,es,/dinosauɾjo/,yoɶuo,dinosaur,恐竜,密やか,ja,/çisojaka/,yoɶɶ,Dignified,密やか,to,oɶ,adjective,4
+dinosaurus,fi,/ˈdinoˌsɑurus/,yoɑuub,dinosaur,恐竜,hinunterfuhrt,de,/hɪˈnʊnˌtɛɾfuɾt/,ʏʊmœub,drives down,ドライブします,kyaku,ub,verb,4
+baladí,es,/balaˈði/,ɶɶy,trivial,些細な,kekasih,id,/kəkasih/,əɶy,beloved,愛されし者,kyaku,ɶy,adjective,3
+volatil,ro,/volatil/,oɶyb,volatile,揮発性,Finalspiel,de,/ˈfiːnalspiːl/,yɶbbyb,Final game,最終ゲーム,kyaku,yb,noun,3
+Motor,de,/ˈmoːtoːɐ̯/,ooɐ,engine,エンジン,辛夷,zh-cn,/ɕɪn˥˥ i˧˥/,oʊmoʊə,Ecstatic,夢中の,,,noun,3
+likakaivo,fi,/ˈlikɑˌkɑivo/,yɑɑyo,dirt,泥,Buchungsbüro,de,/ˈbʊxʊŋsbyɾo/,ʊʊmbyo,Booking office,予約オフィス,kyaku,yo,noun,4
+alcantarilla,es,/alkantaɾiʎa/,ɶbɶmɶyɶ,sewer,下水道,búng một cái thì ngã,vi,/buŋ͡m˩˧ mok͡p˨ˀ˩ʔ kaj˩˧ tʰi˦˨ ŋa˧˩˨/,ummobbbɶbyɶ,Falling one then falling,それから落ちる1つ,kyaku,yɶ,verb,5
+madrastra,es,/maðɾastɾa/,ɶbɶbbɶ,stepmother,継母,空茶,ja,/kaɾatɕa/,ɶɶbɶ,Empty tea,空茶,kyaku,bɶ,verb,3
+pesisir,id,/pəsisir/,əyy,coast,海岸,损益比,zh-cn,/suən˨˩˦ i˥˩ pi˨˩˦/,uəmyy,Profit -orc,,kyaku,yy,noun,3
+rannikko,fi,/ˈrɑnnikko/,ɑmybo,coastal,沿岸,着御,ja,/tɕakɯgjo/,bɶubo,Attachment,着御,kyaku,bo,noun,3
+优美,zh-cn,/joʊ˥˥ meɪ˨˩˦/,oʊøʏ,beautiful,美しい,delay,en,/dɪˈɫeɪ/,ʏøʏ,delay,遅れ,kyaku,øʏ,verb,3
+gracia,eo,/grat͡sia/,bɶbyɶ,grace,恵み,betina.,id,/bətina./,əyɶ,female.,女性。,kyaku,yɶ,adjective,3
+caribú,es,/kaɾiˈβu/,ɶyu,Caribú,カリブ,등기부,ko,/tɯŋɡibu/,umyu,register,登録,kyaku,yu,verb,3
+بلد,ar,/baluda/,ɶuɶ,country,国,ebura,eo,/ebura/,øuɶ,ivory,象牙,kyaku,uɶ,noun,3
+negara,id,/nəgara/,əɶɶ,country,国,etaja,ro,/etaʒa/,øɶɶ,Elea,エレア,kyaku,ɶɶ,noun,3
+شعر,ar,/ʃaʕara/,ɶɶɶ,Poetry,詩,lazabais,es,/laθaβais/,ɶɶɶyb,lazabais,ラザバイ,to,ɶɶ,noun,3
+木材,zh-cn,/mu˥˩ tsʰaɪ˧˥/,ubbɶʏ,wood,木材,mulgere,ro,/muldʒere/,ubbøø,parlor,パーラー,to,bb,noun,3
+الخشب,ar,/aːlxaʃab/,ɶbɶɶb,the wood,木材,轧花机,zh-cn,/ja˥˩ xwa˥˥ tɕi˥˥/,ɶbɶby,Blooming machine,ブルーミングマシン,to,bɶ,noun,3
+alcohol,en,/ˈæɫkəˌhɑɫ/,æəɑ,alcohol,アルコール,gangrenât,fr,/gɑ̃gʁənɑ/,ɑbəɑ,gangrenât,ガンレナト,kyaku,əɑ,noun,3
+alkoholi,fi,/ˈɑlkoˌholi/,ɑbooy,alcohol,アルコール,luptătorii,ro,/luptətorij/,ubəoy,fighters,戦闘機,kyaku,oy,noun,4
+áfengi,is,/auːfeiɲcɪ/,ɶuøymʏ,liquor,酒,가무레,ko,/ka̠muɾe̞/,ɶuø,Gamure,ギャミア,to,uø,noun,3
+アルコール,ja,/aɾɯkoːɾɯ/,ɶuou,alcohol,アルコール,automobil,id,/automobil/,ɶuooyb,Automobil,自動車,to,uo,noun,4
+肩をすくめる,ja,/kataosɯkɯmeɾɯ/,ɶɶouuøu,Scoop your shoulders,肩をすくめる,amatööriottelu,fi,/ˈɑmɑˌtøøriˌottelu/,ɑɑøøyobøu,amateur,アマチュア,kyaku,øu,noun,6
+تجاهل,ar,/tadʒaːhala/,ɶbɶɶɶ,discard,破棄,超田舎,ja,/tɕoɯinaka/,bouyɶɶ,Super countryside,超田舎,kyaku,ɶɶ,noun,4
+finalizar,es,/finaliθaɾ/,yɶyɶ,Finalize,確定します,ökutíma,is,/œːkʏtʰiːma/,œʏbyɶ,drive,ドライブ,kyaku,yɶ,verb,4
+terminer,fr,/tɛʁmine/,œbyø,to end,最後まで,대진표,ko,/tɛ̝d͡ʑinpʰjo/,œbymbo,Vote,投票,to,by,verb,3
+終了,ja,/ɕɯɯɾjoɯ/,uuou,end,終了,oiseau-mouche,fr,/wazomuʃ/,ɶou,Hummingbird,ハチドリ,kyaku,ou,noun,3
+fasole,ro,/fasole/,ɶoø,beans,,lustlose,de,/ˈlʊstˌloːze/,ʊbboø,listless,リストレス,kyaku,oø,adjective,3
+smaragdi,fi,/ˈsmɑrɑgdi/,bɑɑby,emerald,エメラルド,بزجري,ar,/bizadʒrijj/,yɶby,Dagger,短剣,kyaku,by,noun,3
+زمرد,ar,/zumurrud/,uuub,emerald,エメラルド,luutuma,fi,/ˈluutumɑ/,uuuɑ,bone,骨,to,uu,noun,3
+emerald,en,/ˈɛmɝɹəɫd/,œəəb,emerald,エメラルド,Ostblockes,de,/ˈʔɔstblɔkəs/,ɔbbbɔəb,Eastern Bloc,東部ブロック,kyaku,əb,noun,3
+melepaskan,id,/mələpaskan/,əəɶbɶm,release,リリース,verbalizing,en,/ˈvɝbəˌɫaɪzɪŋ/,əəɶʏʏm,verbalizing,言語化,to,əɶ,verb,4
+liberar,es,/liβeɾaɾ/,yøɶ,release,リリース,diaterma,eo,/diaterma/,yɶøɶ,diatermate,日中の,kyaku,øɶ,verb,3
+Veröffentlichung,de,/fɛːɐ̯ʔœfˈfɛntlɪçʊŋ/,œɐœbœmbʏʊm,publication,出版,礼轻人意重,zh-cn,/li˨˩˦ tɕʰɪŋ˥˥ ʐən˧˥ i˥˩ ʈʂʊŋ˥˩/,ybbʏməmyʊm,Ritual light people's intention,儀式的な光の人々の意図,kyaku,ʊm,noun,5
+diagnosticar,es,/djaɣnostikaɾ/,bɶobyɶ,to diagnose,診断する,ولانتعاش,ar,/waliintiʕaːʃ/,ɶyymyɶ,And to refresh,そしてリフレッシュする,kyaku,yɶ,verb,4
+ajouter,fr,/aʒute/,ɶuø,to add,たす,فكميت,ar,/fakumeɪt/,ɶuøʏb,I got,私は手に入れました,to,uø,verb,3
+يضيف,ar,/judˤajjif/,ubɶyb,Add,追加,訴え,ja,/ɯtːae/,ubɶø,Complaint,訴え,to,bɶ,verb,3
+lisätä,fi,/ˈlisætæ/,yææ,add,追加,substantiv,ro,/supstantiv/,ubbɶmyb,noun,名詞,,,verb,3
+mandariini,fi,/ˈmɑndɑˌriini/,ɑmɑyyy,mandarin,マンダリン,Bahntarifen,de,/ˈbɑntɑɾifən/,ɑmɑyəm,Train tariffs,列車の関税,to,mɑy,noun,4
+mandarin,ro,/mandarin/,ɶmɶym,mandarin,マンダリン,panzada,es,/panθaða/,ɶmɶɶ,bellyful,むしろ,to,mɶ,adjective,3
+普通话,zh-cn,/pʰu˨˩˦ tʰʊŋ˥˥ xwa˥˩/,bubʊmbɶ,mandarin,マンダリン,tiểu thuyết hóa,vi,/tiəw˧˩˨ tʰwiək˦˥ hwa˩˧/,yəbyəbɶ,novelization,新規化,kyaku,bɶ,noun,3
+familio,eo,/familio/,ɶyyo,family,家族,Additive,de,/ʔaˈdiːtiːfə/,ɶyyə,Additives,添加物,to,yy,noun,4
+familia,es,/familja/,ɶybɶ,family,家族,độ lệch pha,vi,/do˨ˀ˩ʔ let˨ˀ˩ʔ fa˧˥/,obøbbɶ,phase deviation,位相偏差,kyaku,bɶ,noun,3
+家族,ja,/kazokɯ/,ɶou,family,家族,번호부,ko,/pʌ̹nβo̞bu/,ɔmou,Number,番号,kyaku,ou,noun,3
+beichten,de,/bəˈʔɪçtən/,əʏəm,confess,告白する,hoboken,en,/ˈhoʊboʊkən/,oʊoʊəm,hoboken,ホーボーケン,kyaku,əm,verb,3
+tunnustaa,fi,/ˈtunnustɑɑ/,umubɑɑ,confess,告白する,tùm lum tà la,vi,/tum˦˨ lum˧˥ ta˦˨ la˧˥/,umumɶɶ,Lumpy smiles,ゴツゴツした笑顔,to,mu,verb,4
+confesar,es,/komfesaɾ/,omøɶ,to confess,告白する,mongerrus,fi,/ˈmongerrus/,omøub,lingo,言語,to,mø,verb,3
+mendesah,id,/məndəsah/,əməɶ,hiss,ヒス,哈什蚂,zh-cn,/xa˥˩ ʂɚ˧ ma˨˩˦/,ɶəɶ,Hash Ma,ハッシュma,kyaku,əɶ,noun,3
+suspiro,es,/suspiɾo/,ubyo,sigh,はぁ,へしこ,ja,/heɕiko/,øyo,Heshiko,へしこ,kyaku,yo,verb,3
+suspiro,eo,/suspiro/,ubyo,sigh,はぁ,为之语塞,zh-cn,/weɪ˧˥ ʈʂɚ˥˥ y˨˩˦ sɤ˥˩/,øʏəyo,Stuffy,息苦しい,kyaku,yo,noun,3
 concejal,es,/konθexal/,omøɶb,councilor,評議員,đừng cỏ trách,vi,/dɯŋ˦˨ kɔ˧˩˨ ʈak˦˥/,umɔɶb,Do not blame,責めないで,kyaku,ɶb,verb,3
 neuvonantaja,fi,/ˈneuvoˌnɑntɑjɑ/,øuoɑmɑɑ,adviser,顧問,neŭrologio,eo,/neurologio/,øuooyo,neurology,神経学,to,uo,noun,5
 balonmano,es,/balommano/,ɶomɶo,handball,ハンドボール,profanator,ro,/profanator/,boɶɶo,sacrilegious,犠牲,kyaku,ɶo,noun,4
@@ -1487,6 +2032,93 @@ déchiqueter,fr,/deʃikte/,øybø,shred,シュレッド,leiksvæði,is,/leiːksv
 desgarrar,es,/dezɣaraɾ/,øbɶɶ,tear,破れ目,ừ ừ ào ào,vi,/ɯ˦˨ ɯ˦˨ aw˦˨ aw˦˨/,uuɶɶ,"Yeah, rushing",ええ、急いで,kyaku,ɶɶ,verb,3
 mărunțit,ro,/məruntsit/,əumbyb,shredded,細断された,kepitys,fi,/ˈkepitys/,øyyb,stick,棒,kyaku,yb,verb,3
 撕碎,zh-cn,/sɯ˥˥ sweɪ˥˩/,ubøʏ,Tear,破れ目,útleigu,is,/uːtleiɣʏ/,ubøyʏ,rent,家賃,to,bø,verb,3
+規定,ja,/kitei/,yøy,Provisions,規定,niñerías,es,/niɲeˈɾias/,yøyɶb,children,子供,to,øy,noun,3
+ákvæði,is,/auːkvaiðɪ/,ɶubɶyʏ,clause,句,瓦斯桶,zh-cn,/wa˨˩˦ sɯ˥˥ tʰʊŋ˧˥/,ɶubʊm,Gas barrel,ガスバレル,to,ub,noun,3
+tarjonta,fi,/ˈtɑrjontɑ/,ɑomɑ,supply,,Uganda,de,/ˈʔuːgandɑ/,uɶmɑ,Uganda,ウガンダ,kyaku,mɑ,noun,3
+persediaan,id,/pərsədiaʔan/,əəyɶɶm,supply,供給,temporisâmes,fr,/tɑ̃pɔʁizam/,ɑɔyɶm,temporis,トウモリ,kyaku,ɶm,noun,4
+titaani,fi,/ˈtitɑɑni/,yɑɑy,titanium,チタン,Agadir,de,/ˈʔɑːgɑdiɾ/,ɑɑy,Agadir,アガディール,kyaku,ɑy,noun,3
+titanium,en,/taɪˈteɪniəm/,ɶʏøʏyəm,titanium,チタン,Bierstuben,de,/ˈbiːɾstubən/,ybuəm,Beer room,ビールルーム,kyaku,əm,noun,3
+ketepatan,id,/kətəpatan/,əəɶɶm,accuracy,正確さ,atenian,ro,/atenijan/,ɶøyɶm,Athenian,アテナイアン,kyaku,ɶm,noun,4
+precisión,es,/pɾeθiˈsjon/,bøybom,precision,精度,premiito,eo,/premiito/,bøyyo,Awardee,受賞者,to,øy,noun,3
+噛み砕く,ja,/kamikɯdakɯ/,ɶyuɶu,Crush,噛み砕く,radiculares,es,/raðikulaɾes/,ɶyuɶøb,root,根,to,yuɶ,noun,5
+músico,es,/ˈmusiko/,uyo,musician,音楽家,aïkidos,fr,/ajkido/,ɶyo,aikidos,アイキドス,kyaku,yo,noun,3
+tónlistarmaður,is,/tʰounlɪstarmaːðʏr/,boumʏbɶɶʏ,musician,音楽家,promulgație,ro,/promulɡatsije/,boubɶbyø,promulgation,公布,to,ou,noun,5
+musician,en,/mjuˈzɪʃən/,muʏəm,musician,音楽家,temanten,id,/təmantən/,əɶməm,Temanten,テマンテン,kyaku,əm,noun,3
+pigsty,en,/ˈpɪɡˌstaɪ/,ʏbbɶʏ,pigsty,ブタ,gullsmári,is,/kʏtl̥smaurɪ/,ʏbbbɶuʏ,golden year,ゴールデンイヤー,to,bb,noun,3
+Schweinestall,de,/ˈʃvaenɛstall/,ɶøœbɶbb,Pork stable,豚肉の安定,mașinist,ro,/maʃinist/,ɶyybb,machinist,機械工,kyaku,bb,noun,3
+sikolätti,fi,/ˈsikoˌlætti/,yoæby,pigsty,ブタ,apology,en,/əˈpɑɫəˌdʒi/,əɑəby,apology,謝罪,kyaku,by,noun,4
+arvoitus,fi,/ˈɑrvoitus/,ɑoyub,mystery,神秘,무용극,ko,/mujoŋɡɯk̚/,uomub,Dancer,踊り子,kyaku,ub,noun,3
+reembolso,es,/reembolso/,øømobo,refund,返金,鸡蛋壳,zh-cn,/tɕi˥˥ tan˥˩ kʰɤ˧˥/,byɶmbo,Egg shell,卵の殻,kyaku,bo,noun,3
+remboursement,fr,/ʁɑ̃buʁsəmɑ̃/,ɑubəɑ,repayment,返済,galluccio,en,/ɡɑˈɫutʃioʊ/,ɑubyoʊ,galluccio,Galluccio,to,ub,verb,4
+capilla,es,/kapiʎa/,ɶyɶ,chapel,チャペル,讚美歌,ja,/saɴbika/,ɶmyɶ,Hymnal song,賛美歌,kyaku,yɶ,noun,3
+kappeli,fi,/ˈkɑppeli/,ɑbøy,chapel,チャペル,embrayai,fr,/ɑ̃bʁejɛ/,ɑbøœ,emblayai,enblayai,to,bø,noun,3
+مدرب,ar,/mudarrib/,uɶyb,Coach,コーチ,Mávahlíð,is,/mauːval̥iːð/,ɶuɶbyb,Mávahlíð,Mávahlíð,kyaku,yb,noun,3
+kouluttaja,fi,/ˈkoulutˌtɑjɑ/,ouubɑɑ,trainer,トレーナー,tối như hũ nút,vi,/toj˩˧ ɲɯ˧˥ hu˧˩˨ nuk͡p˦˥/,ouuubb,dark as the button jar,ボタンの瓶のように暗い,to,uu,noun,4
+lentää,fi,/ˈlentææ/,ømææ,fly,飛ぶ,samningaviðræðna,is,/samniŋkavɪðraiðna/,ʏbbœʏ,negotiation,交渉,,,noun,3
+lámina,es,/ˈlamina/,ɶyɶ,leaf,葉,fermita,eo,/fermita/,øyɶ,closed,閉まっている,kyaku,yɶ,verb,3
+lautanen,fi,/ˈlɑutɑnen/,ɑuɑøm,plate,皿,colagen,ro,/koladʒen/,oɶbøm,collagen,コラーゲン,kyaku,øm,noun,3
+ذيل,ar,/ðajjala/,ɶɶɶ,Tail,しっぽ,chảo quai vạc,vi,/caw˧˩˨ waj˧˥ jak˨ˀ˩ʔ/,ɶɶɶbb,canton,カントン,to,ɶɶ,noun,3
+مسلسل,ar,/musalsal/,uɶbɶb,a series,シリーズ,书法家,zh-cn,/ʂu˥˥ fa˨˩˦ tɕja˥˥/,uɶbbɶ,Calligrapher,書道者,to,ɶb,noun,3
+mencatat,id,/məntʃatat/,əmbɶɶb,record,記録,quán tự giác,vi,/waŋ˩˧ tɯ˨ˀ˩ʔ jak˦˥/,ɶmubɶb,Self -disciplined shop,自己規律のある店,kyaku,ɶb,noun,3
+espantapájaros,es,/espantaˈpaxaɾos/,øbɶmɶɶɶob,scarecrow,かかし,아로록아로록,ko,/a̠ɾo̞ɾo̞ɡa̠ɾo̞ɾo̞k̚/,ɶooɶoob,Arorok Arorlock,アロロク・アロロック,kyaku,ob,noun,6
+허수아비,ko,/hʌ̹sʰua̠bi/,ɔbuɶy,Scarecrow,かかし,pifati,ro,/pifati/,yɶy,Pifati,ピファティ,kyaku,ɶy,verb,3
+épouvantail,fr,/epuvɑ̃taj/,øuɑɶ,scarecrow,かかし,seuraavasti,fi,/ˈseurɑɑˌvɑsti/,øuɑɑɑby,as follows,次のように,to,uɑ,verb,4
+planeador,es,/planeaðoɾ/,bɶøɶo,glider,グライダー,사회성,ko,/sʰa̠ɦø̞sʰʌ̹ŋ/,bɶøbɔm,Sociability,社交性,to,ɶø,noun,3
+Segelflugzeug,de,/ˈzeːɡl̩ˌfluːktsɔɪ̯k/,øbbbubbɔʏb,Glider,グライダー,hệ thống đếm,vi,/he˨ˀ˩ʔ tʰoŋ͡m˩˧ dem˩˧/,øbbommøm,counting system,カウントシステム,to,bb,noun,3
+háttsemi,is,/hauhtsɛmɪ/,ɶubœʏ,14,14,아긋이,ko,/a̠ɡɯɕʰi/,ɶuby,Sack,袋,to,ub,verb,3
+mengadakan,id,/məŋadakan/,əɶɶɶm,stage,ステージ,고유재산,ko,/ko̞jud͡ʑɛ̝sʰa̠n/,oubœbɶm,Uniqueness,独自性,kyaku,ɶm,verb,4
+johtaa,fi,/ˈjohtɑɑ/,oɑɑ,to lead,リードする,rechantant,fr,/ʁəʃɑ̃tɑ̃/,əɑɑ,recharging,充電,kyaku,ɑɑ,verb,3
+akuntan,id,/akuntan/,ɶumɶm,accountant,会計士,ヨウ素酸,ja,/joɯsosaɴ/,ouoɶm,Iodine,ヨウ素酸,kyaku,ɶm,noun,3
+accountant,en,/əˈkaʊntənt/,əɶʊməmb,accountant,会計士,gengisins,is,/ceiɲcɪsɪns/,øymʏʏmb,exchange rate,為替レート,kyaku,mb,noun,3
+kirjanpitäjä,fi,/ˈkirjɑnˌpitæjæ/,yɑmyææ,accountant,会計士,recombination,en,/ɹiˌkɑmbɪˈneɪʃən/,yɑmʏøʏəm,recombination,組換え,to,ɑm,noun,5
+kế toán viên,vi,/ke˩˧ twaŋ˩˧ jiəŋ˧˥/,øbɶmyəm,accountant,会計士,出っぱり,ja,/depːaɾi/,øbɶy,All the time,出っぱり,to,bɶ,noun,3
+二年级,zh-cn,/aɻ˥˩ njɛn˧˥ tɕi˧˥/,ɶmœmby,second grade,二年生,生政治,ja,/seiseidʑi/,øyøyby,Live politics,生政治,kyaku,by,noun,3
+connexion,fr,/kɔnɛksjɔ̃/,ɔœbbɔ,connection,繋がり,korrekteren,de,/ˈkɔɾɾɛktɐ̯ən/,ɔœbɐəm,more correct,もっと正しい,to,œb,verb,3
+gerimis,id,/gərimis/,əyyb,drizzling,霧雨,débattissent,fr,/debatis/,øɶyb,debate,議論,kyaku,yb,verb,3
+llovizna,es,/ʎoβiθna/,oybɶ,drizzle,霧雨,nomiĝi,eo,/nomid͡ʒi/,oyby,to be called,呼ばれる,to,yb,verb,3
+postikulut,fi,/ˈpostiˌkulut/,obyuub,postage,送料,hội nghị bàn tròn,vi,/hoj˨ˀ˩ʔ ŋi˨ˀ˩ʔ baŋ˦˨ ʈɔŋ͡m˦˨/,obybɶmɔmm,Round table conference,円卓会議,to,by,noun,4
+affranchissement,fr,/afʁɑ̃ʃismɑ̃/,ɶbɑybɑ,postage,送料,alessandra,en,/ˌæɫɛˈsændɹɑ/,æœæmbɑ,alessandra,アレッサンドラ,kyaku,bɑ,noun,4
+astronomi,id,/astronomi/,ɶbbooy,astronomy,天文学,atkvæðisrétt,is,/aːtkvaiðɪsrjɛht/,ɶbbɶyʏbœb,vote,投票,to,bb,noun,4
+Astronomie,de,/ʔastɾonoˈmiː/jə/,ɶbbooyə,astronomy,天文学,astronautika,id,/astronautika/,ɶbboɶuyɶ,astronautics,宇宙飛行士,to,bbo,noun,5
+astronomie,fr,/astʁɔnɔmi/,ɶbbɔɔy,astronomy,天文学,الصمائد,ar,/aːlsˤamaːʔid/,ɶbbɶɶyb,Panties,パンティー,to,bb,noun,4
+天文学,ja,/teɴmoɴgakɯ/,ømomɶu,astronomy,天文学,enrodriguéis,es,/enroðɾiˈɣeis/,ømobyøyb,Enodrigue,エノドリゲ,to,mo,noun,4
+天文学,zh-cn,/tʰjɛn˥˥ uən˧˥ ɕɥœ˧˥/,bœmuəmbœ,astronomy,天文学,thèm giỏ dãi,vi,/tʰɛm˦˨ jɔ˧˩˨ jaj˧˩˨/,bœmɔɶ,crave basket,切望バスケット,to,œm,noun,3
+carnival,en,/ˈkɑɹnəvəɫ/,ɑəə,carnival,カーニバル,mendeder,id,/məndədər/,əməə,dedeter,Dedeter,kyaku,əə,noun,3
+karnevaali,fi,/ˈkɑrneˌvɑɑli/,ɑøɑɑy,carnival,カーニバル,appesanti,fr,/apəzɑ̃ti/,ɶəɑy,appetite,食欲,kyaku,ɑy,noun,4
+فرك,ar,/faraka/,ɶɶɶ,rub,こする,gymkhanas,fr,/ʒimkana/,ymɶɶ,gymkhanas,ジムカナ,kyaku,ɶɶ,verb,3
+menggosok,id,/məŋgosoʔ/,əmoob,rub,こする,nham phún xuất,vi,/ɲam˧˥ fuŋ͡m˩˧ swɤ̆k˦˥/,ɶmummbob,Exported,エクスポート,kyaku,ob,verb,3
+harmoninen,fi,/ˈhɑrmoˌninen/,ɑoyøm,harmonious,調和,hepatogen,ro,/hepatodʒen/,øɶobøm,hepatogen,肝臓,kyaku,øm,adjective,4
+harmonis,id,/harmonis/,ɶoyb,harmonious,調和,전문직,ko,/t͡ɕʌ̹nmund͡ʑik̚/,bɔmumbyb,Professional,プロ,kyaku,yb,adjective,3
+Erholung,de,/ʔɛːɐˈhoːlʊŋ/,œɐoʊm,recreation,レクリエーション,وبالروم,ar,/wabiaːlraʊm/,ɶyɶbɶʊm,And by theum,そしてtheumによって,kyaku,ʊm,noun,3
+レクリエーション,ja,/ɾekɯɾieːɕoɴ/,øuyøom,Recreation,レクリエーション,advocación,es,/aðβokaˈθjon/,ɶboɶbom,invocation,呼び出し,kyaku,om,noun,4
+recreation,en,/ˌɹɛkɹiˈeɪʃən/,œbyøʏəm,recreation,レクリエーション,백의종군,ko,/pɛ̝ɡɰid͡ʑo̞ŋɡun/,œbybomum,White army,白人,to,by,noun,4
+キルト,ja,/kiɾɯto/,yuo,Quilt,キルト,rokuo,eo,/rokuo/,ouo,rock,石,kyaku,uo,noun,3
+édredon,fr,/edʁədɔ̃/,øbəɔ,quilt,キルト,sinsabaugh,en,/ˈsɪnsəˌbɔ/,ʏməɔ,sinsabaugh,シンサボー,kyaku,əɔ,verb,3
+selimut,id,/səlimut/,əyub,blanket,毛布,disrepute,en,/ˌdɪsɹɪpˈjut/,ʏbʏbub,disrepute,嫌い,kyaku,ub,verb,3
+spălare,ro,/spəlare/,bəɶø,wash,洗う,Harvey,de,/ˈhaɾvae/,ɶɶø,Harvey,ハーベイ,kyaku,ɶø,noun,3
+Mathematik,de,/ˌmatəmaˈtɪk/,ɶəɶʏb,mathematics,数学,فبالكعيب,ar,/fabiaːlkuʕeɪb/,ɶyɶbuøʏb,So the defect,だから欠陥,kyaku,ʏb,noun,4
+Gelegenheit,de,/gəlegɛnˈəiːt/,əøœməyb,opportunity,機会,horticultures,fr,/ɔʁtikyltyʁ/,ɔbyybyb,horticultures,園芸,kyaku,yb,noun,4
+tilaisuus,fi,/ˈtilɑisuus/,yɑyuub,opportunity,機会,hồng thập tự,vi,/hoŋ͡m˦˨ tʰɤ̆p˨ˀ˩ʔ tɯ˨ˀ˩ʔ/,ommbobbub,Red Cross,赤十字,kyaku,ub,noun,3
+機会,ja,/kikai/,yɶy,chance,機会,visarion,ro,/visarion/,yɶyom,Vissarion,ヴィッサリオン,to,ɶy,noun,3
+incubație,ro,/inkubatsije/,ymuɶbyø,incubation,インキュベーション,desentarime,es,/desentaɾime/,øømɶyø,Descent,降下,kyaku,yø,noun,5
+inkubacio,eo,/inkubat͡sio/,ymuɶbyo,incubation,インキュベーション,imprésario,id,/impresario/,ymbøɶyo,Imprésario,Imprésario,kyaku,yo,noun,5
+inkubasi,id,/inkubasi/,ymuɶy,incubation,インキュベーション,photographie,fr,/fɔtɔgʁafi/,ɔɔbɶy,photography,写真,kyaku,ɶy,noun,4
+切断,ja,/setsɯdaɴ/,øbuɶm,Cutting,切断,pirouettâmes,fr,/piʁwɛtam/,ybœɶm,pirouettâme,Pirouettâme,kyaku,ɶm,noun,3
+قطع,ar,/qatˤaʕa/,ɶbɶɶ,to cut,切る,afmá,is,/avmau/,ɶbɶu,erase,消去します,to,bɶ,verb,3
+tăiere,ro,/təjere/,əøø,cutting,切断,conmueve,es,/kommweβe/,ommøø,move,動く,kyaku,øø,noun,3
+クリート,ja,/kɯɾiːto/,uyo,Cleat,クリート,massicot,fr,/masiko/,ɶyo,massicot,マッシコット,kyaku,yo,noun,3
+pistoke,fi,/ˈpistoke/,yboø,plug,プラグ,捋头发,zh-cn,/ly˨˩˦ tʰoʊ˧˥ fa˧/,yboʊɶ,Hair,髪,to,bo,verb,3
+recordar,es,/rekoɾðaɾ/,øoɶ,to remember,覚えておいてください,パゴダ,ja,/pagoda/,ɶoɶ,Pagoda,パゴダ,kyaku,oɶ,verb,3
+يتذكر,ar,/jataðakkar/,ɶɶɶbɶ,Remember,覚えて,赤花,ja,/akabana/,ɶɶɶɶ,Red flower,赤花,to,ɶɶ,verb,4
+armament,ro,/armament/,ɶɶømb,weapons,兵器,فكخيش,ar,/fakaxeɪʃ/,ɶɶøʏ,Fakhish,ファキッシュ,to,ɶø,adjective,3
+aseistus,fi,/ˈɑseistus/,ɑøybub,armament,武装,새무룩,ko,/sʰɛ̝muɾuk̚/,bœuub,New murmur,新しいつぶやき,kyaku,ub,noun,3
+armamento,es,/aɾmamento/,ɶɶømo,armament,武装,parallélismes,fr,/paʁalelism/,ɶɶøybm,parallelisms,並列性,to,ɶø,noun,4
+armement,fr,/aʁməmɑ̃/,ɶbəɑ,armament,武装,acerang,id,/atʃəraŋ/,ɶbəɶm,Acerang,アセラン,to,bə,noun,3
+fabricante,es,/faβɾikante/,ɶbyɶmø,maker,メーカー,patrineco,eo,/patrinet͡so/,ɶbyøbo,motherhood,母性,to,by,noun,4
+صانع,ar,/sˤaːnaʕa/,bɶɶɶ,maker,メーカー,御腹,ja,/onaka/,oɶɶ,Stomach,御腹,kyaku,ɶɶ,noun,3
+calzado,es,/kalθaðo/,ɶbɶo,footwear,履物,barnastarfs,is,/patnastars/,ɶbɶbɶb,children,子供,to,bɶ,noun,3
+yesterday,en,/ˈjɛstɝˌdeɪ/,œbəøʏ,yesterday,昨日,بوصلي,ar,/biwasˤleɪ/,yɶbøʏ,In connection,接続,kyaku,øʏ,noun,4
+varilla,es,/baɾiʎa/,ɶyɶ,rod,ロッド,horia,ro,/horija/,oyɶ,Horie,ホリー,kyaku,yɶ,noun,3
 samaran,id,/samaran/,ɶɶɶm,GOOD,良い,吃早餐,/ʈʂʰɚ˥˥ tsɑʊ˨˩˦ tsʰan˥˥/,əbɑʊbbɶm,zh-cn,Eat breakfast,朝食を食べる,kyaku,ɶm,adjective,3
 foray,en,/ˈfɔɹeɪ/,ɔøʏ,foray,進出,häufigen,/ˈhɔøfɪgən/,ɔøʏəm,de,frequent,頻繁,to,øʏ,verb,3
 進出,ja,/ɕiɴɕɯtsɯ/,ymubu,Advance,進出,hääkimppu,/ˈhæækimppu/,ææymbu,fi,wedding bouquet,結婚式の花束,kyaku,bu,noun,3
@@ -1772,6 +2404,85 @@ apariția,ro,/aparitsija/,ɶɶybyɶ,appearance,外観,サラセニア,ja,/saɾas
 aparición,es,/apaɾiˈθjon/,ɶɶybom,appearance,外観,hồng nhan đa truân,vi,/hoŋ͡m˦˨ ɲaŋ˧˥ da˧˥ ʈwɤ̆ŋ˧˥/,ommɶmɶom,Hong Nhan Da Tru,Hong Nhan Da Tru,kyaku,om,noun,4
 出現,ja,/ɕɯtsɯgeɴ/,ubuøm,Appearance,出現,diktieren,de,/dɪkˈtiːɾen/,ʏbyøm,dictate,指示,kyaku,øm,noun,3
 hölynpöly,fi,/ˈhølynˌpøly/,øymøy,nonsense,ナンセンス,reintentaros,es,/reintentaɾos/,øymømɶob,Reintent,再インテント,to,ymø,noun,4
+놓치다,ko,/no̞t̚t͡ɕʰida̠/,obbbyɶ,to let go,手放す,得罪,zh-cn,/tɤ˧˥ tsweɪ˥˩/,obbøʏ,offend,気分を害する,to,bb,verb,3
+Mademoiselle,fr,/madmwazɛl/,ɶbmɶœb,Miss,逃す,vinnubrögð,is,/vɪnʏprœɣð/,ʏʏbœb,working,働く,kyaku,œb,verb,3
+سرج,ar,/saradʒa/,ɶɶbɶ,saddle,サドル,재소자,ko,/t͡ɕɛ̝sʰo̞d͡ʑa̠/,bœbobɶ,Inmate,受刑者,kyaku,bɶ,verb,3
+長さ,ja,/nagasa/,ɶɶɶ,length,長さ,reagrava,es,/reaɣɾaβa/,øɶɶɶ,Reagrava,ReaGrava,kyaku,ɶɶ,adjective,3
+longeco,eo,/longet͡so/,omøbo,length,長さ,恩恵,ja,/oɴkei/,omøy,benefit,恩恵,to,mø,noun,3
+pemanas,id,/pəmanas/,əɶɶb,heating,暖房,경영학,ko,/kjʌ̹ŋjʌ̹ŋɦa̠k̚/,bɔmɔmɶb,Business,仕事,kyaku,ɶb,noun,3
+hejtilo,eo,/heitilo/,øyyo,heater,ヒータ,Cabrio,de,/ˈkaːbʁio/,ɶbyo,Convertible,コンバーチブル,kyaku,yo,noun,3
+memeriksa,id,/məməriʔsa/,əəybɶ,check,小切手,하위문화,ko,/ha̠ɥimunβwa̠/,ɶyumbɶ,Subculture,サブカルチャー,kyaku,bɶ,verb,4
+Überprüfung,de,/ˈʔyːbɛɾpɾyfʊŋ/,yœbyʊm,examination,検査,量才录用,zh-cn,/ljɑŋ˥˩ tsʰaɪ˧˥ lu˥˩ jʊŋ˥˩/,bɑmbbɶʏuʊm,Object only,オブジェクトのみ,kyaku,ʊm,noun,4
+tarkastus,fi,/ˈtɑrkɑstus/,ɑɑbub,inspection,検査,ويرؤف,ar,/weɪarʔuf/,øʏɶub,And it presents,そしてそれは提示します,kyaku,ub,verb,3
+athuga,is,/aːtʏɣa/,ɶʏɶ,observe,観察する,وبيد,ar,/wabeɪda/,ɶøʏɶ,Bid,入札,kyaku,ʏɶ,verb,3
+vérification,fr,/veʁifikasjɔ̃/,øyyɶbɔ,verification,検証,legitimierten,de,/legitiˈmiːɾtən/,øyyyəm,legitimized,正当化,to,yy,verb,5
+manusia,id,/manusia/,ɶuyɶ,man,男,nostalgia,eo,/nostalgia/,obɶbyɶ,nostalgic,ノスタルジック,kyaku,yɶ,noun,4
+بشري,ar,/baʃarijj/,ɶɶy,Human,人間,hagræði,is,/haɣraiðɪ/,ɶɶyʏ,benefit,利点,to,ɶy,noun,3
+hésitation,fr,/ezitasjɔ̃/,øyɶbɔ,hesitation,ためらいます,cavalli-sfor,en,/kəˌvæɫisˈfɔɹ/,əæybɔ,cavalli-sfor,Cavalli-sfor,kyaku,bɔ,noun,4
+apina,fi,/ˈɑpinɑ/,ɑyɑ,monkey,猿,habitants,fr,/abitɑ̃/,ɶyɑ,inhabitants,住民,kyaku,yɑ,noun,3
+원숭이,ko,/wʌ̹nsʰuŋi/,ɔmbuy,monkey,猿,työkausi,fi,/ˈtyøkɑusi/,yøɑuy,working season,ワーキングシーズン,kyaku,uy,noun,3
+Hängematte,de,/ˈhɛŋəˌmatə/,œəɶə,hammock,ハンモック,becquetassions,fr,/bɛkətasjɔ̃/,œəɶbɔ,Becquetassionions,becquetassions,to,əɶ,noun,4
+riippumatto,fi,/ˈriippuˌmɑtto/,yybuɑbo,hammock,ハンモック,elektristo,eo,/elektristo/,øøbbybo,electrician,電気技師,kyaku,bo,noun,4
+hamaca,es,/amaka/,ɶɶɶ,hammock,ハンモック,encanaille,fr,/ɑ̃kanaj/,ɑɶɶ,slicing,スライス,kyaku,ɶɶ,verb,3
+ヒヤシンス,ja,/çijaɕiɴsɯ/,yɶymu,Hyacinth,ヒヤシンス,넌들넌들,ko,/nʌ̹ndɯɭɭʌ̹ndɯɭ/,ɔmuɔmu,Guys,彼ら,kyaku,mu,noun,4
+눈사람,ko,/nunsʰa̠ɾa̠m/,umbɶɶm,snow man,スノーマン,moondreamers,en,/ˈmunˌdɹimɝz/,umbyəb,moondreamers,ムーンドリーマー,to,mb,noun,3
+fotelo,eo,/fotelo/,oøo,armchair,アームチェア,ポテト,ja,/poteto/,oøo,potato,ポテト,kyaku,øo,noun,3
+hægindastóll,is,/haijɪntastoutl̥/,ɶyʏmɶboubb,armchair,アームチェア,probabilistes,fr,/pʁɔbabilist/,bɔɶyybb,probabilists,確率主義者,kyaku,bb,noun,4
+الخلفي,ar,/aːlxalfijj/,ɶbɶby,Rear,後方,grasiĝi,eo,/grasid͡ʒi/,bɶyby,to get fat,脂肪を得るために,kyaku,by,adjective,3
+hintere,de,/ˈhɪnˌtɐ̯ə/,ʏmɐə,rear,後方,personsökare,sv,/²päʂ'uːnsøːkarɛ/,œbbœbʊ,Person seeker,人を探している,,,verb,3
+hammaslääkäri,fi,/ˈhɑmmɑsˌlæækæri/,ɑmɑbæææy,dentist,歯医者,亡羊补牢,zh-cn,/wɑŋ˧˥ jɑŋ˧˥ pu˨˩˦ lɑʊ˧˥/,ɑmɑmuɑʊ,Dead sheep to make up for,,to,mɑ,verb,5
+luxuriant,ro,/luksuriant/,ubuyɶmb,lush,青,辅佐,zh-cn,/fu˨˩˦ tsuɔ˨˩˦/,ubuɔ,Assist,支援する,to,bu,adjective,3
+보드카,ko,/po̞dɯkʰa̠/,oubɶ,vodka,ウォッカ,hợp tác hoá,vi,/hɤp˨ˀ˩ʔ tak˦˥ hwa˩˧/,obbɶbɶ,Cooperating,協力,kyaku,bɶ,verb,3
+kerjätä,fi,/ˈkerjætæ/,øææ,beg,頼む,útlensku,is,/uːtlɛnskʏ/,ubœmbʏ,foreign,外国,,,verb,3
+petegi,eo,/petegi/,øøy,begging for,懇願する,不逞,ja,/ɸɯtei/,uøy,outlawry,不逞,kyaku,øy,verb,3
+trinkaĵo,eo,/trinkaʒo/,bymɶo,drink,飲む,sábalo,es,/ˈsaβalo/,ɶɶo,shad,シャッド,kyaku,ɶo,noun,3
+飲み物,ja,/nomimono/,oyoo,drink,飲み物,Druckkopfmotor,de,/ˈdɾʊkkɔpfmotoɾ/,bʊbɔbboo,Print -head engine,プリント - ヘッドエンジン,kyaku,oo,noun,4
+magazin,ro,/maɡazin/,ɶɶym,store,お店,pidätin,fi,/ˈpidætin/,yæym,detention,拘留,kyaku,ym,noun,3
+pituusaste,fi,/ˈpituuˌsɑste/,yuuɑbø,longitude,経度,converseriez,fr,/kɔ̃vɛʁsəʁje/,ɔœbəbø,converse,コンバース,kyaku,bø,noun,4
+longitud,es,/loŋxituð/,omyub,length,長さ,Schonbezug,de,/ˈʃɔnbetsuk/,ɔmøbub,Protective,保護,kyaku,ub,noun,3
+longitude,en,/ˈɫɑndʒəˌtud/,ɑmbəub,longitude,経度,bơi dai sức,vi,/bɤj˧˥ jaj˧˥ ʂɯk˦˥/,oɶub,swimming,水泳,kyaku,ub,noun,3
+jucător,ro,/ʒukətor/,uəo,player,プレーヤー,entrepôts,fr,/ɑ̃tʁəpo/,ɑbəo,warehouses,倉庫,kyaku,əo,noun,3
+لاعب,ar,/laːʕaba/,ɶɶɶ,Player,プレーヤー,大鎌,ja,/oogama/,ooɶɶ,Large scythe,大鎌,kyaku,ɶɶ,noun,3
+pelaaja,fi,/ˈpelɑɑjɑ/,øɑɑɑ,player,プレーヤー,delamar,en,/deɪɫɑˈmɑɹ/,øʏɑɑ,delamar,デラマー,kyaku,ɑɑ,noun,3
+عين,ar,/ʕajjana/,ɶɶɶ,eye,目,Pyjama,de,/pyˈd͡ʒaːma/,ybɶɶ,Pajamas,パジャマ,kyaku,ɶɶ,noun,3
+orðrómur,is,/ɔrðroumʏr/,ɔbouʏ,rumor,噂,kolkhoziennes,fr,/kɔlkozjɛn/,ɔbobœm,Kolkhoziennes,コルコジエンヌ,to,bo,noun,3
+الطموح,ar,/aːltˤumuːħ/,ɶbbuub,Aspiration,願望,străbătut,ro,/strəbətut/,bbəəub,traveled,旅行した,kyaku,ub,verb,3
+aspirant,ro,/aspirant/,ɶbyɶmb,vacuum cleaner,掃除機,Baltiko,eo,/baltiko/,ɶbyo,Baltic,バルト,to,by,adjective,3
+pestañas,es,/pestaɲas/,øbɶɶb,tabs,タブ,terléwat,id,/tərlewat/,əøɶb,Takewat,テイクワット,kyaku,ɶb,noun,3
+まつ毛,ja,/matsɯge/,ɶbuø,Eyelashes,まつ毛,rabrouât,fr,/ʁabʁua/,ɶbuɶ,rabrouât,rabrouât,to,bu,noun,3
+sylkeä,fi,/ˈsylkeæ/,ybøæ,spit,スピット,للخيدع,ar,/lilxeɪdaʕ/,ybøʏɶb,To dump,を投げ捨てます,to,bø,verb,3
+incision,fr,/ɛ̃sizjɔ̃/,œybɔ,incision,切開,동맥혈,ko,/to̞ŋmɛ̝kçjʌ̹ɭ/,omœbɔ,Arterial blood,動脈血,kyaku,bɔ,noun,3
+切口,zh-cn,/tɕʰjɛ˥˥ kʰoʊ˨˩˦/,bbœboʊ,incision,,책임자,ko,/t͡ɕʰɛ̝ɡimd͡ʑa̠/,bbœymbɶ,Officer,役員,to,bœ,noun,3
+incizie,ro,/intʃizije/,ymbyyø,incision,切開,انصرم,ar,/insˤarama/,ymbɶɶɶ,Virtue,美徳,to,mb,noun,4
+incisión,es,/inθiˈsjon/,ymybom,incision,切開,慣用音,ja,/kaɴjoɯoɴ/,ɶmouom,Idiomatic sound,慣用音,kyaku,om,noun,3
+猪油,zh-cn,/ʈʂu˥˥ joʊ˧˥/,uoʊ,lard,ラード,dussault,en,/dəˈsoʊ/,əoʊ,dussault,Dussault,kyaku,oʊ,noun,3
+حرج,ar,/ħaridʒa/,ɶybɶ,HARAJ,ハラジ,leifarnar,is,/leiːvatnar/,øyɶbɶ,the remnants,残骸,kyaku,bɶ,noun,3
+povară,ro,/povarə/,oɶə,burden,負担,totale,de,/toˈtalə/,oɶə,total,合計,kyaku,ɶə,adjective,3
+uppity,en,/ˈəpəti/,əəy,uppity,uppity,kubeli,id,/kubəli/,uəy,I bought it,それを買った,kyaku,əy,noun,3
+الصعود,ar,/aːlsˤuʕuːd/,ɶbbuub,Boarding,搭乗,纳粹,zh-cn,/na˥˩ tsʰweɪ˥˩/,ɶbbøʏ,Nazi,ナチ,to,bb,noun,3
+số thập phân,vi,/ʂo˩˧ tʰɤ̆p˨ˀ˩ʔ fɤ̆ŋ˧˥/,obobbom,decimal,小数,양자론,ko,/ja̠ŋd͡ʑa̠ɾo̞n/,ɶmbɶom,Quantumism,量子主義,kyaku,om,noun,3
+decimal,en,/ˈdɛsəməɫ/,œəə,decimal,小数,mendeder,id,/məndədər/,əməə,dedeter,Dedeter,kyaku,əə,noun,3
+dekuma,eo,/dekuma/,øuɶ,decimal,小数,Leguane,de,/leguanə/,øuɶə,Iguana,イグアナ,to,uɶ,noun,3
+pensando,es,/pensando/,ømɶmo,thinking,考え,enkapti,eo,/enkapti/,ømɶby,to trap,トラップする,to,mɶ,verb,3
+التفكير,ar,/aːltafkiːr/,ɶbɶby,Thinking,考え,atesti,eo,/atesti/,ɶøby,to testify,証言する,kyaku,by,verb,3
+pemikiran,id,/pəmikiran/,əyyɶm,thinking,考え,expensarán,es,/ekspensaˈɾan/,øbbømɶɶm,They will sell,彼らは売るでしょう,kyaku,ɶm,verb,4
+piisami,fi,/ˈpiisɑmi/,yyɑy,muskrat,マスカラット,biscardi,en,/bɪˈskɑɹdi/,ʏbɑy,biscardi,ビスカルディ,kyaku,ɑy,noun,3
+ainutlaatuinen,fi,/ˈɑinutˌlɑɑtuinen/,ɑyubɑɑuyøm,unique,個性的,anofelogen,ro,/anofelodʒen/,ɶoøobøm,anophelogen,アノフィロゲン,kyaku,øm,adjective,5
+تعشش,ar,/taʕaʃʃaʃa/,ɶɶɶɶ,Nest,ネスト,mempelawa,id,/məmpəlawa/,əməɶɶ,brushed,ブラシ,kyaku,ɶɶ,verb,4
+bersarang,id,/bərsaraŋ/,əɶɶm,nest,ネスト,manojean,es,/manoxean/,ɶoøɶm,handle,扱う,kyaku,ɶm,verb,3
+governor,en,/ˈɡəvɝnɝ/,əəə,governor,知事,măgădău,ro,/məɡədəw/,əəə,Măgădău,マガダウ,kyaku,əə,noun,3
+kuvernööri,fi,/ˈkuverˌnøøri/,uøøøy,governor,知事,călugăreni,ro,/kəluɡərenʲ/,əuəøy,Calugarenilor,カルガレニロール,kyaku,øy,noun,4
+قيد,ar,/qajjada/,ɶɶɶ,Restriction,制限,mukanya,id,/mukaɲa/,uɶɶ,face,顔,kyaku,ɶɶ,verb,3
+制約,ja,/seijakɯ/,øyɶu,Restrictions,制約,ferianto,eo,/ferianto/,øyɶmo,Holiday,ホリデー,to,yɶ,noun,3
+restricción,es,/restɾiˈkθjon/,øbbybbom,restriction,制限,의미론,ko,/ɰimiɾo̞n/,yyom,semantics,セマンティクス,kyaku,om,noun,3
+Logistik,de,/ˈloːgɪstik/,oʏbyb,logistics,ロジスティクス,descriabais,es,/deskɾjaβais/,øbbɶɶyb,You unleashed,あなたは解き放ちました,kyaku,yb,noun,3
+logistiikka,fi,/ˈlogisˌtiikkɑ/,oybyybɑ,logistics,ロジスティクス,rối rít tít mù,vi,/ʐoj˩˧ ʐit˦˥ tit˦˥ mu˦˨/,oybybu,blind headlines,ブラインドヘッドライン,to,yby,noun,4
+logistics,en,/ɫəˈdʒɪstɪks/,əbʏbʏbb,logistics,ロジスティクス,paradoks,id,/paradoʔs/,ɶɶobb,paradox,逆説,kyaku,bb,noun,3
+referendum,en,/ˌɹɛfɝˈɛndəm/,œəœməm,referendum,国民投票,realizăm,ro,/realizəm/,øɶyəm,realize,気付く,kyaku,əm,noun,3
+国民投票,ja,/kokɯmiɴtoɯçjoɯ/,ouymouou,Referendum,国民投票,rotukiihkoilija,fi,/ˈrotuˌkiihkoiˌlijɑ/,ouyyoyyɑ,breeder,ブリーダー,to,uy,noun,6
+trưng cầu dân ý,vi,/ʈɯŋ˧˥ kɤ̆w˦˨ jɤ̆ŋ˧˥ i˩˧/,umoomy,referendum,国民投票,لنغنغر,ar,/linuɣanɣir/,yuɶmy,Langinger,ランギンガー,kyaku,my,noun,4
+استفتاء,ar,/istiftaːʔ/,ybybɶb,Referendum,国民投票,lateral,de,/lateˈʀaːl/,ɶøɶb,lateral,横方向,kyaku,ɶb,noun,3
+kansanäänestys,fi,/ˈkɑnsɑˌnæænestys/,ɑmɑææøbyb,referendum,国民投票,Eyjafjarðarsveit,is,/eijafjarðarsveiːt/,øyɶbɶɶbøyb,Eyjafjarðarsveit,eyjafjarðarsveit,kyaku,yb,noun,5
 heimabæ,is,/heiːmapaiː/,øyɶɶy,hometown,ホームタウン,火焔放射器,ja,/kaeɴhoɯɕaki/,ɶømouɶy,Flame radiox,火焔放射器,kyaku,ɶy,noun,4
 Heimatort,de,/ˈhaemɑtɔɾt/,ɶøɑɔb,Home town,ホームタウン,thunderbolt,en,/ˈθəndɝˌbɔɫt/,əməɔb,thunderbolt,落雷,kyaku,ɔb,noun,3
 ホームタウン,ja,/hoːmɯtaɯɴ/,ouɶum,home town,ホームタウン,geranium,ro,/dʒeranium/,bøɶyum,geranium,ゼラニウム,kyaku,um,noun,3
@@ -2244,6 +2955,209 @@ desaprobar,es,/desapɾoβaɾ/,øɶboɶ,disapprove,不承認,etabliertet,/ʔetabl
 不承認,ja,/ɸɯɕoɯniɴ/,uouym,Discrimination,不承認,quechemarín,/ketʃemaˈɾin/,øbøɶym,es,Quechemarín,ケチェマリン,kyaku,ym,noun,4
 désapprouver,fr,/dezapʁuve/,øɶbuø,to disapprove of,不承認にする,組み付け,/kɯmitsɯke/,uybuø,ja,Assembling,組み付け,kyaku,buø,verb,4
 sisältö,fi,/ˈsisæltø/,yæbø,contents,コンテンツ,thượng đế,/tʰɯəŋ˨ˀ˩ʔ de˩˧/,buəmbø,vi,God,神,kyaku,bø,noun,3
+pruncie,ro,/pruntʃije/,bumbyø,babyhood,赤ちゃんの頃,jouluyö,fi,/ˈjouluyø/,ouuyø,Christmas night,クリスマスの夜,kyaku,yø,noun,3
+infancia,es,/imfanθja/,ymɶmbɶ,childhood,子供時代,nasibnya,id,/nasibɲa/,ɶybɶ,His fate,彼の運命,kyaku,bɶ,noun,3
+infancy,en,/ˈɪnfənsi/,ʏməmy,infancy,幼少期,시금히,ko,/ɕʰiɡɯmʝi/,byumy,Spinning,紡糸,kyaku,my,noun,3
+tavanomainen,fi,/ˈtɑvɑnoˌmɑinen/,ɑɑoɑyøm,ordinary,普通,sakamoto,en,/sɑkɑˈmoʊtoʊ/,ɑɑoʊoʊ,sakamoto,坂本,to,ɑo,adjective,5
+Möchtegern,de,/ˈmœçtegɛɾn/,œøœm,Wannabe,志望,méridienne,fr,/meʁidjɛn/,øybœm,meridian,子午線,kyaku,œm,noun,3
+unité,fr,/ynite/,yyø,unity,団結,rugire,ro,/rudʒire/,ubyø,prayer,祈り,kyaku,yø,noun,3
+unuo,eo,/unuo/,uuo,unit,単位,打四折,zh-cn,/ta˨˩˦ sɯ˥˩ ʈʂɤ˧˥/,ɶuo,Discount,割引,kyaku,uo,noun,3
+encuesta,es,/eŋkwesta/,ømbøbɶ,poll,世論調査,fjaðrirnar,is,/fjaðrɪtnar/,bɶbʏbɶ,the feathers,羽,kyaku,bɶ,noun,3
+tutkimus,fi,/ˈtutkimus/,ubyub,research,リサーチ,courtisans,fr,/kuʁtizɑ̃/,ubyɑ,courtiers,宮廷人,to,by,noun,3
+vilkkua,fi,/ˈvilkkuɑ/,ybbuɑ,blink,まばたき,restructure,en,/ɹiˈstɹəktʃɝ/,ybbəbbə,restructure,再構築,to,bb,noun,3
+semnalizare,ro,/semnalizare/,ømɶyɶø,signalization,信号化,engargolares,es,/eŋgaɾɣolaɾes/,ømɶoɶøb,Engargolar,Engargolar,to,mɶ,noun,5
+clignotant,fr,/kliɲɔtɑ̃/,byɔɑ,turn signal,ウインカー,시험지옥,ko,/ɕʰiɦʌ̹md͡ʑio̞k̚/,byɔmbyob,Test hell,地獄をテストします,to,yɔ,noun,3
+ブリンカー,ja,/bɯɾiɴkaː/,uymɶ,Brinker,ブリンカー,sendanka,eo,/sendanka/,ømɶmɶ,Sendanka,センダンカ,kyaku,mɶ,noun,3
+getaran,id,/gətaran/,əɶɶm,vibration,振動,zambullan,es,/θambuʎan/,ɶmuɶm,dive,飛び込む,kyaku,ɶm,noun,3
+vibration,en,/vaɪˈbɹeɪʃən/,ɶʏbøʏəm,vibration,振動,自家人,zh-cn,/tsɯ˥˩ tɕja˥˥ ʐən˧˥/,bubbɶəm,Family,家族,kyaku,əm,noun,3
+vibración,es,/biβɾaˈθjon/,ybɶbom,vibration,振動,للفالج,ar,/lilfaːlidʒ/,ybɶyb,For a shower,シャワー用,to,bɶ,noun,3
+värähtely,fi,/ˈværæhˌtely/,ææøy,vibration,振動,înscrierii,ro,/ɨnskrijerij/,ʉmbbyøy,Joined,参加,kyaku,øy,noun,4
+akuarium,id,/akuarium/,ɶuɶyum,aquarium,水族館,raboutât,fr,/ʁabuta/,ɶuɶ,raboutât,ラブタト,to,uɶ,noun,3
+aquarium,en,/əˈkwɛɹiəm/,əbœyəm,aquarium,水族館,Gummischuhen,de,/ˈgʊmmɪʃuən/,ʊmʏuəm,Rubber shoes,ラバーシューズ,kyaku,əm,noun,3
+水族館,ja,/sɯizokɯkaɴ/,uyouɶm,Aquarium,水族館,Síldarvinnslan,is,/siːltarvɪnslan/,ybɶʏmbɶm,Herring processing,ニシン処理,kyaku,ɶm,noun,4
+akvaario,fi,/ˈɑkvɑɑˌrio/,ɑbɑɑyo,aquarium,水族館,castaneda,en,/kɑstɑˈnɛdə/,ɑbɑœə,castaneda,カスタネダ,to,bɑ,noun,4
+水族馆,zh-cn,/ʂweɪ˨˩˦ tsu˧˥ kwan˨˩˦/,øʏbubɶm,aquarium,水族館,bintangan,id,/bintaŋan/,ymɶɶm,Bintangan,ビンタンガン,kyaku,ɶm,noun,3
+奇跡,ja,/kiseki/,yøy,miracle,奇跡,alleeli,fi,/ˈɑlleeli/,ɑbøøy,allele,対立遺伝子,kyaku,øy,noun,3
+kraftaverk,is,/kʰraftavɛr̥k/,bɶbɶœb,miracle,奇跡,جلفن,ar,/dʒalfana/,bɶbɶɶ,Galvin,ガルビン,to,ɶbɶ,noun,3
+miracle,en,/ˈmɪɹəkəɫ/,ʏəə,miracle,奇跡,表示式,zh-cn,/pjɑʊ˨˩˦ ʂɚ˥˩ ʂɚ˥˩/,bɑʊəə,Represent,代表する,kyaku,əə,noun,3
+sitruuna,fi,/ˈsitruunɑ/,ybuuɑ,lemon,レモン,للقسطاس,ar,/lilqustˤaːs/,ybubbɶb,For installments,分割払い用,to,bu,noun,3
+Zitrone,de,/t͡siˈtʁoːnə/,byboə,lemon,レモン,필사체,ko,/pʰiɭsʰa̠t͡ɕʰe̞/,bybɶbbø,Manuscript,原稿,to,yb,noun,3
+historique,fr,/istɔʁik/,ybɔyb,historical,歴史的,rutaseis,es,/rutaseis/,uɶøyb,routaseis,Rurasaseis,kyaku,yb,adjective,3
+historis,id,/historis/,yboyb,historical,歴史的,hömlulaus,is,/hœmlʏlœiːs/,œmʏœyb,rampant,横行します,kyaku,yb,adjective,3
+istoric,ro,/istorik/,yboyb,historic,歴史的,laceréis,es,/laθeˈɾeis/,ɶøøyb,You will lacerate,あなたは裂けます,kyaku,yb,noun,3
+prerie,ro,/prerije/,bøyø,prairie,草原,전시회,ko,/t͡ɕʌ̹nɕʰiɦø̞/,bɔmbyø,Exhibition,展示,kyaku,yø,noun,3
+Prärie,de,/pɾɛˈɾiː/jə/,bœyə,prairie,草原,point-virgule,fr,/pwɛ̃viʁgyl/,bœybyb,semicolon,セミコロン,to,œy,noun,3
+preeria,fi,/ˈpreeriɑ/,bøøyɑ,prairie,草原,Martina,de,/ˈmaɾtinɑ/,ɶyɑ,Martina,マルティナ,kyaku,yɑ,noun,3
+pradera,es,/pɾaðeɾa/,bɶøɶ,Meadow,牧草地,안되다,ko,/a̠ndø̞da̠/,ɶmøɶ,Do not,しない,kyaku,øɶ,verb,3
+familiar,en,/fəˈmɪɫjɝ/,əʏə,familiar,見慣れた,auftische,de,/ˈʔaofˌtɪʃə/,ɶobʏə,uptake,取り込み,kyaku,ʏə,adjective,3
+familiar,ro,/familijar/,ɶyyɶ,familiar,見慣れた,口诛笔伐,zh-cn,/kʰoʊ˨˩˦ ʈʂu˥˥ pi˨˩˦ fa˧˥/,boʊuyɶ,Verbal,口頭,kyaku,yɶ,noun,4
+ratkaista,fi,/ˈrɑtkɑistɑ/,ɑbɑybɑ,solve,解決する,épatements,fr,/epatmɑ̃/,øɶbɑ,wicking,ウィッキング,kyaku,bɑ,verb,3
+resolver,es,/resolβeɾ/,øobø,solve,解決する,khỏe khòe khoe,vi,/xwe˧˩˨ xwe˦˨ xwe˧˥/,bøbøbø,Healthy showing off,健康的な披露,kyaku,bø,verb,3
+好む,ja,/konomɯ/,oou,prefer,好む,不合乎,zh-cn,/pu˥˩ xɤ˧˥ xu˥˥/,uou,Unsuccessful,失敗しました,kyaku,ou,verb,3
+تفضل,ar,/tafadˤˤala/,ɶɶbɶɶ,please enter,入ってください,scharlachrote,de,/ˈʃaɾlaxɾotə/,ɶɶboə,scarlet,スカーレット,to,ɶb,verb,4
+prefera,ro,/prefera/,bøøɶ,prefer,好む,réaménage,fr,/ʁeamenaʒ/,øɶøɶ,redevelopment,再開発,kyaku,øɶ,noun,3
+muodostus,fi,/ˈmuodostus/,uoobub,formation,形成,au grand jour,fr,/ogʁɑ̃ʒuʁ/,obɑub,in broad daylight,昼間は広い,kyaku,ub,noun,3
+形成,ja,/keisei/,øyøy,Formation,形成,survéi,id,/survei/,uøy,survey,調査,kyaku,øy,noun,3
+pembentukan,id,/pəmbəntukan/,əməmuɶm,formation,形成,وبالأعيان,ar,/wabiaːlʔaʕjaːn/,ɶyɶbɶbɶm,And notables,そして著名人,kyaku,ɶm,noun,4
+roșie,ro,/roʃije/,oyø,Red,赤,vastine,fi,/ˈvɑstine/,ɑbyø,equivalent,同等,kyaku,yø,adjective,3
+cà chua,vi,/ka˦˨ cuə˧˥/,ɶuə,tomato,トマト,建筑师,zh-cn,/tɕjɛn˥˩ ʈʂu˥˩ ʂɚ˥˥/,bbœmuə,architect,建築家,kyaku,uə,noun,3
+tomate,es,/tomate/,oɶø,tomatoes,トマト,Fischerei,de,/ˈfɪʃɐ̯ae/,ʏɐɶø,fishing,釣り,kyaku,ɶø,noun,3
+scenejo,eo,/st͡seneio/,bbøøyo,stage,ステージ,huomio,fi,/ˈhuomio/,uoyo,attention,注意,kyaku,yo,noun,3
+escenario,es,/esθenaɾjo/,øbøɶo,scenery,景色,교통사고,ko,/kjotʰo̞ŋsʰa̠ɡo̞/,bobombɶo,Traffic Accident,交通事故,kyaku,ɶo,noun,4
+المسرح,ar,/aːlmasraħ/,ɶbɶbɶb,The theater,劇場,agrafo,eo,/agrafo/,ɶbɶo,staple,ステープル,to,bɶ,noun,3
+organiser,fr,/ɔʁganize/,ɔbɶyø,arrange,整える,hết chợ thì quê,vi,/het˦˥ cɤ˨ˀ˩ʔ tʰi˦˨ we˧˥/,øbobbyø,The end of the market is home,市場の終わりは家です,kyaku,yø,noun,4
+必要不可欠,ja,/çitsɯjoɯɸɯkaketsɯ/,ybuouuɶøbu,Essential,必要不可欠,블라디보스토크,ko,/pɯɭɭa̠dibo̞sʰɯtʰo̞kxɯ/,uɶyobubobu,Vladivostok,Vladivostok,kyaku,bu,adjective,7
+esenca,eo,/esent͡sa/,øømbɶ,Essential,不可欠,sarrapia,es,/sarapja/,ɶɶbɶ,Sarrapia,サラピア,kyaku,bɶ,adjective,3
+sinappi,fi,/ˈsinɑppi/,yɑby,mustard,マスタード,당원질,ko,/ta̠ŋwʌ̹nd͡ʑiɭ/,ɶmɔmby,Party,パーティ,kyaku,by,noun,3
+amanecer,es,/amaneθeɾ/,ɶɶøø,sunrise,日の出,oxygéner,fr,/ɔksiʒene/,ɔbyøø,oxygenate,酸素酸,kyaku,øø,verb,4
+Dämmerung,de,/ˈdɛməʀʊŋ/,œəʊm,dusk,夕暮れ,systemone,en,/ˈsɪstəˌmoʊn/,ʏbəoʊm,systemone,SystemOne,kyaku,ʊm,noun,3
+lizină,ro,/lizinə/,yyə,lysine,リジン,hàm nghĩa,vi,/ham˦˨ ŋiə˧˩˨/,ɶmyə,implication,含意,kyaku,yə,noun,3
+mustasukkainen,fi,/ˈmustɑsukˌkɑinen/,ubɑubɑyøm,jealous,嫉妬,enastillasen,es,/enastiʎasen/,øɶbyɶøm,Enastillas in,Enastillas in,kyaku,øm,adjective,5
+cemburu,id,/tʃəmburu/,bəmuu,jealous,嫉妬,xấu như cú,vi,/sɤ̆w˩˧ ɲɯ˧˥ ku˩˧/,ouu,ugly,醜い,kyaku,uu,adjective,3
+intention,en,/ˌɪnˈtɛntʃən/,ʏmœmbəm,intention,目的,kebembem,id,/kəbəmbəm/,əəməm,Kebembem,Kebembem,kyaku,əm,noun,3
+intenco,eo,/intent͡so/,ymømbo,intention,目的,打扑克,zh-cn,/ta˨˩˦ pʰu˥˥ kʰɤ˥˩/,ɶbubo,Play poker,ポーカーをプレイします,kyaku,bo,noun,3
+目的,ja,/mokɯteki/,ouøy,Purpose,目的,cờ lâm thế bí,vi,/kɤ˦˨ lɤ̆m˧˥ tʰe˩˧ bi˩˧/,oombøy,Flag Lam The Bi,biにフラグを立てます,kyaku,øy,noun,4
+アンダーシャツ,ja,/aɴdaːɕatsɯ/,ɶmɶɶbu,Under shirt,アンダーシャツ,norimatsu,en,/ˌnɔɹiˈmɑtsu/,ɔyɑbu,norimatsu,ノリマツ,kyaku,bu,noun,4
+undershirt,en,/ˈəndɝˌʃɝt/,əməəb,undershirt,アンダーシャツ,身份证,zh-cn,/ʂən˥˥ fən˥˩ ʈʂɤŋ˥˩/,əməmom,ID card,IDカード,to,mə,noun,3
+Unterhemd,de,/ˈʔʊnˌtɛɾɛmt/,ʊmœœmb,Undershirt,アンダーシャツ,工业化,zh-cn,/kʊŋ˥˥ jɛ˥˩ xwa˥˩/,ʊmœbɶ,industrialization,工業化,to,mœ,noun,3
+elinvoimaisuus,fi,/ˈelinˌvoimɑisuus/,øymoyɑyuub,vitality,活力,acoperișul,ro,/akoperiʃul/,ɶoøyub,the roof,屋根,kyaku,ub,noun,5
+vitalidad,es,/bitaliðað/,yɶyɶb,vitality,活力,담보계약,ko,/ta̠mbo̞ɡje̞ja̠k̚/,ɶmobøɶb,Collateral contract,担保契約,kyaku,ɶb,noun,4
+Vitalität,de,/vitɑliˈtɛːt/,yɑyœb,vitality,活力,contusionnèrent,fr,/kɔ̃tyzjɔnɛʁ/,ɔybɔœb,contION,伝染,kyaku,œb,noun,4
+ドラマ,ja,/doɾama/,oɶɶ,Drama,ドラマ,كصدآ,ar,/kasˤadaː/,ɶbɶɶ,As a rush,急いで,kyaku,ɶɶ,noun,3
+دراما,ar,/diraːmaː/,yɶɶ,drama,ドラマ,プロアマ,ja,/pɯɾoama/,uoɶɶ,Professional ama,プロアマ,kyaku,ɶɶ,noun,3
+Lackierung,de,/lakiːɐ̯ʊŋ/,ɶyɐʊm,Paint,ペイント,十一点钟,zh-cn,/ʂɚ˧˥ i˥˩ tjɛn˨˩˦ ʈʂʊŋ˥˥/,əybœmʊm,eleven o 'clock,,kyaku,ʊm,noun,3
+الطلاء,ar,/aːltˤilaːʔ/,ɶbbyɶb,Paint,ペイント,ÍBV,is,/iː pjɛː vaf/,ybœɶb,IBB,IBB,kyaku,ɶb,noun,3
+المستثمر,ar,/aːlmustaθmir/,ɶbubɶby,Investor,投資家,asymétries,fr,/asimetʁi/,ɶyøby,asymmetries,非対称,kyaku,by,noun,4
+investitor,ro,/investitor/,ymøbyo,investor,投資家,intéléktual,id,/inteleʔtual/,ymøøbuɶb,Intéléktual,intéléktual,to,mø,adjective,4
+karkea,fi,/ˈkɑrkeɑ/,ɑøɑ,coarse,粗い,générât,fr,/ʒeneʁɑ/,øøɑ,generous,優しい,kyaku,øɑ,adjective,3
+粗い,ja,/aɾai/,ɶɶy,rough,粗い,마에가리,ko,/ma̠e̞ɡa̠ɾi/,ɶøɶy,Maedari,メーダリ,kyaku,ɶy,noun,3
+malglata,eo,/malglata/,ɶbbɶɶ,rough,粗い,halbdunkles,de,/ˈhalpdʊŋkləs/,ɶbbʊmbəb,half -dark,ハーフダーク,to,bb,adjective,3
+derrotar,es,/derotaɾ/,øoɶ,defeat,敗北,不合法,zh-cn,/pu˥˩ xɤ˧˥ fa˨˩˦/,uoɶ,illegal,違法,kyaku,oɶ,verb,3
+تغلب,ar,/taɣallaba/,ɶɶbɶɶ,get over,乗り越える,anacruză,ro,/anakruzə/,ɶɶbuə,anacruise,アナクルズ,to,ɶb,verb,4
+이기다,ko,/iɡida̠/,yyɶ,win,勝つ,bifilar,de,/biˈfiːlaɽ/,yyɶ,bifilar,バイラー,kyaku,yɶ,verb,3
+쇠고기,ko,/sʰø̞ɡo̞ɡi/,bøoy,beef,牛肉,沼泽地,zh-cn,/ʈʂɑʊ˨˩˦ tsɤ˧˥ ti˥˩/,ɑʊboy,wetlands,湿地,kyaku,oy,noun,3
+牛肉,zh-cn,/njoʊ˧˥ ʐoʊ˥˩/,moʊoʊ,beef,牛肉,davao,en,/ˈdeɪvoʊ/,øʏoʊ,davao,ダバオ,kyaku,oʊ,noun,3
+naudanliha,fi,/ˈnɑudɑnˌlihɑ/,ɑuɑmyɑ,beef,牛肉,Betriebsklima,de,/bəˈtɾiːpsklimɑ/,əbybbbyɑ,work atmosphere,職場の雰囲気,kyaku,yɑ,noun,4
+냉장고,ko,/nɛ̝ŋd͡ʑa̠ŋɡo̞/,œmbɶmo,refrigerator,冷蔵庫,renfrow,en,/ˈɹɛnfɹaʊ/,œmbɶʊ,renfrow,レンフロー,to,mbɶ,verb,3
+frigider,ro,/fridʒider/,bybyø,refrigerator,冷蔵庫,Zielbandes,de,/ˈtsiːlbandəs/,bybɶməb,Target tape,ターゲットテープ,to,yb,noun,3
+fridujo,eo,/friduio/,byuyo,refrigerator,冷蔵庫,tvípunktur,is,/tʰviːpuŋ̊tʏr/,byumʏ,dispute,紛争,to,yu,verb,3
+インテリア,ja,/iɴteɾia/,ymøyɶ,interior,インテリア,불가리아,ko,/puɭɡa̠ɾia̠/,uɶyɶ,Bulgaria,ブルガリア,kyaku,yɶ,noun,4
+interior,es,/inteɾjoɾ/,ymøo,inside,中身,norvego,eo,/norvego/,oøo,Norwegian,ノルウェー語,kyaku,øo,adjective,3
+interior,en,/ˌɪnˈtɪɹiɝ/,ʏmʏyə,interior,インテリア,cha già mẹ yếu,vi,/ca˧˥ ja˦˨ mɛ˨ˀ˩ʔ iəw˩˧/,ɶɶœbyə,The old father is weak,古い父親は弱いです,kyaku,yə,adjective,4
+einkarétt,is,/eiŋ̊karjɛht/,øymɶœb,private law,私法,désigniez,fr,/deziɲje/,øymø,designate,指定,to,ym,adjective,3
+seperempat,id,/səpərəmpat/,əəəmɶb,a quarter,四半期,vid-al-vide al,eo,/vidalvide al/,yɶbyøɶb,vis-to-face to,顔に向かう,kyaku,ɶb,noun,4
+入力,ja,/njɯɯɾjokɯ/,muuou,input,入力,bolotu,id,/bolotu/,oou,Bolotu,ボロツ,kyaku,ou,noun,3
+أدخل,ar,/ʔadxala/,ɶbɶɶ,Enter,入る,arpacaș,ro,/arpakaʃ/,ɶɶɶ,pearl barley,パール大麦,kyaku,ɶɶ,verb,3
+înscriere,ro,/ɨnskrijere/,ʉmbbyøø,sign up,サインアップ,Probegewehr,de,/ˈpɾoːbegeveɾ/,boøøø,Trial,トライアル,kyaku,øø,noun,4
+入隊,ja,/njɯɯtai/,muuɶy,Enlistment,入隊,Havarie,de,/ˌhavaˈʁiː/,ɶɶy,Accident,事件,kyaku,ɶy,noun,3
+conseguir,es,/konseɣiɾ/,omøy,get,得る,成为,zh-cn,/ʈʂʰɤŋ˧˥ weɪ˧˥/,omøʏ,become,なる,to,mø,verb,3
+pistolet,fr,/pistɔlɛ/,ybɔœ,gun,銃,ong bò vẽ,vi,/ɔŋ͡m˧˥ bɔ˦˨ jɛ˧˩˨/,ɔmmɔœ,Beef Draw,ビーフドロー,kyaku,ɔœ,noun,3
+Pistole,de,/ˈpɪstolə/,ʏboə,pistol,ピストル,hugljómun,is,/hʏɣljoumʏn/,ʏbouʏm,contemplation,熟考,to,bo,noun,3
+somersault,en,/ˈsəmɝˌsɔɫt/,əəɔb,somersault,宙返り,Mýkonos,is,/miːkɔnɔs/,yɔɔb,Myriad,無数,kyaku,ɔb,verb,3
+kuperkeikka,fi,/ˈkuperˌkeikkɑ/,uøøybɑ,somersault,宙返り,脱け出る,ja,/nɯkedeɾɯ/,uøøu,Leave out,脱け出る,to,øø,verb,4
+keranjang,id,/kərandʒaŋ/,əɶmbɶm,basket,バスケット,색채감,ko,/sʰɛ̝k̚t͡ɕʰɛ̝ɡa̠m/,bœbbbœɶm,Color,色,kyaku,ɶm,noun,3
+止まり木,ja,/tomaɾigi/,oɶyy,Stopping tree,止まり木,onaniere,de,/oːnaniːɾe/,oɶyø,masturbation,オナニー,to,ɶy,adjective,4
+kekacauan,id,/kəkatʃauan/,əɶbɶuɶm,chaos,混沌,apostrofan,es,/apostɾofan/,ɶobboɶm,APOSTROFAN,アポストロファン,kyaku,ɶm,noun,4
+representar,es,/repɾesentaɾ/,øbøømɶ,represent,代表する,antimuntah,id,/antimuntah/,ɶmyumɶ,anti -vomiting,反voMITING,kyaku,mɶ,verb,4
+대표하다,ko,/tɛ̝pʰjoɦa̠da̠/,œboɶɶ,to represent,表現します,venerará,es,/beneɾaˈɾa/,øøɶɶ,will venerate,崇拝します,kyaku,ɶɶ,verb,4
+mewakili,id,/məwakili/,əɶyy,represent,代表する,redefinir,es,/reðefiniɾ/,øøyy,redefine,再定義します,kyaku,yy,verb,4
+초보자,ko,/t͡ɕʰo̞bo̞d͡ʑa̠/,bboobɶ,Beginner,初心者,strohmeyer,en,/ˈstɹoʊmaɪɝ/,bboʊɶʏə,strohmeyer,Strohmeyer,to,bo,noun,3
+aloittelija,fi,/ˈɑloitˌtelijɑ/,ɑoybøyɑ,beginner,初心者,kalorienreichsten,de,/ˈkɑːloɾiːnɾaeçstən/,ɑoymɶøbəm,most calorie,ほとんどのカロリー,to,oy,noun,5
+初心者,ja,/ɕoɕiɴɕa/,oymɶ,beginner,初心者,corindon,ro,/korindon/,oymom,corundum,コランダム,to,ym,noun,3
+fregată,ro,/freɡatə/,bøɶə,frigate,フリゲート,grietaras,es,/gɾjetaɾas/,bøɶɶb,Grietras,グリエトラ,to,øɶ,adjective,3
+fregatti,fi,/ˈfregɑtti/,bøɑby,frigate,フリゲート,鳥打ち,ja,/toɾiɯtɕi/,oyuby,Bird of birds,鳥打ち,kyaku,by,verb,3
+笑顔,ja,/egao/,øɶo,smile,笑顔,fondator,ro,/fondator/,omɶo,founder,創設者,kyaku,ɶo,noun,3
+微笑,zh-cn,/weɪ˥˥ ɕjɑʊ˥˩/,øʏbɑʊ,Smile,笑顔,فيصلي,ar,/feɪsˤalijj/,øʏbɶy,Pray,祈る,to,ʏb,verb,3
+zâmbitor,ro,/zɨmbitor/,ʉmyo,smiling,笑顔,Finnujo,eo,/finnuio/,ymuyo,Finnish,フィンランド語,kyaku,yo,adjective,3
+ébullition,fr,/ebylisjɔ̃/,øyybɔ,boiling,沸騰,reziliat,ro,/rezilijat/,øyyɶb,dissolution,解散,to,yy,verb,4
+admirer,fr,/admiʁe/,ɶbyø,admire,憧れ,雪解,ja,/jɯkige/,uyø,Snow solution,雪解,kyaku,yø,noun,3
+admiri,eo,/admiri/,ɶbyy,admire,憧れ,侄女婿,zh-cn,/ʈʂɚ˧˥ ny˨˩˦ ɕy˥˩/,əyy,Niece,姪,kyaku,yy,noun,3
+憧れ,ja,/akogaɾe/,ɶoɶø,longing,憧れ,ratiboisés,fr,/ʁatibwaze/,ɶybɶø,ratiboises,ratiboises,kyaku,ɶø,noun,4
+钦佩,zh-cn,/tɕʰɪn˥˥ pʰeɪ˥˩/,bbʏmbøʏ,admiration,感嘆,slitinni,is,/stlɪːtɪnɪ/,bbʏʏʏ,worn,着用,to,bʏ,verb,3
+mansikka,fi,/ˈmɑnsikkɑ/,ɑmybɑ,strawberry,いちご,camouflage,en,/ˈkæməˌfɫɑʒ/,æəbɑ,camouflage,迷彩,kyaku,bɑ,verb,3
+strawberry,en,/ˈstɹɔˌbɛɹi/,bbɔœy,strawberry,いちご,slompaður,is,/stlɔm̥paðʏr/,bbɔmɶʏ,sweetened,甘くした,to,bɔ,verb,3
+menghafal,id,/məŋhafal/,əmɶɶb,memorize,暗記,كالإرجاء,ar,/kaaːlʔirdʒaːʔ/,ɶɶbybɶb,Like delaying,遅延が好きです,kyaku,ɶb,verb,3
+muistaa,fi,/ˈmuistɑɑ/,uybɑɑ,remember,覚えて,souririons,fr,/suʁiʁjɔ̃/,uybɔ,would smash,粉砕します,to,yb,verb,3
+حفظ,ar,/ħafiðˤa/,ɶybɶ,save,保存,desabra,es,/desaβɾa/,øɶbɶ,unbalance,不均衡,kyaku,bɶ,verb,3
+atvinnugrein,is,/aːtvɪnʏkreiːn/,ɶbʏʏbøym,line of work,仕事のライン,glucosamine,en,/ɡɫuˈkɑsəˌmin/,buɑəym,glucosamine,グルコサミン,kyaku,ym,noun,4
+Sektor,de,/ˈzɛktoːɐ̯/,œboɐ,sector,セクタ,대표부,ko,/tɛ̝pʰjobu/,œbou,Representative,代表,to,bo,noun,3
+セクタ,ja,/sekɯta/,øuɶ,sector,セクタ,belukar,id,/bəlukar/,əuɶ,shrub,低木,kyaku,uɶ,noun,3
+laboro,eo,/laboro/,ɶoo,work,仕事,ostrogots,fr,/ɔstʁogo/,ɔbboo,ostrogots,オストロゴット,kyaku,oo,noun,3
+العمل,ar,/aːlʕamal/,ɶbɶɶb,the work,作品,hát quan họ,vi,/hak˦˥ waŋ˧˥ hɔ˨ˀ˩ʔ/,ɶbɶmɔb,Sing the mandarin,マンダリンを歌います,to,bɶ,noun,3
+impostor,ro,/impostor/,ymobo,impostor,詐欺師,전당표,ko,/t͡ɕʌ̹nda̠ŋpʰjo/,bɔmɶmbo,Conversion,変換,kyaku,bo,noun,3
+imposteur,fr,/ɛ̃pɔstœʁ/,œɔbœb,impostor,詐欺師,que chọc lò,vi,/wɛ˧˥ cɔk͡p˨ˀ˩ʔ lɔ˦˨/,œɔbbbɔ,oven stick,オーブンスティック,to,ɔb,noun,3
+huijari,fi,/ˈhuijɑri/,uyɑy,charlatan,シャーラタン,distendis,fr,/distɑ̃di/,ybɑy,distewards,Distewards,kyaku,ɑy,noun,3
+比赛,zh-cn,/pi˨˩˦ saɪ˥˩/,yɶʏ,Contest,コンテスト,unaður,is,/ʏːnaðʏr/,ʏɶʏ,pleasure,喜び,kyaku,ɶʏ,noun,3
+tournament,en,/ˈtʊɹnəmənt/,ʊəəmb,tournament,トーナメント,بكاكنج,ar,/bikaːkindʒ/,yɶymb,Bakking,バッキング,kyaku,mb,noun,3
+トーナメント,ja,/toːnameɴto/,oɶømo,tournament,トーナメント,pemercontoh,id,/pəmərtʃontoh/,əəbomo,Example,例,kyaku,mo,noun,4
+géométrie,fr,/ʒeɔmetʁi/,øɔøby,geometry,ジオメトリ,agaci,eo,/agat͡si/,ɶɶby,agaci,アガチ,kyaku,by,noun,3
+geometry,en,/dʒiˈɑmətɹi/,byɑəby,geometry,ジオメトリ,提款机,zh-cn,/tʰi˧˥ kʰwan˨˩˦ tɕi˥˥/,bybɶmby,Withdrawal,撤退,kyaku,by,noun,3
+기하학,ko,/kiɦa̠ɦa̠k̚/,yɶɶb,geometry,ジオメトリ,dvalarstað,is,/tvaːlarstaːð/,bɶɶbɶb,place,場所,kyaku,ɶb,noun,3
+geometrie,ro,/dʒeometrije/,bøoøbyø,geometry,ジオメトリ,suuntauslaite,fi,/ˈsuuntɑusˌlɑite/,uumɑubɑyø,trend,傾向,kyaku,yø,noun,4
+원산지,ko,/wʌ̹nsʰa̠nd͡ʑi/,ɔmbɶmby,origin,元,retribuí,es,/retɾiˈβwi/,øbyby,I paid,支払いました,kyaku,by,verb,3
+erscheinen,de,/ɛɐ̯ˈʃaɪ̯nən/,œɐɶʏəm,appear,現れる,garantăm,ro,/ɡarantəm/,ɶɶməm,guarantee,保証,kyaku,əm,verb,3
+ilmestyä,fi,/ˈilmesˌtyæ/,ybøbyæ,appear,現れる,ulcérera,fr,/ylseʁəʁa/,ybøəɶ,will ulcerate,潰瘍化します,to,bø,verb,4
+يتكيف,ar,/jatakajjaf/,ɶɶɶɶb,Adapt,適応,direktiĝi al,eo,/direktid͡ʒi al/,yøbybyɶb,to turn to,に頼る,kyaku,ɶb,verb,4
+menyesuaikan,id,/məɲəsuaikan/,əəuɶyɶm,adapt,適応する,déconditionnâmes,fr,/dekɔ̃disjɔnam/,øɔybɔɶm,deconditioned,拒絶,kyaku,ɶm,verb,5
+adaptar,es,/aðaptaɾ/,ɶɶbɶ,fit,フィット,détesta,fr,/detɛsta/,øœbɶ,hate,嫌い,kyaku,bɶ,verb,3
+adapti,eo,/adapti/,ɶɶby,adapt,適応する,ونسو,ar,/wanaswa/,ɶɶbɶ,And forget,そして忘れてください,to,ɶb,verb,3
+adapter,fr,/adapte/,ɶɶbø,adapt,適応する,asaltat,ro,/asaltat/,ɶɶbɶb,assault,暴行,to,ɶb,verb,3
+liveranto,eo,/liveranto/,yøɶmo,Deliverator,配信機,강풍경보,ko,/ka̠ŋpʰuŋɡjʌ̹ŋbo̞/,ɶmbumbɔmo,Strong wind alarm,強風アラーム,kyaku,mo,noun,4
+toimittaja,fi,/ˈtoimitˌtɑjɑ/,oyybɑɑ,supplier,サプライヤー,ishihara,en,/ˌɪˌʃiˈhɑˌɹɑ/,ʏyɑɑ,ishihara,石原,kyaku,ɑɑ,noun,4
+furnizor,ro,/furnizor/,uyo,provider,プロバイダー,chỉ huy sở,vi,/ci˧˩˨ hwi˧˥ ʂɤ˧˩˨/,yyo,Headquarters,本部,kyaku,yo,noun,3
+pemasok,id,/pəmasoʔ/,əɶob,supplier,サプライヤー,bosuioc,ro,/bosujok/,ouob,bosioc,bosioc,kyaku,ob,noun,3
+período,es,/peˈɾioðo/,øyoo,period,,混合色,zh-cn,/xuən˥˩ xɤ˧˥ sɤ˥˩/,uəmoo,mixed colours,混合色,kyaku,oo,noun,3
+periodo,eo,/periodo/,øyoo,period,限目,nóng hôi hổi,vi,/nɔŋ͡m˩˧ hoj˧˥ hoj˧˩˨/,ɔmmoo,hot smell,熱い匂い,kyaku,oo,noun,3
+ajanjakso,fi,/ˈɑjɑnˌjɑkso/,ɑɑmɑbo,period,限目,manifésto,id,/manifesto/,ɶyøbo,manifesto,マニフェスト,kyaku,bo,noun,4
+أمل,ar,/ʔamala/,ɶɶɶ,hopefull,希望に満ちています,databa,es,/dataβa/,ɶɶɶ,Databa,データバ,kyaku,ɶɶ,verb,3
+toivoa,fi,/ˈtoivoɑ/,oyoɑ,hope,望み,transposant,fr,/tʁɑ̃spozɑ̃/,bɑboɑ,transposing,転置,kyaku,oɑ,verb,3
+vuotaa,fi,/ˈvuotɑɑ/,uoɑɑ,leak,リーク,gondwana,en,/ˌɡɑndˈwɑˌnɑ/,ɑmbɑɑ,gondwana,ゴンドワナ,kyaku,ɑɑ,verb,3
+berdarah,id,/bərdarah/,əɶɶ,bloody,血まみれ,rempaillages,fr,/ʁɑ̃pajaʒ/,ɑɶɶ,upset,動揺,kyaku,ɶɶ,verb,3
+accélérer,fr,/akseleʁe/,ɶbøøø,accelerate,加速します,afleiðingin,is,/avleiðiɲcɪn/,ɶbøyymʏm,tour,旅行,to,bø,verb,4
+acelerar,es,/aθeleɾaɾ/,ɶøøɶ,speed up,スピードアップ,離れ家,ja,/hanaɾeja/,ɶɶøɶ,Farm,離れ家,kyaku,øɶ,verb,4
+accelerate,en,/ækˈsɛɫɝˌeɪt/,æbœəøʏb,accelerate,加速します,versinnbildlicht,de,/fɛːɐ̯ˈzɪnnbɪldlɪçt/,œɐʏmmʏbbʏb,symbolized,象徴されています,kyaku,ʏb,verb,4
+diagrama,es,/djaɣɾama/,bɶɶɶ,diagram,図,klatschnasse,de,/ˈklaʧnaszə/,bɶɶbə,gossip,ゴシップ,to,ɶɶ,verb,3
+diagramo,eo,/diagramo/,yɶbɶo,Diagram,図,لنخلف,ar,/linaxluf/,yɶbub,Let's leave,行きましょう,to,ɶb,verb,3
+variabel,id,/variabəl/,ɶyɶəb,variable,変数,hræddari,is,/r̥aitarɪ/,ɶyɶʏ,afraid,恐れ,to,yɶ,adjective,3
+variable,en,/ˈvɛɹiəbəɫ/,œyəə,variable,変数,gesehene,de,/gəˈzeːənə/,əøəə,seen,見た,kyaku,əə,adjective,3
+budaya,id,/budaja/,uɶɶ,culture,文化,turradas,es,/turaðas/,uɶɶb,turned,,to,ɶɶ,noun,3
+パイロット,ja,/paiɾotːo/,ɶyobo,pilot,パイロット,amino,id,/amino/,ɶyo,amino,アミノ,to,yo,noun,3
+seerumi,fi,/ˈseerumi/,øøuy,serum,血清,quang chu kì,vi,/waŋ˧˥ cu˧˥ ki˦˨/,ɶmuy,Optical cycle,光学サイクル,kyaku,uy,noun,3
+suspiro,es,/suspiɾo/,ubyo,sigh,はぁ,fournirez,fr,/fuʁniʁe/,ubyø,will supply,供給します,to,by,verb,3
+suspiro,eo,/suspiro/,ubyo,sigh,はぁ,Revisor,de,/ˈɾeːvizoɾ/,øyo,auditor,監査人,kyaku,yo,noun,3
+retirada,es,/retiɾaða/,øyɶɶ,withdrawal,撤退,بتمارا,ar,/bitamaːraː/,yɶɶɶ,Bamara,バマラ,kyaku,ɶɶ,noun,4
+撤退,zh-cn,/ʈʂʰɤ˥˩ tʰweɪ˥˩/,obøʏ,retreat,退却,korskeilla,fi,/ˈkorskeillɑ/,obøybɑ,bump,バンプ,to,bø,verb,3
+تراجع,ar,/taraːdʒaʕa/,ɶɶbɶɶ,to retreat,退却する,哩哩啦啦,zh-cn,/li˥˥ li˥˥ la˥˥ la˥˥/,yyɶɶ,Miles,マイル,kyaku,ɶɶ,verb,4
+terali,id,/tərali/,əɶy,Terrali,テラリ,تهاوش,ar,/tuhaːwiʃ/,uɶy,Scratch,傷,kyaku,ɶy,noun,3
+conducción,es,/konduˈkθjon/,omubbom,driving,運転,konsulo,eo,/konsulo/,omuo,consul,領事,to,mu,noun,3
+彫刻,ja,/tɕoɯkokɯ/,bouou,Sculpture,彫刻,bolotu,id,/bolotu/,oou,Bolotu,ボロツ,kyaku,ou,noun,3
+escultural,es,/eskultuɾal/,øbubuɶb,sculptural,彫刻,hellurei,fi,/ˈhellurei/,øbuøy,gentle,優しい,to,bu,adjective,4
+pahatan,id,/pahatan/,ɶɶɶm,sculpture,彫刻,생지황,ko,/sʰɛ̝ŋd͡ʑiβwa̠ŋ/,bœmbybɶm,Raw,生,kyaku,ɶm,adjective,3
+كعب,ar,/kaʕʕaba/,ɶbɶɶ,heel,ヒール,alnajli,eo,/alnaili/,ɶbɶyy,to be nailed,釘付けにされる,to,bɶ,verb,3
+蝌蚪,zh-cn,/kʰɤ˥˥ toʊ˨˩˦/,booʊ,tadpole,タドポール,Promotion,de,/pʀomoˈtsi̯oːn/,boobyom,promotion,昇進,to,oo,noun,3
+Kaulquappe,de,/ˈkaulˌkvapə/,ɶubbɶə,tadpole,タドポール,báo vụ viên,vi,/baw˩˧ ju˨ˀ˩ʔ jiəŋ˧˥/,ɶubyəm,newspaper,新聞,to,ub,noun,3
+gangandi,is,/kauŋkantɪ/,ɶumɶmʏ,walking,,abundi,eo,/abundi/,ɶumy,abound,たくさんあります,to,um,verb,3
+歩く,ja,/aɾɯkɯ/,ɶuu,walk,歩く,auguró,es,/auɣuˈɾo/,ɶuuo,He predicted,彼は予測した,to,uu,verb,3
+caminando,es,/kaminando/,ɶyɶmo,walking,歩く,埙篪相和,zh-cn,/ɕyn˥˥ ʈʂʰɚ˧˥ ɕjɑŋ˥˥ xɤ˧˥/,yməbɑmo,埙篪 埙篪 和 和,埙篪埙篪和和,kyaku,mo,verb,4
+keittiö,fi,/ˈkeittiø/,øybyø,kitchen,キッチン,벨리제,ko,/pe̞ɭʎid͡ʑe̞/,øybø,Bellee,ベルリー,to,yb,noun,3
+典型的,ja,/teɴkeiteki/,ømøyøy,Typical,典型的,analgésies,fr,/analʒezi/,ɶɶbøy,analgesia,鎮痛,kyaku,øy,noun,4
+tyypillinen,fi,/ˈtyypilˌlinen/,yyybyøm,typical,典型的,dirigible,es,/diɾixiβle/,yyybø,dirigible,Dirigible,to,yyb,adjective,4
+nebulo,eo,/nebulo/,øuo,fog,霧,mușunoi,ro,/muʃunoj/,uuo,bite,一口,kyaku,uo,noun,3
+الضباب,ar,/aːldˤabaːb/,ɶbbɶɶb,the fog,霧,maternasses,fr,/matɛʁnas/,ɶœbɶb,maternasse,マターナス,kyaku,ɶb,noun,3
+kawanan,id,/kawanan/,ɶɶɶm,herd,群れ,söngkonan,is,/sœiŋkʰɔnan/,œymbɔɶm,singer,歌手,kyaku,ɶm,noun,3
+saudara,id,/saudara/,ɶuɶɶ,sibling,兄弟,kasuaro,eo,/kasuaro/,ɶuɶo,casuar,カスル,to,uɶ,verb,3
+kääpiö,fi,/ˈkææpiø/,ææyø,dwarf,小人,paniere,de,/ˈpaniːɾe/,ɶyø,panier,パニエ,kyaku,yø,verb,3
+난쟁이,ko,/na̠nd͡ʑɛ̝ŋi/,ɶmbœy,dwarf,小人,tanjakan,id,/tandʒakan/,ɶmbɶɶm,incline,傾斜,to,mb,verb,3
+húsnæði,is,/huːstnaiðɪ/,ubbɶyʏ,housing,ハウジング,mulskahdus,fi,/ˈmulskɑhdus/,ubbɑub,peg,ペグ,to,bb,noun,3
+長屋,ja,/nagaja/,ɶɶɶ,Row house,長屋,皱巴巴,zh-cn,/ʈʂoʊ˥˩ pa˥˥ pa˥˥/,oʊɶɶ,Wrinkle,しわ,kyaku,ɶɶ,noun,3
+ratkaista,fi,/ˈrɑtkɑistɑ/,ɑbɑybɑ,solve,解決する,camouflage,en,/ˈkæməˌfɫɑʒ/,æəbɑ,camouflage,迷彩,kyaku,bɑ,verb,3
+resolver,es,/resolβeɾ/,øobø,solve,解決する,nepoftit,ro,/nepoftit/,øobyb,uninvited,招待されていません,to,ob,verb,3
+kelimpahan,id,/kəlimpahan/,əymɶɶm,abundance,豊富,steradian,ro,/steradijan/,bøɶyɶm,Stenadian,ステナディアン,kyaku,ɶm,noun,4
+abundancia,es,/aβundanθja/,ɶumɶmbɶ,abundance,豊富,selayaknya,id,/səlajaʔɲa/,əɶɶbɶ,proper,ちゃんとした,kyaku,bɶ,adjective,4
+abundo,eo,/abundo/,ɶumo,abundance,豊富,평생도,ko,/pʰjʌ̹ŋsʰɛ̝ŋdo̞/,bɔmbœmo,Lifetime,一生,kyaku,mo,noun,3
+abondance,fr,/abɔ̃dɑ̃s/,ɶɔɑb,plenty,多くの,miroslav,en,/ˈmɪɹəsɫɑv/,ʏəbɑb,miroslav,ミロスラフ,kyaku,ɑb,noun,3
+yltäkylläisyys,fi,/ˈyltækylˌlæisyys/,ybæybæyyyb,abundance,豊富,فللمواقف,ar,/falilmaʊaːqif/,ɶybɶʊɶyb,To the positions,ポジションに,kyaku,yb,noun,5
+kielbasa,en,/kiɫˈbɑsə/,yɑə,kielbasa,キルバサ,au temps de,fr,/otɑ̃də/,oɑə,at the time of,その時,kyaku,ɑə,noun,3
 berdiri,id,/bərdiri/,əyy,stand up,立ち上がる,strykniini,/ˈstrykniini/,bbybyyy,fi,strychnin,ストライクニン,kyaku,yy,verb,3
 seisoa,fi,/ˈseisoɑ/,øyoɑ,stand,台,麗容,/ɾeijoɯ/,øyou,ja,Beautiful,麗容,to,yo,verb,3
 انتصاب,ar,/intisˤaːb/,ymybɶb,Erection,勃起,新規呼,/ɕiɴkiko/,ymyo,ja,New call,新規呼,to,my,verb,3
@@ -2448,6 +3362,100 @@ flowery,en,/ˈfɫaʊɝi/,bɶʊəy,flowery,花のような,Sprachumfangs,de,/ˈʃ
 extracto,es,/ekstɾakto/,øbbbɶbo,extract,エキス,textual,ro,/tekstuwal/,øbbuɶb,textual,テキスト,to,bb,adjective,3
 Dankbarkeit,de,/daŋkbaɾˈkəiːt/,ɶmbɶəyb,gratitude,感謝,intertip,ro,/intertip/,ymøyb,intertypic,インタータイピック,kyaku,yb,noun,3
 þakklæti,is,/θahklaitɪ/,ɶbɶyʏ,gratitude,感謝,marnassiez,fr,/maʁnasje/,ɶbɶbø,Marnassiez,マルナシエズ,to,bɶ,noun,3
+providence,en,/ˈpɹɑvədəns/,bɑəəmb,providence,摂理,vũ trụ luận,vi,/ju˧˩˨ ʈu˨ˀ˩ʔ lwɤ̆ŋ˨ˀ˩ʔ/,uubbomb,universe,宇宙,kyaku,mb,noun,3
+請願者,ja,/seigaɴɕa/,øyɶmɶ,Petitioner,請願者,사흗날,ko,/sʰa̠ɣɯnna̠ɭ/,bɶumɶ,Day,日,kyaku,mɶ,noun,3
+étagère,fr,/etaʒɛʁ/,øɶœb,shelf,棚,빙정핵,ko,/piŋd͡ʑʌ̹ŋɦɛ̝k̚/,ymbɔmœb,Ice tablet,アイスタブレット,kyaku,œb,noun,3
+油条,zh-cn,/joʊ˧˥ tʰjɑʊ˧˥/,oʊbɑʊ,Fritter,フリッター,Moduswort,de,/ˈmoːdʊsvɔɾt/,oʊbɔb,Mode word,モードワード,to,ʊb,noun,3
+verplempern,de,/fɛʁˈplɛmpəʁn/,œbbœməbm,drag,引っ張る,fiscalism,ro,/fiskalism/,ybɶybm,fiscalism,財政主義,kyaku,bm,noun,3
+buñuelo,es,/buɲwelo/,umøo,fritter,フリッター,Libero,de,/ˈliːbeɾo/,yøo,Libero,リベロ,kyaku,øo,noun,3
+Zusammenfassung,de,/ˈtsuːˌzammɛnfaszʊŋ/,buɶmœmɶbʊm,summary,まとめ,礼轻人意重,zh-cn,/li˨˩˦ tɕʰɪŋ˥˥ ʐən˧˥ i˥˩ ʈʂʊŋ˥˩/,ybbʏməmyʊm,Ritual light people's intention,儀式的な光の人々の意図,kyaku,ʊm,noun,5
+summary,en,/ˈsəmɝi/,əəy,summary,まとめ,Seetiere,de,/ˈzəətiːɾe/,əəyø,Sea animal,海の動物,to,əy,noun,3
+resumen,es,/resumen/,øuøm,abstract,概要,orienten,eo,/orienten/,oyømøm,east,東,kyaku,øm,noun,3
+ملخص,ar,/mulaxxasˤ/,uɶbɶb,Summary,概要,đi chữ bát,vi,/di˧˥ cɯ˧˩˨ bak˦˥/,yuɶb,bowl,丼鉢,kyaku,ɶb,noun,3
+yhteenveto,fi,/ˈyhteenˌveto/,yøømøo,summary,まとめ,romancero,fr,/ʁɔmɑ̃seʁo/,ɔɑøo,romancero,ロマンセロ,kyaku,øo,noun,4
+bartender,en,/ˈbɑɹˌtɛndɝ/,ɑœmə,bartender,バーテンダー,发薪日,zh-cn,/fa˥˥ ɕɪn˥˥ ʐɚ˥˩/,ɶʏmə,Paid day,有給の日,kyaku,mə,noun,3
+バーテンダー,ja,/baːteɴdaː/,ɶømɶ,bartender,バーテンダー,استنكار,ar,/istinkaːr/,ybymɶ,condemnation,非難,kyaku,mɶ,noun,3
+majoneesi,fi,/ˈmɑjoˌneesi/,ɑoøøy,mayonnaise,マヨネーズ,desproveí,es,/despɾoβeˈi/,øbboøy,unlinking,解除,kyaku,øy,noun,4
+mayonnaise,en,/ˈmeɪəˌneɪz/,øʏəøʏb,mayonnaise,マヨネーズ,Machtantritt,de,/ˈmaxtantɾɪt/,ɶbɶmbʏb,Takeover,買収,kyaku,ʏb,noun,3
+مايونيز,ar,/maːjuːniːz/,ɶuyb,mayonnaise,マヨネーズ,subisteis,es,/suβisteis/,uybøyb,You rose,あなたは立ち上がった,kyaku,yb,noun,3
+マヨネーズ,ja,/majoneːzɯ/,ɶoøu,mayonnaise,マヨネーズ,à tous les coups,fr,/atuleku/,ɶuøu,every time,毎回,kyaku,øu,noun,4
+마요네즈,ko,/ma̠jone̞d͡ʑɯ/,ɶoøbu,mayonnaise,マヨネーズ,barométer,id,/barometər/,ɶoøə,barometer,バロメーター,to,oø,noun,4
+竞技场,zh-cn,/tɕɪŋ˥˩ tɕi˥˩ ʈʂʰɑŋ˨˩˦/,bʏmbyɑm,arena,アリーナ,chancelâmes,fr,/ʃɑ̃sɛlɑm/,ɑœɑm,chancella,チャンセラ,kyaku,ɑm,noun,3
+hippodrome,en,/ˈhɪpəˌdɹoʊm/,ʏəboʊm,hippodrome,ヒッポドローム,水帘洞,zh-cn,/ʂweɪ˨˩˦ ljɛn˧˥ tʊŋ˥˩/,øʏbœmʊm,Water curtain,ウォーターカーテン,kyaku,ʊm,noun,3
+hippodrome,fr,/ipɔdʁom/,yɔbom,hippodrome,ヒッポドローム,고판본,ko,/ko̞pʰa̠nbo̞n/,obɶmom,High -edition,ハイエディション,kyaku,om,noun,3
+hippodromi,fi,/ˈhippoˌdromi/,yboboy,hippodrome,ヒッポドローム,íþróttamenn,is,/iːθrouhtamɛn/,ybouɶœm,athletes,アスリート,to,bo,noun,4
+hipódromo,es,/iˈpoðɾomo/,yoboo,racecourse,競馬場,fitoclimat,ro,/fitoklimat/,yobyɶb,phytoclimat,Phytoclimat,to,ob,verb,4
+Sessellift,de,/ˈzɛszɛllɪft/,œbœbʏbb,Chairlift,チェアリフト,فبالحقل,ar,/fabiaːlħaql/,ɶyɶbɶbb,The field,フィールド,kyaku,bb,noun,3
+artista,es,/aɾtista/,ɶybɶ,artist,アーティスト,kakaknya,id,/kakaʔɲa/,ɶɶbɶ,his brother,彼の兄弟,kyaku,bɶ,noun,3
+taiteilija,fi,/ˈtɑiteiˌlijɑ/,ɑyøyyɑ,artist,アーティスト,wilhemina,en,/ˈwɪɫhɛˈmiˌnɑ/,ʏœyɑ,wilhelmina,ウィルヘルミナ,kyaku,yɑ,noun,4
+アーティスト,ja,/aːteisɯto/,ɶøyuo,Artist,アーティスト,Exekutor,de,/ˈʔeːksekutoɾ/,øbøuo,Executor,執行者,kyaku,uo,noun,4
+艺术家,zh-cn,/i˥˩ ʂu˥˩ tɕja˥˥/,yubbɶ,artist,アーティスト,menyiksa,id,/məɲiʔsa/,əybɶ,torture,拷問,kyaku,bɶ,noun,3
+aleteo,es,/aleteo/,ɶøøo,flutter,フラッター,cigaredo,eo,/t͡sigaredo/,byɶøo,cigarette,シガレット,kyaku,øo,noun,4
+ترفرف,ar,/turafrif/,uɶbyb,Flutter,フラッター,kuraĝi,eo,/kurad͡ʒi/,uɶby,to dare,あえて,to,ɶby,verb,3
+قوي,ar,/qaʊiːa/,ɶʊyɶ,strong,強い,nervurât,fr,/nɛʁvyʁa/,œbyɶ,nervous,緊張,kyaku,yɶ,adjective,3
+台形,ja,/daikei/,ɶyøy,Trapezoidal,台形,pyöveli,fi,/ˈpyøveli/,yøøy,executioner,死刑執行人,kyaku,øy,noun,3
+pappírsvinnu,is,/pʰahpir̥svɪnʏ/,bɶybʏʏ,paperwork,書類,granulations,fr,/gʁanylasjɔ̃/,bɶyɶbɔ,granulations,顆粒,to,ɶy,noun,4
+sokkabuxur,is,/sɔhkapʏksʏr/,ɔɶʏbʏ,tights,タイツ,Gedankenstrich,de,/ɡəˈdaŋkənˌʃtʁɪç/,əɶməmbʏ,Streak,ストリーク,kyaku,bʏ,noun,4
+Strumpfhose,de,/ˈʃtʀʊmpfˌhoːzə/,bʊmbboə,Pantyhose,パンスト,gruenhagen,en,/ˈɡɹʊnhəɡən/,bʊməəm,gruenhagen,グルエンハーゲン,to,ʊm,noun,3
+banujo,eo,/banuio/,ɶuyo,bathtub,バスタブ,dádýrin,is,/tauːtirɪn/,ɶuyʏm,deer,鹿,to,uy,noun,3
+bañera,es,/baɲeɾa/,ɶøɶ,bathtub,バスタブ,steinharten,de,/ˈʃtaenaɾtən/,ɶøɶəm,stone,結石,to,øɶ,verb,3
+baðkari,is,/paðkarɪ/,ɶbɶʏ,bathtub,バスタブ,giao thoa (lí),vi,/jaw˧˥ tʰwa˧˥ li˩˧/,ɶbɶy,interference (reason),干渉（理由）,to,bɶ,noun,3
+バスタブ,ja,/basɯtabɯ/,ɶuɶu,Bathtub,バスタブ,فلاباه,ar,/falaːbaːhu/,ɶɶɶu,Flabe,フレイブ,kyaku,ɶu,noun,4
+tumpukan,id,/tumpukan/,umuɶm,pile,パイル,humulin,en,/ˌhjumˈjuɫɪn/,umuʏm,humulin,フムリン,to,mu,verb,3
+류머티즘,ko,/ɾjumʌ̹tʰid͡ʑɯm/,uɔbybum,rheumatism,リウマチ,soûlographie,fr,/sulɔgʁafi/,uɔbɶy,drunkenness,酩酊,to,ɔb,noun,4
+reumatismi,fi,/ˈreumɑˌtismi/,øuɑyby,rheumatism,リウマチ,fyrirpartí,is,/fɪːrɪr̥pʰartʰi/,ʏʏbɶby,prediction,予測,kyaku,by,noun,4
+rhumatisme,fr,/ʁymatism/,yɶybm,rheumatism,リウマチ,tirarías,es,/tiɾaˈɾias/,yɶyɶb,You would throw,あなたは投げるでしょう,to,ɶy,noun,3
+リウマチ,ja,/ɾiɯmatɕi/,yuɶby,Rheumatism,リウマチ,Liturgie,de,/litʊʁˈɡiː/,yʊby,liturgy,典礼,kyaku,by,noun,3
+sotkea,fi,/ˈsotkeɑ/,obøɑ,mess,混乱,kosmétik,id,/kosmetiʔ/,obøyb,cosmetics,化粧品,to,bø,noun,3
+Hexenmeister,de,/heksɛnˈməɪstɐ̯/,øbœməʏbɐ,Sorcerer,魔術師,kết bè kết đảng,vi,/ket˦˥ bɛ˦˨ ket˦˥ daŋ˧˩˨/,øbœøbɶm,Collection of the Party,パーティーのコレクション,to,bœ,noun,4
+cumpărător,ro,/kumpərətor/,uməəo,buyer,買い手,chuốc não mua sầu,vi,/cuək˦˥ naw˧˩˨ muə˧˥ ʂɤ̆w˦˨/,uəbɶuəo,Buy melancholy brain,憂鬱な脳を買う,kyaku,əo,noun,4
+ostaja,fi,/ˈostɑjɑ/,obɑɑ,buyer,買い手,Ankara,de,/ˈʔanˌkɑːɾɑ/,ɶmɑɑ,Ankara,アンカラ,kyaku,ɑɑ,noun,3
+kaupandi,is,/kʰœiːpantɪ/,bœyɶmʏ,buyer,買い手,financiere,en,/ˌfɪnænˈsɪɹ/,ʏæmʏ,financiere,金融,kyaku,mʏ,noun,3
+pictură,ro,/pikturə/,ybuə,the painting,ペインティング,bikŝuo,eo,/bikʃuo/,ybuo,bikini,ビキニ,to,bu,noun,3
+bijuterie,ro,/biʒuterije/,yuøyø,gem,宝石,desentarime,es,/desentaɾime/,øømɶyø,Descent,降下,kyaku,yø,noun,5
+perustella,fi,/ˈperusˌtellɑ/,øubøbɑ,justify,正当化します,découvriraient,fr,/dekuvʁiʁɛ/,øubyœ,would discover,発見します,to,ub,verb,4
+réttlæta,is,/rjɛhtlaita/,œbɶyɶ,rationalize,合理化,닫히다,ko,/ta̠t͡ɕʰida̠/,ɶbbyɶ,shut,シャット,kyaku,yɶ,verb,3
+rechtfertigen,de,/ʁɛçtˈfɛʁtiɡən/,œbœbyəm,justify,正当化します,渗漏理论,zh-cn,/ʂən˥˩ loʊ˥˩ li˨˩˦ luən˥˩/,əmoʊyuəm,Leakage theory,漏れ理論,kyaku,əm,verb,4
+justify,en,/ˈdʒəstəˌfaɪ/,bəbəɶʏ,justify,正当化します,plăcintuță,ro,/plətʃintutsə/,bəbymubə,pie,パイ,to,əb,verb,4
+오두막,ko,/o̞duma̠k̚/,ouɶb,hut,小屋,bevingad,sv,/bɛvɪŋːad/,œʏmɶb,winged,翼,kyaku,ɶb,verb,3
+túp lều,vi,/tup˦˥ lɛu˦˨/,ubœu,Hut,小屋,bouleversais,fr,/bulvɛʁsɛ/,ubœbœ,upset,動揺,to,bœ,verb,3
+levittää,fi,/ˈlevittææ/,øybææ,spread,展開する,meistaranám,is,/meistaranauːm/,øybɶɶɶum,study,勉強,to,yb,verb,4
+hyppääjä,fi,/ˈhyppææjæ/,ybæææ,jumper,ジャンパー,detractor,en,/diˈtɹæktɝ/,ybæbə,detractor,中傷する人,to,bæ,noun,3
+señorío,es,/seɲoˈɾio/,øoyo,manor,マナー,vice-amiraux,fr,/visamiʁo/,yɶyo,vice-admirals,副監督,kyaku,yo,noun,4
+domego,eo,/domego/,oøo,mansion,邸宅,シーゲート,ja,/ɕiːgeːto/,yøo,Seagate,シーゲート,kyaku,øo,noun,3
+posedi,eo,/posedi/,oøy,to own,所有する,puuliesi,fi,/ˈpuuliesi/,uuyøy,wood stove,薪ストーブ,kyaku,øy,noun,3
+يمتلك,ar,/jamtalik/,ɶmɶyb,Ownership,所有,sintésis,id,/sintesis/,ymøyb,Sintésis,シンテシス,kyaku,yb,noun,3
+memiliki,id,/məmiliki/,əyyy,have,持ってる,pyöröhirsi,fi,/ˈpyørøˌhirsi/,yøøyy,circular log,円形のログ,kyaku,yy,noun,4
+nominate,en,/ˈnɑməˌneɪt/,ɑəøʏb,nominate,ノミネート,camperez,fr,/kɑ̃pəʁe/,ɑəø,will camp,キャンプします,to,əø,verb,3
+ترشح,ar,/taraʃʃaħa/,ɶɶɶɶ,nominate,ノミネート,不过尔尔,zh-cn,/pu˥˩ kuɔ˥˩ aɻ˨˩˦ aɻ˨˩˦/,uuɔɶɶ,But,しかし,kyaku,ɶɶ,verb,4
+nominieren,de,/noˈmɪniːɾen/,oʏyøm,nominate,ノミネート,bèo nước lênh đênh,vi,/beo˦˨ nɯək˦˥ len˧˥ den˧˥/,øouəbømøm,Deo broth floating,デオブロスが浮かんでいます,kyaku,øm,verb,4
+nimittää,fi,/ˈnimittææ/,yybææ,appoint,任命,للإلتصاق,ar,/lililtisˤaːq/,yybybɶb,To stick,固執する,to,yb,verb,4
+지팡이,ko,/t͡ɕipʰa̠ŋi/,bybɶy,cane,杖,crispina,en,/kɹiˈspinə/,bybyə,crispina,クリスピナ,to,yb,noun,3
+înfrângere,ro,/ɨnfrɨndʒere/,ʉmbʉmbøø,defeat,敗北,detempe de,eo,/detempe de/,øømøø,from time of,の時から,kyaku,øø,noun,4
+tappio,fi,/ˈtɑppio/,ɑbyo,loss,損失,吃絮了,zh-cn,/ʈʂʰɚ˥˥ ɕy˥˩ lɤ˧/,əyo,Eat,食べる,kyaku,yo,verb,3
+打败,zh-cn,/ta˨˩˦ paɪ˥˩/,ɶɶʏ,defeat,敗北,emigh,en,/ˈɛmaɪ/,œɶʏ,emigh,エミグ,kyaku,ɶʏ,verb,3
+desecho,es,/desetʃo/,øøbo,disposal,廃棄,bất hợp thời,vi,/bɤ̆k˦˥ hɤp˨ˀ˩ʔ tʰɤj˦˨/,obobbbo,unrighteous,不義,kyaku,bo,adjective,3
+disposition,fr,/dispozisjɔ̃/,yboybɔ,arrangement,配置,vị cây dây quấn,vi,/ji˨ˀ˩ʔ kɤ̆j˧˥ jɤ̆j˧˥ wɤ̆ŋ˩˧/,ybooom,wire,ワイヤー,to,bo,noun,4
+disposal,en,/dɪˈspoʊzəɫ/,ʏboʊə,disposal,廃棄,diskótek,is,/tɪskoutɛːk/,ʏbouœb,disc,ディスク,to,bo,noun,3
+pembuangan,id,/pəmbuaŋan/,əmuɶɶm,disposal,廃棄,minutâmes,fr,/minytam/,yyɶm,minutam,ミヌタム,kyaku,ɶm,noun,3
+Verfügung,de,/fɛɐ̯ˈfyːɡʊŋ/,œɐyʊm,disposal,廃棄,proteome,en,/ˈpɹoʊˌtiˈoʊm/,boʊyoʊm,proteome,プロテオーム,kyaku,ʊm,noun,3
+chim cánh cụt,vi,/cim˧˥ kan˩˧ kuk͡p˨ˀ˩ʔ/,ymɶmubbb,penguin,ペンギン,熏茶叶,zh-cn,/ɕyn˥˥ ʈʂʰa˧˥ jɛ˥˩/,ymɶœ,Tea,お茶,to,mɶ,noun,3
+البطريق,ar,/aːlbitˤriːq/,ɶbybyb,Penguin,ペンギン,riimitys,fi,/ˈriimitys/,yyyyb,rhyme,韻,kyaku,yb,noun,3
+singarda,eo,/singarda/,ymɶɶ,cautious,注意深い,hættara,is,/haihtara/,ɶyɶɶ,dangerous,危険な,kyaku,ɶɶ,adjective,3
+waspada,id,/waspada/,ɶbɶɶ,alert,アラート,Phù Lá Hoa,vi,/fu˦˨ la˩˧ hwa˧˥/,uɶɶ,Floral,花,kyaku,ɶɶ,adjective,3
+hydrauliikka,fi,/ˈhydrɑuˌliikkɑ/,ybɑuyybɑ,hydraulics,油圧,Zarathustra,de,/ˈtsɑːɾatʊstɾɑ/,bɑɶʊbbɑ,Zarathustra,ザラトゥストラ,kyaku,bɑ,noun,4
+hydraulique,fr,/idʁolik/,yboyb,hydraulic,油圧,địa chính trị,vi,/diə˨ˀ˩ʔ cin˩˧ ʈi˨ˀ˩ʔ/,yəbymyb,political geography,政治地理,kyaku,yb,noun,3
+obsidian,en,/əbˈsɪdiən/,əbʏyəm,obsidian,黒曜石,kesengsem,id,/kəsəŋsəm/,əəməm,mate,メイト,kyaku,əm,noun,3
+paradise,en,/ˈpɛɹəˌdaɪs/,œəɶʏb,paradise,パラダイス,hagkerfið,is,/haɣcɛrvɪð/,ɶœʏb,economy,経済,kyaku,ʏb,noun,3
+paradis,ro,/paradis/,ɶɶyb,paradise,パラダイス,malhabiles,fr,/malabil/,ɶɶyb,unhappy,不幸,to,ɶyb,adjective,3
+paraíso,es,/paɾaˈiso/,ɶɶyo,paradise,パラダイス,orignaux,fr,/ɔʁiɲo/,ɔyo,moose,ムース,kyaku,yo,verb,3
+virheetön,fi,/ˈvirheetøn/,yøøøm,without blemish,傷なし,돌림벵,ko,/to̞ɭʎimbe̞ŋ/,oymøm,Running Ben,ランニングベン,kyaku,øm,noun,3
+gallalaus,is,/katlalœiːs/,ɶbɶœyb,flawless,完璧,kacaukan,id,/katʃaukan/,ɶbɶuɶm,glass,ガラス,to,bɶ,noun,3
+トランス,ja,/toɾaɴsɯ/,oɶmu,Trance,トランス,Johanniter,de,/joanˈniːtɐ̯/,oɶmyɐ,Johanniter,ヨハニター,to,ɶm,noun,3
+kesurupan,id,/kəsurupan/,əuuɶm,trance,トランス,فلازوام,ar,/faliʔazwaːm/,ɶyɶbɶm,Flaszan,フラスザン,kyaku,ɶm,noun,4
+renacuajo,es,/renakwaxo/,øɶbɶo,tadpole,タドポール,霧箱,ja,/kiɾibako/,yyɶo,Fog box,霧箱,kyaku,ɶo,verb,4
+رقم,ar,/raqama/,ɶɶɶ,number,番号,tasarlas,es,/tasaɾlas/,ɶɶɶb,Table them,それらをテーブル,to,ɶɶ,noun,3
+番号,ja,/baɴgoɯ/,ɶmou,number,番号,luusolu,fi,/ˈluusolu/,uuou,bone cell,骨細胞,kyaku,ou,noun,3
 sairaanhoito,fi,/ˈsɑirɑɑnˌhoito/,ɑyɑɑmoyo,nursing,看護,faciane,en,/fɑsiˈɑneɪ/,ɑyɑøʏ,faciane,faciane,to,yɑ,noun,4
 التمريض,ar,/aːltamriːdˤ/,ɶbɶmyb,Nursing,看護,sähkötys,fi,/ˈsæhkøtys/,æøyb,telegraphy,電信,kyaku,yb,noun,3
 kasino,id,/kasino/,ɶyo,casino,カジノ,grosujo,eo,/grosuio/,bouyo,Grosa,グロサ,kyaku,yo,noun,3
@@ -2507,6 +3515,109 @@ calculator,en,/ˈkæɫkjəˌɫeɪtɝ/,æbəøʏə,calculator,電卓,erkenntliche
 普通,ja,/ɸɯtsɯɯ/,ubuu,usually,普通,kulvualo,eo,/kulvualo/,ubuɶo,culvual,culvual,to,bu,adjective,3
 gewöhnliche,de,/gəˈvønlɪçə/,əømʏə,ordinary,普通,perbéntaran,id,/pərbentaran/,əømɶɶm,Perbéntaran,Perbéntaran,to,øm,adjective,4
 ordinaire,fr,/ɔʁdinɛʁ/,ɔbyœb,ordinary,普通,열심히,ko,/jʌ̹ɭɕʰimʝi/,ɔbymy,hard,難しい,to,by,adjective,3
+ikuinen,fi,/ˈikuinen/,yuyøm,eternal,永遠,vô bờ bến,vi,/jo˧˥ bɤ˦˨ ben˩˧/,ooøm,boundless,無限,kyaku,øm,adjective,3
+abadi,id,/abadi/,ɶɶy,eternal,永遠,radarist,ro,/radarist/,ɶɶybb,radarist,レーダリスト,to,ɶy,adjective,3
+ævarandi,is,/aiːvarantɪ/,ɶyɶɶmʏ,perpetual,永続的,masivaĵo,eo,/masivaʒo/,ɶyɶo,a massive,巨大な,to,yɶ,adjective,4
+ストロボ,ja,/sɯtoɾobo/,uooo,strobe,ストロボ,cầu bất cầu bơ,vi,/kɤ̆w˦˨ bɤ̆k˦˥ kɤ̆w˦˨ bɤ˧˥/,ooboo,butter bridge,バターブリッジ,kyaku,oo,noun,4
+力,ja,/tɕikaɾa/,byɶɶ,Power,力,실하다,ko,/ɕʰiɾɦa̠da̠/,byɶɶ,Act,活動,to,yɶɶ,noun,3
+suosio,fi,/ˈsuosio/,uoyo,popularity,人気,铅笔盒,zh-cn,/tɕʰjɛn˥˥ pi˨˩˦ xɤ˧˥/,bbœmyo,Pencil box,,kyaku,yo,noun,3
+popularité,fr,/pɔpylaʁite/,ɔyɶyø,popularity,人気,黒栗毛,ja,/kɯɾokɯɾige/,uouyø,Black chestnut,黒栗毛,kyaku,yø,noun,5
+popularity,en,/ˌpɑpjəˈɫɛɹəti/,ɑbəœəy,popularity,人気,comunicării,ro,/komunikərij/,ouyəy,communication,コミュニケーション,kyaku,əy,noun,5
+matchmaker,en,/ˈmætʃˌmeɪkɝ/,æbøʏə,matchmaker,仲人,现代史,zh-cn,/ɕjɛn˥˩ taɪ˥˩ ʂɚ˨˩˦/,bœmɶʏə,Modern history,現代史,kyaku,ʏə,noun,3
+ottelija,fi,/ˈotteˌlijɑ/,obøyɑ,fighter,戦士,éparpillant,fr,/epaʁpijɑ̃/,øɶbyɑ,scatter,散乱,kyaku,yɑ,noun,4
+esfuerzo,es,/esfweɾθo/,øbbøo,effort,努力,예초기,ko,/je̞t͡ɕʰo̞ɡi/,øbboy,Mower,芝刈り機,to,bb,noun,3
+upaya,id,/upaja/,uɶɶ,effort,努力,بأرساغ,ar,/biʔarsaːɣ/,yɶɶ,In a wardrobe,ワードローブで,kyaku,ɶɶ,noun,3
+sentido,es,/sentiðo/,ømyo,sense,検出,Thạnh Mỹ Tây,vi,/tʰan˨ˀ˩ʔ mi˧˩˨ tɤ̆j˧˥/,bɶmbyo,Thanh My Tay,thanh my tay,kyaku,yo,noun,3
+mélanger,fr,/melɑ̃ʒe/,øɑø,to mix together,一緒に混ぜる,otsake,fi,/ˈotsɑke/,obɑø,heading,見出し,kyaku,ɑø,verb,3
+ミックス,ja,/mikːɯsɯ/,ybuu,mix,ミックス,Bierkruges,de,/ˈbiːɾkɾugəs/,ybuəb,Beer jug,ビール水差し,to,bu,noun,3
+バケツ,ja,/baketsɯ/,ɶøbu,bucket,バケツ,Weibsbildern,de,/ˈvaepsbɪldɛɾn/,ɶøbbʏbœm,Female images,女性の画像,to,øb,noun,3
+keranjang,id,/kərandʒaŋ/,əɶmbɶm,basket,バスケット,للزيدان,ar,/lilzeɪdaːn/,ybøʏɶm,For Zidane,ジダン用,kyaku,ɶm,noun,3
+sitelo,eo,/sitelo/,yøo,bucket,バケツ,végétaux,fr,/veʒeto/,øøo,plants,植物,kyaku,øo,noun,3
+tocino,es,/toθino/,oyo,bacon,ベーコン,tiểu qui mô,vi,/tiəw˧˩˨ wi˧˥ mo˧˥/,yəyo,small -scale,小規模,kyaku,yo,adjective,3
+maternity,en,/məˈtɝnɪti/,əəʏy,maternity,出産,begehrlichster,de,/bəgəˈhɾlɪçstɐ̯/,əəʏbɐ,most desirable,最も望ましい,to,əʏ,noun,4
+Mutterschaft,de,/ˈmʊtɛɾstshaft/,ʊœbbbɶbb,maternity,出産,paradoks,id,/paradoʔs/,ɶɶobb,paradox,逆説,kyaku,bb,noun,3
+eigingirni,is,/eijɪncɪtnɪ/,øyʏmʏbʏ,selfish,自己中,demütiger,de,/ˈdeːmytɪgɐ̯/,øyʏɐ,humble,謙虚,to,yʏ,adjective,4
+itsekäs,fi,/ˈitsekæs/,ybøæb,selfish,自己中,ironclad,en,/ˈaɪɝnˌkɫæd/,ɶʏəmbæb,ironclad,アイアンクラッド,kyaku,æb,adjective,3
+自己中,ja,/dʑikotɕɯɯ/,byobuu,selfish,自己中,كسنونو,ar,/kasunuːnuː/,ɶuuu,Knono,knono,kyaku,uu,noun,4
+vetoomus,fi,/ˈvetoomus/,øooub,plea,嘆願,tourneboulent,fr,/tuʁnəbul/,ubəub,rotate,回転します,kyaku,ub,verb,3
+apelación,es,/apelaˈθjon/,ɶøɶbom,appeal,訴える,가사 노동,ko,/ka̠sʰa̠ no̞do̞ŋ/,ɶbɶoom,Lyrics,歌詞,kyaku,om,noun,4
+réservoir,fr,/ʁezɛʁvwaʁ/,øœbbɶb,tank,タンク,발사각,ko,/pa̠ɭsʰa̠ɡa̠k̚/,ɶbɶɶb,Firing angle,発射角,kyaku,ɶb,noun,3
+貯水池,ja,/tɕosɯitɕi/,bouyby,reservoir,貯水池,komercni,en,/ˌkoʊˈmɝtʃni/,oʊəby,komercni,Komercni,kyaku,by,noun,3
+säiliö,fi,/ˈsæiliø/,æyyø,tank,タンク,stihuire,ro,/stihuire/,byuyø,Stihire,stihire,kyaku,yø,noun,3
+overdo,en,/ˈoʊvɝˈdu/,oʊəu,overdo,無理,历史书,zh-cn,/li˥˩ ʂɚ˨˩˦ ʂu˥˥/,yəu,history book,歴史の本,kyaku,əu,noun,3
+übertreiben,de,/ˌyːbəʁˈtʁaɪ̯bən/,yəbbɶʏəm,exaggerate,誇張します,copernican,en,/kəˈpɝnəkən/,əəəəm,copernican,コペルニカン,kyaku,əm,verb,4
+تطرف,ar,/tatˤarrafa/,ɶbɶɶɶ,overdo,無理,stórmeistarar,is,/stourmeistarar/,bouøybɶɶ,Grand Masters,グランドマスター,kyaku,ɶɶ,noun,4
+motiver,fr,/mɔtive/,ɔyø,motivate,動機付ける,estibe,es,/estiβe/,øbyø,Estibe,estibe,kyaku,yø,verb,3
+motivate,en,/ˈmoʊtəˌveɪt/,oʊəøʏb,motivate,動機付ける,flutningsstyrk,is,/flʏhtniŋkstɪr̥k/,bʏbymbbʏb,grant,許す,kyaku,ʏb,verb,3
+motivasi,id,/motivasi/,oyɶy,motivation,動機,codierbaren,de,/kodiːɾˈbaɽən/,oyɶəm,codable,コード可能,to,yɶ,verb,4
+motivar,es,/motiβaɾ/,oyɶ,to motivate,やる気を起こさせる,indæla,is,/ɪntaila/,ʏmɶyɶ,love,愛,kyaku,yɶ,verb,3
+baletti,fi,/ˈbɑletti/,ɑøby,ballet,バレエ,سنخني,ar,/sanuxniː/,ɶuby,We will be me,私たちは私になります,kyaku,by,noun,3
+الباليه,ar,/aːlbaːliːh/,ɶbɶy,Ballet,バレエ,問題,ja,/moɴdai/,omɶy,problem,問題,kyaku,ɶy,noun,3
+バレエ,ja,/baɾee/,ɶøø,ballet,バレエ,temere,ro,/temere/,øøø,fear,恐れ,kyaku,øø,noun,3
+竞技场,zh-cn,/tɕɪŋ˥˩ tɕi˥˩ ʈʂʰɑŋ˨˩˦/,bʏmbyɑm,arena,アリーナ,congleton,en,/ˈkɑŋɡəɫtɑn/,ɑməɑm,congleton,コングルトン,kyaku,ɑm,noun,3
+hippodromi,fi,/ˈhippoˌdromi/,yboboy,hippodrome,ヒッポドローム,xuy mao cầu tì,vi,/swi˧˥ maw˧˥ kɤ̆w˦˨ ti˦˨/,byɶoy,Xuy Mao Cau Ti,xuy mao cau ti,kyaku,oy,noun,4
+Hippodrom,de,/ˈhɪppɔdɾom/,ʏbɔbom,hippodrome,ヒッポドローム,muodoton,fi,/ˈmuodoton/,uooom,formless,無形,kyaku,om,noun,3
+hippodrome,fr,/ipɔdʁom/,yɔbom,hippodrome,ヒッポドローム,đèn bán dẫn,vi,/dɛŋ˦˨ baŋ˩˧ jɤ̆ŋ˧˩˨/,œmɶmom,semiconductor,半導体,kyaku,om,noun,3
+armario,es,/aɾmaɾjo/,ɶɶo,wardrobe,ワードローブ,평활도,ko,/pʰjʌ̹ŋβwa̠ɭdo̞/,bɔmbɶo,Smooth,スムーズ,kyaku,ɶo,adjective,3
+painike,fi,/ˈpɑinike/,ɑyyø,handle,扱う,pardini,en,/pɑɹˈdini/,ɑyy,pardini,パルディーニ,to,yy,noun,3
+butono,eo,/butono/,uoo,button,ボタン,sạch lầu lầu,vi,/ʂak˨ˀ˩ʔ lɤ̆w˦˨ lɤ̆w˦˨/,ɶbboo,Clean the floor,床を掃除して,kyaku,oo,noun,3
+按钮,zh-cn,/an˥˩ njoʊ˨˩˦/,ɶmmoʊ,Button,ボタン,reno,en,/ˈɹinoʊ/,yoʊ,reno,リノ,kyaku,oʊ,noun,3
+membrillo,es,/membɾiʎo/,ømbyo,quince,マンコ,Wohnsilo,de,/ˈvonzilo/,omyo,Silver silo,シルバーサイロ,kyaku,yo,noun,3
+kvitteni,fi,/ˈkvitteni/,bybøy,quince,マンコ,beșteli,ro,/beʃteli/,øøy,scold,叱る,kyaku,øy,noun,3
+gutui,ro,/ɡutui/,uuy,quince,マンコ,recourut,fr,/ʁəkuʁy/,əuy,resorted,頼りました,kyaku,uy,verb,3
+assurance,en,/əˈʃʊɹəns/,əʊəmb,assurance,保証,microfilms,es,/mikɾofilms/,yboybmb,Microfilms,マイクロフィルム,kyaku,mb,noun,3
+保証,ja,/hoɕoɯ/,oou,guarantee,保証,puusolu,fi,/ˈpuusolu/,uuou,wooden cell,木製のセル,kyaku,ou,noun,3
+assurance,fr,/asyʁɑ̃s/,ɶyɑb,insurance,保険,Gründungstag,de,/ˈgɾʏndʊŋstɑk/,bʏmʊmbɑb,Founding day,設立日,kyaku,ɑb,noun,3
+ataviar,es,/ataβjaɾ/,ɶɶbɶ,ATAVIAR,ataviar,فكصنق,ar,/fakasˤanq/,ɶɶbɶmb,Faksak,faksak,to,ɶbɶ,verb,3
+excelente,es,/eksθelente/,øbbøømø,Excellent,優秀な,quân chủ chuyên chế,vi,/wɤ̆ŋ˧˥ cu˧˩˨ cwiəŋ˧˥ ce˩˧/,omuyəmø,monarchy,君主制,kyaku,mø,adjective,4
+excellent,en,/ˈɛksəɫənt/,œbəəmb,excellent,優れた,propulsant,ro,/propulsant/,boubɶmb,propulsion,推進,kyaku,mb,adjective,3
+優れた,ja,/sɯgɯɾeta/,uuøɶ,outstanding,優れた,tuupertua,fi,/ˈtuuperˌtuɑ/,uuøuɑ,bait,餌,to,uø,verb,4
+regulator,ro,/reɡulator/,øuɶo,regulator,レギュレータ,édukatif,id,/edukatif/,øuɶyb,educative,教育的,to,uɶ,adjective,4
+منظم,ar,/munaðˤˤim/,uɶbym,Organizer,オーガナイザー,不可知,ja,/ɸɯkatɕi/,uɶby,Unknown,不可知,to,ɶby,noun,3
+يتكيف,ar,/jatakajjaf/,ɶɶɶɶb,Adapt,適応,desmamonad,es,/dezmamonað/,øbɶoɶb,Smamonad,スマモナド,kyaku,ɶb,verb,4
+adaptar,es,/aðaptaɾ/,ɶɶbɶ,fit,フィット,燕尾夹,zh-cn,/jɛn˥˩ weɪ˨˩˦ tɕja˥˥/,œmøʏbbɶ,Taltail,タルテール,kyaku,bɶ,verb,3
+adapter,fr,/adapte/,ɶɶbø,adapt,適応する,cadavru,ro,/kadavru/,ɶɶbu,corpse,死体,to,ɶb,verb,3
+adapta,ro,/adapta/,ɶɶbɶ,adapt,適応する,vòng tránh thai,vi,/jɔŋ͡m˦˨ ʈan˩˧ tʰaj˧˥/,ɔmmɶmbɶ,IUD,iud,kyaku,bɶ,noun,3
+sopeutua,fi,/ˈsopeuˌtuɑ/,oøuuɑ,integrate,統合,déverrouillant,fr,/devɛʁujɑ̃/,øœuɑ,unlocking,ロック解除,kyaku,uɑ,verb,4
+adapti,eo,/adapti/,ɶɶby,adapt,適応する,salatblöð,is,/saːlatplœːð/,ɶɶbbœb,lettuce,レタス,to,ɶb,verb,3
+avere,ro,/avere/,ɶøø,wealth,富,sân quế hoè,vi,/ʂɤ̆ŋ˧˥ we˩˧ hwe˦˨/,omøø,Que Hoè yard,QueHoèYard,kyaku,øø,noun,3
+fortuna,es,/foɾtuna/,ouɶ,fortune,運,ibunya,id,/ibuɲa/,yuɶ,her mother,彼女の母親,kyaku,uɶ,noun,3
+amazone,fr,/amazon/,ɶɶom,Amazon,アマゾン,parraton,fi,/ˈpɑrrɑton/,ɑɑom,beardless,ひげのない,kyaku,om,noun,3
+アマゾン,ja,/amazoɴ/,ɶɶom,Amazon,アマゾン,banasótt,is,/paːnasouht/,ɶɶoub,fatigue,倦怠感,to,ɶo,noun,3
+amazon,en,/ˈæməˌzɑn/,æəɑm,amazon,アマゾン,monogam,de,/ˈmoːnogɑm/,ooɑm,monogamous,一夫一婦制,kyaku,ɑm,noun,3
+ammunition,en,/ˌæmjəˈnɪʃən/,æməʏəm,ammunition,弾薬,pérubalsem,id,/perubalsəm/,øuɶbəm,Pérubalsem,Pérubalsem,kyaku,əm,noun,4
+munición,es,/muniˈθjon/,uybom,ammunition,弾薬,太阳能,zh-cn,/tʰaɪ˥˩ jɑŋ˧˥ nɤŋ˧˥/,bɶʏɑmom,Solar,太陽,kyaku,om,noun,3
+pemburu,id,/pəmburu/,əmuu,hunter,猟師,fosfórsúr,is,/fɔːsfoursuːr/,ɔbouu,phosphorus,リン,kyaku,uu,noun,3
+metsästäjä,fi,/ˈmetsæsˌtæjæ/,øbæbææ,hunter,猟師,diasonic,en,/ˌdaɪəˈsɑnɪk/,ɶʏəɑʏb,diasonic,ディアゾニック,,,noun,4
+veiðimaður,is,/veiːðɪmaːðʏr/,øyʏɶʏ,fisherman,漁師,dreierlei,de,/ˈdʀaɪ̯.ɐ.laɪ̯/,bɶʏɐɶʏ,threesome,三人組,kyaku,ɶʏ,noun,4
+グラジオラス,ja,/gɯɾadʑioɾasɯ/,uɶbyoɶu,Groadiolus,グラジオラス,sudafricanos,es,/suðafɾikanos/,uɶbyɶob,South Africans,南アフリカ人,to,ɶby,noun,5
+cobertura,es,/koβeɾtuɾa/,oøuɶ,coverage,カバレッジ,夜郎自大,zh-cn,/jɛ˥˩ lɑŋ˧˥ tsɯ˥˩ ta˥˩/,œɑmbuɶ,Yelang Zi Da,Yelang Zi Da,kyaku,uɶ,noun,4
+カバレッジ,ja,/kabaɾedʑːi/,ɶɶøbby,coverage,カバレッジ,省委书记,zh-cn,/ʂɤŋ˨˩˦ weɪ˨˩˦ ʂu˥˥ tɕi˧/,omøʏuby,Provincial Party Secretary,地方党の秘書,kyaku,by,noun,4
+volleyball,en,/ˈvɑɫiˌbɔɫ/,ɑyɔ,volleyball,バレーボール,处女膜,zh-cn,/ʈʂʰu˨˩˦ ny˨˩˦ mɔ˧˥/,uyɔ,Hymen,処女膜,kyaku,yɔ,noun,3
+volley-ball,fr,/vɔlɛbol/,ɔœob,volleyball,バレーボール,taideteos,fi,/ˈtɑideˌteos/,ɑyøøob,work of art,芸術作品,kyaku,ob,noun,3
+バレーボール,ja,/baɾeːboːɾɯ/,ɶøou,volleyball,バレーボール,categorii,ro,/kateɡorij/,ɶøoy,categories,カテゴリ,to,øo,noun,4
+Mimose,de,/ˈmiːmozə/,yoə,mimosa,ミモザ,komposer,id,/komposər/,omoə,Composer,作曲,kyaku,oə,noun,3
+instancia,es,/instanθja/,ymbɶmbɶ,instance,実例,bergstallar,is,/pɛrkstatlar/,œbbɶbɶ,rock,石,kyaku,bɶ,noun,3
+コーンミール,ja,/koːɴmiːɾɯ/,omyu,Cornmeal,コーンミール,antirouille,fr,/ɑ̃tiʁuj/,ɑyu,rustproof,さび的,kyaku,yu,noun,3
+caméra,fr,/kameʁa/,ɶøɶ,camera,カメラ,Meineides,de,/ˈmaenaedəs/,ɶøɶøəb,Mone,さあ,to,øɶ,noun,3
+카메라,ko,/kʰa̠me̞ɾa̠/,bɶøɶ,camera,カメラ,consterna,ro,/konsterna/,ombøɶ,upset,動揺,kyaku,øɶ,noun,3
+kamera,fi,/ˈkɑmerɑ/,ɑøɑ,camera,カメラ,tempérance,fr,/tɑ̃peʁɑ̃s/,ɑøɑb,temperance,禁酒,to,øɑ,noun,3
+rekaman,id,/rəkaman/,əɶɶm,recording,録音,فكالأمر,ar,/fakaaːlʔamr/,ɶɶɶbɶm,So the matter,だから問題,kyaku,ɶm,noun,3
+imágenes,es,/iˈmaxenes/,yɶøøb,images,画像,membayonét,id,/məmbajonet/,əmɶoøb,Bayonét,バヨネット,kyaku,øb,noun,4
+filmare,ro,/filmare/,ybɶø,shooting,撮影,地下铁,zh-cn,/ti˥˩ ɕja˥˩ tʰjɛ˨˩˦/,ybɶbœ,subway,地下鉄,to,bɶ,noun,3
+áburður,is,/auːpʏrðʏr/,ɶuʏʏ,fertilizer,肥料,abtrünnig,de,/ˈʔapˌtʀʏnɪç/,ɶbbʏʏ,renegade,反逆者,kyaku,ʏʏ,noun,3
+肥料,ja,/çiɾjoɯ/,you,fertilizer,肥料,kirjomus,fi,/ˈkirjomus/,youb,embroidery,刺繍,to,ou,noun,3
+肥料,zh-cn,/feɪ˧˥ ljɑʊ˥˩/,øʏbɑʊ,fertilizer,肥料,فيصلي,ar,/feɪsˤalijj/,øʏbɶy,Pray,祈る,to,ʏb,verb,3
+fertilizante,es,/feɾtiliθante/,øyyɶmø,fertilizer,肥料,精神感応,ja,/seiɕiɴkaɴnoɯ/,øyymɶmou,Mental response,精神感応,to,yy,noun,5
+フライト,ja,/ɸɯɾaito/,uɶyo,Flight,フライト,úrræði,is,/uraiðɪ/,uɶyʏ,remedy,療法,to,ɶy,noun,3
+penerbangan,id,/pənərbaŋan/,əəɶɶm,flight,フライト,天理循环,zh-cn,/tʰjɛn˥˥ li˨˩˦ ɕyn˧˥ xwan˧˥/,bœmyymbɶm,Heavenly cycle,天国のサイクル,kyaku,ɶm,noun,4
+kaupallinen,fi,/ˈkɑupɑlˌlinen/,ɑuɑbyøm,commercial,商業,manajemén,id,/manadʒəmen/,ɶɶbəøm,Managemén,Managemén,kyaku,øm,adjective,4
+comercial,es,/komeɾθjal/,oøbɶb,commercial,商業,동양학,ko,/to̞ŋja̠ŋɦa̠k̚/,omɶmɶb,Oriental,オリエンタル,kyaku,ɶb,adjective,3
+îndrumare,ro,/ɨndrumare/,ʉmbuɶø,guidance,ガイダンス,almamatér,id,/almamater/,ɶbɶɶø,Almamatér,母校,kyaku,ɶø,noun,4
+gemuruh,id,/gəmuruh/,əuu,Rumble,ランブル,răuruscă,ro,/rəuruskə/,əuubə,leave,離れる,to,uu,verb,3
+chalet,en,/ˈʃæˌɫeɪ/,æøʏ,chalet,シャレー,Árnesi,is,/aurnesɪ/,ɶuøʏ,Arnes,アルンズ,kyaku,øʏ,noun,3
+merpati,id,/mərpati/,əɶy,dove,鳩,affadît,fr,/afadi/,ɶɶy,sagging,たるみ,kyaku,ɶy,verb,3
+paloma,es,/paloma/,ɶoɶ,dove,鳩,cam tẩu mã,vi,/kam˧˥ tɤ̆w˧˩˨ ma˧˩˨/,ɶmoɶ,Cam Cam,カムカム,kyaku,oɶ,noun,3
 potilas,fi,/ˈpotilɑs/,oyɑb,patient,忍耐強い,übertrat,de,/ˈʔyːbɛɾtɾɑt/,yœbɑb,surgeon,外科医,kyaku,ɑb,adjective,3
 înnebunitor,ro,/ɨnnebunitor/,ʉmøuyo,mind-boggling,気が遠くなる,đĩa bát có khi xô,vi,/diə˧˩˨ bak˦˥ kɔ˩˧ xi˧˥ so˧˥/,yəɶbɔyo,dishes sometimes bucket,料理は時々バケツです,kyaku,yo,adjective,5
 奇怪,zh-cn,/tɕʰi˧˥ kuaɪ˥˩/,bbyuɶʏ,strangeness,奇妙さ,striptease,fi,/ˈstripteˌɑse/,bbybøɑø,striptease,ストリップの,to,by,verb,3
@@ -2542,6 +3653,107 @@ epäkäytännöllinen,fi,/ˈepæˌkæytænˌnøllinen/,øææyæmøbyøm,impract
 部族,ja,/bɯzokɯ/,uou,tribe,部族,사고율,ko,/sʰa̠ɡo̞juɭ/,bɶou,Accident rate,事故率,kyaku,ou,noun,3
 スズメバチ,ja,/sɯzɯmebatɕi/,uuøɶby,Hornet,スズメバチ,가스검지지,ko,/ka̠sʰɯɡʌ̹md͡ʑid͡ʑi/,ɶbuɔmbyby,Gas index paper,ガス索引紙,kyaku,by,noun,5
 ampiainen,fi,/ˈɑmpiˌɑinen/,ɑmyɑyøm,wasp,スズメバチ,zampino,en,/zɑmˈpinoʊ/,ɑmyoʊ,zampino,ザンピノ,to,my,noun,4
+仕事,ja,/ɕigoto/,yoo,work,仕事,biologism,ro,/biolodʒism/,yoobybm,biology,生物学,to,oo,noun,3
+Aufgabe,de,/ˈʔaofˌgɑːbə/,ɶobɑə,task,仕事,바로크,ko,/pa̠ɾo̞kxɯ/,ɶobu,Baroque,バロック,to,ob,noun,3
+meðlimur,is,/mɛðlɪmʏr/,œbʏʏ,member,メンバー,pepsico's,en,/ˈpɛpsɪkoʊz/,œbʏoʊb,pepsico's,ペプシコ,to,bʏ,noun,3
+lepakko,fi,/ˈlepɑkko/,øɑbo,bat,バット,proyéktor,id,/projeʔtor/,boøbo,projector,プロジェクター,kyaku,bo,noun,3
+murciélago,es,/muˈɾθjelaɣo/,ubøɶo,bat,バット,najbaraĵo,eo,/naibaraʒo/,ɶyɶɶo,neighborhood,近所,kyaku,ɶo,noun,4
+kelelawar,id,/kələlawar/,əəɶɶ,bat,バット,胡子拉碴,zh-cn,/xu˧˥ tsɯ˧ la˥˥ ʈʂʰa˥˥/,ubuɶɶ,Bearded,あごひげ,kyaku,ɶɶ,noun,4
+طلب,ar,/tˤalaba/,bɶɶɶ,Request,リクエスト,pedadah,id,/pədadah/,əɶɶ,Pedah,ペッハ,kyaku,ɶɶ,noun,3
+petición,es,/petiˈθjon/,øybom,petition,嘆願,结婚证,zh-cn,/tɕjɛ˧˥ xuən˥˥ ʈʂɤŋ˥˩/,bbœuəmom,Marriage certificate,結婚証明書,kyaku,om,noun,3
+確かに,ja,/taɕikani/,ɶyɶy,surely,確かに,maquilladas,es,/makiʎaðas/,ɶyɶɶb,makeup,化粧,to,yɶ,adjective,4
+カーペット,ja,/kaːpetːo/,ɶøbo,carpet,カーペット,观光客,zh-cn,/kwan˥˥ kwɑŋ˥˥ kʰɤ˥˩/,bɶmbɑmbo,tourist,,kyaku,bo,noun,3
+underpants,en,/ˈəndɝˌpænts/,əməæmbb,underpants,パンツ,kennzeichnest,de,/ˈkɛnntsaeçnɛst/,œmmbɶøœbb,label,ラベル,kyaku,bb,noun,3
+nærbuxur,is,/nairpʏksʏr/,ɶyʏbʏ,pants,ズボン,Anilin,de,/ˈʔaniːlɪn/,ɶyʏm,aniline,アニリン,to,yʏ,noun,3
+calzoncillos,es,/kalθonθiʎos/,ɶbomyob,underpants,パンツ,cát nhân thiên tướng,vi,/kak˦˥ ɲɤ̆ŋ˧˥ tʰiəŋ˧˥ tɯəŋ˩˧/,ɶbombyəmuəm,Cat Nhan Thien General,Cat Nhan Thien General,to,bom,noun,4
+henkilö,fi,/ˈhenkilø/,ømyø,person,人,militér,id,/militer/,yyø,military,軍隊,kyaku,yø,noun,3
+persona,es,/peɾsona/,øoɶ,person,人,天爾遠波,ja,/tenioha/,øyoɶ,Parenthesis,天爾遠波,kyaku,oɶ,noun,3
+cupolă,ro,/kupolə/,uoə,dome,ドーム,auslote,de,/ˈʔaosˌloːtə/,ɶoboə,eruption,噴火,kyaku,oə,adjective,3
+cupola,en,/kəˈpoʊɫə/,əoʊə,cupola,キューポラ,室友,zh-cn,/ʂɚ˥˩ joʊ˨˩˦/,əoʊ,roommate,ルームメイト,to,oʊ,noun,3
+kupolo,eo,/kupolo/,uoo,dome,ドーム,큰고모,ko,/kxɯnɡo̞mo̞/,bumoo,Aunt,叔母,kyaku,oo,noun,3
+キューポラ,ja,/kjɯːpoɾa/,buoɶ,Cucumber,キューポラ,galvaudât,fr,/galvoda/,ɶboɶ,galvan,ガルバン,kyaku,oɶ,noun,3
+الديك,ar,/ʔaladdeɪka/,ɶɶbøʏɶ,Rock,石,mã đáo thành công,vi,/ma˧˩˨ daw˩˧ tʰan˦˨ koŋ͡m˧˥/,ɶɶbɶmomm,Successful code,成功したコード,to,ɶb,noun,4
+時制,ja,/dʑisei/,byøy,tense,時制,muskeli,fi,/ˈmuskeli/,ubøy,pushing,プッシュ,kyaku,øy,verb,3
+توتر,ar,/taʊattara/,ɶʊɶbɶɶ,Twitter,ツイッター,resquemada,es,/reskemaða/,øbøɶɶ,Broken,壊れた,kyaku,ɶɶ,adjective,4
+încordat,ro,/ɨnkordat/,ʉmoɶb,strained,緊張,bersajak,id,/bərsadʒaʔ/,əɶbɶb,rhyming,韻を踏む,kyaku,ɶb,verb,3
+ascultător,ro,/askultətor/,ɶbubəo,listener,リスナー,알큰하다,ko,/a̠ɭkxɯnɦa̠da̠/,ɶbumɶɶ,Be big,大きくなりなさい,to,bu,adjective,4
+obedient,en,/oʊˈbidiənt/,oʊyyəmb,obedient,従順,phản tác dụng,vi,/faŋ˧˩˨ tak˦˥ juŋ͡m˨ˀ˩ʔ/,ɶmɶbummb,counterproductive,逆効果,kyaku,mb,adjective,3
+divide,ro,/divide/,yyø,divide,分ける,solidér,id,/solider/,oyø,Solidér,Solidér,kyaku,yø,adjective,3
+membagi,id,/məmbagi/,əmɶy,share,シェア,pifati,ro,/pifati/,yɶy,Pifati,ピファティ,kyaku,ɶy,verb,3
+diviser,fr,/divize/,yyø,divide,分ける,자지레,ko,/t͡ɕa̠d͡ʑiɾe̞/,bɶbyø,Jarge,ジャージ,kyaku,yø,verb,3
+jakaa,fi,/ˈjɑkɑɑ/,ɑɑɑ,share,シェア,arawak,en,/ˈɑɹɑˌwɑk/,ɑɑɑb,arawak,アラワク,to,ɑɑ,verb,3
+satama,fi,/ˈsɑtɑmɑ/,ɑɑɑ,port,ポート,segmentant,fr,/sɛgmɑ̃tɑ̃/,œbɑɑ,segmenting,セグメント化,kyaku,ɑɑ,verb,3
+hölynpöly,fi,/ˈhølynˌpøly/,øymøy,nonsense,ナンセンス,reingresares,es,/reiŋgɾesaɾes/,øymbøɶøb,re -enterresares,re -enterresares,to,ym,noun,4
+sitruuna,fi,/ˈsitruunɑ/,ybuuɑ,lemon,レモン,diskusi,id,/diskusi/,ybuy,discussion,討論,to,bu,noun,3
+enrôler,fr,/ɑ̃ʁole/,ɑoø,enlist,入隊,bữa sơ tê,vi,/bɯə˧˩˨ ʂɤ˧˥ te˧˥/,uəoø,feast,ごちそう,kyaku,oø,verb,3
+conseguir,es,/konseɣiɾ/,omøy,get,得る,conserva,ro,/konserva/,omøɶ,preserve,保存,to,mø,verb,3
+mendapatkan,id,/məndapatkan/,əmɶɶbɶm,get,得る,가능바람,ko,/ka̠nɯŋba̠ɾa̠m/,ɶumɶɶm,Wind,風,kyaku,ɶm,verb,4
+enlistigi,eo,/enlistigi/,ømybyy,List,リスト,dihadiri,id,/dihadiri/,yɶyy,attended,出席した,kyaku,yy,verb,4
+sairaanhoitaja,fi,/ˈsɑirɑɑnˌhoitɑjɑ/,ɑyɑɑmoyɑɑ,nurse,看護婦,anticancéreux,fr,/ɑ̃tikɑ̃seʁø/,ɑyɑøø,anticancer,抗がん,to,yɑ,noun,5
+看護婦,ja,/kaɴgoɸɯ/,ɶmou,nurse,看護婦,oiseau-mouche,fr,/wazomuʃ/,ɶou,Hummingbird,ハチドリ,kyaku,ou,noun,3
+간호사,ko,/ka̠nβo̞sʰa̠/,ɶmobɶ,nurse,看護婦,tangencia,es,/taŋxenθja/,ɶmømbɶ,Tangency,接線,kyaku,bɶ,noun,3
+keadilan,id,/kəadilan/,əɶyɶm,justice,正義,corrodâmes,fr,/kɔʁɔdam/,ɔɔɶm,corrodâme,腐敗,kyaku,ɶm,noun,3
+justeco,eo,/justet͡so/,ubøbo,Justice,正義,ukrainian's,en,/juˈkɹeɪniənz/,ubøʏyəmb,ukrainian's,ウクライナ人,to,bø,noun,3
+oikeudenmukaisuus,fi,/ˈoikeuˌdenmuˌkɑisuus/,oyøuømuɑyuub,justice,正義,Optokopplermodul,de,/ˈʔɔptokɔpplɛɾmodul/,ɔboɔbbœoub,Opplitor module,Opplitorモジュール,kyaku,ub,noun,6
+algebra,en,/ˈæɫdʒəbɹə/,æbəbə,algebra,代数,turisme,id,/turismə/,uybə,tourism,観光,kyaku,bə,noun,3
+đại số học,vi,/daj˨ˀ˩ʔ ʂo˩˧ hɔk͡p˨ˀ˩ʔ/,ɶboɔbbb,algebra,代数,tamarix,ro,/tamariks/,ɶɶybb,Tamarix,タマリックス,kyaku,bb,noun,3
+aljabar,id,/aldʒabar/,ɶbbɶɶ,algebra,代数,هرع,ar,/haraʕa/,ɶɶɶ,Rush,急ぐ,kyaku,ɶɶ,noun,3
+Algebra,de,/ˈʔalgɛbrɑ/,ɶbœbɑ,algebra,代数,runoelma,fi,/ˈrunoˌelmɑ/,uoøbɑ,poetry,詩,kyaku,bɑ,noun,3
+代数,ja,/daisɯɯ/,ɶyuu,algebra,代数,بالبزور,ar,/biaːlbuzuːr/,yɶbuu,In the blurring,ぼやけて,kyaku,uu,noun,3
+대수학,ko,/tɛ̝sʰuɦa̠k̚/,œbuɶb,algebra,代数,tio estas,eo,/tio estas/,yoøbɶb,that is,あれは,kyaku,ɶb,noun,3
+纪念品,zh-cn,/tɕi˥˩ njɛn˥˩ pʰɪn˨˩˦/,bymœmbʏm,souvenir,お土産,trincares,es,/tɾiŋkaɾes/,bymɶøb,Trincares,トリンカレス,to,ym,noun,3
+suvenir,id,/suvənir/,uəy,souvenir,お土産,求知欲,zh-cn,/tɕʰjoʊ˧˥ ʈʂɚ˥˥ y˥˩/,bboʊəy,Be insignificant,取るに足らない,kyaku,əy,noun,3
+お土産,ja,/omiage/,oyɶø,Souvenir,お土産,giấy da bê,vi,/jɤ̆j˩˧ ja˧˥ be˧˥/,oɶø,calf paper,ふくらはぎの紙,kyaku,ɶø,noun,3
+suvenir,ro,/suvenir/,uøy,souvenir,お土産,destejí,es,/desteˈxi/,øbøy,weaved,織り,kyaku,øy,noun,3
+íshokkí,is,/iːshɔhci/,ybɔy,hockey,ホッケー,survolai,fr,/syʁvɔlɛ/,ybɔœ,overview,概要,to,bɔ,noun,3
+Eishockey,de,/ˈʔai̯sˌhɔkeː/,ɶybɔø,ice Hockey,アイスホッケー,malicia,es,/maliθja/,ɶybɶ,malice,悪意,to,yb,noun,3
+perhiasan,id,/pərhiasan/,əyɶɶm,jewellery,ジュエリー,ダライ盤,ja,/daɾaibaɴ/,ɶɶyɶm,Dalai board,ダライ盤,kyaku,ɶm,noun,3
+珠宝,zh-cn,/ʈʂu˥˥ pɑʊ˨˩˦/,uɑʊ,Jewelry,ジュエリー,spatsera,sv,/spats'eːra/,œʏmɶ,Walking,歩く,,,verb,3
+著作権,ja,/tɕosakɯkeɴ/,boɶuøm,Copyright,著作権,programarías,es,/pɾoɣɾamaˈɾias/,boɶɶyɶb,you would program,あなたはプログラムします,to,oɶ,noun,4
+tekijänoikeus,fi,/ˈtekijæˌnoikeus/,øyæoyøub,copyright,著作権,وكالتعصب,ar,/wakaaːltaʕasˤˤub/,ɶɶɶbɶɶbub,And as fanaticism,そして狂信として,kyaku,ub,noun,5
+panekuk,id,/panəkuʔ/,ɶəub,pancake,パンケーキ,alentour,fr,/alɑ̃tuʁ/,ɶɑub,surrounding,周囲,kyaku,ub,verb,3
+pannukakku,fi,/ˈpɑnnuˌkɑkku/,ɑmuɑbu,pancake,パンケーキ,nonunionized,en,/nɑnˈjunjəˌnaɪzd/,ɑmuməɶʏbb,nonunionized,,to,mu,verb,4
+Pfannkuchen,de,/ˈpfanˌkuːxən/,bɶmuəm,pancakes,パンケーキ,판가름,ko,/pʰa̠nɡa̠ɾɯm/,bɶmɶum,Clarity,明快さ,to,ɶm,noun,3
+pemarah,id,/pəmarah/,əɶɶ,angry person,怒っている人,섬나라,ko,/sʰʌ̹mna̠ɾa̠/,bɔmɶɶ,Island country,島の国,kyaku,ɶɶ,noun,3
+äkäinen,fi,/ˈækæinen/,ææyøm,cranky,クランキー,agremien,es,/aɣɾemjen/,ɶømøm,aggregate,集計,kyaku,øm,noun,3
+トリトン,ja,/toɾitoɴ/,oyom,Triton,トリトン,ilmaton,fi,/ˈilmɑton/,ybɑom,airless,エアレス,kyaku,om,noun,3
+hésitation,fr,/ezitasjɔ̃/,øyɶbɔ,hesitation,ためらいます,Menükarten,de,/ˈmeːnykaɾtən/,øyɶəm,Menu cards,メニューカード,to,yɶ,noun,4
+keberatan,id,/kəbəratan/,əəɶɶm,object,物体,御洒落さん,ja,/oɕaɾesaɴ/,oɶøɶm,Fashionable,御洒落さん,kyaku,ɶm,noun,4
+alimento,es,/alimento/,ɶyømo,food,食物,Archipelen,de,/ˈʔaɾxipelən/,ɶyøəm,Archipelago,諸島,to,yø,noun,4
+kranaatti,fi,/ˈkrɑnɑɑtti/,bɑɑɑby,grenade,手ren弾,subverties,fr,/sybvɛʁti/,ybœby,subverte,サブヴェルト,kyaku,by,noun,3
+granada,es,/gɾanaða/,bɶɶɶ,grenade,手ren弾,أنبه,ar,/ʔanbaha/,ɶmɶɶ,Be alert,警戒します,kyaku,ɶɶ,adjective,3
+grenadă,ro,/ɡrenadə/,bøɶə,grenade,手ren弾,Vokale,de,/voˈkalə/,oɶə,Vocal,ボーカル,kyaku,ɶə,noun,3
+huutaa,fi,/ˈhuutɑɑ/,uuɑɑ,yell,エール,réinventant,fr,/ʁeɛ̃vɑ̃tɑ̃/,øœɑɑ,reinventing,再発明,kyaku,ɑɑ,verb,3
+berteriak,id,/bərtəriaʔ/,əəyɶb,shout,叫ぶ,sérhannað,is,/sjɛːrhanað/,bœɶɶb,designed,設計,kyaku,ɶb,verb,3
+reclamant,ro,/reklamant/,øbɶɶmb,complainant,申立人,supplicant,en,/ˈsəpɫəkənt/,əbəəmb,supplicant,サプリカント,kyaku,mb,adjective,3
+原告,ja,/geɴkokɯ/,ømou,plaintiff,原告,encoged,es,/eŋkoxeð/,ømoøb,shrink,縮む,to,mo,noun,3
+allaitement,fr,/alɛtmɑ̃/,ɶœbɑ,feeding with milk,牛乳で餌をやります,Sardelle,de,/ˈzaɾdɛllə/,ɶœbə,anchovy,アンチョビ,to,œb,noun,3
+tiikeri,fi,/ˈtiikeri/,yyøy,tiger,虎,알제리,ko,/a̠ɭd͡ʑe̞ɾi/,ɶbøy,Algeria,アルジェリア,kyaku,øy,noun,3
+テキスト,ja,/tekisɯto/,øyuo,text,テキスト,闷闷不乐,zh-cn,/mən˥˩ mən˥˩ pu˧˥ lɤ˥˩/,əməmuo,Unhappy,不幸,kyaku,uo,noun,4
+textual,ro,/tekstuwal/,øbbuɶb,textual,テキスト,insertas,es,/inseɾtas/,ymøɶb,Inserts,挿入,kyaku,ɶb,adjective,3
+rypäle,fi,/ˈrypæle/,yæø,cluster,集まる,Verwalterinnen,de,/fɛːɐ̯ˈvalteɾɪnnən/,œɐɔbbəb,Administrators,管理者,,,noun,3
+strugure,ro,/struɡure/,bbuuø,grapes,ブドウ,lisuke,fi,/ˈlisuke/,yuø,side dish,副菜,kyaku,uø,noun,3
+redukti,eo,/redukti/,øuby,to reduce,削減する,tchaikovsky,en,/ˌtʃaɪˈkɑfski/,bɶʏɑbby,tchaikovsky,チャイコフスキー,kyaku,by,verb,3
+減らす,ja,/heɾasɯ/,øɶu,reduce,減らす,reasumo,es,/reasumo/,øɶuo,Reasumo,reasumo,to,ɶu,verb,3
+خفض,ar,/xafadˤa/,ɶɶbɶ,scale down,スケールダウンします,patschnassen,de,/ˈpaʧnaszən/,ɶɶbəm,snap,スナップ,to,ɶb,verb,3
+アサリ,ja,/asaɾi/,ɶɶy,Clam,アサリ,contraries,fr,/kɔ̃tʁaʁi/,ɔbɶy,contraries,逆,kyaku,ɶy,noun,3
+tarjeta,es,/taɾxeta/,ɶøɶ,card,カード,memérah,id,/məmerah/,əøɶ,Memérah,メメラ,kyaku,øɶ,noun,3
+dipimpin,id,/dipimpin/,yymym,led,導いた,بهشيم,ar,/bihaʃiːm/,yɶym,Wash,洗う,kyaku,ym,verb,3
+dirigió,es,/diɾiˈxjo/,yybo,He directed,彼は指示した,vinifiés,fr,/vinifje/,yybø,vinified,ビニエーション,to,yb,verb,3
+測定,ja,/sokɯtei/,ouøy,measurement,測定,jauhonpöly,fi,/ˈjɑuhonˌpøly/,ɑuomøy,flour,小麦粉,kyaku,øy,noun,4
+mitata,fi,/ˈmitɑtɑ/,yɑɑ,measure,測定,giancana,en,/dʒiəˈkɑˌnɑ/,byəɑɑ,giancana,ジャンカナ,kyaku,ɑɑ,noun,3
+medida,es,/meðiða/,øyɶ,measure,測定,mutila,ro,/mutila/,uyɶ,mutilate,切断します,kyaku,yɶ,noun,3
+ukuran,id,/ukuran/,uuɶm,size,サイズ,moderan,es,/moðeɾan/,oøɶm,moderate,適度,kyaku,ɶm,noun,3
+泥棒,ja,/doɾoboɯ/,ooou,thief,泥棒,纵情歌舞,zh-cn,/tsʊŋ˥˩ tɕʰɪŋ˧˥ kɤ˥˥ u˨˩˦/,bʊmbbʏmou,Prostitution,売春,kyaku,ou,noun,4
+قلب,ar,/qalaba/,ɶɶɶ,heart,心臓,lineara,eo,/lineara/,yøɶɶ,linear,線形,kyaku,ɶɶ,noun,3
+心臓,ja,/ɕiɴzoɯ/,ymou,heart,心臓,importi,eo,/importi/,ymoy,Import,輸入,to,mo,noun,3
+corazón,es,/koɾaˈθon/,oɶom,heart,心臓,gastronom,ro,/ɡastronom/,ɶbboom,gourmet,グルメ,kyaku,om,noun,3
+sykloni,fi,/ˈsykloni/,yboy,cyclone,サイクロン,íþróttum,is,/iːθrouhtʏm/,ybouʏm,sport,スポーツ,to,bo,noun,3
+الإعصار,ar,/aːlʔiʕsˤaːr/,ɶbybbɶ,Cyclone,サイクロン,bacifer,ro,/batʃifer/,ɶbyø,berry,ベリー,to,by,noun,3
+variety,en,/vɝˈaɪəti/,əɶʏəy,variety,バラエティ,Realisten,de,/ˈɾəalɪstən/,əɶʏbəm,Realist,現実主義者,to,ɶʏ,noun,3
+バラエティ,ja,/baɾaetei/,ɶɶøøy,variety,バラエティ,mengémbéli,id,/məŋembeli/,əømøy,Menémbéli,メネンベリ,kyaku,øy,noun,4
+varietate,ro,/varjetate/,ɶøɶø,variety,バラエティ,assénassions,fr,/asenasjɔ̃/,ɶøɶbɔ,Assénassions,アッセナシオン,to,øɶ,noun,4
+다양성,ko,/ta̠ja̠ŋsʰʌ̹ŋ/,ɶɶmbɔm,Diversity,多様性,varango,eo,/varango/,ɶɶmo,Varango,ヴァランゴ,to,ɶm,noun,3
 Generation,de,/ˌɡeːnəʁaˈt͡si̯oːn/,øəɶbyom,generation,世代,anh hùng cá nhân,/an˧˥ huŋ͡m˦˨ ka˩˧ ɲɤ̆ŋ˧˥/,ɶmummɶom,vi,Personal Hero,個人的なヒーロー,kyaku,om,noun,4
 generation,en,/ˌdʒɛnɝˈeɪʃən/,bœəøʏəm,generation,世代,thủng trống long chiêng,/tʰuŋ͡m˧˩˨ ʈoŋ͡m˩˧ lɔŋ͡m˧˥ ciəŋ˧˥/,bummommɔmmyəm,vi,Perforated drum drum gong,穴あきドラムドラムゴン,kyaku,əm,noun,4
 generación,es,/xeneɾaˈθjon/,øøɶbom,generation,世代,efesano,/efesano/,øøɶo,eo,Ephesian,エフェシアン,to,øɶ,noun,4
@@ -3006,6 +4218,93 @@ pimenter,fr,/pimɑ̃te/,yɑø,Spice up,スパイス,chianese,en,/kiɑˈneɪzi/,y
 스파게티,ko,/sʰɯpʰa̠ɡe̞tʰi/,bubɶøby,pasta,パスタ,fructifica,ro,/fruktifika/,bubyyɶ,fructify,フラクションをかける,to,ub,noun,4
 spagetti,fi,/ˈspɑgetti/,bɑøby,spaghetti,スパゲッティ,dao động kí,vi,/jaw˧˥ doŋ͡m˨ˀ˩ʔ ki˩˧/,ɶommby,oscillation,発振,kyaku,by,noun,3
 spaghetti,en,/spəˈɡɛti/,bəœy,spaghetti,スパゲッティ,올챙이,ko,/o̞ɭt͡ɕʰɛ̝ŋi/,obbœy,tadpole,タドポール,kyaku,œy,noun,3
+lompakko,fi,/ˈlompɑkko/,omɑbo,wallet,財布,détéktor,id,/deteʔtor/,øøbo,detector,検出器,kyaku,bo,noun,3
+钱包,zh-cn,/tɕʰjɛn˧˥ pɑʊ˥˥/,bbœmɑʊ,wallet,財布,streptocoques,fr,/stʁɛptɔkɔk/,bbœbɔɔb,streptococcus,Streptococcus,to,bœ,noun,3
+cartera,es,/kaɾteɾa/,ɶøɶ,purse,財布,오메가,ko,/o̞me̞ɡa̠/,oøɶ,omega,オメガ,kyaku,øɶ,noun,3
+尖叫,zh-cn,/tɕjɛn˥˥ tɕjɑʊ˥˩/,bbœmbbɑʊ,Scream,悲鳴,ströngustu,is,/strœiŋkʏstʏ/,bbœymʏbʏ,strictest,最も厳格,to,bœ,verb,3
+頭がいい,ja,/atamagaii/,ɶɶɶɶyy,Smart,頭がいい,وتتضعضع,ar,/watatadˤaʕdˤaʕ/,ɶɶɶbɶbbɶb,And humble,そして謙虚,to,ɶɶ,adjective,5
+眼鏡,ja,/gaɴkjoɯ/,ɶmbou,glasses,眼鏡,sandviĉo,eo,/sandvit͡ʃo/,ɶmbybo,sandwich,サンドイッチ,to,mb,noun,3
+okulvitroj,eo,/okulvitroi/,oubyboy,eyeglasses,眼鏡,gérontologi,id,/gerontologi/,øomooy,Gérontology,gérontology,kyaku,oy,noun,5
+simetría,es,/simeˈtɾia/,yøbyɶ,symmetry,対称,calviniza,ro,/kalviniza/,ɶbyyɶ,Calvinised,カルビン化,kyaku,yɶ,verb,4
+対称,ja,/taiɕoɯ/,ɶyou,Symmetry,対称,calicots,fr,/kaliko/,ɶyo,calicots,カリコ,to,yo,noun,3
+symmetria,fi,/ˈsymmetˌriɑ/,ymøbyɑ,symmetry,対称,Kosmetika,de,/ˈkɔsmetikɑ/,ɔbøyɑ,cosmetics,化粧品,kyaku,yɑ,noun,4
+vaihdekeppi,fi,/ˈvɑihdeˌkeppi/,ɑyøøby,gear shift,ギアシフト,komutiĝi,eo,/komutid͡ʒi/,ouyby,to make up,補うために,kyaku,by,verb,4
+Gangschaltung,de,/ˈgaŋʃaltʊŋ/,ɶmɶbʊm,Gear shift,ギアシフト,وبكوم,ar,/wabikaʊm/,ɶyɶʊm,And with a boom,そしてブームで,kyaku,ʊm,noun,3
+pantteri,fi,/ˈpɑntteri/,ɑmbøy,panther,パンサー,网球场,zh-cn,/wɑŋ˨˩˦ tɕʰjoʊ˧˥ ʈʂʰɑŋ˨˩˦/,ɑmbboʊɑm,tennis court,テニスコート,to,mb,noun,3
+panteră,ro,/panterə/,ɶmøə,Panther,パンサー,samtengdar,is,/samteiŋtar/,ɶmøymɶ,interconnected,相互接続,to,mø,verb,3
+pantera,es,/panteɾa/,ɶmøɶ,panther,パンサー,aciéras,fr,/asjeʁa/,ɶbøɶ,aeraras,aeraras,kyaku,øɶ,verb,3
+自転車,ja,/dʑiteɴɕa/,byømɶ,bicycle,自転車,脊椎骨,zh-cn,/tɕi˨˩˦ ʈʂweɪ˥˥ ku˨˩˦/,byøʏu,spine,脊椎,to,yø,noun,3
+bicicletă,ro,/bitʃikletə/,ybybøə,bicycle,自転車,tiskikone,fi,/ˈtiskiˌkone/,ybyoø,dish washer,食器洗い機,to,by,noun,4
+자전거,ko,/t͡ɕa̠d͡ʑʌ̹nɡʌ̹/,bɶbɔmɔ,bicycle,自転車,华侨,zh-cn,/xwa˧˥ tɕʰjɑʊ˧˥/,bɶbbɑʊ,overseas Chinese,華僑,to,ɶb,noun,3
+nauraa,fi,/ˈnɑurɑɑ/,ɑuɑɑ,laugh,笑う,décampant,fr,/dekɑ̃pɑ̃/,øɑɑ,scouring,精査,kyaku,ɑɑ,verb,3
+protection,en,/pɹəˈtɛkʃən/,bəœbəm,protection,保護,kesengsem,id,/kəsəŋsəm/,əəməm,mate,メイト,kyaku,əm,noun,3
+perlindungan,id,/pərlinduŋan/,əymuɶm,protection,保護,杀伤炸弹,zh-cn,/ʂa˥˥ ʂɑŋ˥˥ ʈʂa˥˩ tan˥˩/,ɶɑmɶɶm,Kill bomb,爆弾を殺します,kyaku,ɶm,noun,4
+geröstet,de,/gəˈɾœstət/,əœbəb,roasted,ロースト,que đun nước,vi,/wɛ˧˥ duŋ͡m˧˥ nɯək˦˥/,œummuəb,boil,沸騰させる,kyaku,əb,verb,3
+ベクター,ja,/bekɯtaː/,øuɶ,vector,ベクター,Leguane,de,/leguanə/,øuɶə,Iguana,イグアナ,to,uɶ,noun,3
+vektori,fi,/ˈvektori/,øboy,vector,,péclotasse,fr,/peklotas/,øboɶb,peclotasse,ペクロタス,to,bo,noun,3
+المتجه,ar,/aːlmuttadʒih/,ɶbubɶby,Vector,ベクター,NFLÍ,is,/ɛn ɛf ɛtl̥ iː/,œmœbœbby,Nflí,,kyaku,by,noun,4
+腹足類,ja,/ɸɯkɯsokɯɾɯi/,uuouuy,Belly feet,腹足類,sokerileipuri,fi,/ˈsokeriˌleipuri/,oøyøyuy,confectioner,菓子,kyaku,uy,noun,6
+aberrant,en,/æˈbɛɹənt/,æœəmb,aberrant,異常,útreikning,is,/uːtreihkniŋk/,ubøybymb,calculation,計算,kyaku,mb,noun,3
+aberant,ro,/aberant/,ɶøɶmb,aberrant,異常,aberras,es,/aβeras/,ɶøɶb,Aberras,アベラス,to,øɶ,adjective,3
+마시다,ko,/ma̠ɕʰida̠/,ɶbyɶ,drink,飲む,berilah,id,/bərilah/,əyɶ,Give,与える,kyaku,yɶ,verb,3
+preguntarse,es,/pɾeɣuntaɾse/,bøumɶø,wonder,不思議,celulozo,eo,/t͡selulozo/,bøuoo,cellulose,セルロース,to,øu,verb,4
+궁금하다,ko,/kuŋɡɯmɦa̠da̠/,umumɶɶ,I'm curious,私は興味がある,seberhana,id,/səbərhana/,əəɶɶ,Simplified,簡素化,kyaku,ɶɶ,verb,4
+Wiederbelebung,de,/ˈviːdɐbəˌleːbʊŋ/,yɐəøʊm,revival,復活,elizabethtown,en,/əˈɫɪzəbɛθˌtaʊn/,əʏəœbɶʊm,elizabethtown,エリザベスタウン,kyaku,ʊm,noun,5
+kebangkitan,id,/kəbaŋkitan/,əɶmyɶm,resurrection,復活,kaffikannan,is,/kʰafɪkanan/,bɶʏɶɶm,café,カフェ,kyaku,ɶm,noun,4
+revival,en,/ɹiˈvaɪvəɫ/,yɶʏə,revival,復活,Gewinne,de,/ɡəˈvɪnə/,əʏə,Profit,利益,kyaku,ʏə,noun,3
+見積もり,ja,/mitsɯmoɾi/,ybuoy,Quote,見積もり,齐心合力,zh-cn,/tɕʰi˧˥ ɕɪn˥˥ xɤ˧˥ li˥˩/,bbyʏmoy,work together,共に働く,kyaku,oy,noun,4
+estimate,en,/ˈɛstəˌmeɪt/,œbəøʏb,estimate,見積もり,útkrotuð,is,/uːtkʰrɔtʏð/,ubbɔʏb,extended,拡張,kyaku,ʏb,verb,3
+虹彩,ja,/koɯsai/,ouɶy,iris,虹彩,Bigamie,de,/ˌbiɡaˈmiː/,yɶy,bigamy,重婚,kyaku,ɶy,noun,3
+ホームレス,ja,/hoːmɯɾesɯ/,ouøu,Homeless,ホームレス,gordunescu,ro,/ɡordunesku/,ouøbu,Gordunescu,Gordunescu,to,uø,noun,4
+tunawisma,id,/tunawisma/,uɶybɶ,homeless,ホームレス,조그맣다,ko,/t͡ɕo̞ɡɯma̠tʰa̠/,bouɶbɶ,Small,小さな,kyaku,bɶ,adjective,4
+dynamiitti,fi,/ˈdynɑˌmiitti/,yɑyyby,dynamite,ダイナマイト,rivalisiert,de,/ɾivɑliˈziːɾt/,yɑyyb,rival,ライバル,to,ɑyyb,verb,4
+炸药,zh-cn,/ʈʂa˥˩ jɑʊ˥˩/,ɶɑʊ,Explosive,爆発,pen,id,/pən/,əymy,Pen,ペン,,,noun,3
+ステーキ,ja,/sɯteːki/,uøy,steak,ステーキ,tuméfient,fr,/tymefi/,yøy,tumor,腫瘍,kyaku,øy,noun,3
+filete,es,/filete/,yøø,fillet,フィレット,einsehe,de,/ˈaensˌʔeːe/,ɶømbøø,grant,許す,kyaku,øø,verb,3
+friptură,ro,/fripturə/,bybuə,steak,ステーキ,지참금,ko,/t͡ɕit͡ɕʰa̠mɡɯm/,bybbɶmum,Dowry,持参金,to,yb,verb,3
+interkonsento,eo,/interkonsento/,ymøomømo,Agreement,合意,syntetisoida,fi,/ˈsyntetiˌsoidɑ/,ymøyoyɑ,synthesize,合成,to,mø,verb,5
+acuerdo,es,/akweɾðo/,ɶbøo,agreement,合意,bánh bèo,vi,/ban˩˧ beo˦˨/,ɶmøo,duck cake,アヒルケーキ,kyaku,øo,noun,3
+samningur,is,/samniŋkʏr/,ɶmymʏ,agreement,合意,ガン切れ,ja,/gaɴgiɾe/,ɶmyø,Broken cancer,ガン切れ,to,my,verb,3
+bewahren,de,/bəˈvaːʁən/,əɶəm,maintain,維持,berantem,id,/bərantəm/,əɶməm,fight,喧嘩,kyaku,əm,verb,3
+neuroni,fi,/ˈneuroni/,øuoy,neuron,ニューロン,izvodi,ro,/izvodi/,yboy,izvodite,izvodite,kyaku,oy,noun,3
+宝石,ja,/hoɯseki/,ouøy,jewelry ,宝石,assainis,fr,/aseni/,ɶøy,sanitation,衛生,kyaku,øy,noun,3
+bijuterie,ro,/biʒuterije/,yuøyø,gem,宝石,spiritualité,fr,/spiʁitɥalite/,byybɶyø,spirituality,スピリチュアリティ,kyaku,yø,noun,5
+appareil,fr,/apaʁɛj/,ɶɶœ,device,デバイス,생활대,ko,/sʰɛ̝ŋβwa̠ɭdɛ̝/,bœmbɶœ,Livelihood,生活,kyaku,ɶœ,noun,3
+appliance,en,/əˈpɫaɪəns/,əbɶʏəmb,appliance,アプライアンス,afrikaans,fi,/ˈɑfrikɑɑns/,ɑbyɑɑmb,Afrikaans,アフリカーンス,kyaku,mb,noun,3
+アプライアンス,ja,/apɯɾaiaɴsɯ/,ɶuɶyɶmu,Appliance,アプライアンス,chủ nghĩa vô chính phủ,vi,/cu˧˩˨ ŋiə˧˩˨ jo˧˥ cin˩˧ fu˧˩˨/,uyəoymu,anarchist,アナキスト,kyaku,mu,noun,5
+heimilistæki,is,/hɛːjmɪlɪstʰajːcɪ/,œʏʏbbɶʏ,home appliance,家庭電化製品,Seeräuberei,de,/ˌzeːʁɔɪ̯bɐˈʁaɪ̯/,øɔʏɐɶʏ,piracy,著作権侵害,kyaku,ɶʏ,noun,5
+海藻,zh-cn,/xaɪ˨˩˦ tsɑʊ˨˩˦/,ɶʏbɑʊ,Seaweed,海藻,fasista,is,/faːsɪsta/,ɶʏbɶ,fascist,ファシスト,to,ʏb,noun,3
+algoj,eo,/algoi/,ɶboy,algae,藻類,abhobelst,de,/ˈʔapˌhoːbɛlst/,ɶboœbbb,abruptly,突然,to,bo,verb,3
+ペインティング,ja,/peiɴteiɴgɯ/,øymøymu,Painting,ペインティング,sertinki,fi,/ˈsertinki/,øymy,certificate,証明書,to,ym,noun,3
+Malerei,de,/ˈmalɐ̯ae/,ɶɐɶø,painting,ペインティング,bolease,es,/bolease/,oøɶø,Bullet,銃弾,kyaku,ɶø,noun,3
+lukisan,id,/lukisan/,uyɶm,Paint,ペイント,ふし穴,ja,/ɸɯɕiana/,uyɶɶ,Hole,ふし穴,to,yɶ,verb,3
+スカート,ja,/sɯkaːto/,uɶo,skirt,スカート,Gestapo,fr,/gɛstapo/,œbɶo,Gestapo,ゲシュタポ,kyaku,ɶo,noun,3
+اللاسع,ar,/aːllaːsiʕ/,ɶbɶyb,Nasty,汚い,轧花机,zh-cn,/ja˥˩ xwa˥˥ tɕi˥˥/,ɶbɶby,Blooming machine,ブルーミングマシン,to,bɶ,noun,3
+スティンガー,ja,/sɯteiɴgaː/,uøymɶ,Stinger,スティンガー,人缘儿,zh-cn,/ʐən˧˥ ɥœn˧˥ aɻ˧/,əmœmɶ,Peak,ピーク,kyaku,mɶ,noun,3
+kiemurrella,fi,/ˈkiemurˌrellɑ/,yøuøbɑ,curl,カール,Alexandra,de,/ˈʔɑːleksandɾɑ/,ɑøbɶmbɑ,Alexandra,アレクサンドラ,kyaku,bɑ,noun,4
+hinzufügen,de,/hɪnˈtsuːfyːɡŋ̩/,ʏmbuybm,Add,追加,multiforme,fr,/myltifɔʁm/,ybyɔbm,multifaceted,多面,kyaku,bm,verb,3
+يضيف,ar,/judˤajjif/,ubɶyb,Add,追加,euphorisent,fr,/øfɔʁiz/,øɔyb,euphorize,陶酔します,kyaku,yb,verb,3
+agregar,es,/aɣɾeɣaɾ/,ɶøɶ,add,追加,reflétas,fr,/ʁəfleta/,əbøɶ,reflects,反映します,kyaku,øɶ,verb,3
+lisätä,fi,/ˈlisætæ/,yææ,add,追加,șahistic,ro,/ʃahistik/,ɶybyb,chess,チェス,,,verb,3
+لاحق,ar,/laːħaqa/,ɶɶɶ,Later,後で,do thái hóa,vi,/jɔ˧˥ tʰaj˩˧ hwa˩˧/,ɔbɶɶ,Jewish,ユダヤ人,kyaku,ɶɶ,adjective,3
+後続,ja,/koɯzokɯ/,ouou,Subsequent,後続,ngây như phỗng,vi,/ŋɤ̆j˧˥ ɲɯ˧˥ foŋ͡m˧˩˨/,ouomm,blankly,ぼんやり,to,uo,noun,3
+subsecuente,es,/suβsekwente/,ubøbømø,Subsequent,後続,suplementa,eo,/suplementa/,ubøømɶ,supplemental,補足,to,bø,adjective,4
+subsequent,en,/ˈsəbsəkwənt/,əbəbəmb,subsequent,後続,tercengung,id,/tərtʃəŋuŋ/,əbəum,loud,うるさい,to,bə,adjective,3
+seuraava,fi,/ˈseurɑɑvɑ/,øuɑɑɑ,next,次,quittançant,fr,/kitɑ̃sɑ̃/,yɑɑ,quitant,QUITANT,kyaku,ɑɑ,adjective,3
+magie,ro,/madʒije/,ɶbyø,magic,マジック,artillerie,fr,/aʁtijʁi/,ɶbyy,artillery,砲兵,to,by,noun,3
+Magie,de,/mɑˈgiː/jə/,ɑyə,magic,マジック,khiếp vía,vi,/xiəp˦˥ jiə˩˧/,yəbyə,horripilation,恐怖,kyaku,yə,noun,3
+マジック,ja,/madʑikːɯ/,ɶbybu,magic,マジック,barbecue,en,/ˈbɑɹbɪkˌju/,ɑʏbu,barbecue,バーベキュー,kyaku,bu,adjective,3
+لحم,ar,/laħama/,ɶɶɶ,Meat,肉,handanna,is,/hantana/,ɶmɶɶ,hand,手,kyaku,ɶɶ,noun,3
+permohonan,id,/pərmohonan/,əooɶm,application,応用,vesturbakkann,is,/vɛstʏrpahkan/,œbʏɶɶm,West Bank,西岸,kyaku,ɶm,noun,4
+ベジタリアン,ja,/bedʑitaɾiaɴ/,øbyɶyɶm,vegetarian,ベジタリアン,للمجسم,ar,/lilmudʒassam/,ybubɶbɶm,For the body,体のために,kyaku,ɶm,noun,4
+نباتي,ar,/nabaːtijj/,ɶɶy,vegetarian,ベジタリアン,青貝,ja,/aogai/,ɶoɶy,Blue shell,青貝,kyaku,ɶy,noun,3
+Asymmetrie,de,/ʔɑzʏmmɛtˈɾiː/jə/,ɑʏmœbyə,asymmetry,非対称,ergotamină,ro,/erɡotaminə/,øoɶyə,ergotamine,エルゴタミン,kyaku,yə,noun,5
+asimetrie,ro,/asimetrije/,ɶyøbyø,asymmetry,非対称,Færeyingurinn,is,/faiːreijiŋkʏrɪn/,ɶyøyymʏʏm,The Faroe Islands,フェロー諸島,to,yø,noun,5
+Zurückbehaltung,de,/ˈtsuːˌɾʏkbealtʊŋ/,buʏbøɶbʊm,Retention,保持,وللفرعون,ar,/walilfirʕaʊn/,ɶybyɶʊm,And for the curses,そして呪いのために,kyaku,ʊm,noun,4
+rétention,fr,/ʁetɑ̃sjɔ̃/,øɑbɔ,retention,保持,evakko,fi,/ˈevɑkko/,øɑbo,evacuation,避難,to,ɑb,noun,3
+Gewahrsam,de,/ɡəˈvaːɐ̯zaːm/,əɶɐɶm,custody,親権,ハロタン,ja,/haɾotaɴ/,ɶoɶm,Halotan,ハロタン,kyaku,ɶm,noun,3
+custodia,es,/kustoðja/,ubobɶ,custody,親権,당선자,ko,/ta̠ŋsʰʌ̹nd͡ʑa̠/,ɶmbɔmbɶ,Elected,選出された,kyaku,bɶ,verb,3
+custody,en,/ˈkəstədi/,əbəy,custody,親権,求知欲,zh-cn,/tɕʰjoʊ˧˥ ʈʂɚ˥˥ y˥˩/,bboʊəy,Be insignificant,取るに足らない,kyaku,əy,noun,3
 ordenar,es,/oɾðenaɾ/,oøɶ,organize,整理,terléka,id,/tərleka/,əøɶ,Tell,教えて,kyaku,øɶ,verb,3
 memesan,id,/məməsan/,əəɶm,order,注文,celofán,es,/θeloˈfan/,øoɶm,cellophane,セロハン,kyaku,ɶm,noun,3
 bestellen,de,/bəˈʃtɛllən/,əœbəm,order,注文,antéken,id,/antekən/,ɶmøəm,Antéken,アンテケン,kyaku,əm,verb,3

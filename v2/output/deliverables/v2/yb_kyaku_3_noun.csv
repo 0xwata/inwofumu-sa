@@ -1,10 +1,15 @@
 word,word_lang,word_en,word_ja,word_ipa_rhyme
+entreprise,fr,company,会社,ɑbəbyb
+Sicherheit,de,security,安全,ʏœəyb
 تفرخ,ar,Spawn,スポーン,uɶyb
 مصاريف,ar,expenses,費用,ɶbɶyb
+مخطط,ar,Scheme,図式,uɶbyb
 팸플릿,ko,pamphlet,パンフレット,bœmbuyb
+sosialis,id,socialist,社会主義者,oyɶyb
 jäsenyys,fi,membership,メンバーシップ,æøyyb
 قباقيب,ar,clogs,詰まり,ɶɶyb
 yllätys,fi,surprise,サプライズ,ybæyb
+volatil,ro,volatile,揮発性,oɶyb
 مقاتل,ar,fighter,戦士,ɶɶyb
 blómaskeið,is,flourishing,繁栄,bouɶbøyb
 ملابس,ar,Clothes,服,ɶɶyb
@@ -13,33 +18,45 @@ latitude,fr,latitude,緯度,ɶyyb
 التصفيق,ar,Applause,拍手,ɶbɶbyb
 sedikit,id,a little,少し,əyyb
 työttömyys,fi,unemployment,失業,yøbøyyb
+مدرب,ar,Coach,コーチ,uɶyb
 cuticule,fr,cuticle,キューティクル,yyyb
 Keramik,de,Ceramics,陶器,øɑyb
 väsymys,fi,fatigue,倦怠感,æyyb
 énfasis,es,emphasis,強調,ømɶyb
 crocodile,fr,crocodile,クロコダイル,bɔɔyb
+Logistik,de,logistics,ロジスティクス,oʏbyb
 النائب,ar,deputy,副,ɶbɶyb
 pengemis,id,beggar,乞食,əəyb
 adeziv,ro,adhesive,接着剤,ɶøyb
 التنشيط,ar,Activation,活性化,ɶbɶmyb
 كيلومتر,ar,kilometer,キロメートル,yuyb
 المزيد,ar,More,もっと,ɶbɶyb
+istoric,ro,historic,歴史的,yboyb
 ممرض,ar,nurse,看護婦,uɶyb
 Dankbarkeit,de,gratitude,感謝,ɶmbɶəyb
+مايونيز,ar,mayonnaise,マヨネーズ,ɶuyb
+يمتلك,ar,Ownership,所有,ɶmɶyb
+البطريق,ar,Penguin,ペンギン,ɶbybyb
+hydraulique,fr,hydraulic,油圧,yboyb
 التمريض,ar,Nursing,看護,ɶbɶmyb
 مؤرخ,ar,dated,日付,uɶyb
-istoric,ro,historic,歴史的,yboyb
 räjähdys,fi,explosion,爆発,ææyb
 Nichtigkeit,de,Nullity,無効,ʏʏbəyb
 محلل,ar,Analyst,アナリスト,uɶbyb
 النادل,ar,waiter,ウェイター,ɶbɶyb
 جوارب,ar,stockings,ストッキング,bɶʊɶyb
+ونقيح,ar,Refinement,洗練,ɶɶyb
+sjúkrabíl,is,ambulance,救急車,bubɶyb
 majelis,id,Assembly,組み立て,ɶbəyb
 토관직,ko,Tanker,タンカー,bobɶmbyb
+Selbstkritik,de,Self -criticism,自己批判,œbbbbbyyb
 densities,en,densities,密度,œməyb
+järkevyys,fi,rationality,合理性,æøyyb
+oxiacid,ro,oxyacid,酸素,obyɶbyb
 détractrice,fr,dotter,ドッター,øbɶbbyb
 vô chánh trị,/jo˧˥ can˩˧ ʈi˨ˀ˩ʔ/,uncertainty,不確実性,vi
 Kompaktheit,/kɔmpaktəiːt/,compactness,コンパクトさ,de
+Finalspiel,de,Final game,最終ゲーム,yɶbbyb
 téléguides,/telegid/,teleguides,テレギド,fr
 syyllisyys,/ˈsyyllisyys/,guilt,罪悪感,fi
 tự ám thị,vi,self -haunt,セルフハント,ubɶmbyb
@@ -48,19 +65,26 @@ Preisauftrieb,de,Price survival,価格の生存,bɶøɶobbyb
 Herzkrankheit,de,Heart disease,心臓病,øɐbbbɶmbəyb
 pronostic,fr,prognosis,予後,bɔɔbyb
 harmonises,fr,harmonizes,調和します,ɶbɔyb
+Mávahlíð,is,Mávahlíð,Mávahlíð,ɶuɶbyb
 monarchies,/ˈmɑnɑɹkiz/,monarchies,君主制,en
 surgiréis,/suɾxiˈɾeis/,You will arise,あなたは発生します,es
 فالتنكيت,/faaːltankiːt/,Valentine,バレンタイン,ar
 mục sở thị,vi,Department of Thi Thi,Thi Thiの部門,ubbbobyb
 Deutlichkeit,de,Clearness,明確さ,ɔøbʏəyb
+descriabais,es,You unleashed,あなたは解き放ちました,øbbɶɶyb
 kerisik,id,rustle,ざわめきます,əyyb
 chất đồng vị,vi,isotopes,同位体,obommyb
 accourusse,fr,fuck,くそ,ɶuyb
 Beschränktheit,de,Limitedness,制限,əœmbəyb
 nhất bội nhị,/ɲɤ̆k˦˥ boj˨ˀ˩ʔ ɲi˨ˀ˩ʔ/,Best bumper,最高のバンパー,vi
 Rosenkrieg,/ˈɾoːzɛŋkɾiːk/,Rose war,ローズ戦争,de
+laceréis,es,You will lacerate,あなたは裂けます,ɶøøyb
 nữ du kích,/nɯ˧˩˨ ju˧˥ kit˦˥/,guerrilla,ゲリラ,vi
 intertip,ro,intertypic,インタータイピック,ymøyb
+subisteis,es,You rose,あなたは立ち上がった,uybøyb
+sintésis,id,Sintésis,シンテシス,ymøyb
+riimitys,fi,rhyme,韻,yyyyb
+địa chính trị,vi,political geography,政治地理,yəbymyb
 sähkötys,fi,telegraphy,電信,æøyb
 geometries,en,geometries,ジオメトリ,byɑəbyb
 häilyvyys,fi,vacillation,動揺,æyyyyb

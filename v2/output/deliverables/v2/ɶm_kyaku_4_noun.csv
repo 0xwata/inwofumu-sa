@@ -5,9 +5,17 @@ kekuasaan,id,power,パワー,əuɶɶɶm
 kepatuhan,id,obedience,従順,əɶuɶm
 kedatangan,id,arrival,到着,əɶɶɶm
 kesurupan,id,trance,トランス,əuuɶm
+kerajaan,id,kingdom,王国,əɶbɶɶm
+persamaan,id,equality,平等,əɶɶɶm
+keberatan,id,object,物体,əəɶɶm
+kepadatan,id,density,密度,əɶɶɶm
+pernikahan,id,wedding,結婚式,əyɶɶm
+permukaan,id,surface,水面,əuɶɶm
+pengetahuan,id,knowledge,知識,əəɶuɶm
 keanggotaan,id,membership,メンバーシップ,əɶmoɶɶm
 kebenaran,id,truth,真実,əəɶɶm
 kesimpulan,id,conclusion,結論,əymuɶm
+perbintangan,id,astrology,占星術,əymɶɶm
 penagihan,id,billing,請求する,əɶyɶm
 kedutaan,id,Embassy,大使館,əuɶɶm
 kebanggaan,id,pride,誇り,əɶmɶɶm
@@ -15,16 +23,27 @@ pembayaran,id,payment,支払い,əmɶɶɶm
 kelaparan,id,starving,飢え,əɶɶɶm
 perhubungan,id,Transportation,交通手段,əuuɶm
 kemalasan,id,laziness,怠惰,əɶɶɶm
+persediaan,id,supply,供給,əəyɶɶm
+ketepatan,id,accuracy,正確さ,əəɶɶm
 penugasan,id,assignment,割り当て,əuɶɶm
 pengaktifan,id,activation,活性化,əɶbyɶm
 percobaan,id,test,テスト,əboɶɶm
+水族館,ja,Aquarium,水族館,uyouɶm
+pembentukan,id,formation,形成,əməmuɶm
+kekacauan,id,chaos,混沌,əɶbɶuɶm
+kelimpahan,id,abundance,豊富,əymɶɶm
 persekutuan,id,fellowship,フェローシップ,əəuuɶm
 الاهتمام,ar,interest,興味,ɶyyɶm
 sejarawan,id,historian,歴史家,əbɶɶɶm
+penerbangan,id,flight,フライト,əəɶɶm
 penyuluhan,id,counseling,カウンセリング,əuuɶm
 penghinaan,id,insult,侮辱,əmyɶɶm
 kesombongan,id,vanity,虚栄心,əomoɶm
 penyimpangan,id,deviation,偏差,əymɶɶm
+perlindungan,id,protection,保護,əymuɶm
+kebangkitan,id,resurrection,復活,əɶmyɶm
+permohonan,id,application,応用,əooɶm
+ベジタリアン,ja,vegetarian,ベジタリアン,øbyɶyɶm
 penglihatan,id,vision,ヴィジョン,əmyɶɶm
 mengoyakkan,id,tear,破れ目,əoɶbɶm
 kemarahan,id,anger,怒り,əɶɶɶm
@@ -37,9 +56,17 @@ lễ bạc tâm thành,vi,Silver Ceremony,シルバーセレモニー,øɶbbomb�
 근사계산,ko,Approximation,近似,umbɶbøbɶm
 makkamessan,is,partner,相棒,ɶɶœɶm
 rafmagnsveitan,is,utility,効用,ɶbɶbbøyɶm
+Vierjahresplan,de,Four -year plan,4年計画,yɑœbbɶm
+فلاعصام,ar,Issam,イサム,ɶyɶbbɶm
+garabatean,es,Garabatean,ガラバテアン,ɶɶɶøɶm
+Gewissenszwang,de,Conscience,良心,əʏbœmbbbɶm
+acculturâmes,fr,acculturâme,教会,ɶybyɶm
+ولنشان,ar,And Lenshhan,とレンシュハン,ɶyyɶm
+soumissionnâmes,fr,submission,提出,uybɔɶm
 وبأوطان,ar,And in homelands,そして故郷で,ɶyɶʊbɶm
 chia phượng rẽ loan,/ciə˧˥ fɯəŋ˨ˀ˩ʔ ʐɛ˧˩˨ lwaŋ˧˥/,Chia phoenix,チアフェニックス,vi
 fyrirætlan,is,intention,目的,ʏʏɶybɶm
+Zukunftsroman,de,Future novel,未来の小説,buʊmbbboɶm
 恩重如山,zh-cn,Eunbu Mountain,Eunbu Mountain,əmʊmuɶm
 예금통장,/je̞ɡɯmtʰo̞ŋd͡ʑa̠ŋ/,Deposit account,預金口座,ko
 intéressâmes,/ɛ̃teʁesam/,interest,興味,fr
@@ -47,18 +74,31 @@ intéressâmes,/ɛ̃teʁesam/,interest,興味,fr
 接受挑战,zh-cn,accept the challenge,挑戦を受け入れます,bbœoʊbɑʊɶm
 耐乏予算,ja,Denning budget,耐乏予算,ɶyouoɶm
 当铺老板,zh-cn,Pawnshop boss,質屋のボス,ɑmbuɑʊɶm
+temporisâmes,fr,temporis,トウモリ,ɑɔyɶm
+atenian,ro,Athenian,アテナイアン,ɶøyɶm
 盗用公款,/tɑʊ˥˩ jʊŋ˥˩ kʊŋ˥˥ kʰwan˨˩˦/,Stolen public funds,盗まれた公的資金,zh-cn
 provisionnâmes,fr,provision,規定,bɔybɔɶm
 démaquillâmes,/demakijam/,make -up removal,削除を削除します,fr
 atumultuan,/atumultwan/,Atumultuan,atumultuan,es
+Síldarvinnslan,is,Herring processing,ニシン処理,ybɶʏmbɶm
+وبالأعيان,ar,And notables,そして著名人,ɶyɶbɶbɶm
+apostrofan,es,APOSTROFAN,アポストロファン,ɶobboɶm
+steradian,ro,Stenadian,ステナディアン,bøɶyɶm
 ビッグエンディアン,/bigːɯeɴdeiaɴ/,Big endian,ビッグエンディアン,ja
 intravilan,ro,TOWN,街,ymbɶyɶm
 penébaran,id,Penébaran,ペネバラン,əøɶɶm
+فلازوام,ar,Flaszan,フラスザン,ɶyɶbɶm
 강수시간,ko,Precipitation,降水,ɶmbubyɶm
+天理循环,zh-cn,Heavenly cycle,天国のサイクル,bœmyymbɶm
 식물도감,ko,Plant illustration,植物のイラスト,bymuoɶm
+御洒落さん,ja,Fashionable,御洒落さん,oɶøɶm
 فالإستجمام,/faaːlistidʒmaːm/,The recreation,レクリエーション,ar
 فللبلغم,ar,To be a wine,ワインになる,ɶybɶbɶm
 Menntaskólann,is,High school,高校,œmɶbouɶm
+杀伤炸弹,zh-cn,Kill bomb,爆弾を殺します,ɶɑmɶɶm
+kaffikannan,is,café,カフェ,bɶʏɶɶm
+vesturbakkann,is,West Bank,西岸,œbʏɶɶm
+للمجسم,ar,For the body,体のために,ybubɶbɶm
 问长问短,zh-cn,Ask,聞く,uəmɑmuəmbɶm
 فكالفتن,ar,Vils,ヴィル,ɶɶɶbyɶm
 pangasinán,es,PANGASINAN,パンガシナン,ɶmɶyɶm

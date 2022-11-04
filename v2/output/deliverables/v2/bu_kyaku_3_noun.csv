@@ -1,4 +1,6 @@
 word,word_lang,word_en,word_ja,word_ipa_rhyme
+筷子,zh-cn,Chopsticks,箸,buɶʏbu
+フリック,ja,Flick,フリック,uybu
 鉛筆,ja,pencil,鉛筆,ømybu
 디저트,ko,dessert,デザート,ybɔbu
 fotoliu,ro,ARMCHAIR,アームチェア,oobu
@@ -8,6 +10,7 @@ fotoliu,ro,ARMCHAIR,アームチェア,oobu
 小册子,zh-cn,booklet,冊子,bɑʊbbobu
 伝説,ja,Legend,伝説,ømøbu
 団結,ja,Unity,団結,ɶmøbu
+グリップ,ja,grip,グリップ,uybu
 対立,ja,Conflict,対立,ɶyybu
 検出,ja,detection,検出,ømubu
 チューリップ,ja,Tulip,チューリップ,buybu
@@ -21,6 +24,8 @@ interview,en,interview,インタビュー,ʏməbu
 Interview,de,interview,インタビュー,ʏmɐbu
 パドック,ja,paddock,パドック,ɶobu
 calandru,ro,calender,カレンダー,ɶɶmbu
+đô ngự sử,vi,capital,資本,oubu
+cvintuplu,ro,quintuple,quintuple,bymubu
 villutrú,is,error,エラー,ʏbʏbu
 hääitku,fi,wedding,結婚式,ææybu
 attrape-mouche,fr,graycat,グレーキャット,ɶbɶbu
@@ -29,6 +34,7 @@ Raamattu,fi,Holy Bible,聖書,ɑɑɑbu
 slipmetru,ro,Slipmeter,スリップメーター,bybøbu
 ruislimppu,fi,mussel,ムール貝,uybymbu
 barbeque,en,barbeque,バーベキュー,ɑʏbu
+فندجو,ar,Vando,ヴァンド,ɶɶbbu
 inspéktur,/inspeʔtur/,inspector,検査官,id
 cao hút mủ,/kaw˧˥ huk͡p˦˥ mu˧˩˨/,high pus suction,高い膿吸引,vi
 ofurtrú,is,conviction,信念,ɔʏbu
