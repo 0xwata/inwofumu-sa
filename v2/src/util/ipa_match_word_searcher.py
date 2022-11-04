@@ -49,22 +49,29 @@ SYLLABLE_MIN_COUNT = 3
 
 class IpaMatchWordSearcher:
     def __init__(self):
-        self.ipa_ja_li = self.read_ipa_data(lang="ja")
-        self.ipa_en_li = self.read_ipa_data(lang="en_US")
-        self.ipa_de_li = self.read_ipa_data(lang="de")
-        self.ipa_id_li = self.read_ipa_data(lang="ma")
-        self.ipa_cn_li = self.read_ipa_data(lang="zh_hans")
-        self.ipa_ko_li = self.read_ipa_data(lang="ko")
-        self.ipa_eo_li = self.read_ipa_data(lang="eo")
-        self.ipa_es_ES_li = self.read_ipa_data(lang="es_ES")
-        self.ipa_jam_li = self.read_ipa_data(lang="jam")
-        self.ipa_ro_li = self.read_ipa_data(lang="ro")
-        self.ipa_ar_li = self.read_ipa_data(lang="ar")
-        self.ipa_is_li = self.read_ipa_data(lang="is")
-        self.ipa_vi_li = self.read_ipa_data(lang="vi_C")
-        self.ipa_sv_li = self.read_ipa_data(lang="sv")
-        self.ipa_fr_li = self.read_ipa_data(lang="fr_FR")
-        self.ipa_fi_li = self.read_ipa_data(lang="fi")
+        self.ipa_ja_li = self.read_ipa_data(lang="ja")  ## アラビア語
+        self.ipa_en_li = self.read_ipa_data(lang="en_US")  ## 英語
+        self.ipa_de_li = self.read_ipa_data(lang="de")  ## ドイツ語
+        self.ipa_id_li = self.read_ipa_data(lang="ma")  ## マレー語
+        self.ipa_cn_li = self.read_ipa_data(lang="zh_hans") ## 中国語
+        self.ipa_ko_li = self.read_ipa_data(lang="ko") ## 韓国語
+        self.ipa_eo_li = self.read_ipa_data(lang="eo") ## エスペラント語
+        self.ipa_es_ES_li = self.read_ipa_data(lang="es_ES") ## スペイン語
+        self.ipa_jam_li = self.read_ipa_data(lang="jam") ## ジャマイカ語
+        self.ipa_ro_li = self.read_ipa_data(lang="ro") ## ルーマニア語
+        self.ipa_ar_li = self.read_ipa_data(lang="ar") ## アラビア語
+        self.ipa_is_li = self.read_ipa_data(lang="is") ## アイスランド語
+        self.ipa_vi_li = self.read_ipa_data(lang="vi_C") ## ベトナム語
+        self.ipa_sv_li = self.read_ipa_data(lang="sv") ## スウェーデン語
+        self.ipa_fr_li = self.read_ipa_data(lang="fr_FR") ## フランス語
+        self.ipa_fi_li = self.read_ipa_data(lang="fi") ## フィンランド語
+        self.ipa_fa_li = self.read_ipa_data(lang="fa") ## ペルシャ語
+        self.ipa_km_li = self.read_ipa_data(lang="km")  ## クメール語
+        self.ipa_nb_li = self.read_ipa_data(lang="nb") ## ブークモール（ノルウェー語）
+        self.ipa_or_li = self.read_ipa_data(lang="or") ## オリヤー語
+        self.ipa_sw_li = self.read_ipa_data(lang="sw") ## スワヒリ語
+        self.ipa_tts_li = self.read_ipa_data(lang="tts") ## イーサーン語（タイ語）
+
         self.lang_to_ipa_li_for_search = {
             "ja": self.ipa_ja_li,
             "en": self.ipa_en_li,
@@ -81,7 +88,13 @@ class IpaMatchWordSearcher:
             "vi": self.ipa_vi_li,
             "sv": self.ipa_sv_li,
             "fr": self.ipa_fr_li,
-            "fi": self.ipa_fi_li
+            "fi": self.ipa_fi_li,
+            "fa": self.ipa_fa_li,
+            "km": self.ipa_km_li,
+            "nb": self.ipa_nb_li,
+            "or": self.ipa_or_li,
+            "sw": self.ipa_sw_li,
+            "tts": self.ipa_tts_li
         }
 
     def read_ipa_data(self, lang: str) -> list:

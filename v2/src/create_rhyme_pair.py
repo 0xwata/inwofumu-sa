@@ -62,10 +62,10 @@ def main():
         ② tokenizerの結果、品詞情報が得られなかった時
         ③ TODO: 名詞だった時（名詞は動詞、形容詞に比べて３倍近い個数存在するので、品詞の偏りが出ないように70%の確率で却下する 参考：http://user.keio.ac.jp/~rhotta/hellog/2012-06-02-1.html
         """
-        # isAccept = False
+        isAccept = False
         while request_word[0].isupper() \
-                or request_word_pos == "":
-            # or (random_word_pos == "noun" and isAccept is True):
+                or request_word_pos == "" \
+                or (request_word_pos == "noun" and isAccept is True):
             try:
                 request_word = r.word(
                     include_parts_of_speech=["nouns", "verbs", "adjectives"],
@@ -80,8 +80,8 @@ def main():
                     word_en=request_word,
                     lang="en"
                 )
-                # if random_word_pos == "noun":
-                #     isAccept = random.choices([True, False], weights=[0.3, 0.7], k=1)
+                if request_word_pos == "noun":
+                    isAccept = random.choices([True, False], weights=[0.3, 0.7], k=1)
             except Exception:
                 pass
         print(log_debug("request_word: {}".format(request_word)))
