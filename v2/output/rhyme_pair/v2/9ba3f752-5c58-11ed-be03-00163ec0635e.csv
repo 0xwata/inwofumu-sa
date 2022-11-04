@@ -1,0 +1,45 @@
+word,word_lang,word_ipa,word_ipa_rhyme,word_en,word_ja,pair_word,pair_word_lang,pair_word_ipa,pair_word_ipa_rhyme,pair_word_en,pair_word_ja,rhyme_type,match_ipa_rhyme,pos,syllable
+testudo,eo,/testudo/,øbuo,tortoise,カメ,descurcat,ro,/deskurkat/,øbuɶb,done,終わり,to,bu,verb,3
+tortuga,es,/toɾtuɣa/,ouɶ,tortoise,カメ,úrbóta,is,/urpouta/,uouɶ,correction,修正,kyaku,uɶ,noun,3
+乌龟,zh-cn,/u˥˥ kweɪ˥˥/,ubøʏ,turtle,カメ,pourléchés,fr,/puʁleʃe/,ubøø,loop,ループ,to,bø,noun,3
+الأرق,ar,/aːlʔaraq/,ɶbɶɶb,Insomnia,不眠症,alfabét,id,/alfabet/,ɶbɶøb,alphabet,アルファベット,to,bɶ,noun,3
+insomnie,ro,/insomnije/,ymomyø,insomnia,不眠症,sincopare,es,/siŋkopaɾe/,ymoɶø,syncopare,Syncopare,to,mo,noun,4
+sendormeco,eo,/sendormet͡so/,ømoøbo,insomnia,不眠症,memelonco,id,/məməlontʃo/,əəombo,memelonco,Memelonco,kyaku,bo,noun,4
+Schlaflosigkeit,de,/ʃlaflozɪkˈkəiːt/,ɶboʏbəyb,insomnia,不眠症,antibiotik,id,/antibiotiʔ/,ɶmyyoyb,antibiotics,抗生物質,kyaku,yb,noun,4
+不眠症,ja,/ɸɯmiɴɕoɯ/,uymou,insomnia,不眠症,subinstigi,eo,/subinstigi/,uymbyy,substinate,サジュア系,to,ym,noun,4
+impeccable,fr,/ɛ̃pekabl/,œøɶbb,flawless,完璧,erschwindelt,de,/ʔɛːɐˈʃvɪndɛlt/,œɐʏmœbb,swindled,詐欺,kyaku,bb,verb,3
+imaculat,ro,/imakulat/,yɶuɶb,immaculate,真っ白な,nghĩ đi nghĩ lại,vi,/ŋi˧˩˨ di˧˥ ŋi˧˩˨ laj˨ˀ˩ʔ/,yyyɶb,Think again and again,何度も何度も考えてください,kyaku,ɶb,verb,4
+一尘不染,zh-cn,/i˥˩ ʈʂʰən˧˥ pu˥˩ ʐan˨˩˦/,yəmuɶm,Not dyed,染められていません,Siebenlinge,de,/ˈziːbənlɪŋə/,yəmʏə,Siebenlings,Siebenlings,to,əm,noun,4
+spaghetti,en,/spəˈɡɛti/,bəœy,spaghetti,スパゲッティ,mùi mẽ gì,vi,/muj˦˨ mɛ˧˩˨ ɣi˦˨/,uœy,What a strong smell,なんて強い匂い,kyaku,œy,noun,3
+spagetti,fi,/ˈspɑgetti/,bɑøby,spaghetti,スパゲッティ,subsistí,es,/suβsiˈsti/,ubyby,I subsist,私は存続します,kyaku,by,noun,3
+스파게티,ko,/sʰɯpʰa̠ɡe̞tʰi/,bubɶøby,pasta,パスタ,rapmusiikki,fi,/ˈrɑpmuˌsiikki/,ɑbuyyby,rap music,ラップ音楽,kyaku,by,noun,4
+スパゲッティ,ja,/sɯpagetːei/,uɶøbøy,spaghetti,スパゲッティ,memperoléhi,id,/məmpərolehi/,əməoøy,PERSOLLEHI,ペルセルヒ,kyaku,øy,noun,5
+ギタリスト,ja,/gitaɾisɯto/,yɶyuo,guitarist,ギタリスト,Vídalínskirkja,is,/viːtalinscɪr̥ca/,yɶymbʏɶ,Church,教会,to,ɶy,noun,5
+chitarist,ro,/kʲ̩itarist/,yyɶybb,guitarist,ギタリスト,truyền giáo học,vi,/ʈwiəŋ˦˨ jaw˩˧ hɔk͡p˨ˀ˩ʔ/,yəmɶɔbbb,missionary,宣教師,kyaku,bb,adjective,3
+kitaristi,fi,/ˈkitɑˌristi/,yɑyby,guitarist,ギタリスト,VMSÍ,is,/vaf ɛm ɛs iː/,ɶbœmœby,VMSÍ,vmsí,kyaku,by,verb,4
+guitarist,en,/ˌɡɪˈtɑɹɪst/,ʏɑʏbb,guitarist,ギタリスト,homoséks,id,/homoseʔs/,ooøbb,Homoséks,ホモセクス,kyaku,bb,verb,3
+gitaris,id,/gitaris/,yɶyb,guitarist,ギタリスト,oblăduit,ro,/obləduit/,obəuyb,his wing,彼の翼,kyaku,yb,verb,3
+市場,ja,/itɕiba/,ybyɶ,market,市場,bunyinya,id,/buɲiɲa/,uyɶ,The sound,音,kyaku,yɶ,noun,3
+tiresome,en,/ˈtaɪɝsəm/,ɶʏəəm,tiresome,面倒です,荨麻疹,zh-cn,/ɕyn˧˥ ma˧˥ ʈʂən˨˩˦/,ymɶəm,Urticaria,ur麻疹,kyaku,əm,adjective,3
+melelahkan,id,/mələlahkan/,əəɶɶm,exhausting,疲れる,begehbarem,de,/bəgəhˈbaɽəm/,əəɶəm,walk -in,ウォーク - イン,to,əɶ,adjective,4
+obositor,ro,/obositor/,ooyo,tiring,疲れる,メガバイト,ja,/megabaito/,øɶɶyo,Megabite,メガバイト,kyaku,yo,adjective,4
+Harpunier,de,/haɾpuˈniːɐ̯/,ɶuyɐ,harpooner,harpooner,naturisto,eo,/naturisto/,ɶuybo,a naturalist,自然主義者,to,uy,noun,4
+harponneur,fr,/ʼaʁpɔnœʁ/,ɶbɔœb,harpooner,harpooner,담갈색,ko,/ta̠mɡa̠ɭsʰɛ̝k̚/,ɶmɶbœb,Brown,茶色,kyaku,œb,noun,3
+kuniklo,eo,/kuniklo/,uybo,rabbit,ウサギ,gúmmítré,is,/kumitʰrjɛː/,uybœ,rubber tree,ゴムの木,to,yb,noun,3
+iepure,ro,/jepure/,øuø,rabbit,ウサギ,caoutchouteux,fr,/kautʃutø/,ɶubuø,rubbery,ゴム,kyaku,uø,noun,3
+kanína,is,/kʰaːnina/,bɶyɶ,bunny,バニー,馄饨皮儿,zh-cn,/xuən˧˥ tʰuən˧ pʰi˧˥ aɻ˧/,uəmbuəmbyɶ,馄 馄 饨,馄馄饨,kyaku,yɶ,noun,3
+탈출하다,ko,/tʰa̠ɭt͡ɕʰuɾɦa̠da̠/,bɶbbuɶɶ,to escape,脱出する,takmörkuðu,is,/tʰaːkmœr̥kʏðʏ/,bɶbœʏʏ,limited,限定,to,ɶb,verb,4
+エスケープ,ja,/esɯkeːpɯ/,øuøu,escape,エスケープ,filacteriu,ro,/filakterju/,yɶbøu,FILACTERIU,filacteriu,kyaku,øu,noun,4
+échapper,fr,/eʃape/,øɶø,escape,エスケープ,graznaré,es,/gɾaθnaˈɾe/,bɶbɶø,I will craz,私はcrazします,kyaku,ɶø,verb,3
+止まり木,ja,/tomaɾigi/,oɶyy,Stopping tree,止まり木,totalitér,id,/totaliter/,oɶyø,totalitarian,全体主義,to,ɶy,adjective,4
+herrete,es,/erete/,øøø,aglet,アグレット,avéré,fr,/aveʁe/,ɶøø,recognized,認識された,kyaku,øø,verb,3
+양탄자,ko,/ja̠ŋtʰa̠nd͡ʑa̠/,ɶmbɶmbɶ,carpet,カーペット,اكسج,ar,/ʔaksadʒa/,ɶbɶbɶ,Explan,説明,kyaku,bɶ,noun,3
+alfombra,es,/alfombɾa/,ɶbombɶ,rug,ラグ,pangkatnya,id,/paŋkatɲa/,ɶmɶbɶ,rank,ランク,kyaku,bɶ,noun,3
+caliente,es,/kaljente/,ɶbømø,hot,ホット,algengur,is,/alceiŋkʏr/,ɶbøymʏ,common,一般,to,bø,adjective,3
+potkia,fi,/ˈpotkiɑ/,obyɑ,kick,キック,oxide,es,/oksiðe/,obyø,oxide,酸化物,to,by,verb,3
+tendangan,id,/təndaŋan/,əmɶɶm,kick,キック,one-sided,en,/ˌwənˈsaɪdəd/,əmɶʏəb,one-sided,片側,to,mɶ,verb,3
+巡礼者,ja,/dʑɯɴɾeiɕa/,bumøyɶ,Pilgrim,巡礼者,Adria,de,/ˈaːdʁia/,ɶbyɶ,Adriatic,アドリアティック,kyaku,yɶ,noun,3
+argument,en,/ˈɑɹɡjəmənt/,ɑbəəmb,argument,口論,dixieland,fi,/ˈdixielɑnd/,yyøɑmb,dixieland,ディキシーランド,kyaku,mb,noun,3
+테스트,ko,/tʰe̞sʰɯtʰɯ/,bøbubu,test,テスト,breĉeti,eo,/bret͡ʃeti/,bøbøy,to breed,繁殖します,to,øb,verb,3
+テスト,ja,/tesɯto/,øuo,test,テスト,linguroi,ro,/linɡuroj/,ymuo,tablespoon,大さじ,kyaku,uo,noun,3
+vaahtera,fi,/ˈvɑɑhterɑ/,ɑɑøɑ,maple,メープル,déblayant,fr,/deblejɑ̃/,øbøɑ,clearing,クリア,kyaku,øɑ,noun,3

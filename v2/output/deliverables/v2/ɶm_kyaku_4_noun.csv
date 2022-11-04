@@ -1,4 +1,7 @@
 word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
+menghadiahkan,id,gift,贈り物,/məŋhadiahkan/,əmɶyɶɶm
+pertanyaan,id,question,質問,/pərtaɲaʔan/,əɶɶɶm
+persalinan,id,labor,労働,/pərsalinan/,əɶyɶm
 pencabutan,id,extraction,抽出,/pəntʃabutan/,əmbɶuɶm
 kegelapan,id,darkness,暗闇,/kəgəlapan/,əəɶɶm
 kekuasaan,id,power,パワー,/kəkuasaʔan/,əuɶɶɶm
@@ -6,6 +9,7 @@ kepatuhan,id,obedience,従順,/kəpatuhan/,əɶuɶm
 kedatangan,id,arrival,到着,/kədataŋan/,əɶɶɶm
 kesurupan,id,trance,トランス,/kəsurupan/,əuuɶm
 kerajaan,id,kingdom,王国,/kəradʒaʔan/,əɶbɶɶm
+kesempatan,id,opportunity,機会,/kəsəmpatan/,əəmɶɶm
 persamaan,id,equality,平等,/pərsamaʔan/,əɶɶɶm
 keberatan,id,object,物体,/kəbəratan/,əəɶɶm
 kepadatan,id,density,密度,/kəpadatan/,əɶɶɶm
@@ -16,6 +20,7 @@ keanggotaan,id,membership,メンバーシップ,/kəaŋgotaʔan/,əɶmoɶɶm
 kebenaran,id,truth,真実,/kəbənaran/,əəɶɶm
 kesimpulan,id,conclusion,結論,/kəsimpulan/,əymuɶm
 perbintangan,id,astrology,占星術,/pərbintaŋan/,əymɶɶm
+pengangguran,id,unemployment,失業,/pəŋaŋguran/,əɶmuɶm
 penagihan,id,billing,請求する,/pənagihan/,əɶyɶm
 kedutaan,id,Embassy,大使館,/kədutaʔan/,əuɶɶm
 kebanggaan,id,pride,誇り,/kəbaŋgaʔan/,əɶmɶɶm
@@ -26,6 +31,8 @@ kemalasan,id,laziness,怠惰,/kəmalasan/,əɶɶɶm
 persediaan,id,supply,供給,/pərsədiaʔan/,əəyɶɶm
 ketepatan,id,accuracy,正確さ,/kətəpatan/,əəɶɶm
 penugasan,id,assignment,割り当て,/pənugasan/,əuɶɶm
+meninggalkan,id,leave,離れる,/məniŋgalkan/,əymɶbɶm
+penciptaan,id,creation,創造,/pəntʃiptaʔan/,əmbybɶɶm
 pengaktifan,id,activation,活性化,/pəŋaʔtifan/,əɶbyɶm
 percobaan,id,test,テスト,/pərtʃobaʔan/,əboɶɶm
 水族館,ja,Aquarium,水族館,/sɯizokɯkaɴ/,uyouɶm
@@ -50,6 +57,9 @@ kemarahan,id,anger,怒り,/kəmarahan/,əɶɶɶm
 pengadilan,id,court,裁判所,/pəŋadilan/,əɶyɶm
 pengaturan,id,Settings,設定,/pəŋaturan/,əɶuɶm
 kecemasan,id,worry,心配,/kətʃəmasan/,əbəɶɶm
+婦人警官,ja,policewoman,婦人警官,/ɸɯdʑiɴkeikaɴ/,ubymøyɶm
+proamerican,ro,pro-American,親アメリカ人,/proamerikan/,boɶøyɶm
+Gewinnrückgang,de,Decline in profits,利益の減少,/gəˈvɪnnɾʏkgaŋ/,əʏmmʏbɶm
 chí tái chí tam,vi,Chi tam,Chi Tam,/ci˩˧ taj˩˧ ci˩˧ tam˧˥/,yɶyɶm
 lễ bạc tâm thành,vi,Silver Ceremony,シルバーセレモニー,/le˧˩˨ bak˨ˀ˩ʔ tɤ̆m˧˥ tʰan˦˨/,øɶbbombɶm
 وبمقرم,ar,And in a makram,そしてマクラムで,/wabimiqram/,ɶyybɶm
@@ -57,6 +67,7 @@ lễ bạc tâm thành,vi,Silver Ceremony,シルバーセレモニー,/le˧˩˨ 
 makkamessan,is,partner,相棒,/mahkamɛsan/,ɶɶœɶm
 rafmagnsveitan,is,utility,効用,/ravmaksveiːtan/,ɶbɶbbøyɶm
 Vierjahresplan,de,Four -year plan,4年計画,/viːɾjɑɾɛspˈlan/,yɑœbbɶm
+calovian,ro,Calovian,カロビアン,/kalovijan/,ɶoyɶm
 فلاعصام,ar,Issam,イサム,/faliʔaʕsˤaːm/,ɶyɶbbɶm
 garabatean,es,Garabatean,ガラバテアン,/gaɾaβatean/,ɶɶɶøɶm
 Gewissenszwang,de,Conscience,良心,/gəˈvɪszɛnstsvaŋ/,əʏbœmbbbɶm
@@ -67,7 +78,9 @@ soumissionnâmes,fr,submission,提出,/sumisjɔnam/,uybɔɶm
 chia phượng rẽ loan,/ciə˧˥ fɯəŋ˨ˀ˩ʔ ʐɛ˧˩˨ lwaŋ˧˥/,Chia phoenix,チアフェニックス,yəuəmbœbɶm,vi
 fyrirætlan,is,intention,目的,/fɪːrɪraihtlan/,ʏʏɶybɶm
 Zukunftsroman,de,Future novel,未来の小説,/ˈtsuːkʊnftsɾoˈman/,buʊmbbboɶm
+tích y phòng hàn,vi,Welding room,溶接室,/tit˦˥ i˧˥ fɔŋ͡m˦˨ haŋ˦˨/,ybyɔmmɶm
 恩重如山,zh-cn,Eunbu Mountain,Eunbu Mountain,/ən˥˥ ʈʂʊŋ˥˩ ʐu˧˥ ʂan˥˥/,əmʊmuɶm
+Befehlseingang,de,Command,指示,/bəˈfelzaeŋaŋ/,əøbɶøɶm
 예금통장,/je̞ɡɯmtʰo̞ŋd͡ʑa̠ŋ/,Deposit account,預金口座,øumbombɶm,ko
 intéressâmes,/ɛ̃teʁesam/,interest,興味,œøøɶm,fr
 écarquillâmes,fr,sparkle,輝く,/ekaʁkijam/,øɶbyɶm
@@ -77,6 +90,8 @@ intéressâmes,/ɛ̃teʁesam/,interest,興味,œøøɶm,fr
 temporisâmes,fr,temporis,トウモリ,/tɑ̃pɔʁizam/,ɑɔyɶm
 atenian,ro,Athenian,アテナイアン,/atenijan/,ɶøyɶm
 盗用公款,/tɑʊ˥˩ jʊŋ˥˩ kʊŋ˥˥ kʰwan˨˩˦/,Stolen public funds,盗まれた公的資金,ɑʊʊmʊmbɶm,zh-cn
+tái xanh tái xám,vi,pale green,薄緑色,/taj˩˧ san˧˥ taj˩˧ sam˩˧/,ɶɶmɶɶm
+seðlabankann,is,central bank,中央銀行,/sɛðlapauŋ̊kan/,œbɶɶumɶm
 provisionnâmes,fr,provision,規定,/pʁɔvizjɔnam/,bɔybɔɶm
 démaquillâmes,/demakijam/,make -up removal,削除を削除します,øɶyɶm,fr
 atumultuan,/atumultwan/,Atumultuan,atumultuan,ɶuubbɶm,es
@@ -105,3 +120,4 @@ pangasinán,es,PANGASINAN,パンガシナン,/paŋgasiˈnan/,ɶmɶyɶm
 老调重弹,zh-cn,Old bomb,古い爆弾,/lɑʊ˨˩˦ tjɑʊ˥˩ ʈʂʰʊŋ˧˥ tʰan˧˥/,ɑʊbɑʊʊmbɶm
 脚踏两船,zh-cn,Two boats,2隻のボート,/tɕjɑʊ˨˩˦ tʰa˥˩ ljɑŋ˨˩˦ ʈʂʰwan˧˥/,bbɑʊbɶbɑmɶm
 tomaticán,es,Tomaticán,トマティナン,/tomatiˈkan/,oɶyɶm
+فبضمام,ar,In guarantee,保証,/fabidˤimaːm/,ɶybyɶm

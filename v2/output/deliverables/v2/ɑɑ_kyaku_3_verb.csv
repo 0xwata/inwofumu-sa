@@ -1,4 +1,5 @@
 word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
+ladata,fi,charge,充電,/ˈlɑdɑtɑ/,ɑɑɑ
 pelata,fi,to be afraid,恐れること,/ˈpelɑtɑ/,øɑɑ
 ruokala,fi,canteen,食堂,/ˈruokɑlɑ/,uoɑɑ
 vihata,fi,hate,嫌い,/ˈvihɑtɑ/,yɑɑ
@@ -13,8 +14,10 @@ sulaa,fi,melt,溶けた,/ˈsulɑɑ/,uɑɑ
 seurata,fi,to follow,従う,/ˈseurɑtɑ/,øuɑɑ
 jakaa,fi,share,シェア,/ˈjɑkɑɑ/,ɑɑɑ
 loukata,fi,violate,違反,/ˈloukɑtɑ/,ouɑɑ
+jakaja,fi,divider,仕切り,/ˈjɑkɑjɑ/,ɑɑɑ
+sous-entends,fr,implying,暗示,/suzɑ̃tɑ̃/,uɑɑ
 sustentant,fr,suspending,一時停止,/systɑ̃tɑ̃/,ybɑɑ
-gondwana,/ˌɡɑndˈwɑˌnɑ/,gondwana,ゴンドワナ,ɑmbɑɑ,en
+gondwana,en,gondwana,ゴンドワナ,/ˌɡɑndˈwɑˌnɑ/,ɑmbɑɑ
 pigmentant,fr,pigmenting,色素沈着,/pigmɑ̃tɑ̃/,ybɑɑ
 rechantant,fr,recharging,充電,/ʁəʃɑ̃tɑ̃/,əɑɑ
 segmentant,fr,segmenting,セグメント化,/sɛgmɑ̃tɑ̃/,œbɑɑ

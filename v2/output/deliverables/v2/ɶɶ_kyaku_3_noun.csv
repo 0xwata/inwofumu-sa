@@ -1,8 +1,12 @@
 word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
 قطر,ar,Diameter,直径,/qatˤara/,ɶbɶɶ
+محير,ar,Confusing,紛らわしい,/muħajjar/,uɶɶ
+قتل,ar,killing,殺します,/qatala/,ɶɶɶ
+لوح,ar,Stomach,お腹,/lawwaħa/,ɶɶɶ
 espada,es,sword,剣,/espaða/,øbɶɶ
 suasana,id,atmosphere,雰囲気,/suasana/,uɶɶɶ
 真ん中,ja,middle,真ん中,/maɴnaka/,ɶmɶɶ
+raksasa,id,giant,巨人,/raʔsasa/,ɶbɶɶ
 pemasar,id,marketer,マーケティング担当者,/pəmasar/,əɶɶ
 دعم,ar,to support,サポートする,/daʕama/,ɶɶɶ
 tillaga,is,proposition,命題,/tʰɪlaɣa/,bʏɶɶ
@@ -14,6 +18,7 @@ penjaga,id,Security,安全,/pəndʒaga/,əmbɶɶ
 emballage,fr,packaging,パッケージング,/ɑ̃balaʒ/,ɑɶɶ
 حدث,ar,Event,イベント,/ħadaθa/,ɶɶɶ
 negara,id,country,国,/nəgara/,əɶɶ
+مستشار,ar,Adviser,顧問,/mustaʃaːr/,ubɶɶ
 رقم,ar,number,番号,/raqama/,ɶɶɶ
 dermaga,id,dock,ドック,/dərmaga/,əɶɶ
 كشف,ar,a statement,声明,/kaʃafa/,ɶɶɶ
@@ -22,6 +27,8 @@ dermaga,id,dock,ドック,/dərmaga/,əɶɶ
 رمش,ar,eyelash,まつげ,/ramaʃa/,ɶɶɶ
 صانع,ar,maker,メーカー,/sˤaːnaʕa/,bɶɶɶ
 أقحم,ar,inset,挿入図,/ʔaqħama/,ɶbɶɶ
+ضلع,ar,Rib,リブ,/dˤalaʕa/,bɶɶɶ
+بطن,ar,stomach,お腹,/batˤana/,ɶbɶɶ
 لاعب,ar,Player,プレーヤー,/laːʕaba/,ɶɶɶ
 عين,ar,eye,目,/ʕajjana/,ɶɶɶ
 ventana,es,window,窓,/bentana/,ømɶɶ
@@ -32,7 +39,6 @@ corbata,es,tie,ネクタイ,/koɾβata/,oɶɶ
 دراما,ar,drama,ドラマ,/diraːmaː/,yɶɶ
 長屋,ja,Row house,長屋,/nagaja/,ɶɶɶ
 كبت,ar,repression,抑制,/kabata/,ɶɶɶ
-لوح,ar,Stomach,お腹,/lawwaħa/,ɶɶɶ
 upaya,id,effort,努力,/upaja/,uɶɶ
 طلب,ar,Request,リクエスト,/tˤalaba/,bɶɶɶ
 aljabar,id,algebra,代数,/aldʒabar/,ɶbbɶɶ
@@ -41,7 +47,6 @@ pemarah,id,angry person,怒っている人,/pəmarah/,əɶɶ
 بالغ,ar,Adult,大人,/baːlaɣa/,ɶɶɶ
 سوق,ar,Market,市場,/sawwaqa/,ɶɶɶ
 أصل,ar,Origin,元,/ʔasˤˤala/,ɶbɶɶ
-محير,ar,Confusing,紛らわしい,/muħajjar/,uɶɶ
 pemanah,id,archer,射手,/pəmanah/,əɶɶ
 لحم,ar,Meat,肉,/laħama/,ɶɶɶ
 ميل,ar,Mile,マイル,/majjala/,ɶɶɶ
@@ -52,12 +57,15 @@ pestaña,es,tab,タブ,/pestaɲa/,øbɶɶ
 دود,ar,Worms,ワーム,/dawwada/,ɶɶɶ
 celana,id,trousers,ズボン,/tʃəlana/,bəɶɶ
 viðtaka,is,reception,受信,/vɪðtaka/,ʏbɶɶ
-قتل,ar,killing,殺します,/qatala/,ɶɶɶ
 rannsaka,is,research,リサーチ,/ransaka/,ɶmɶɶ
 debara,ro,storage closet,ストレージクローゼット,/debara/,øɶɶ
+regata,es,race,人種,/reɣata/,øɶɶ
+ハラアカ,ja,Haruka,ハラアカ,/haɾaaka/,ɶɶɶɶ
+訓仮名,ja,Kidnamed name,訓仮名,/kɯɴgana/,umɶɶ
 bintara,id,Bintara,ビンタラ,/bintara/,ymɶɶ
 flugmanna,is,pilot,パイロット,/flʏɣmana/,bʏɶɶ
 mascara,fr,mascara,マスカラ,/maskaʁa/,ɶbɶɶ
+泥娃娃,zh-cn,Mud doll,泥の人形,/ni˧˥ wa˧˥ wa˧/,yɶɶ
 バーサーカ,ja,Berserker,バーサーカー,/baːsaːka/,ɶɶɶ
 nước đời nhà ai,vi,Water of whose family,その家族の水,/nɯək˦˥ dɤj˦˨ ɲa˦˨ aj˧˥/,uəboɶɶ
 위안하다,ko,Comfort,快適,/ɥia̠nɦa̠da̠/,yɶmɶɶ
@@ -69,6 +77,7 @@ verkanna,is,the deeds,行為,/vɛr̥kana/,œɶɶ
 산잠아,/sʰa̠nd͡ʑa̠ma̠/,Mountain sleep,山の睡眠,bɶmbɶɶ,ko
 korala,/korala/,coral,コーラル,oɶɶ,eo
 etaja,ro,Elea,エレア,/etaʒa/,øɶɶ
+归纳法,zh-cn,Induction,誘導,/kweɪ˥˥ na˥˩ fa˨˩˦/,bøʏɶɶ
 túi cơm giá áo,/tuj˩˧ kɤm˧˥ ja˩˧ aw˩˧/,Rice bag price,ライスバッグの価格,uomɶɶ,vi
 أضرم,/ʔadˤrama/,kindle,Kindle,ɶbɶɶ,ar
 etskala,/etskala/,Etskala,Etskala,øbbɶɶ,eo
@@ -76,7 +85,8 @@ primara,/primara/,primary,主要な,byɶɶ,eo
 쾅하다,ko,Bang,強打,/kʰwa̠ŋɦa̠da̠/,bɶmɶɶ
 干巴巴,zh-cn,Dry,ドライ,/kan˥˥ pa˥˥ pa˥˥/,ɶmɶɶ
 御腹,ja,Stomach,御腹,/onaka/,oɶɶ
-归纳法,/kweɪ˥˥ na˥˩ fa˨˩˦/,Induction,誘導,bøʏɶɶ,zh-cn
+アヴァター,ja,Avatar,アヴァター,/avataː/,ɶɶɶ
+teigmarka,is,market,市場,/tʰɛːjɣmar̥ka/,bœɶɶ
 大鎌,ja,Large scythe,大鎌,/oogama/,ooɶɶ
 Pyjama,de,Pajamas,パジャマ,/pyˈd͡ʒaːma/,ybɶɶ
 déployas,fr,deploya,Deploya,/deplwaja/,øbbɶɶ

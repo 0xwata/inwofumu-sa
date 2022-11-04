@@ -1,4 +1,7 @@
 word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
+frostujo,eo,freezer,冷凍庫,/frostuio/,bobuyo
+burrito,es,Burrito,ブリトー,/burito/,uyo
+ブリトー,ja,Brito,ブリトー,/bɯɾitoː/,uyo
 kaavio,fi,chart,チャート,/ˈkɑɑvio/,ɑɑyo
 konspiro,eo,conspiracy,陰謀,/konspiro/,ombyo
 tornillo,es,screw,スクリュー,/toɾniʎo/,oyo
@@ -10,6 +13,7 @@ suspiro,eo,sigh,はぁ,/suspiro/,ubyo
 ジェイド,ja,Jade,ジェイド,/dʑieido/,byøyo
 crédito,es,credit,クレジット,/ˈkɾeðito/,bøyo
 同義語,ja,synonym,同義語,/doɯgigo/,ouyo
+suosio,fi,popularity,人気,/ˈsuosio/,uoyo
 kallio,fi,rock,石,/ˈkɑllio/,ɑbyo
 músico,es,musician,音楽家,/ˈmusiko/,uyo
 クリート,ja,Cleat,クリート,/kɯɾiːto/,uyo
@@ -23,24 +27,27 @@ etilo,es,ethyl,エチル,/etilo/,øyo
 debitor,ro,debtor,債務者,/debitor/,øyo
 kasino,id,casino,カジノ,/kasino/,ɶyo
 カジノ,ja,casino,カジノ,/kadʑino/,ɶbyo
-suosio,fi,popularity,人気,/ˈsuosio/,uoyo
 sentido,es,sense,検出,/sentiðo/,ømyo
 membrillo,es,quince,マンコ,/membɾiʎo/,ømbyo
 balailo,eo,sweep,掃く,/balailo/,ɶɶyo
 kuvio,fi,pattern,パターン,/ˈkuvio/,uyo
 sobrino,es,nephew,甥,/soβɾino/,obyo
 フライト,ja,Flight,フライト,/ɸɯɾaito/,uɶyo
+divizor,ro,divisor,除数,/divizor/,yyo
+mânzișor,ro,handle,扱う,/mɨnziʃor/,ʉmyo
+Maginot,fr,Maginot,マギノット,/maʒino/,ɶyo
+saunio,fi,mayweed,メイウィード,/ˈsɑunio/,ɑuyo
 염기도,ko,basicity,基本性,/jʌ̹mɡido̞/,ɔmyo
 sclipitor,ro,brilliant,素晴らしい,/sklipitor/,bbyyo
 sanktio,fi,sanction,制裁,/ˈsɑnktio/,ɑmbyo
 Konditor,de,Confectioner,菓子,/ˈkɔnditoɾ/,ɔmyo
-Maginot,fr,Maginot,マギノット,/maʒino/,ɶyo
 massicot,/masiko/,massicot,マッシコット,ɶyo,fr
 先驱者,/ɕjɛn˥˥ tɕʰy˥˥ ʈʂɤ˨˩˦/,Pioneer,先駆者,bœmbbyo,zh-cn
 为之语塞,zh-cn,Stuffy,息苦しい,/weɪ˧˥ ʈʂɚ˥˥ y˨˩˦ sɤ˥˩/,øʏəyo
 ergino,eo,Ergino,エルギノ,/ergino/,øyo
 骑机车,/tɕʰi˧˥ tɕi˥˥ ʈʂʰɤ˥˥/,Car,車,bbybyo,zh-cn
 lățișor,/lətsiʃor/,width,幅,əbyo,ro
+육이오,ko,Yuki oh,ユキああ,/juɡio̞/,uyo
 葭戸,ja,Reed door,葭戸,/joɕido/,oyo
 垃圾车,zh-cn,rubbish truck,ゴミトラック,/la˥˥ tɕi˥˥ ʈʂʰɤ˥˥/,ɶbyo
 aïkidos,fr,aikidos,アイキドス,/ajkido/,ɶyo
@@ -63,3 +70,4 @@ loạn trí nhớ,/lwaŋ˨ˀ˩ʔ ʈi˩˧ ɲɤ˩˧/,dementia,認知症,bɶmbyo,vi
 pardillo,/paɾðiʎo/,linnet,リンネット,ɶyo,es
 일기도,ko,weather map,天気マップ,/iɭɡido̞/,yyo
 알비노,ko,Albino,アルビノ,/a̠ɭbino̞/,ɶyo
+Gault et Millaut,fr,Gault and Millau,ゴートとミラウ,/goemijo/,oøyo

@@ -1,12 +1,14 @@
 word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
 quyền sở hữu,vi,ownership,所有,/wiɛŋ˦˨ ʂɤ˧˩˨ hɯw˧˩˨/,yœmou
 急ぐ,ja,Hurry,急ぐ,/isogɯ/,you
+芳香,ja,Aroma,芳香,/hoɯkoɯ/,ouou
 コショウ,ja,pepper,コショウ,/koɕoɯ/,oou
 武装,ja,Armed,武装,/bɯsoɯ/,uou
 種族,ja,Race,種族,/ɕɯzokɯ/,uou
 費用,ja,cost,費用,/çijoɯ/,you
 疲労,ja,fatigue,疲労,/çiɾoɯ/,you
 王国,ja,Kingdom,王国,/oɯkokɯ/,ouou
+ストーブ,ja,Stove,ストーブ,/sɯtoːbɯ/,uou
 結晶,ja,crystal,結晶,/keɕːoɯ/,øbou
 偽造,ja,Counterfeiting,偽造,/gizoɯ/,you
 陰謀,ja,conspiracy,陰謀,/iɴboɯ/,ymou
@@ -20,6 +22,8 @@ quyền sở hữu,vi,ownership,所有,/wiɛŋ˦˨ ʂɤ˧˩˨ hɯw˧˩˨/,yœmou
 仕様,ja,specification,仕様,/ɕijoɯ/,you
 終了,ja,end,終了,/ɕɯɯɾjoɯ/,uuou
 家族,ja,family,家族,/kazokɯ/,ɶou
+現象,ja,phenomenon,現象,/geɴɕoɯ/,ømou
+予想,ja,Predict,予想,/josoɯ/,oou
 黄色,ja,yellow,黄色,/oɯɕokɯ/,ouou
 影響,ja,Impact,影響,/eikjoɯ/,øybou
 素朴,ja,Simplicity,素朴,/sobokɯ/,oou
@@ -47,13 +51,16 @@ júdó,is,Judo,柔道,/juːtouː/,uou
 フィドル,ja,Fiddle,フィドル,/ɸidoɾɯ/,you
 鼓動,ja,Beating,鼓動,/kodoɯ/,oou
 스모그,ko,smog,スモッグ,/sʰɯmo̞ɡɯ/,buou
+原告,ja,plaintiff,原告,/geɴkokɯ/,ømou
 puusolu,fi,wooden cell,木製のセル,/ˈpuusolu/,uuou
 堰塞湖,zh-cn,Damper lake,ダンパー湖,/jɛn˥˩ sɤ˥˩ xu˧˥/,œmou
+俱乐部,zh-cn,club,クラブ,/tɕy˥˩ lɤ˥˩ pu˥˩/,byou
 búa bổ củi,vi,firewood hammer,fire hammer,/buə˩˧ bo˧˩˨ kuj˧˩˨/,uəou
 oiseau-mouche,fr,Hummingbird,ハチドリ,/wazomuʃ/,ɶou
 피조물,ko,Creation,創造,/pʰid͡ʑo̞muɭ/,bybou
 bolotu,id,Bolotu,ボロツ,/bolotu/,oou
 고모부,ko,Uncle,おじさん,/ko̞mo̞bu/,oou
+mít tố nữ,vi,Cempedak,cempedak,/mit˦˥ to˩˧ nɯ˧˩˨/,ybou
 알고무,ko,Altitude,高度,/a̠ɭɡo̞mu/,ɶou
 memoriu,ro,memorial,記念,/memorju/,øou
 geysistór,is,geyser,ガイザー,/ceiːsɪstouːr/,øyʏbou
@@ -64,13 +71,13 @@ Bóbó,is,Bobo,ボボ,/pouːpou/,ouou
 kammerkór,/kʰamɛrkouːr/,chamber choir,室内合唱団,bɶœou,is
 混合物,zh-cn,mixture,混合,/xuən˥˩ xɤ˧˥ u˥˩/,uəmou
 번호부,ko,Number,番号,/pʌ̹nβo̞bu/,ɔmou
+참모부,ko,Staff,スタッフ,/t͡ɕʰa̠mmo̞bu/,bbɶmou
 下颌骨,zh-cn,lower jaw,下顎,/ɕja˥˩ xɤ˧˥ ku˨˩˦/,bɶou
 đồng sở hữu,/doŋ͡m˦˨ ʂɤ˧˩˨ hɯw˧˩˨/,co-owner,共同所有者,ommou,vi
 투표율,ko,Turnout,消す,/tʰupʰjojuɭ/,bubou
 어제오늘,ko,Yesterday Today,今日は昨日,/ʌ̹d͡ʑe̞o̞nɯɭ/,ɔbøou
 bărbosu,ro,Barbosu,バルボス,/bərbosu/,əou
 nató,is,NATO,NATO,/naːtou/,ɶou
-俱乐部,/tɕy˥˩ lɤ˥˩ pu˥˩/,club,クラブ,byou,zh-cn
 sígó,/siːkou/,cigo,シガー,you,is
 tầng đối lưu,/tɤ̆ŋ˦˨ doj˩˧ lɯw˧˥/,convection,対流,omou,vi
 Volvo,/vɔlvou/,Volvo,ボルボ,ɔbou,is
@@ -85,3 +92,4 @@ turbobur,ro,turbobur,ターボバー,/turbobur/,uou
 氨合物,zh-cn,Ammonia,アンモニア,/an˥˥ xɤ˧˥ u˥˩/,ɶmou
 grigoriu,ro,Gregoriou,Gregoriou,/ɡriɡorju/,byou
 bâzocu,ro,Bâziu,bâziu,/bɨzoku/,ʉou
+대표부,ko,Representative,代表,/tɛ̝pʰjobu/,œbou

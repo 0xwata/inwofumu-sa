@@ -1,9 +1,13 @@
 word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
 keamanan,id,security,安全,/kəamanan/,əɶɶɶm
+Hurrikan,de,hurricane,ハリケーン,/ˌhʊʁiˈkaːn/,ʊyɶm
 الظلام,ar,the darkness,闇,/aːlðˤalaːm/,ɶbbɶɶm
 bendungan,id,dam,ダム,/bənduŋan/,əmuɶm
+seseorang,id,somebody,誰か,/səsəoraŋ/,əəoɶm
 menyerang,id,attack,攻撃,/məɲəraŋ/,əəɶm
 التزام,ar,commitment,献身,/iltizaːm/,ybyɶm
+tahanan,id,prisoner,囚人,/tahanan/,ɶɶɶm
+gerakan,id,movement,動き,/gərakan/,əɶɶm
 jaminan,id,guarantee,保証,/dʒaminan/,bɶyɶm
 cadangan,id,reserve,予約,/tʃadaŋan/,bɶɶɶm
 penyelam,id,diver,ダイバー,/pəɲəlam/,əəɶm
@@ -29,7 +33,6 @@ hubungan,id,connection,繋がり,/hubuŋan/,uuɶm
 kebencian,id,hatred,憎しみ,/kəbəntʃian/,əəmbyɶm
 akuntan,id,accountant,会計士,/akuntan/,ɶumɶm
 切断,ja,Cutting,切断,/setsɯdaɴ/,øbuɶm
-Hurrikan,de,hurricane,ハリケーン,/ˌhʊʁiˈkaːn/,ʊyɶm
 serangan,id,attack,攻撃,/səraŋan/,əɶɶm
 kematian,id,Dead,死,/kəmatian/,əɶyɶm
 serpihan,id,flakes,フレーク,/sərpihan/,əyɶm
@@ -64,10 +67,14 @@ memesan,id,order,注文,/məməsan/,əəɶm
 kesunyian,id,silence,沈黙,/kəsuɲian/,əuyɶm
 segenggam,id,handful,一握り,/səgəŋgam/,əəmɶm
 hațiegan,ro,Hatiegan,ハチーガン,/hatsjeɡan/,ɶbbøɶm
+사회장,ko,Society,社会,/sʰa̠ɦø̞d͡ʑa̠ŋ/,bɶøbɶm
 Bật đèn xanh,vi,Green light on,緑色の光,/bɤ̆k˨ˀ˩ʔ dɛŋ˦˨ san˧˥/,obbœmɶm
 알사탕,ko,Albanist,アルバニスト,/a̠ɭsʰa̠tʰa̠ŋ/,ɶbɶbɶm
+香草兰,zh-cn,Vanilla,バニラ,/ɕjɑŋ˥˥ tsʰɑʊ˨˩˦ lan˧˥/,bɑmbbɑʊɶm
 zambullan,es,dive,飛び込む,/θambuʎan/,ɶmuɶm
 인조인간,ko,Artificial man,人工男,/ind͡ʑo̞inɡa̠n/,ymboymɶm
+كخلجان,ar,As a bitch,雌犬として,/kaxuldʒaːn/,ɶubbɶm
+Erdumfang,de,Flame,火炎,/ʔɛːɐˈdʊmfaŋ/,œɐʊmɶm
 deslenguan,es,Sleeping,睡眠,/dezleŋgwan/,øbømbɶm
 优越感,zh-cn,Superiority,優位性,/joʊ˥˥ ɥœ˥˩ kan˨˩˦/,oʊœɶm
 浚泥船,zh-cn,Mud boat,マッドボート,/tɕyn˥˩ ni˧˥ ʈʂʰwan˧˥/,bymyɶm

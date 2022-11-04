@@ -1,17 +1,22 @@
 word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
+カーペット,ja,carpet,カーペット,/kaːpetːo/,ɶøbo
 プロット,ja,plot,プロット,/pɯɾotːo/,uobo
+komerco,eo,business,仕事,/komert͡so/,oøbo
+anexo,es,exhibit,示す,/anekso/,ɶøbo
 respaldo,es,back,戻る,/respaldo/,øbɶbo
 トレッド,ja,tread,トレッド,/toɾedːo/,oøbo
 unueco,eo,unity,団結,/unuet͡so/,uuøbo
 refugio,es,shelter,シェルター,/refuxjo/,øubo
 rannikko,fi,coastal,沿岸,/ˈrɑnnikko/,ɑmybo
+contexto,es,context,環境,/konteksto/,omøbbo
+kunteksto,eo,context,環境,/kunteksto/,umøbbo
+negocio,es,business,仕事,/neɣoθjo/,øobo
 feliĉo,eo,happiness,幸福,/felit͡ʃo/,øybo
 contacto,es,Contact,コンタクト,/kontakto/,omɶbo
 damaĝo,eo,damage,ダメージ,/damad͡ʒo/,ɶɶbo
 kuniklo,eo,rabbit,ウサギ,/kuniklo/,uybo
 reembolso,es,refund,返金,/reembolso/,øømobo
 チケット,ja,ticket,チケット,/tɕiketːo/,byøbo
-negocio,es,business,仕事,/neɣoθjo/,øobo
 receptor,es,receiver,受信機,/reθeptoɾ/,øøbo
 トロット,ja,trot,トロット,/toɾotːo/,oobo
 rapakko,fi,puddle,水たまり,/ˈrɑpɑkko/,ɑɑbo
@@ -25,10 +30,8 @@ impostor,ro,impostor,詐欺師,/impostor/,ymobo
 beleco,eo,beauty,美しさ,/belet͡so/,øøbo
 スタッド,ja,stud,スタッド,/sɯtadːo/,uɶbo
 lepakko,fi,bat,バット,/ˈlepɑkko/,øɑbo
-カーペット,ja,carpet,カーペット,/kaːpetːo/,ɶøbo
 サミット,ja,Summit,サミット,/samitːo/,ɶybo
 lompakko,fi,wallet,財布,/ˈlompɑkko/,omɑbo
-komerco,eo,business,仕事,/komert͡so/,oøbo
 comercio,es,trade,トレード,/komeɾθjo/,oøbo
 nurmikko,fi,lawn,芝生,/ˈnurmikko/,uybo
 ピケット,ja,picket,ピケット,/piketːo/,yøbo
@@ -36,12 +39,18 @@ proyecto,es,Project,計画,/pɾoʝekto/,boøbo
 osasto,fi,department,デパートメント,/ˈosɑsto/,oɑbo
 fenestro,eo,window,窓,/fenestro/,øøbbo
 toimisto,fi,office,オフィス,/ˈtoimisto/,oyybo
+천리교,ko,Cheonri Bridge,チョンリブリッジ,/t͡ɕʰʌ̹ɭʎiɡjo/,bbɔybo
 迪斯科,zh-cn,disco,ディスコ,/ti˧˥ sɯ˥˥ kʰɤ˥˥/,yubo
+mũ bịt đầu,vi,hat,帽子,/mu˧˩˨ bit˨ˀ˩ʔ dɤ̆w˦˨/,uybbo
+falakvo,eo,Falling water,流れ落ちる水,/falakvo/,ɶɶbo
 neuvosto,fi,council,評議会,/ˈneuvosto/,øuobo
 conjunctor,ro,conjunction,接続詞,/konʒunktor/,omumbo
 Cam Thịnh Tây,vi,Cam Thinh Tay,Cam Thinh Tay,/kam˧˥ tʰin˨ˀ˩ʔ tɤ̆j˧˥/,ɶmbymbo
 アヒージョ,ja,Ahijo,アヒージョ,/açiːdʑo/,ɶybo
 着御,ja,Attachment,着御,/tɕakɯgjo/,bɶubo
+Vĩnh Thuận Tây,vi,Vinh Thuan Tay,ヴィン・トゥアン・テイ,/jin˧˩˨ tʰwɤ̆ŋ˨ˀ˩ʔ tɤ̆j˧˥/,ymbombo
+katveikko,fi,shade,シェード,/ˈkɑtveikko/,ɑbøybo
+mã tuyệt đối,vi,Absolute code,絶対コード,/ma˧˩˨ twiək˨ˀ˩ʔ doj˩˧/,ɶbyəbbo
 xuất nhập khẩu,vi,import and export,インポートとエクスポート,/swɤ̆k˦˥ ɲɤ̆p˨ˀ˩ʔ xɤ̆w˧˩˨/,bobobbo
 conscriptor,ro,Conscript,徴兵,/konskriptor/,ombbybo
 koléktor,id,Koléktor,コレクター,/koleʔtor/,oøbo

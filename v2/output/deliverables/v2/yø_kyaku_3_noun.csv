@@ -1,6 +1,9 @@
 word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
+qualité,fr,quality,品質,/kalite/,ɶyø
 venire,ro,coming,到来,/venire/,øyø
+ilmiö,fi,phenomenon,現象,/ˈilmiø/,ybyø
 吐き気,ja,nausea,吐き気,/hakike/,ɶyø
+găsire,ro,finding,発見,/ɡəsire/,əyø
 käsite,fi,concept,概念,/ˈkæsite/,æyø
 säiliö,fi,tank,タンク,/ˈsæiliø/,æyyø
 painike,fi,handle,扱う,/ˈpɑinike/,ɑyyø
@@ -18,8 +21,12 @@ prerie,ro,prairie,草原,/prerije/,bøyø
 admirer,fr,admire,憧れ,/admiʁe/,ɶbyø
 henkilö,fi,person,人,/ˈhenkilø/,ømyø
 mândrie,ro,pride,誇り,/mɨndrije/,ʉmbyø
+hârtie,ro,paper,紙,/hɨrtije/,ʉyø
+etnie,ro,ethnicity,民族,/etnije/,øbyø
 memdire,eo,self -insecure,セルフインセキュア,/memdire/,ømyø
+scările,ro,stairs,階段,/skərile/,bəyø
 gan chí mề,vi,liver,肝臓,/ɣaŋ˧˥ ci˩˧ me˦˨/,ɶmyø
+Furniere,de,Veneer,ベニア,/fʊɾˈniːɾe/,ʊyø
 affliger,/afliʒe/,afflict,苦しめる,ɶbyø,fr
 Untiere,/ˈʔʊnˈtiːɾe/,Undeterma,undeterma,ʊmyø,de
 multfoje,/multfoie/,many times,何度も,ubboyø,eo
@@ -28,7 +35,6 @@ päätie,/ˈpæætie/,main road,主要道路,ææyø,fi
 prenoire,ro,prenoire,Prenoire,/prenoire/,bøoyø
 aliñé,es,I season,私は味付けします,/aliˈɲe/,ɶyø
 migăire,/miɡəire/,migration,移行,yəyø,ro
-Furniere,de,Veneer,ベニア,/fʊɾˈniːɾe/,ʊyø
 ひいき目,/çiikime/,Patronage,ひいき目,yyyø,ja
 번지레,/pʌ̹nd͡ʑiɾe̞/,Bungee,バンジー,ɔmbyø,ko
 jouluyö,fi,Christmas night,クリスマスの夜,/ˈjouluyø/,ouuyø
@@ -37,3 +43,4 @@ rugire,ro,prayer,祈り,/rudʒire/,ubyø
 雪解,ja,Snow solution,雪解,/jɯkige/,uyø
 stihuire,ro,Stihire,stihire,/stihuire/,byuyø
 militér,id,military,軍隊,/militer/,yyø
+défilé,id,procession,行列,/defile/,øyø

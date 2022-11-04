@@ -1,10 +1,12 @@
 word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
+pencari,id,seeker,シーカー,/pəntʃari/,əmbɶy
 منحني,ar,curve,曲線,/munħaniː/,umɶy
 Königreich,de,kingdom,王国,/ˈkøːnɪkˌʁai̯ç/,øʏbɶy
 pelatih,id,trainer,トレーナー,/pəlatih/,əɶy
 酸っぱい,ja,sour,酸っぱい,/sɯpːai/,ubɶy
 障害,ja,hindrance,障害,/ɕoɯgai/,ouɶy
 危害,ja,harm,危害,/kigai/,yɶy
+menari,id,dance,ダンス,/mənari/,əɶy
 機械,ja,machine,機械,/kikai/,yɶy
 بيضاوي,ar,Oval,楕円形,/beɪdˤaːwijj/,øʏbɶy
 النمر,ar,Tiger,虎,/aːlnamir/,ɶbɶy
@@ -13,6 +15,7 @@ badai,id,storm,嵐,/badai/,ɶɶy
 paradis,fr,heaven,天国,/paʁadi/,ɶɶy
 敵,ja,enemy,敵,/kataki/,ɶɶy
 痛み,ja,pain,痛み,/itami/,yɶy
+古代,ja,Ancient times,古代,/kodai/,oɶy
 ochelari,ro,glasses,眼鏡,/okʲ̩elarʲ/,oyøɶy
 jelai,id,barley,オオムギ,/dʒəlai/,bəɶy
 部隊,ja,Unit,部隊,/bɯtai/,uɶy
@@ -37,18 +40,22 @@ penari,id,dancer,踊り子,/pənari/,əɶy
 兄弟,ja,Brother,兄弟,/kjoɯdai/,bouɶy
 補体,ja,complement,補体,/hotai/,oɶy
 存在,ja,Existence,存在,/soɴzai/,omɶy
+pantai,id,beach,ビーチ,/pantai/,ɶmɶy
+كشفير,ar,Scandal,スキャンダル,/kaʃafiːr/,ɶɶy
 後退,ja,Recession,後退,/koɯtai/,ouɶy
 Tout-Paris,fr,All-Paris,オールパリ,/tupaʁi/,uɶy
 불막이,ko,Disagreement,不一致,/puɭma̠ɡi/,uɶy
 không tài gì,/xoŋ͡m˧˥ taj˦˨ ɣi˦˨/,no talent,才能はありません,ommɶy,vi
 alcalis,/alkali/,alkalis,アルカリ,ɶbɶy,fr
 لوفير,ar,Lovir,lovir,/liwafiːr/,yɶy
+口外,ja,Outside the mouth,口外,/koɯgai/,ouɶy
 二甲醚,zh-cn,Methalin,メタリン,/aɻ˥˩ tɕja˨˩˦ mi˧˥/,ɶbbɶy
 enpaki,eo,Package,パッケージ,/enpaki/,ømɶy
 Hraunbæ,/r̥œinpai/,Lava,溶岩,œymɶy,is
 signali,/signali/,signal,信号,ybɶy,eo
 Bigamie,/ˌbiɡaˈmiː/,bigamy,重婚,yɶy,de
 maladie,fr,sickness,病気,/maladi/,ɶɶy
+conabiu,ro,conabium,コナビウム,/konabiw/,oɶy
 glanspappír,is,glossy paper,光沢のある紙,/klanspahpir/,bɶmbɶy
 넥타이,ko,necktie,ネクタイ,/ne̞k̚tʰa̠i/,øbbɶy
 구사리,/kusʰa̠ɾi/,Gusari,グサリ,ubɶy,ko
@@ -74,3 +81,4 @@ fromageries,fr,cheese dairy,チーズ乳製品,/fʁɔmaʒʁi/,bɔɶy
 性价比,zh-cn,Cost -effective,費用効果,/ɕɪŋ˥˩ tɕja˥˩ pi˨˩˦/,ʏmbbɶy
 والكاوي,ar,And the kaawi,そしてカウィ,/waaːlkaːwiː/,ɶɶbɶy
 glitfali,eo,slide,滑り台,/glitfali/,bybɶy
+فالشاعر,ar,The poet,詩人,/faaːlʃaːʕir/,ɶɶbɶy

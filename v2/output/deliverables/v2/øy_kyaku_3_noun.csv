@@ -1,6 +1,8 @@
 word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
 teatteri,fi,theater,シアター,/ˈteɑtˌteri/,øɑbøy
 cafeniu,ro,brown,茶色,/kafeniw/,ɶøy
+設定,ja,setting,設定,/setːei/,øbøy
+suvenir,ro,souvenir,お土産,/suvenir/,uøy
 tohveli,fi,slipper,スリッパ,/ˈtohveli/,oøy
 înveliș,ro,COVER,カバー,/ɨnveliʃ/,ʉmøy
 disĵeti,eo,to scatter,散布へ,/disʒeti/,ybøy
@@ -21,7 +23,6 @@ klusteri,fi,cluster,集まる,/ˈklusteri/,bubøy
 台形,ja,Trapezoidal,台形,/daikei/,ɶyøy
 posedi,eo,to own,所有する,/posedi/,oøy
 kvitteni,fi,quince,マンコ,/ˈkvitteni/,bybøy
-suvenir,ro,souvenir,お土産,/suvenir/,uøy
 tiikeri,fi,tiger,虎,/ˈtiikeri/,yyøy
 病的,ja,Pathological,病的,/bjoɯteki/,bouøy
 運命,ja,Fate,運命,/ɯɴmei/,umøy
@@ -33,7 +34,10 @@ selleri,fi,celery,セロリ,/ˈselleri/,øbøy
 bactérie,fr,bacterium,細菌,/bakteʁi/,ɶbøy
 bakteeri,fi,bacterial,細菌,/ˈbɑkteeri/,ɑbøøy
 標的,ja,target,標的,/çjoɯteki/,ouøy
+paperi,fi,paper,紙,/ˈpɑperi/,ɑøy
 aveulie,fr,convenience,快適,/avøli/,ɶøy
+mankeli,fi,mangle,マングル,/ˈmɑnkeli/,ɑmøy
+olei,eo,olei,オレイ,/olei/,oøy
 丹誠,/taɴsei/,Sincerity,丹誠,ɶmøy,ja
 jääkeli,fi,iceberg,氷山,/ˈjæækeli/,ææøy
 浸礼,ja,Immersion,浸礼,/ɕiɴɾei/,ymøy
@@ -68,3 +72,4 @@ tapeti,eo,tapesti,タペスト,/tapeti/,ɶøy
 pardoseli,ro,floors,床,/pardoselʲ/,ɶoøy
 Strategie,de,strategy,ストラテジー,/ʃtʀateˈɡiː/,bɶøy
 나이팅게일,ko,nightingale,ナイチンゲール,/na̠itʰiŋɡe̞iɭ/,ɶybymøy
+kongresi,eo,to congress,議会に,/kongresi/,ombøy

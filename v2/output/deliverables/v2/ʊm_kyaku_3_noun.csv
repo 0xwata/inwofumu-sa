@@ -1,4 +1,8 @@
 word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
+Zustimmung,de,approval,承認,/ˈt͡suːʃtɪmʊŋ/,buʏʊm
+Regenwurm,de,earthworm,ミミズ,/ˈɾeːgɛnvʊɾm/,øœmʊm
+Behauptung,de,claim,請求,/bəˈhaoptʊŋ/,əɶobʊm
+Vertreibung,de,expulsion,追放,/fɛːɐ̯ˈtɾaebʊŋ/,œɐbɶøʊm
 Aufhebung,de,Cancellation,キャンセル,/ˈʔaofˌheːbʊŋ/,ɶobøʊm
 Beachtung,de,Observance,遵守,/bəˈʔaxtʊŋ/,əɶbʊm
 Verbrennung,de,combustion,燃焼,/fɛːɐ̯ˈbrɛnnʊŋ/,œɐbœmʊm
@@ -10,20 +14,25 @@ Vorstellung,de,performance,パフォーマンス,/ˈfoːɐ̯ˌʃtɛllʊŋ/,oɐœ
 Gangschaltung,de,Gear shift,ギアシフト,/ˈgaŋʃaltʊŋ/,ɶmɶbʊm
 毛茸茸,zh-cn,hairy,毛深い,/mɑʊ˧˥ ʐʊŋ˧˥ ʐʊŋ˧˥/,ɑʊʊmʊm
 Behandlung,de,treatment,処理,/bəˈhandlʊŋ/,əɶmbʊm
+Beratung,de,advisory,アドバイザリー,/bəˈɾɑːtʊŋ/,əɑʊm
+Dämmerung,de,dusk,夕暮れ,/ˈdɛməʀʊŋ/,œəʊm
 Abfüllung,de,Filling,充填,/ˈʔapˌfʏllʊŋ/,ɶbʏbʊm
 Erholung,de,recreation,レクリエーション,/ʔɛːɐˈhoːlʊŋ/,œɐoʊm
 Ermüdung,de,fatigue,倦怠感,/ʔɛːɐˈmyːdʊŋ/,œɐyʊm
 Verpackung,de,Packaging,パッケージング,/fɛːɐ̯ˈpakʊŋ/,œɐɶʊm
 catacomb,en,catacomb,カタコンブ,/ˈkætəˌkoʊm/,æəoʊm
-Dämmerung,de,dusk,夕暮れ,/ˈdɛməʀʊŋ/,œəʊm
 Lackierung,de,Paint,ペイント,/lakiːɐ̯ʊŋ/,ɶyɐʊm
 Regierung,de,government,政府,/ɾeˈgiːɐ̯ʊŋ/,øyɐʊm
 hippodrome,en,hippodrome,ヒッポドローム,/ˈhɪpəˌdɹoʊm/,ʏəboʊm
 Verfügung,de,disposal,廃棄,/fɛɐ̯ˈfyːɡʊŋ/,œɐyʊm
-Beratung,de,advisory,アドバイザリー,/bəˈɾɑːtʊŋ/,əɑʊm
 Erkrankung,de,illness,病気,/ʔɛɐ̯ˈkʀaŋkʊŋ/,œɐbɶmʊm
 Bewässerung,de,irrigation,灌漑,/bəˈvɛszɐ̯ʊŋ/,əœbɐʊm
 Abteilung,de,department,デパートメント,/ˈʔapˈtəiːlʊŋ/,ɶbəyʊm
+Ernährung,de,nutrition,栄養,/ʔɛːɐˈnɛɾʊŋ/,œɐœʊm
+فكاليوم,ar,Today,今日,/fakaaːljaʊm/,ɶɶɶbɶʊm
+cobblestone,en,cobblestone,石畳,/ˈkɑbəɫˌstoʊn/,ɑəboʊm
+老公公,zh-cn,Husband,夫,/lɑʊ˨˩˦ kʊŋ˥˥ kʊŋ˧/,ɑʊʊmʊm
+两点钟,zh-cn,Two o'clock,二時,/ljɑŋ˨˩˦ tjɛn˨˩˦ ʈʂʊŋ˥˥/,bɑmbœmʊm
 فباليوم,ar,On the day,当日に,/fabiaːljaʊm/,ɶyɶbɶʊm
 氨冷冻,zh-cn,Ammonia frozen,アンモニアフローズン,/an˥˥ lɤŋ˨˩˦ tʊŋ˥˩/,ɶmomʊm
 metrodome,en,metrodome,メトロドーム,/ˈmɛtɹəˌdoʊm/,œbəoʊm
@@ -35,6 +44,8 @@ ambisone,/ˈæmbəˌsoʊn/,ambisome,アンビサーム,æməoʊm,en
 tenenbaum,/ˈtɛnənˌbaʊm/,tenenbaum,テネンバウム,œəmɶʊm,en
 وبصون,/wabisˤaʊn/,Consonant,子音,ɶybɶʊm,ar
 weidenbaum,en,weidenbaum,ワイデンバウム,/ˈwaɪdənˌbaʊm/,ɶʏəmɶʊm
+styrofoam,en,styrofoam,発泡スチレン,/ˈstaɪɹəˌfoʊm/,bɶʏəoʊm
+家务劳动,zh-cn,Housework,家事,/tɕja˥˥ u˥˩ lɑʊ˧˥ tʊŋ˥˩/,bbɶuɑʊʊm
 eichenbaum,en,eichenbaum,アイチェンバウム,/ˈaɪkənˌbaʊm/,ɶʏəmɶʊm
 十点钟,/ʂɚ˧˥ tjɛn˨˩˦ ʈʂʊŋ˥˥/,ten o'clock,10時,əbœmʊm,zh-cn
 وبالروم,ar,And by theum,そしてtheumによって,/wabiaːlraʊm/,ɶyɶbɶʊm
@@ -52,3 +63,4 @@ quattlebaum,/ˈkwɔtəɫbaʊm/,quattlebaum,Quattlebaum,bɔəɶʊm,en
 والفرجون,ar,And Al -Farajun,そしてアル・ファラジュン,/waaːlfirdʒaʊn/,ɶɶbybɶʊm
 Schutzforderung,de,Protective claim,保護請求,/ˈʃʊtsfɔɾdɐ̯ʊŋ/,ʊbbɔɐʊm
 开门红,zh-cn,Start a goodbye,さようならを始めてください,/kʰaɪ˥˥ mən˧˥ xʊŋ˧˥/,bɶʏəmʊm
+لفرعون,ar,Pharaoh,ファラオ,/lifirʕaʊn/,yyɶʊm

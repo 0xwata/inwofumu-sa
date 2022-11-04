@@ -1,12 +1,18 @@
 word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
+목욕통,ko,bathtub,バスタブ,/mo̞ɡjok̚tʰo̞ŋ/,obobbom
+estragón,es,tarragon,タラゴン,/estɾaˈɣon/,øbbɶom
+inclusión,es,inclusion,包含,/inkluˈsjon/,ymbubom
 comisión,es,commission,手数料,/komiˈsjon/,oybom
 callejón,es,alley,路地,/kaʎeˈxon/,ɶøom
+erosión,es,erosion,侵食,/eɾoˈsjon/,øobom
 bariton,ro,baritone,バリトン,/bariton/,ɶyom
 conclusión,es,conclusion,結論,/konkluˈsjon/,ombubom
+relación,es,relationship,関係,/relaˈθjon/,øɶbom
 pimentón,es,peppers,コショウ,/pimenˈton/,yømom
 detección,es,detection,検出,/deteˈkθjon/,øøbbom
 số thập phân,vi,decimal,小数,/ʂo˩˧ tʰɤ̆p˨ˀ˩ʔ fɤ̆ŋ˧˥/,obobbom
 subvención,es,grant,許す,/suββenˈθjon/,ubømbom
+pemohon,id,applicant,申請者,/pəmohon/,əoom
 incisión,es,incision,切開,/inθiˈsjon/,ymybom
 restricción,es,restriction,制限,/restɾiˈkθjon/,øbbybbom
 producción,es,production,製造,/pɾoðuˈkθjon/,boubbom
@@ -27,14 +33,21 @@ opinión,es,opinion,意見,/opinˈjon/,oymom
 質問,ja,question,質問,/ɕitsɯmoɴ/,ybuom
 オプション,ja,option,オプション,/opɯɕoɴ/,ouom
 pentagon,ro,pentagon,五角形,/pentaɡon/,ømɶom
+マカロン,ja,Macaroon,マカロン,/makaɾoɴ/,ɶɶom
+chromosomes,fr,chromosomes,染色体,/kʁomozom/,booom
+许可证,zh-cn,license,ライセンス,/ɕy˨˩˦ kʰɤ˨˩˦ ʈʂɤŋ˥˩/,yboom
+悄没声,zh-cn,Quietly,静かに,/tɕʰjɑʊ˨˩˦ meɪ˧˥ ʂɤŋ˥˥/,bbɑʊøʏom
 無一文,ja,Silent,無一文,/mɯitɕimoɴ/,uybyom
 terowong,id,tunnel,トンネル,/tərowoŋ/,əoom
+整数論,ja,Integral theory,整数論,/seisɯɯɾoɴ/,øyuuom
 Amazone,fr,Amazon,アマゾン,/amazon/,ɶɶom
 magneton,ro,Magneton,マグネトン,/maɡneton/,ɶbøom
+小学生,zh-cn,Primary school student,小学生,/ɕjɑʊ˨˩˦ ɕɥœ˧˥ ʂɤŋ˥˥/,bɑʊbœom
 デシジョン,/deɕidʑoɴ/,decision,デシジョン,øybom,ja
 Laderaum,/ˈlɑːdeɾaom/,Cargo,貨物,ɑøɶom,de
 有才能,/joʊ˨˩˦ tsʰaɪ˧˥ nɤŋ˧˥/,talented,才能,oʊbbɶʏom,zh-cn
 Backgammon,/bakgamˈmoːn/,backgammon,バックギャモン,ɶbɶmom,de
+mozallón,es,Mozallón,モザロン,/moθaˈʎon/,oɶom
 慣用音,ja,Idiomatic sound,慣用音,/kaɴjoɯoɴ/,ɶmouom
 양자론,ko,Quantumism,量子主義,/ja̠ŋd͡ʑa̠ɾo̞n/,ɶmbɶom
 의미론,ko,semantics,セマンティクス,/ɰimiɾo̞n/,yyom
@@ -57,3 +70,5 @@ mobile home,fr,mobile home,移動住宅,/mɔbilom/,ɔyom
 thuyết đa thần,vi,polytheism,多神教,/tʰwiək˦˥ da˧˥ tʰɤ̆ŋ˦˨/,byəbɶbom
 prestación,es,benefit,利点,/pɾestaˈθjon/,bøbɶbom
 bếp Hoàng Cầm,vi,Kitchen Hoang Cam,キッチンホアンカム,/bep˦˥ hwaŋ˦˨ kɤ̆m˦˨/,øbɶmom
+suolaton,fi,non -salt,非サルト,/ˈsuolɑton/,uoɑom
+Gottessohn,de,God's Son,神の息子,/ˈgɔtɛszon/,ɔœbom

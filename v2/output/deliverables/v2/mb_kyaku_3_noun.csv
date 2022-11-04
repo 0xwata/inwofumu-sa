@@ -1,5 +1,6 @@
 word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
 absolvent,ro,graduate,卒業,/apsolvent/,ɶbobømb
+hurricane,en,hurricane,ハリケーン,/ˈhəɹəˌkeɪnz/,əəøʏmb
 exultant,en,exultant,歓喜,/ɪɡˈzəɫtənt/,ʏbəəmb
 descendant,en,descendant,子孫,/dɪˈsɛndənt/,ʏœməmb
 iminent,ro,imminent,差し迫った,/iminent/,yyømb
@@ -9,6 +10,7 @@ appliance,en,appliance,アプライアンス,/əˈpɫaɪəns/,əbɶʏəmb
 reluctance,en,reluctance,不本意,/ɹiˈɫəktəns/,yəbəmb
 Labyrinth,de,labyrinth,ラビリンス,/ˈlɑːbyɾɪnt/,ɑyʏmb
 penitent,en,penitent,悔い改め,/ˈpɛnɪtɪnt/,œʏʏmb
+argument,en,argument,口論,/ˈɑɹɡjəmənt/,ɑbəəmb
 accountant,en,accountant,会計士,/əˈkaʊntənt/,əɶʊməmb
 assignment,en,assignment,割り当て,/əˈsaɪnmənt/,əɶʏməmb
 compliment,en,compliment,褒め言葉,/ˈkɑmpɫəmɛnt/,ɑmbəœmb
@@ -23,7 +25,9 @@ continent,en,continent,大陸,/ˈkɑntənənt/,ɑməəmb
 aberrant,en,aberrant,異常,/æˈbɛɹənt/,æœəmb
 suculent,ro,juicy,ジューシー,/sukulent/,uuømb
 adjustment,en,adjustment,調整,/əˈdʒəstmənt/,əbəbbəmb
+recipient,en,recipient,受信者,/ɹəˈsɪpiənt/,əʏyəmb
 imbalance,en,imbalance,不均衡,/ɪmˈbæɫəns/,ʏmæəmb
+chén bạch định,vi,bowl,丼鉢,/cɛŋ˩˧ bak˨ˀ˩ʔ din˨ˀ˩ʔ/,œmɶbbymb
 samræming,is,coordination,調整,/samrajmiŋk/,ɶmɶymb
 résonans,id,Résonans,レソン,/resonans/,øoɶmb
 sorgarstund,is,hour,時間,/sɔrkarstʏnt/,ɔɶbʏmb
@@ -32,6 +36,7 @@ thuyết định mệnh,vi,fate theory,運命理論,/tʰwiək˦˥ din˨ˀ˩ʔ me
 parament,ro,facing,顔に,/parament/,ɶɶømb
 conversant,en,conversant,精通,/kənˈvɝsənt/,əməəmb
 microfilms,es,Microfilms,マイクロフィルム,/mikɾofilms/,yboybmb
+dixieland,fi,dixieland,ディキシーランド,/ˈdixielɑnd/,yyøɑmb
 gengisins,is,exchange rate,為替レート,/ceiɲcɪsɪns/,øymʏʏmb
 vol-au-vent,/ˈvolɑuvent/,VOL-AU-VEST,Vol-au-Vest,oɑuømb,fi
 samsetning,/samsɛhtniŋk/,constitution,憲法,ɶmœbymb,is
@@ -40,8 +45,8 @@ comitent,/komitent/,principal,主要,oyømb,ro
 بكاكنج,ar,Bakking,バッキング,/bikaːkindʒ/,yɶymb
 vũ trụ luận,vi,universe,宇宙,/ju˧˩˨ ʈu˨ˀ˩ʔ lwɤ̆ŋ˨ˀ˩ʔ/,uubbomb
 dạ lữ viện,vi,Da Lu Vien,ダ・ル・ウィーン,/ja˨ˀ˩ʔ lɯ˧˩˨ jiəŋ˨ˀ˩ʔ/,ɶbuyəmb
-dixieland,fi,dixieland,ディキシーランド,/ˈdixielɑnd/,yyøɑmb
 útreikning,is,calculation,計算,/uːtreihkniŋk/,ubøybymb
 afrikaans,fi,Afrikaans,アフリカーンス,/ˈɑfrikɑɑns/,ɑbyɑɑmb
 ولانج,ar,Lang,ラング,/waliʔandʒ/,ɶyɶmb
 cyberpunk,fr,cyberpunk,サイバーパンク,/sibɛʁpœnk/,yœbœmb
+فللحمض,ar,Acid,酸,/falilħamdˤ/,ɶybɶmb

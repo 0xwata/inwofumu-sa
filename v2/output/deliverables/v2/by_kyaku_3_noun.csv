@@ -1,8 +1,10 @@
 word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
 rasisti,fi,racist,人種差別主義者,/ˈrɑsisti/,ɑyby
 epoxy,en,epoxy,エポキシ,/ɪˈpɑksi/,ʏɑby
+tabletti,fi,tablet,タブレット,/ˈtɑbletti/,ɑbøby
 sinetti,fi,seal,密閉する,/ˈsinetti/,yøby
 Energie,de,energy,エネルギー,/eːnɛʁˈɡiː/,øœby
+تعاطي,ar,Abuse,乱用,/taʕaːtˤiː/,ɶɶby
 chemistry,en,chemistry,化学,/ˈkɛməstɹi/,œəbby
 apteekki,fi,pharmacy,薬局,/ˈɑpteekki/,ɑbøøby
 strategy,en,strategy,ストラテジー,/ˈstɹætədʒi/,bbæəby
@@ -14,6 +16,7 @@ smaragdi,fi,emerald,エメラルド,/ˈsmɑrɑgdi/,bɑɑby
 indeksi,fi,index,索引,/ˈindeksi/,ymøby
 lisenssi,fi,license,ライセンス,/ˈlisenssi/,yømby
 aperçu,fr,Overview,概要,/apɛʁsy/,ɶœby
+spagetti,fi,spaghetti,スパゲッティ,/ˈspɑgetti/,bɑøby
 二年级,zh-cn,second grade,二年生,/aɻ˥˩ njɛn˧˥ tɕi˧˥/,ɶmœmby
 소시지,ko,sausage,ソーセージ,/sʰo̞ɕʰid͡ʑi/,bobyby
 budjetti,fi,budget,バジェット,/ˈbudjetti/,ubøby
@@ -31,17 +34,19 @@ baletti,fi,ballet,バレエ,/ˈbɑletti/,ɑøby
 kranaatti,fi,grenade,手ren弾,/ˈkrɑnɑɑtti/,bɑɑɑby
 infarkti,fi,infarction,梗塞,/ˈinfɑrkti/,ymɑby
 시금치,ko,spinach,ほうれん草,/ɕʰiɡɯmt͡ɕʰi/,byumbby
-spagetti,fi,spaghetti,スパゲッティ,/ˈspɑgetti/,bɑøby
 기저귀,ko,diaper,おむつ,/kid͡ʑʌ̹ɡɥi/,ybɔby
 antiikki,fi,antique,アンティーク,/ˈɑntiikki/,ɑmyyby
 스펀지,ko,sponge,スポンジ,/sʰɯpʰʌ̹nd͡ʑi/,bubɔmby
 スポンジ,ja,sponge,スポンジ,/sɯpoɴdʑi/,uomby
 羊,ja,sheep,羊,/çitsɯdʑi/,ybuby
 paketti,fi,package,パッケージ,/ˈpɑketti/,ɑøby
+主人,ja,master,主人,/aɾɯdʑi/,ɶuby
 xanh hồ thuỷ,vi,Green Lake Thuy,グリーンレイクツー,/san˧˥ ho˦˨ tʰwi˧˩˨/,ɶmoby
 kopisti,fi,tackle,タックル,/ˈkopisti/,oyby
+切断锯,zh-cn,Cutting saw,,/tɕʰjɛ˥˥ twan˥˩ tɕy˥˩/,bbœbɶmby
 klapparstíg,is,clapping,拍手,/kʰlahparstiːɣ/,bɶɶby
 細い字,ja,Thin letter,細い字,/hosoidʑi/,ooyby
+holhotti,fi,patron,パトロン,/ˈholhotti/,oboby
 咸酥鸡,zh-cn,Salty crispy chicken,塩辛いクリスピーチキン,/ɕjɛn˧˥ su˥˥ tɕi˥˥/,bœmuby
 ستبلي,ar,Siphon,サイフォン,/satubliː/,ɶuby
 thoạt kỳ thuỷ,vi,At first Thuy,最初はthuy,/tʰwak˨ˀ˩ʔ ki˦˨ tʰwi˧˩˨/,bɶbbyby
@@ -53,8 +58,8 @@ vizaĝi,eo,face to face,面と向かって,/vizad͡ʒi/,yɶby
 mencuci,/məntʃutʃi/,washing,洗浄,əmbuby,id
 sumarfrí,/sʏːmar̥friː/,summer vacation,夏休み,ʏɶby,is
 desistí,/desiˈsti/,I gave up,私はあきらめた,øyby,es
+subsistí,es,I subsist,私は存続します,/suβsiˈsti/,ubyby
 生政治,ja,Live politics,生政治,/seiseidʑi/,øyøyby
-holhotti,fi,patron,パトロン,/ˈholhotti/,oboby
 jólafrí,/jouːlafriː/,Christmas,クリスマス,ouɶby,is
 evadne,/ɪˈvɛdni/,evadne,エヴァドネ,ʏœby,en
 expozanți,/ekspozantsʲ/,exhibitors,出展者,øbboɶmby,ro
@@ -81,3 +86,4 @@ rogowski,en,rogowski,ロゴフスキー,/ɹəˈɡɔfski/,əɔbby
 부레키,ko,Bureki,ブレキ,/puɾe̞kçi/,uøby
 Symmetrie,de,symmetry,対称,/zʏmeˈtʀiː/,ʏøby
 đại học sĩ,vi,college,カレッジ,/daj˨ˀ˩ʔ hɔk͡p˨ˀ˩ʔ ʂi˧˩˨/,ɶbɔbbby
+kontaĝi,eo,to be in accordance with,に従って,/kontad͡ʒi/,omɶby

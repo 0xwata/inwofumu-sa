@@ -1,4 +1,5 @@
 word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
+verlassen,de,leaving,去る,/fɛɐ̯ˈlasən/,œɐɶəm
 erfinden,de,invent,発明,/ɛʁˈfɪndən/,œbʏməm
 verstohlen,de,tremendous,絶大,/fɛːɐ̯ˈʃtolən/,œɐoəm
 beweisen,de,prove,証明,/bəˈvaɪ̯zən/,əɶʏəm
@@ -7,6 +8,7 @@ bewahren,de,maintain,維持,/bəˈvaːʁən/,əɶəm
 verleihen,de,to lend,貸す,/fɛːɐ̯ˈlaeən/,œɐɶøəm
 abhängen,de,depend,それによる,/ˈʔaphɛŋən/,ɶbœəm
 erwerben,de,acquire,取得,/ɛɐ̯ˈvɛʁbən/,œɐœbəm
+einstellen,de,set to,に設定,/ˈʔaenˌʃtɛllən/,ɶømœbəm
 ausstatten,de,equip,装備,/ˈʔaosˌʃtatən/,ɶobɶəm
 jonglieren,de,juggle,ジャグル,/ʒɔŋˈliːʁən/,ɔmyəm
 verkaufen,de,to sell,売る,/fɛɐ̯ˈkaʊ̯fən/,œɐɶʊəm
@@ -18,6 +20,7 @@ anlocken,de,attract,引きつける,/ˈanˌlɔkən/,ɶmɔəm
 erscheinen,de,appear,現れる,/ɛɐ̯ˈʃaɪ̯nən/,œɐɶʏəm
 entlocken,de,elicit,引き出します,/ʔɛntˈlɔkən/,œmbɔəm
 bestellen,de,order,注文,/bəˈʃtɛllən/,əœbəm
+mencureng,id,Strengthening,強化,/məntʃurəŋ/,əmbuəm
 没没无闻,zh-cn,Nothing,何もない,/mɔ˥˩ mɔ˥˩ u˧˥ uən˧˥/,ɔɔuuəm
 gian chí tuyến,vi,gate,ゲート,/jaŋ˧˥ ci˩˧ twiəŋ˩˧/,ɶmybyəm
 promovăm,ro,promote,促進,/promovəm/,booəm
@@ -26,11 +29,11 @@ gối đầu giường,vi,pillow,まくら,/ɣoj˩˧ dɤ̆w˦˨ jɯəŋ˦˨/,oou
 evelyn,en,evelyn,エブリン,/ˈɛvəɫən/,œəəm
 sáng tinh sương,vi,dew,露,/ʂaŋ˩˧ tin˧˥ ʂɯəŋ˧˥/,ɶmymuəm
 wittenborn,en,wittenborn,ヴィッテンボーン,/ˈwɪtɪnbɝn/,ʏʏməm
+melancon,en,melancon,メランコン,/mɪˈɫænkən/,ʏæməm
 vanauken,/væˈnaʊkən/,vanauken,ヴァナウケン,æɶʊəm,en
 determine,/dəˈtɝmən/,determine,決定,əəəm,en
 hình hộp xiên,/hin˦˨ hop˨ˀ˩ʔ siəŋ˧˥/,skewer,串,ymobbyəm,vi
 hoboken,en,hoboken,ホーボーケン,/ˈhoʊboʊkən/,oʊoʊəm
-mencureng,/məntʃurəŋ/,Strengthening,強化,əmbuəm,id
 不易之论,zh-cn,Unsuitable theory,不適切な理論,/pu˧˥ i˥˩ ʈʂɚ˥˥ luən˥˩/,uyəuəm
 u mê ám chướng,/u˧˥ me˧˥ am˩˧ cɯəŋ˩˧/,Desperate,やけくそ,uøɶmuəm,vi
 garantăm,ro,guarantee,保証,/ɡarantəm/,ɶɶməm

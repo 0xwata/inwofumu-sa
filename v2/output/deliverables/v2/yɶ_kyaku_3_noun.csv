@@ -1,5 +1,6 @@
 word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
 gembira,id,happy,ハッピー,/gəmbira/,əmyɶ
+هوس,ar,Obsession,執着,/haʊisa/,ɶʊyɶ
 tarifa,es,rate,レート,/taɾifa/,ɶyɶ
 정치가,ko,politician,政治家,/t͡ɕʌ̹ŋt͡ɕʰiɡa̠/,bɔmbbyɶ
 政治家,ja,politician,政治家,/seidʑika/,øybyɶ
@@ -7,6 +8,7 @@ tarifa,es,rate,レート,/taɾifa/,ɶyɶ
 wanita,id,woman,女性,/wanita/,ɶyɶ
 チンチラ,ja,Chinchilla,チンチラ,/tɕiɴtɕiɾa/,bymbyɶ
 친칠라,ko,chinchilla,チンチラ,/t͡ɕʰint͡ɕʰiɭɭa̠/,bbymbbyɶ
+앞치마,ko,apron,エプロン,/a̠p̚t͡ɕʰima̠/,ɶbbbyɶ
 نكد,ar,moodiness,気分,/nakida/,ɶyɶ
 子鹿,ja,fawn,子鹿,/kodʑika/,obyɶ
 équipage,fr,crew,クルー,/ekipaʒ/,øyɶ
@@ -16,10 +18,13 @@ varilla,es,rod,ロッド,/baɾiʎa/,ɶyɶ
 ضحك,ar,Laughter,笑い,/dˤaħika/,bɶyɶ
 붐비다,ko,bustle,bus騒,/pumbida̠/,umyɶ
 tortilla,es,tortilla,トルティーヤ,/toɾtiʎa/,oyɶ
+市場,ja,market,市場,/itɕiba/,ybyɶ
 kanína,is,bunny,バニー,/kʰaːnina/,bɶyɶ
+巡礼者,ja,Pilgrim,巡礼者,/dʑɯɴɾeiɕa/,bumøyɶ
 capilla,es,chapel,チャペル,/kapiʎa/,ɶyɶ
 predica,ro,preach,説教,/predika/,bøyɶ
 مرح,ar,cheerful,陽気な,/mariħa/,ɶyɶ
+버리다,ko,throw away,捨てる,/pʌ̹ɾida̠/,ɔyɶ
 dunia,id,world,世界,/dunia/,uyɶ
 قدم,ar,Foot,足,/qadima/,ɶyɶ
 medida,es,measure,測定,/meðiða/,øyɶ
@@ -29,6 +34,7 @@ rodilla,es,knee,膝,/roðiʎa/,oyɶ
 モニター,ja,monitor,モニター,/monitaː/,oyɶ
 망치다,ko,ruin,破滅,/ma̠ŋt͡ɕʰida̠/,ɶmbbyɶ
 irita,ro,irritate,いらいらします,/irita/,yyɶ
+hátíðar,is,celebration,お祝い,/hauːtiðar/,ɶuyɶ
 cơ khí hóa,vi,mechanization,機械化,/kɤ˧˥ xi˩˧ hwa˩˧/,oyɶ
 lahirnya,id,birth,誕生,/lahirɲa/,ɶyɶ
 茉莉茶,zh-cn,Jasmine tea,ジャスミン茶,/mɔ˥˩ li˥˩ ʈʂʰa˧˥/,ɔyɶ
@@ -36,6 +42,7 @@ lahirnya,id,birth,誕生,/lahirɲa/,ɶyɶ
 rutinar,ro,routinist,ルーチニスト,/rutinar/,uyɶ
 berlidah,id,tongue,舌,/bərlidah/,əyɶ
 bibirnya,id,His lips,彼の唇,/bibirɲa/,yyɶ
+chính qui hoá,vi,formalization,形式化,/cin˩˧ wi˧˥ hwa˩˧/,ymyɶ
 réinvita,fr,reinvita,Reinvita,/ʁeɛ̃vita/,øœyɶ
 pezina,id,adulterers,姦淫者,/pəzina/,əyɶ
 kantia,eo,Kantia,カンティア,/kantia/,ɶmyɶ
@@ -45,15 +52,19 @@ plastiqua,fr,plastic,プラスチック,/plastika/,bɶbyɶ
 saidina,id,Saidina,言った,/saidina/,ɶyyɶ
 điện khí hoá,/diəŋ˨ˀ˩ʔ xi˩˧ hwa˩˧/,gasization,ガス化,yəmbyɶ,vi
 senkirla,/senkirla/,uncircle,circle,ømyɶ,eo
+bunyinya,id,The sound,音,/buɲiɲa/,uyɶ
+馄饨皮儿,zh-cn,馄 馄 饨,馄馄饨,/xuən˧˥ tʰuən˧ pʰi˧˥ aɻ˧/,uəmbuəmbyɶ
+Adria,de,Adriatic,アドリアティック,/ˈaːdʁia/,ɶbyɶ
 فبالشياه,ar,"So, by water",だから、水によって,/fabiaːlʃiːaːh/,ɶyɶbyɶ
 讚美歌,ja,Hymnal song,賛美歌,/saɴbika/,ɶmyɶ
 horia,ro,Horie,ホリー,/horija/,oyɶ
 civila,/t͡sivila/,civilian,民間人,byyɶ,eo
+chính quy hoá,vi,formalization,形式化,/cin˩˧ wi˧˥ hwa˩˧/,ymyɶ
 lasciva,/last͡siva/,Lasciva,ラシバ,ɶbbyɶ,eo
 înstreina,/ɨnstreina/,Instruine,楽器,ʉmbbøyɶ,ro
 mutila,ro,mutilate,切断します,/mutila/,uyɶ
-chính quy hoá,vi,formalization,形式化,/cin˩˧ wi˧˥ hwa˩˧/,ymyɶ
 ô xi hoá,vi,oxygen,空気,/o˧˥ si˧˥ hwa˩˧/,oyɶ
 patinas,fr,patinas,パティーナ,/patina/,ɶyɶ
 terpilah,id,Brone,ブローン,/tərpilah/,əyɶ
 لقن,ar,Cinema,シネマ,/laqina/,ɶyɶ
+グライダー,ja,glider,グライダー,/gɯɾaidaː/,uɶyɶ

@@ -1,4 +1,5 @@
 word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
+aikuinen,fi,adult,大人,/ˈɑikuinen/,ɑyuyøm
 volumen,es,volume,音量,/bolumen/,ouøm
 不機嫌,ja,Bad mood,不機嫌,/ɸɯkigeɴ/,uyøm
 動物園,ja,Zoo,動物園,/doɯbɯtsɯeɴ/,ouubuøm
@@ -7,11 +8,13 @@ lautanen,fi,plate,皿,/ˈlɑutɑnen/,ɑuɑøm
 colagen,ro,collagen,コラーゲン,/koladʒen/,oɶbøm
 régimen,es,regime,政権,/ˈreximen/,øyøm
 出現,ja,Appearance,出現,/ɕɯtsɯgeɴ/,ubuøm
+imagen,es,image,画像,/imaxen/,yɶøm
 kukkainen,fi,floral,花,/ˈkukkɑinen/,ubɑyøm
 resumen,es,abstract,概要,/resumen/,øuøm
 virheetön,fi,without blemish,傷なし,/ˈvirheetøn/,yøøøm
 äkäinen,fi,cranky,クランキー,/ˈækæinen/,ææyøm
 直面,ja,Facing,直面,/tɕokɯmeɴ/,bouøm
+erogen,ro,erogenous,エラゲン,/erodʒen/,øobøm
 Wurzelkeim,de,Root germ,根胚芽,/ˈvʊɾtsɛlkaem/,ʊbœbɶøm
 tembéréng,id,potsherd,ポッサード,/təmbereŋ/,əmøøm
 tekonen,fi,artificial,人口的,/ˈtekonen/,øoøm
@@ -19,6 +22,7 @@ setagén,id,Setagén,Setagén,/sətagen/,əɶøm
 sijainen,/ˈsijɑinen/,Substitute,代わりの,yɑyøm,fi
 đá hất lên,vi,stone,結石,/da˩˧ hɤ̆k˦˥ len˧˥/,ɶobøm
 diktieren,de,dictate,指示,/dɪkˈtiːɾen/,ʏbyøm
+Schaltieren,de,Switch on,スイッチをつける,/ʃalˈtiːɾen/,ɶbyøm
 irradien,/iraðjen/,Irradien,Irradien,yɶbøm,es
 malicien,es,Malicien,マリシエン,/maliθjen/,ɶybøm
 orienten,eo,east,東,/orienten/,oyømøm

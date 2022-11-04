@@ -1,5 +1,6 @@
 word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
 religion,en,religion,宗教,/ɹiˈɫɪdʒən/,yʏbəm
+inclusion,en,inclusion,包含,/ˌɪnˈkɫuʒən/,ʏmbuəm
 oxygen,en,oxygen,空気,/ˈɑksədʒən/,ɑbəbəm
 kế toán viên,vi,accountant,会計士,/ke˩˧ twaŋ˩˧ jiəŋ˧˥/,øbɶmyəm
 Personen,de,persons,人,/pɛɾˈzoːnən/,œoəm
@@ -8,6 +9,7 @@ suggestion,en,suggestion,提案,/səˈdʒɛstʃən/,əbœbbəm
 millennium,en,millennium,ミレニアム,/məˈɫɛniəm/,əœyəm
 commotion,en,commotion,騒ぎ,/kəˈmoʊʃən/,əoʊəm
 washbasin,en,washbasin,ウォッシュベイシン,/ˈwɑʃˌbeɪsən/,ɑøʏəm
+erosion,en,erosion,侵食,/ɪˈɹoʊʒən/,ʏoʊəm
 hydrogen,en,hydrogen,水素,/ˈhaɪdɹədʒən/,ɶʏbəbəm
 location,en,location,位置,/ɫoʊˈkeɪʃən/,oʊøʏəm
 detection,en,detection,検出,/dɪˈtɛkʃən/,ʏœbəm
@@ -34,6 +36,7 @@ Streikposten,de,Stream post,ストリームポスト,/ˈʃtɾaekpɔstən/,bɶøb
 承办人,zh-cn,Organizer,オーガナイザー,/ʈʂʰɤŋ˧˥ pan˥˩ ʐən˧˥/,omɶməm
 probation,en,probation,保護観察,/pɹoʊˈbeɪʃən/,boʊøʏəm
 踹门,zh-cn,Door,ドア,/ʈʂʰuaɪ˥˩ mən˧˥/,uɶʏəm
+cổ động viên,vi,fans,ファン,/ko˧˩˨ doŋ͡m˨ˀ˩ʔ jiəŋ˧˥/,oommbyəm
 继承人,zh-cn,Heir,相続人,/tɕi˥˩ ʈʂʰɤŋ˧˥ ʐən˧˥/,byoməm
 太空人,zh-cn,astronaut,宇宙飛行士,/tʰaɪ˥˩ kʰʊŋ˥˥ ʐən˧˥/,bɶʏbʊməm
 brookhaven,en,brookhaven,ブルックヘブン,/ˈbɹʊkˌheɪvən/,bʊbøʏəm
@@ -42,6 +45,7 @@ notulen,id,Minutes,分,/notulən/,ouəm
 încercăm,ro,we try,試してみます,/ɨntʃerkəm/,ʉmbøəm
 慢吞吞,zh-cn,Swallow,飲み込む,/man˥˩ tʰuən˥˥ tʰuən˥˥/,ɶmbuəmbuəm
 nhỡ độ đường,vi,Miss the road level,道路レベルを逃します,/ɲɤ˧˩˨ do˨ˀ˩ʔ dɯəŋ˦˨/,oobuəm
+tauglichstem,de,most suitable,ぴったりの,/ˈtaoglɪçstəm/,ɶobʏbəm
 lưỡi không xương,/lɯəj˧˩˨ xoŋ͡m˧˥ sɯəŋ˧˥/,boneless tongue,骨のない舌,uəommuəm,vi
 hiệu đoàn trưởng,vi,Delegation,代表団,/hiəw˨ˀ˩ʔ dwaŋ˦˨ ʈɯəŋ˧˩˨/,yəbbɶmuəm
 refuzăm,/refuzəm/,refuse,ごみ,øuəm,ro

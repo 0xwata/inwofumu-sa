@@ -1,0 +1,37 @@
+word,word_lang,word_ipa,word_ipa_rhyme,word_en,word_ja,pair_word,pair_word_lang,pair_word_ipa,pair_word_ipa_rhyme,pair_word_en,pair_word_ja,rhyme_type,match_ipa_rhyme,pos,syllable
+comienzo,es,/komjenθo/,omømo,beginning,始まり,katsanto,fi,/ˈkɑtsɑnto/,ɑbɑmo,mien,ミエン,kyaku,mo,noun,3
+alkaa,fi,/ˈɑlkɑɑ/,ɑbɑɑ,start,始める,hobnobbing,en,/ˈhɑbˌnɑbɪŋ/,ɑbɑʏm,hobnobbing,ホブノビング,to,bɑ,verb,3
+gemetar,id,/gəmətar/,əəɶ,shiver,震える,opteras,fr,/ɔptəʁa/,ɔbəɶ,opteras,オペラ,kyaku,əɶ,noun,3
+muladar,es,/mulaðaɾ/,uɶɶ,midden,ミッドデン,kaupanna,is,/kʰœiːpana/,bœyɶɶ,purchasing,購入,kyaku,ɶɶ,verb,3
+desempeñar,es,/desempeɲaɾ/,øømøɶ,play,遊ぶ,apareiaj,ro,/aparejaʒ/,ɶɶøɶ,appears,表示されます,kyaku,øɶ,verb,4
+遊ぶ,ja,/asɯbɯ/,ɶuu,play,遊ぶ,náungar,is,/nauːuŋkar/,ɶuumɶ,study,勉強,to,uu,verb,3
+pelata,fi,/ˈpelɑtɑ/,øɑɑ,to be afraid,恐れること,gondwana,en,/ˌɡɑndˈwɑˌnɑ/,ɑmbɑɑ,gondwana,ゴンドワナ,kyaku,ɑɑ,verb,3
+ilustri,eo,/ilustri/,yubby,illustrate,説明します,託児,ja,/takɯdʑi/,ɶuby,Child care,託児,kyaku,by,verb,3
+ilustrar,es,/ilustɾaɾ/,yubbɶ,to illustrate,説明する,connaîtras,fr,/kɔnɛtʁa/,ɔœbɶ,will know,わかるでしょう,kyaku,bɶ,verb,3
+veranschaulichen,de,/fɛːɐ̯ˈʔanˌʃaolɪçən/,œɐɶmɶoʏəm,illustrate,説明します,delicatessen,en,/ˌdɛɫɪkəˈtɛsən/,œʏəœəm,delicatessen,デリカテッセン,kyaku,əm,verb,5
+illustrate,en,/ˈɪɫəˌstɹeɪt/,ʏəbbøʏb,illustrate,説明します,sexleytið,is,/sɛkstleitɪð/,œbbbøyʏb,sexless,セックスレス,kyaku,ʏb,verb,3
+erozio,eo,/erozio/,øoyo,erosion,侵食,termoliză,ro,/termolizə/,øoyə,thermolysis,熱分解,to,oy,noun,4
+eroziune,ro,/eroziune/,øoyuø,erosion,侵食,御御御付,ja,/omiotsɯke/,oyobuø,Motion,御御御付,kyaku,uø,noun,4
+erosión,es,/eɾoˈsjon/,øobom,erosion,侵食,整数論,ja,/seisɯɯɾoɴ/,øyuuom,Integral theory,整数論,kyaku,om,noun,3
+erosion,en,/ɪˈɹoʊʒən/,ʏoʊəm,erosion,侵食,tauglichstem,de,/ˈtaoglɪçstəm/,ɶobʏbəm,most suitable,ぴったりの,kyaku,əm,noun,3
+hallazgo,es,/aʎaθɣo/,ɶɶbo,finding,発見,والمعقام,ar,/waaːlmiʕqaːm/,ɶɶbybɶm,And the bastard,そしてろくでなし,to,ɶb,noun,3
+găsire,ro,/ɡəsire/,əyø,finding,発見,Furniere,de,/fʊɾˈniːɾe/,ʊyø,Veneer,ベニア,kyaku,yø,noun,3
+havainto,fi,/ˈhɑvɑinto/,ɑɑymo,perception,感知,abare,en,/ɑˈbɑɹi/,ɑɑy,abare,アバレ,to,ɑy,verb,3
+パンスト,ja,/paɴsɯto/,ɶmuo,pantyhose,パンスト,bạc như vôi,vi,/bak˨ˀ˩ʔ ɲɯ˧˥ joj˧˥/,ɶbbuo,silver like lime,ライムのような銀,kyaku,uo,noun,3
+Strumpfhose,de,/ˈʃtʀʊmpfˌhoːzə/,bʊmbboə,Pantyhose,パンスト,période,id,/periodə/,øyoə,period,限目,kyaku,oə,noun,3
+pantyhose,en,/ˈpæntiˌhoʊz/,æmyoʊb,pantyhose,パンスト,وبالصوخ,ar,/wabiaːlsˤaʊx/,ɶyɶbbɶʊb,And in the tree,そして木の中で,kyaku,ʊb,noun,3
+設定,ja,/setːei/,øbøy,setting,設定,mankeli,fi,/ˈmɑnkeli/,ɑmøy,mangle,マングル,kyaku,øy,noun,3
+einstellen,de,/ˈʔaenˌʃtɛllən/,ɶømœbəm,set to,に設定,melancon,en,/mɪˈɫænkən/,ʏæməm,melancon,メランコン,kyaku,əm,verb,3
+mengatur,id,/məŋatur/,əɶu,arrange,整える,押し合う,ja,/oɕiaɯ/,oyɶu,Push each other,押し合う,kyaku,ɶu,verb,3
+balancín,es,/balanˈθin/,ɶɶmym,rocker,ロッカー,マンダリン,ja,/maɴdaɾiɴ/,ɶmɶym,Mandarin,マンダリン,kyaku,ym,noun,3
+纪念品,zh-cn,/tɕi˥˩ njɛn˥˩ pʰɪn˨˩˦/,bymœmbʏm,souvenir,お土産,باللجين,ar,/biaːlludʒeɪn/,yɶbubøʏm,In the ravine,渓谷で,kyaku,ʏm,noun,3
+matkamuisto,fi,/ˈmɑtkɑˌmuisto/,ɑbɑuybo,souvenir,お土産,匿迹草泽,zh-cn,/ni˥˩ tɕi˥˩ tsʰɑʊ˨˩˦ tsɤ˧˥/,ybybbɑʊbo,Causawa,causawa,kyaku,bo,noun,4
+기념품,ko,/kiɲjʌ̹mpʰum/,ymɔmbum,souvenir,お土産,Organum,de,/ˈʔɔɾgɑnum/,ɔɑum,Organum,オルガン,kyaku,um,noun,3
+suvenir,ro,/suvenir/,uøy,souvenir,お土産,olei,eo,/olei/,oøy,olei,オレイ,kyaku,øy,noun,3
+memoro,eo,/memoro/,øoo,Memory,メモリー,mafioso,fr,/mafjozo/,ɶboo,mafioso,マフィオス,kyaku,oo,noun,3
+copyright,en,/ˈkɑpiˌɹaɪt/,ɑyɶʏb,copyright,著作権,فكالحيل,ar,/fakaaːlħeɪl/,ɶɶɶbøʏb,As a trick,トリックとして,kyaku,ʏb,noun,3
+väsynyt,fi,/ˈvæsynyt/,æyyb,tired,疲れた,malonic,ro,/malonik/,ɶoyb,Malonic,マロニック,kyaku,yb,adjective,3
+obosit,ro,/obosit/,ooyb,tired,疲れた,fordoni,eo,/fordoni/,ooy,to give away,あげます,to,oy,verb,3
+回廊,ja,/kaiɾoɯ/,ɶyou,corridor,回廊,kasino,id,/kasino/,ɶyo,casino,カジノ,to,yo,noun,3
+herukka,fi,/ˈherukkɑ/,øubɑ,currant,カラント,quebecoise,en,/ˈkɛbɛˌkwɑ/,œœbɑ,quebecoise,ケベコーズ,kyaku,bɑ,adjective,3
+grosella,es,/gɾoseʎa/,boøɶ,currant,カラント,froteinen,fi,/ˈfroteinen/,boøyøm,terry,テリー,to,oø,noun,3

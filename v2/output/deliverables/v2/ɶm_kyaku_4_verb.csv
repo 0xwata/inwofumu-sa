@@ -1,4 +1,6 @@
 word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
+merindukan,id,miss,お嬢,/mərindukan/,əymuɶm
+meninggalkan,id,leave,離れる,/məniŋgalkan/,əymɶbɶm
 menciptakan,id,create,作成,/məntʃiptakan/,əmbybɶɶm
 mengucapkan,id,say,いう,/məŋutʃapkan/,əubɶbɶm
 menyetorkan,id,deposit,デポジット,/məɲətorkan/,əəoɶm
@@ -7,8 +9,10 @@ membanggakan,id,boast,自慢,/məmbaŋgakan/,əmɶmɶɶm
 menukarkan,id,exchange,両替,/mənukarkan/,əuɶɶm
 menyesatkan,id,misleading,誤解を招く,/məɲəsatkan/,əəɶbɶm
 mengalahkan,id,defeat,敗北,/məŋalahkan/,əɶɶɶm
-pengarsipan,id,filing,提出,/pəŋarsipan/,əɶyɶm
+mengharapkan,id,expect,予想,/məŋharapkan/,əmɶɶbɶm
 meramalkan,id,predicted,予測されました,/məramalkan/,əɶɶbɶm
+pengarsipan,id,filing,提出,/pəŋarsipan/,əɶyɶm
+mengabaikan,id,ignore,無視,/məŋabaikan/,əɶɶyɶm
 mengadakan,id,stage,ステージ,/məŋadakan/,əɶɶɶm
 perbudakan,id,slavery,奴隷制,/pərbudakan/,əuɶɶm
 pelaporan,id,reporting,報告,/pəlaporan/,əɶoɶm
@@ -17,9 +21,10 @@ menyalahkan,id,blame,非難,/məɲalahkan/,əɶɶɶm
 pemikiran,id,thinking,考え,/pəmikiran/,əyyɶm
 mengingatkan,id,remind,思い出させる,/məŋiŋatkan/,əyɶbɶm
 mendapatkan,id,get,得る,/məndapatkan/,əmɶɶbɶm
-mengharapkan,id,expect,予想,/məŋharapkan/,əmɶɶbɶm
 peringatan,id,warning,警告,/pəriŋatan/,əyɶɶm
 kebiasaan,id,habit,癖,/kəbiasaʔan/,əyɶɶɶm
+人生苦短,zh-cn,Life is too short,人生は短すぎる,/ʐən˧˥ ʂɤŋ˥˥ kʰu˨˩˦ twan˨˩˦/,əmombubɶm
+どないしたん,ja,I wasn't,どないしたん,/donaiɕitaɴ/,oɶyyɶm
 nạo ruột nạo gan,vi,Liver grated liver grated,肝臓のすりおろした肝臓のすりおろした,/naw˨ˀ˩ʔ ʐuək˨ˀ˩ʔ naw˨ˀ˩ʔ ɣaŋ˧˥/,ɶbuəbbɶbɶm
 돌풍기간,ko,Gust,突風,/to̞ɭpʰuŋɡiɡa̠n/,obumyɶm
 ferðataskan,is,suitcase,スーツケース,/fɛrðatʰaskan/,œɶbɶbɶm
@@ -28,7 +33,10 @@ hữu chí cánh thành,vi,Huu Chi winged,Huu Chi Winged,/hɯw˧˩˨ ci˩˧ kan�
 skólastjórann,is,headmaster,校長,/skouːlastjouːran/,bouɶbbouɶm
 ozonisâmes,fr,ozonisâme,オゾニサーム,/ozɔnizam/,oɔyɶm
 侃侃而谈,/kʰan˨˩˦ kʰan˨˩˦ aɻ˧˥ tʰan˧˥/,Talk,話,bɶmbɶmɶbɶm,zh-cn
+entrebâillâmes,fr,bailed,保釈,/ɑ̃tʁəbajam/,ɑbəɶɶm
+đỏng đa đỏng đảnh,vi,Distinguish,区別,/dɔŋ͡m˧˩˨ da˧˥ dɔŋ͡m˧˩˨ dan˧˩˨/,ɔmmɶɔmmɶm
 饬令查办,/ʈʂʰɚ˥˩ lɪŋ˥˩ ʈʂʰa˧˥ pan˥˩/,饬 饬,饬饬,əʏmɶɶm,zh-cn
+con bồng con mang,vi,The baby carries,赤ちゃんは運んでいます,/kɔŋ͡m˧˥ boŋ͡m˦˨ kɔŋ͡m˧˥ maŋ˧˥/,ɔmmommɔmmɶm
 éternisâmes,fr,rushed,急いだ,/etɛʁnizam/,øœbyɶm
 고유재산,ko,Uniqueness,独自性,/ko̞jud͡ʑɛ̝sʰa̠n/,oubœbɶm
 力挽狂澜,/li˥˩ wan˨˩˦ kʰwɑŋ˧˥ lan˧˥/,Tide,潮,yɶmbɑmɶm,zh-cn

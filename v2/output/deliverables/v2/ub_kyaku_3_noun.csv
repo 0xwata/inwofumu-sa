@@ -1,8 +1,11 @@
 word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
+vammaisuus,fi,disability,障害,/ˈvɑmmɑisuus/,ɑmɑyuub
 vanhemmuus,fi,parenthood,親子関係,/ˈvɑnhemmuus/,ɑmømuub
+tarkoitus,fi,purpose,目的,/ˈtɑrkoitus/,ɑoyub
 mukavuus,fi,comfort,快適,/ˈmukɑvuus/,uɑuub
 muodostus,fi,formation,形成,/ˈmuodostus/,uoobub
 vaatimus,fi,requirement,要件,/ˈvɑɑtimus/,ɑɑyub
+tilaisuus,fi,opportunity,機会,/ˈtilɑisuus/,yɑyuub
 ehdotus,fi,proposal,提案,/ˈehdotus/,øoub
 rangaistus,fi,penalty,ペナルティ,/ˈrɑngɑistus/,ɑmɑybub
 bankabók,is,banking book,銀行の本,/pauŋ̊kapouːk/,ɶumɶoub
@@ -12,7 +15,6 @@ kalkulus,id,calculus,微積分,/kalkulus/,ɶbuub
 kukoistus,fi,heyday,全盛期,/ˈkukoistus/,uoybub
 valitus,fi,appeal,訴える,/ˈvɑlitus/,ɑyub
 arvoitus,fi,mystery,神秘,/ˈɑrvoitus/,ɑoyub
-tilaisuus,fi,opportunity,機会,/ˈtilɑisuus/,yɑyuub
 aseistus,fi,armament,武装,/ˈɑseistus/,ɑøybub
 rusketus,fi,tan,日焼け,/ˈrusketus/,ubøub
 johtajuus,fi,directorship,監督,/ˈjohtɑjuus/,oɑuub
@@ -30,15 +32,19 @@ hiljaisuus,fi,silence,沈黙,/ˈhiljɑisuus/,ybɑyuub
 vakavuus,fi,stability,安定,/ˈvɑkɑvuus/,ɑɑuub
 ahdistus,fi,anxiety,不安,/ˈɑhdistus/,ɑybub
 sjúkrahús,is,hospital,病院,/sjuːkrahuːs/,bubɶub
+Glockenhut,de,Bell,ベル,/ˈglɔkɛnut/,bɔœub
 disabuse,en,disabuse,虐待,/dɪsəbˈjus/,ʏəbub
+lindemuth,en,lindemuth,リンデムス,/ˈɫɪndɪmuθ/,ʏmʏub
 واجرز,ar,Score,スコア,/waʔadʒruz/,ɶɶbub
 النفوع,ar,Bouquets,花束,/aːlnafuːʕ/,ɶbɶub
 désapprouvent,fr,disapprove of,不承認,/dezapʁuv/,øɶbub
+broken-tooth,en,broken-tooth,壊れた歯,/ˈbɹoʊkənˌtuθ/,boʊəmub
 pămătuf,ro,whisk,泡立てます,/pəmətuf/,əəub
 فالممدود,ar,The mandate,マンデート,/faaːlmamduːd/,ɶɶbɶmub
 antoniu's,/ænˈtoʊniuz/,antoniu's,アントニウの,æmoʊyub,en
 والمريول,ar,And the migrant,そして移民,/waaːlmarjuːl/,ɶɶbɶub
 vinahóp,is,group of friends,友達のグループ,/vɪːnahouːp/,ʏɶoub
+feverfews,en,feverfews,Feverfews,/ˈfivɝfˌjuz/,yəbub
 húrrahróp,is,voice,声,/hurar̥ouːp/,uɶoub
 كزيوت,/kazujuːt/,Oils,オイル,ɶuub,ar
 codrescu's,en,codrescu's,codrescu's,/kəˈdɹɛsˌkjuz/,əbœbbub
@@ -47,6 +53,7 @@ hồng thập tự,vi,Red Cross,赤十字,/hoŋ͡m˦˨ tʰɤ̆p˨ˀ˩ʔ tɯ˨ˀ�
 새무룩,ko,New murmur,新しいつぶやき,/sʰɛ̝muɾuk̚/,bœuub
 montagu's,/ˈmɑntəɡˌjuz/,montagu's,モンタギュー,ɑməbub,en
 norocul,/norokul/,luck,幸運,ooub,ro
+detritus,es,detritus,デトリタス,/detɾitus/,øbyub
 Schonbezug,de,Protective,保護,/ˈʃɔnbetsuk/,ɔmøbub
 bơi dai sức,vi,swimming,水泳,/bɤj˧˥ jaj˧˥ ʂɯk˦˥/,oɶub
 molecules,/ˈmɑɫəkˌjuɫz/,molecules,分子,ɑəbub,en

@@ -1,0 +1,38 @@
+word,word_lang,word_ipa,word_ipa_rhyme,word_en,word_ja,pair_word,pair_word_lang,pair_word_ipa,pair_word_ipa_rhyme,pair_word_en,pair_word_ja,rhyme_type,match_ipa_rhyme,pos,syllable
+pikavene,fi,/ˈpikɑˌvene/,yɑøø,shock boat,ショックボート,retardation,en,/ɹitɑɹˈdeɪʃən/,yɑøʏəm,retardation,遅延,to,ɑø,noun,4
+hallita,fi,/ˈhɑllitɑ/,ɑbyɑ,control,コントロール,ralliements,fr,/ʁalimɑ̃/,ɶyɑ,rallies,集会,kyaku,yɑ,noun,3
+主人,ja,/aɾɯdʑi/,ɶuby,master,主人,kontaĝi,eo,/kontad͡ʒi/,omɶby,to be in accordance with,に従って,kyaku,by,noun,3
+menguasai,id,/məŋuasai/,əuɶɶy,dominate,支配します,băcuiață,ro,/bəkujatsə/,əuɶbə,Băcuiață,b弁,to,uɶ,noun,4
+penemu,id,/pənəmu/,əəu,inventor,発明者,历史书,zh-cn,/li˥˩ ʂɚ˨˩˦ ʂu˥˥/,yəu,history book,歴史の本,kyaku,əu,noun,3
+発明者,ja,/hatsɯmeiɕa/,ɶbuøyɶ,Inventor,発明者,maljunulo,eo,/maljunulo/,ɶbuuo,old man,老人,to,bu,noun,4
+keksijä,fi,/ˈkeksijæ/,øbyæ,inventor,発明者,léksikon,id,/leʔsikon/,øbyom,Léksikon,レクシコン,to,by,noun,3
+inventor,en,/ˌɪnˈvɛntɝ/,ʏmœmə,inventor,発明者,mendonder,id,/məndondər/,əmomə,Demonger,デモンガー,kyaku,mə,noun,3
+inventator,ro,/inventator/,ymømɶo,inventor,発明者,intéléktual,id,/inteleʔtual/,ymøøbuɶb,Intéléktual,intéléktual,to,mø,adjective,4
+Segelflugzeug,de,/ˈzeːɡl̩ˌfluːktsɔɪ̯k/,øbbbubbɔʏb,Glider,グライダー,estreco,eo,/estret͡so/,øbbøbo,Estrecity,確信,to,bb,noun,3
+planeador,es,/planeaðoɾ/,bɶøɶo,glider,グライダー,중괄호,ko,/t͡ɕuŋɡwa̠ɾβo̞/,bumbɶo,brace,ブレース,kyaku,ɶo,noun,3
+悪い,ja,/nikɯi/,yuy,bad,悪い,stultumi,eo,/stultumi/,bubuy,stupid,バカ,kyaku,uy,adjective,3
+petitioner,en,/pəˈtɪʃənɝ/,əʏəə,petitioner,請願者,婚嫁之事,zh-cn,/xuən˥˥ tɕja˥˩ ʈʂɚ˥˥ ʂɚ˥˩/,uəmbbɶəə,Marriage,結婚,kyaku,əə,noun,4
+pemohon,id,/pəmohon/,əoom,applicant,申請者,Gottessohn,de,/ˈgɔtɛszon/,ɔœbom,God's Son,神の息子,kyaku,om,noun,3
+tvíhliða,is,/tʰviːl̥ɪða/,bybʏɶ,duplicate,複製,ciklisto,eo,/t͡siklisto/,bybybo,cycle list,サイクルリスト,to,yb,noun,3
+ブロック,ja,/bɯɾokːɯ/,uobu,block,ブロック,pubosto,eo,/pubosto/,uobo,pubic,恥骨,to,ob,noun,3
+remolcar,es,/remolkaɾ/,øobɶ,tow,牽引,hi lạp hóa,vi,/hi˧˥ lap˨ˀ˩ʔ hwa˩˧/,yɶbbɶ,Greek,ギリシャ語,kyaku,bɶ,verb,3
+原告,ja,/geɴkokɯ/,ømou,plaintiff,原告,대표부,ko,/tɛ̝pʰjobu/,œbou,Representative,代表,kyaku,ou,noun,3
+Papier,de,/paˈpiːɐ̯/,ɶyɐ,paper,紙,braggiotti,en,/ˌbɹæɡiˈɔti/,bæyɔy,braggiotti,braggiotti,,,noun,3
+paperi,fi,/ˈpɑperi/,ɑøy,paper,紙,kongresi,eo,/kongresi/,ombøy,to congress,議会に,kyaku,øy,noun,3
+hârtie,ro,/hɨrtije/,ʉyø,paper,紙,défilé,id,/defile/,øyø,procession,行列,kyaku,yø,noun,3
+tortilla,fr,/tɔʁtija/,ɔbyɶ,tortilla,トルティーヤ,グライダー,ja,/gɯɾaidaː/,uɶyɶ,glider,グライダー,kyaku,yɶ,noun,3
+tortilla,fi,/ˈtortillɑ/,oybɑ,tortilla,トルティーヤ,호비작,ko,/ɸʷo̞bid͡ʑa̠k̚/,oybɶb,Hobijak,ホビジャック,to,yb,noun,3
+eläintiede,fi,/ˈelæinˌtiede/,øæymyøø,zoo,動物園,Seitengewehr,de,/ˈzaetɛŋeveɾ/,ɶøœøø,Side rifle,サイドライフル,kyaku,øø,noun,4
+zoology,en,/zoʊˈɑɫədʒi/,oʊɑəby,zoology,動物学,身不由己,zh-cn,/ʂən˥˥ pu˥˩ joʊ˧˥ tɕi˨˩˦/,əmuoʊby,Involuntary,不本意,kyaku,by,noun,4
+zoologie,fr,/zɔɔlɔʒi/,ɔɔɔy,zoology,動物学,Briefporti,de,/ˈbriːfpɔɾti/,bybɔy,Postporto,postporto,kyaku,ɔy,noun,3
+johtopäätös,fi,/ˈjohtoˌpæætøs/,ooææøb,conclusion,結論,Augendeckel,de,/ˈaogɛndɛkel/,ɶoœmœøb,Eye cover,アイカバー,kyaku,øb,noun,4
+conclusion,fr,/kɔ̃klyzjɔ̃/,ɔbybɔ,conclusion,結論,外婆,zh-cn,/uaɪ˥˩ pʰɔ˧˥/,uɶʏbɔ,grandmother,祖母,kyaku,bɔ,noun,3
+kesimpulan,id,/kəsimpulan/,əymuɶm,conclusion,結論,فبضمام,ar,/fabidˤimaːm/,ɶybyɶm,In guarantee,保証,kyaku,ɶm,noun,4
+pantai,id,/pantai/,ɶmɶy,beach,ビーチ,فالشاعر,ar,/faaːlʃaːʕir/,ɶɶbɶy,The poet,詩人,kyaku,ɶy,noun,3
+機械,ja,/kikai/,yɶy,machine,機械,lilailas,es,/lilailas/,yɶyɶb,lilailas,リライラ,to,ɶy,noun,3
+mașinărie,ro,/maʃinərije/,ɶyəyø,machinery,機械,aliterasi,id,/alitərasi/,ɶyəɶy,alliteration,頭韻,to,yə,noun,5
+cachorro,es,/katʃoro/,ɶboo,puppy,子犬,Farbphotos,de,/ˈfaɾbfotos/,ɶboob,Color photos,カラー写真,to,boo,noun,3
+muuttaa,fi,/ˈmuuttɑɑ/,uubɑɑ,change,変化する,أوروجواي,ar,/ʔuːruːdʒwaːj/,uubɶ,Uruguay,ウルグアイ,to,ub,verb,3
+شره,ar,/ʃariha/,ɶyɶ,gluttonous,大食い,malĝoja,eo,/mald͡ʒoia/,ɶbboyɶ,sad,悲しい,kyaku,yɶ,adjective,3
+fragancia,es,/fɾaɣanθja/,bɶɶmbɶ,fragrance,香り,역마차,ko,/jʌ̹ŋma̠t͡ɕʰa̠/,ɔmɶbbɶ,stagecoach,ステージコーチ,kyaku,bɶ,verb,3
+الجنين,ar,/aːldʒaniːn/,ɶbbɶym,Fetus,胎児,tự thụ tinh,vi,/tɯ˨ˀ˩ʔ tʰu˨ˀ˩ʔ tin˧˥/,ubbubym,Self -fertilization,自己受精,kyaku,ym,noun,3
