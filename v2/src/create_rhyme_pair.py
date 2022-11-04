@@ -60,7 +60,7 @@ def main():
         """ 以下の場合、再取得する
         ① 固有名詞の時
         ② tokenizerの結果、品詞情報が得られなかった時
-        ③ TODO: 名詞だった時（名詞は動詞、形容詞に比べて３倍近い個数存在するので、品詞の偏りが出ないように70%の確率で却下する 参考：http://user.keio.ac.jp/~rhotta/hellog/2012-06-02-1.html
+        ③ 名詞だった時（名詞は動詞、形容詞に比べて３倍近い個数存在するので、品詞の偏りが出ないように70%の確率で却下する 参考：http://user.keio.ac.jp/~rhotta/hellog/2012-06-02-1.html
         """
         isAccept = False
         while request_word[0].isupper() \

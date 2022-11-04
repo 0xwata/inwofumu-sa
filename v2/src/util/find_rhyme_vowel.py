@@ -75,7 +75,10 @@ def check_ipa_rhyme_match(ipa_rhyme_1: str, ipa_rhyme_2: str, rhyme_type: RhymeT
             else:
                 break
         # 空文字もしくは1文字しか合致しなかった場合は、Noneを返す
-        if len(match_ipa_rhyme) == 0 or len(match_ipa_rhyme) == 1:
+        # if len(match_ipa_rhyme) == 0 or len(match_ipa_rhyme) == 1:
+
+        # 3文字以上の韻ペアが少ないので、一時的に2文字以下のペアは棄却するように
+        if len(match_ipa_rhyme) <= 2:
             return None
         else:
             if len(match_ipa_rhyme) > 2:
@@ -98,7 +101,10 @@ def check_ipa_rhyme_match(ipa_rhyme_1: str, ipa_rhyme_2: str, rhyme_type: RhymeT
                 break
 
         # 空文字もしくは1文字しか合致しなかった場合は、Noneを返す
-        if len(match_ipa_rhyme) == 0 or len(match_ipa_rhyme) == 1:
+        # if len(match_ipa_rhyme) == 0 or len(match_ipa_rhyme) == 1:
+
+        # 3文字以上の韻ペアが少ないので、一時的に2文字以下のペアは棄却するように
+        if len(match_ipa_rhyme) <=2:
             return None
         else:
             if len(match_ipa_rhyme) == 2:
