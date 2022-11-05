@@ -1,0 +1,46 @@
+word,word_lang,word_ipa,word_ipa_rhyme,word_en,word_ja,pair_word,pair_word_lang,pair_word_ipa,pair_word_ipa_rhyme,pair_word_en,pair_word_ja,rhyme_type,match_ipa_rhyme,pos,syllable
+mendongkrak,id,/məndoŋʔraʔ/,əmombɶb,boosted,ブースト,وليتخدد,ar,/waliːataxaddad/,øʏɶby,And to be terrified,そして恐怖に陥る,,,noun,3
+berjaya,id,/bərdʒaja/,əbɶɶ,triumphed,勝利,reclassât,fr,/ʁəklasa/,əbɶɶ,reclassât,リクラサト,to,bɶɶ,adjective,3
+voittaja,fi,/ˈvoittɑjɑ/,oybɑɑ,winner,勝者,fautivement,fr,/fotivmɑ̃/,oybɑ,faultless,過失,to,ybɑ,adjective,3
+victorios,ro,/viktorijos/,yboyob,victorious,勝利,microficha,es,/mikɾofitʃa/,yboybɶ,microfiche,マイクロフィッシュ,to,boy,adjective,4
+القلم,ar,/aːlqalam/,ɶbɶɶm,the pen,ペン,pavoisât,fr,/pavwaza/,ɶbɶɶ,pavisât,パビサト,to,bɶɶ,noun,3
+aguja,es,/aɣuxa/,ɶuɶ,needle,針,wegrutschenden,de,/ˈvɛkˌɾʊʧɛndən/,oʏə,slip -off,スリップ - オフ,,,noun,3
+スタイラス,ja,/sɯtaiɾasɯ/,uɶyɶu,stylus,スタイラス,أوراسيا,ar,/ʔuːraːsiːaː/,uɶyɶ,Eurasia,ユーラシア,to,ɶyɶ,noun,4
+ディプロマ,ja,/deipɯɾoma/,øyuoɶ,Dipro,ディプロマ,versículo,es,/beˈɾsikulo/,øyuo,verse,詩,to,yuo,noun,4
+diploma,en,/dɪˈpɫoʊmɑ/,ʏboʊɑ,diploma,ディプロマ,espions,fr,/ɛspjɔ̃/,ɶbuyb,spies,スパイ,,,noun,3
+tutkintotodistus,fi,/ˈtutkinˌtotoˌdistus/,ubymooybub,diploma,ディプロマ,suprimiéndotelo,es,/supɾiˈmjendotelo/,ubymømoøo,suppressing you,あなたを抑制します,to,bym,noun,6
+reproduce,en,/ˌɹipɹəˈdus/,ybəub,reproduce,再現します,dispăru,ro,/dispəru/,ybəu,disappeared,消えた,to,bəu,verb,3
+número,es,/ˈnumeɾo/,uøo,number,番号,马戏团,zh-cn,/ma˨˩˦ ɕi˥˩ tʰwan˧˥/,ɶybɶm,circus,サーカス,,,noun,3
+رقم,ar,/raqama/,ɶɶɶ,number,番号,spái,is,/spauːɪ/,ɶbbɶubʏ,think about,について考える,,,noun,3
+طلب,ar,/tˤalaba/,bɶɶɶ,Request,リクエスト,哗喇喇,zh-cn,/xwa˥˥ la˥˥ la˥˥/,bɶɶɶ,Rush,急ぐ,to,ɶɶɶ,noun,3
+リクエスト,ja,/ɾikɯesɯto/,yuøuo,request,リクエスト,أشتات,ar,/ʔaʃtaːt/,ybɶbbɶy,sundries,雑貨,,,noun,4
+karnevaali,fi,/ˈkɑrneˌvɑɑli/,ɑøɑɑy,carnival,カーニバル,homicidio,es,/omiθiðjo/,oyybo,homicide,殺人,,,noun,4
+カーニバル,ja,/kaːnibaɾɯ/,ɶyɶu,carnival,カーニバル,capitalul,ro,/kapitalul/,ɶyɶub,cAPITAL,資本,to,yɶu,noun,4
+carnaval,fr,/kaʁnaval/,ɶbɶɶb,carnival,カーニバル,أرصد,ar,/ʔarsˤada/,ɶbɶɶ,Monitor,モニター,to,bɶɶ,noun,3
+sairaalahoito,fi,/ˈsɑirɑɑlɑˌhoito/,ɑyɑɑɑoyo,hospitalization,入院,ơi ới,vi,/ɤj˧˥ ɤj˩˧/,ɔyəmommɔyəm,"Oh,",おー、,,,noun,5
+ホスピス,ja,/hosɯpisɯ/,ouyu,hospice,ホスピス,boutique,fi,/ˈboutiˌque/,ouyuø,boutique,ブティック,to,uyu,noun,4
+건포도,ko,/kʌ̹npʰo̞do̞/,ɔmboo,raisin,レーズン,cointreau,en,/ˌkɔnˈtɹoʊ/,ɔmboʊ,cointreau,コントロー,to,mbo,noun,3
+borðstofa,is,/pɔrðstɔva/,ɔbbɔɶ,dining room,ダイニングルーム,fonctionnement,fr,/fɔ̃ksjɔnmɑ̃/,ɔbbɔmɑ,functioning,機能,to,bbɔ,verb,3
+薪水,zh-cn,/ɕɪn˥˥ ʂweɪ˨˩˦/,ʏmøʏ,salary,給料,Sinngedicht,de,/ˈzɪnŋedɪçt/,ʏmøʏb,Poem,詩,to,møʏ,noun,3
+salario,es,/salaɾjo/,ɶɶo,salary,給料,老等,zh-cn,/lɑʊ˨˩˦ tɤŋ˨˩˦/,bɶʏbøʏ,Old,年,,,noun,3
+salary,en,/ˈsæɫɝi/,æəy,salary,給料,beralih,id,/bəralih/,əɶy,switch,スイッチ,,,noun,3
+salariu,ro,/salarju/,ɶɶu,salary,給料,paca,eo,/pat͡sa/,ubɶɶ,peaceful,平和的,,,adjective,3
+عبقري,ar,/ʕabqarijj/,ɶbɶy,genius,天才,șapcaliu,ro,/ʃapkaliw/,ɶbɶy,Șapcaliu,șpcaliu,to,bɶy,noun,3
+天才,zh-cn,/tʰjɛn˥˥ tsʰaɪ˧˥/,bœmbbɶʏ,genius,天才,crème glacée,fr,/kʁɛmglase/,bœmbɶø,ice cream,アイスクリーム,to,œmb,noun,3
+unbecoming,en,/ˌənbiˈkəmɪŋ/,əmyəʏm,unbecoming,心配していない,籕,zh-cn,/ʈʂoʊ˥˩/,ɑmuɔœmy,Bleak,暗い,to,,adjective,4
+epämiellyttävä,fi,/ˈepæˌmiellytˌtævæ/,øæyøbybææ,unpleasant,不快,joaillerie,fr,/ʒɔajʁi/,œbbɔyyɶbɔ,jewelry,ジュエリー,,,adjective,6
+anillo,es,/aniʎo/,ɶyo,ring,指輪,Jón,is,/jouːn/,ʏœmœbɶ,John,ジョン,,,noun,3
+فرد,ar,/farrada/,ɶɶɶ,An individual,個人,전관수역,ko,/t͡ɕʌ̹nɡwa̠nsʰujʌ̹k̚/,bɶbɶœ,Alliance,アライアンス,,,adjective,3
+individual,en,/ˌɪndəˈvɪdʒəwəɫ/,ʏməʏbəə,individual,個人,hingerichteter,de,/hɪngəˈɾɪçtətɐ̯/,ʏməʏəɐ,executed,実行された,to,məʏ,adjective,5
+individual,es,/indiβiðwal/,ymyybɶb,individual,個人,individi,fi,/ˈindiˌvidi/,ymyyy,individual,個人,to,myy,adjective,4
+tambourin,fr,/tɑ̃buʁɛ̃/,ɑuœ,tambourine,タンバリン,푹석대다,ko,/pʰuks͈ʌ̹k̚t͈ɛ̝da̠/,ybɶym,Stall,ストール,,,noun,3
+pandereta,es,/pandeɾeta/,ɶmøøɶ,tambourine,タンバリン,chán chê mê mỏi,vi,/caŋ˩˧ ce˧˥ me˧˥ mɔj˧˩˨/,ɶmøøɔ,Fatigue,倦怠感,to,møø,noun,4
+タンバリン,ja,/taɴbaɾiɴ/,ɶmɶym,Tambourine,タンバリン,ينعزل,ar,/janʕazil/,ɶmɶyb,Dismissal,解任,to,mɶy,noun,3
+cardigan,en,/ˈkɑɹdɪɡən/,ɑʏəm,cardigan,カーディガン,Lawinen,de,/ˈlɑːvɪnən/,ɑʏəm,Avalanche,雪崩,to,ʏəm,noun,3
+cardigan,fr,/kaʁdigɑ̃/,ɶbyɑ,cardigan,カーディガン,Passiva,de,/ˈpaszivɑ/,ɶbyɑ,liabilities,負債,to,byɑ,noun,3
+카디건,ko,/kʰa̠diɡʌ̹n/,bɶyɔm,cardigan,カーディガン,gratinons,fr,/gʁatinɔ̃/,bɶyɔ,gratinons,グラティノン,to,ɶyɔ,noun,3
+フレスコ,ja,/ɸɯɾesɯko/,uøuo,Fresco,フレスコ,tuberkulo,eo,/tuberkulo/,uøuo,tuberculosis,結核,to,øuo,noun,4
+白鳥,ja,/ɕiɾatoɾi/,yɶoy,swan,白鳥,pitagorism,ro,/pitaɡorism/,yɶoybm,Pythagoreanism,ピタゴラス主義,to,ɶoy,noun,4
+erhalten,de,/ɛʁˈhaltən/,œbɶbəm,receive,受け取る,verkfalli,is,/vɛr̥kfatlɪ/,œbɶbʏ,strike,攻撃,to,bɶb,verb,3
+intenseco,eo,/intenset͡so/,ymømøbo,intensity,強度,inténsitas,id,/intensitas/,ymømyɶb,intensity,強度,to,møm,noun,4
+intensitate,ro,/intensitate/,ymømyɶø,intensity,強度,incentivare,es,/inθentiβaɾe/,ymømyɶø,incentive,インセンティブ,to,mømyɶø,noun,5

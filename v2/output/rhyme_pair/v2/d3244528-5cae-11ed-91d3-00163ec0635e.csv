@@ -1,0 +1,56 @@
+word,word_lang,word_ipa,word_ipa_rhyme,word_en,word_ja,pair_word,pair_word_lang,pair_word_ipa,pair_word_ipa_rhyme,pair_word_en,pair_word_ja,rhyme_type,match_ipa_rhyme,pos,syllable
+desperdicio,es,/despeɾðiθjo/,øbøybo,waste,廃棄物,Fehlbedienung,de,/felbeˈdiːənʊŋ/,øbøyəʊm,Incorrect operation,誤った操作,to,bøy,noun,4
+廃棄物,ja,/haikibɯtsɯ/,ɶyyubu,waste,廃棄物,capisizu,ro,/kapisizu/,ɶyyu,capisizu,capisizu,to,yyu,noun,4
+読み込み,ja,/jomikomi/,oyoy,Reading,読み込み,gorigori,es,/goɾiɣoɾi/,oyoy,Gorigori,ゴリゴリ,to,yoy,adjective,4
+忍び寄る,ja,/ɕinobijoɾɯ/,yoyou,Creeping up,忍び寄る,ionisoitua,fi,/ˈioniˌsoituɑ/,yoyoyuɑ,ionize,イオン化,to,oyo,verb,5
+زحف,ar,/zaħafa/,ɶɶɶ,crawling,クロール,Steve,de,/ˈʃteːvə/,ɶømbəyəm,Steve,スティーブ,,,adjective,3
+hiipiä,fi,/ˈhiipiæ/,yyyæ,sneak,こっそり,가격대성능비,ko,/ka̠ɡjʌ̹k̚t͈ɛ̝sʰʌ̹ŋnɯŋbi/,œyɶ,Price performance ratio,価格パフォーマンス比,,,adjective,3
+percobaan,id,/pərtʃobaʔan/,əboɶɶm,test,テスト,choo,en,/ˈtʃu/,ɑəøʏə,choo,チュー,to,,noun,4
+Attacke,de,/ˈʔatakə/,ɶɶə,attack,攻撃,وكالتميمي,ar,/wakaaːltamiːmijj/,yɶbɶbub,Caltimimi,カルティミミ,,,noun,3
+ataque,es,/atake/,ɶɶø,attack,攻撃,varallisuus,fi,/ˈvɑrɑlˌlisuus/,øyæ,wealth,富,,,noun,3
+économie,fr,/ekɔnɔmi/,øɔɔy,economy,経済,Staubmänteln,de,/ˈʃtaopmɛntɛln/,bɑoʏəm,Dust,ほこり,,,verb,4
+economisire,ro,/ekonomisire/,øooyyø,saving up,節約します,dékolonisasi,id,/dekolonisasi/,øooyɶy,decolonization,脱植民地化,to,ooy,noun,6
+tallentaa,fi,/ˈtɑllentɑɑ/,ɑbømɑɑ,save,保存,frowned,en,/ˈfɹaʊnd/,əɑoʊ,frowned,眉をひそめた,,,verb,4
+kotelo,fi,/ˈkotelo/,oøo,housing,ハウジング,gladiatorilor,ro,/ɡladijatorilor/,ombɶyb,gladiators,剣闘士,,,noun,3
+天国,ja,/teɴgokɯ/,ømou,heaven,天国,mentorul,ro,/mentorul/,ømoub,mentor,メンター,to,mou,noun,3
+leikkona,is,/leiːkʰɔna/,øybɔɶ,actress,女優,vêtissions,fr,/vetisjɔ̃/,øybɔ,clothes,服,to,ybɔ,noun,3
+女優,ja,/dʑojɯɯ/,bouu,actress,女優,tronului,ro,/tronuluj/,bouu,throne,王位,to,ouu,noun,3
+Darstellerin,de,/daˈɾʃtɛllɐ̯ɪn/,ɶœbɐʏm,actress,女優,iertarea,ro,/jertarĕa/,øbyɶb,forgiveness,許し,,,noun,3
+näyttelijä,fi,/ˈnæytˌtelijæ/,æybøyæ,actor,俳優,余り,ja,/amaɾi/,ɶyɶu,remainder,余り,,,noun,4
+여배우,ko,/jʌ̹bɛ̝u/,ɔœu,actress,女優,magouilleuse,fr,/magujøz/,ɶuøb,schemer,スキーマー,,,noun,3
+angulo,eo,/angulo/,ɶmuo,corner,コーナー,canturrio,es,/kanturjo/,ɶmuo,Canturrio,Canturrio,to,muo,noun,3
+作曲,ja,/sakːjokɯ/,ɶbou,Composition,作曲,aðsóknar,is,/aðsouhknar/,ɶboubɶ,attack,攻撃,to,bou,noun,3
+compozitor,ro,/kompozitor/,omoyo,composer,作曲,ơn sâu nghĩa trọng,vi,/ɤŋ˧˥ ʂɤ̆w˧˥ ŋiə˧˩˨ ʈɔŋ͡m˨ˀ˩ʔ/,omoyəɔmmb,Deep grace,深い恵み,to,moy,noun,4
+säveltäjä,fi,/ˈsævelˌtæjæ/,æøbææ,composer,作曲,útgáfudegi,is,/uːtkauvʏteijɪ/,bɶubʏʏɶ,issue,問題,,,noun,4
+ملحن,ar,/mulaħħin/,uɶbym,composer,作曲,goujaterie,fr,/guʒatʁi/,uɶby,goujater,グジャター,to,ɶby,noun,3
+pullotus,fi,/ˈpullotus/,uboub,bottling,瓶詰め,lupșoiu,ro,/lupʃoju/,ubou,Lupșoiu,lupșoiu,to,bou,verb,3
+embouteillage,fr,/ɑ̃butɛjaʒ/,ɑuœɶ,traffic jam,交通渋滞,bremsudiska,is,/prɛmsʏtɪska/,bœmʏʏbɶ,brake discs,ブレーキディスク,to,,verb,4
+瓶詰め,ja,/biɴzɯme/,ymuø,bottled,瓶詰め,incurres,es,/iŋkures/,ymuøb,incur,発生します,to,muø,noun,3
+bottling,en,/ˈbɑtəɫɪŋ/,ɑəʏm,bottling,瓶詰め,araneedoj,eo,/araneedoi/,uøo,Spiderdaids,スパイダーデイド,to,,verb,3
+îmbuteliere,ro,/ɨmbutelijere/,ʉmuøyøø,Filling,充填,回旋状,ja,/kaiseɴdʑoɯ/,ɶɶouuo,Rotation,回旋状,,,noun,6
+puoliso,fi,/ˈpuoliso/,uoyo,spouse,配偶者,padam,id,/padam/,əuu,go out,外出,to,,verb,3
+زوج,ar,/zawwadʒa/,ɶɶbɶ,Husband,夫,喇叭花,zh-cn,/la˨˩˦ pa˧ xwa˥˥/,ɶɶbɶ,morning glory,朝顔,to,ɶbɶ,verb,3
+kuvake,fi,/ˈkuvɑke/,uɑø,icon,アイコン,rechiflen,es,/retʃiflen/,øbybøm,grind,グラインド,,,noun,3
+ビスケット,ja,/bisɯketːo/,yuøbo,Biscuit,ビスケット,jivulescu,ro,/ʒivulesku/,yuøbu,Jivulescu,Jivulescu,to,uøb,noun,4
+بسكويت,ar,/baskaʊiːt/,ɶbɶʊyb,biscuit,ビスケット,Abschaffung,de,/ˈapˌʃafʊŋ/,ɶbɶʊm,abolition,廃止,to,bɶʊ,noun,3
+sjampó,is,/sjam̥pou/,bɶmou,shampoo,シャンプー,tháng cận điểm,vi,/tʰaŋ˩˧ kɤ̆ŋ˨ˀ˩ʔ diəm˧˩˨/,bɶmombyəm,nearby month,近くの月,to,ɶmo,noun,3
+arvoinen,fi,/ˈɑrvoinen/,ɑoyøm,worth,価値,sprintare,ro,/sprintare/,bbymɶø,sprint,スプリント,,,adjective,3
+akuntan,id,/akuntan/,ɶumɶm,accountant,会計士,hoa trứng gà,vi,/hwa˧˥ ʈɯŋ˩˧ ɣa˦˨/,ɶumɶ,Chicken egg flowers,鶏の卵の花,to,umɶ,noun,3
+회계사,ko,/hø̞ɡje̞sʰa̠/,øbøbɶ,accountant,会計士,éksépsi,id,/eʔsepsi/,øbøby,exception,例外,to,bøb,noun,3
+contabil,ro,/kontabil/,omɶyb,count,カウント,봉다리,ko,/po̞ŋda̠ɾi/,omɶy,Bonnage,ボネージ,to,mɶy,noun,3
+endurskoðandi,is,/ɛntʏrskɔːðantɪ/,œmʏbɔɶmʏ,accountant,会計士,Ventilschnittstelle,de,/ˈvɛntɪlstsnɪtstɛllə/,œmʏbbbbʏbbœbə,Valve interface,バルブインターフェイス,to,mʏb,noun,5
+会計士,ja,/kaikeiɕi/,ɶyøyy,Accountant,会計士,aviséis,es,/aβiˈseis/,ɶyøyb,Notice,知らせ,to,yøy,noun,3
+accountant,en,/əˈkaʊntənt/,əɶʊməmb,accountant,会計士,Beschattung,de,/bəˈʃatʊŋ/,əɶʊm,Shading,シェーディング,to,ɶʊm,noun,3
+viljelijä,fi,/ˈviljeˌlijæ/,ybøyæ,farmer,農家,디젤기관,ko,/tid͡ʑe̞ɭɡiɡwa̠n/,ybøybɶm,Diesel,ディーゼル,to,bøy,noun,4
+kultivisto,eo,/kultivisto/,ubyybo,farmer,農家,筋道,ja,/sɯdʑimitɕi/,ubyyby,Roadside,筋道,to,byyb,noun,4
+titisan,id,/titisan/,yyɶm,incarnation,化身,visitan,es,/bisitan/,yyɶm,visit,訪問,to,yɶm,verb,3
+ridiche,ro,/ridikʲ̩e/,yyyø,radish,だいこん,fyysinen,fi,/ˈfyysinen/,yyyøm,physical,物理的,to,yyø,adjective,3
+rafano,eo,/rafano/,ɶɶo,radish,だいこん,للخنوع,ar,/lilxanuːʕ/,ybɶub,To submit,提出する,,,verb,3
+historia,fi,/ˈhistoˌriɑ/,yboyɑ,history,歴史,hipnotisme,id,/hipnotismə/,yboybə,hypnotism,催眠術,to,boy,noun,4
+history,en,/ˈhɪstɝi/,ʏbəy,history,歴史,Sichtweite,de,/zɪçtˈvəiːtə/,ʏbəyə,Visual distance,視覚距離,to,bəy,noun,3
+historio,eo,/historio/,yboyo,history,歴史,mikrofilmi,fi,/ˈmikroˌfilmi/,yboyby,microfilm,マイクロフィルム,to,boy,noun,4
+歴史,ja,/ɾekiɕi/,øyy,history,歴史,splashes,en,/ˈspɫæʃɪz/,əʏəb,splashes,スプラッシュ,,,noun,3
+sejarah,id,/sədʒarah/,əbɶɶ,history,歴史,retravaille,fr,/ʁətʁavaj/,əbɶɶ,rework,やり直し,to,bɶɶ,noun,3
+pantalono,eo,/pantalono/,ɶmɶoo,pants,ズボン,antagonis,id,/antagonis/,ɶmɶoyb,antagonist,拮抗薬,to,mɶo,noun,4
+pantalones,es,/pantalones/,ɶmɶoøb,pants,ズボン,pantalono,eo,/pantalono/,ɶmɶoo,pants,ズボン,to,mɶo,noun,4
+بنطلون,ar,/bantˤaluːn/,ɶmbɶum,trouser,ズボン,散摊子,zh-cn,/san˥˩ tʰan˥˥ tsɯ˧/,ɶmbɶmbu,Scattered stall,散在する屋台,to,mbɶ,noun,3

@@ -1,0 +1,45 @@
+word,word_lang,word_ipa,word_ipa_rhyme,word_en,word_ja,pair_word,pair_word_lang,pair_word_ipa,pair_word_ipa_rhyme,pair_word_en,pair_word_ja,rhyme_type,match_ipa_rhyme,pos,syllable
+papeleo,es,/papeleo/,ɶøøo,paperwork,書類,Speiserohre,de,/ˈʃpaezeɾoɾə/,ɶøøoə,Esophagus,食道,to,øøo,noun,4
+paperwork,en,/ˈpeɪpɝˌwɝk/,øʏəəb,paperwork,書類,kärttyisä,fi,/ˈkærttyisæ/,æbyyæ,crusty,無愛想,,,noun,3
+mantie,ro,/mantije/,ɶmyø,cloak,マント,annuité,fr,/anɥite/,ɶmyø,annuity,年金,to,myø,noun,3
+ブックマーク,ja,/bɯkːɯmaːkɯ/,ubuɶu,Bookmark,ブックマーク,فتماه,ar,/futtumaːhu/,ubuɶu,Its completion,その完成,to,buɶu,noun,4
+kirjanmerkki,fi,/ˈkirjɑnˌmerkki/,yɑmøby,bookmark,ブックマーク,وللصين,ar,/walilisˤˤeɪni/,ɶyɶbɶb,And for China,そして中国のために,to,,verb,4
+kohottaa,fi,/ˈkohottɑɑ/,oobɑɑ,raise,高める,plump,sv,/plɵmːp/,bɶmʏɶyb,blot,ブロット,,,verb,4
+رفع,ar,/rafaʕa/,ɶɶɶ,upload,アップロード,sterklegar,is,/stɛr̥klɛɣar/,bœbœɶ,strong,強い,,,verb,3
+esquema,es,/eskema/,øbøɶ,scheme,図式,debleia,ro,/debleja/,øbøɶ,Debleia,Debleia,to,bøɶ,noun,3
+図式,ja,/zɯɕiki/,uyy,Diagram,図式,a-xít các-bon-nic,vi,/a˧˥-sit˦˥ kak˦˥-bɔŋ͡m˧˥-nit˧˥/,boyəby,carbon-nic acid,炭素酸,,,noun,3
+kiertue,fi,/ˈkiertue/,yøuø,tour,旅行,tărtăcuță,ro,/tərtəkutsə/,øuobyb,gourd,ひょうたん,to,,verb,3
+recorrido,es,/rekoriðo/,øoyo,route,ルート,émosional,id,/emosional/,øoyoɶb,emotional,感情の,to,oyo,adjective,4
+入札,ja,/njɯɯsatsɯ/,muuɶbu,bid,入札,sunkalendaro,eo,/sunkalendaro/,oɶɶ,Suncoring,日焼け,,,noun,3
+sanakirja,fi,/ˈsɑnɑˌkirjɑ/,ɑɑyɑ,dictionary,辞書,mahavira,en,/ˈmɑhɑˌviɹɑ/,ɑɑyɑ,mahavira,マハビラ,to,ɑyɑ,noun,4
+nebulous,en,/ˈnɛbjəɫəs/,œbəəb,nebulous,曖昧,Dekretes,de,/ˈdɛkɾətəs/,œbəəb,Decree,命令,to,bəəb,adjective,3
+曖昧,ja,/aimai/,ɶyɶy,ambiguous,曖昧,aviasi,id,/aviasi/,ɶyɶy,aviation,航空,to,yɶy,noun,3
+jinete,es,/xinete/,yøø,horse rider,馬のライダー,kélékan,id,/kelekan/,øøɶm,Kélékan,ケレカン,,,noun,3
+متسابق,ar,/mutasaːbiq/,uɶɶyb,racer,レーサー,末成り,ja,/ɯɾanaɾi/,uɶɶy,End,末成り,to,ɶɶy,verb,4
+pengendara,id,/pəŋəndara/,əəmɶɶ,driver,運転者,schemenhafte,de,/ˈʃəmənhaftə/,əəmɶbə,shadowy,影,to,əmɶ,verb,4
+călăreț,ro,/kələrets/,əəøbb,rider,ライダー,ketepél,id,/kətəpel/,əəøb,Ketepél,Ketepél,to,əøb,noun,3
+basura,es,/basuɾa/,ɶuɶ,trash,ごみ,追録,ja,/tsɯiɾokɯ/,buyou,Pursuit,追録,,,noun,3
+صيدلاني,ar,/sˤeɪdalaːnijj/,bøʏɶɶy,Pharmacist,薬剤師,归案受审,zh-cn,/kweɪ˥˥ an˥˩ ʂoʊ˥˩ ʂən˨˩˦/,bøʏɶmoʊəm,Trial,トライアル,to,øʏɶ,noun,4
+林業,ja,/ɾiɴgjoɯ/,ymbou,forestry,林業,insco,en,/ˈinskoʊ/,ymboʊ,insco,insco,to,mbo,noun,3
+sylviculture,fr,/silvikyltyʁ/,ybyybyb,forestry,林業,misticismo,es,/mistiθizmo/,ybyybo,mysticism,神秘主義,to,byyb,noun,4
+forestry,en,/ˈfɔɹəstɹi/,ɔəbby,forestry,林業,cohibieseis,es,/koiβjeseis/,oybøøyb,Cohibitioneis,cohibitioneis,,,noun,3
+loistava,fi,/ˈloistɑvɑ/,oybɑɑ,glorious,輝かしい,gauchissements,fr,/goʃismɑ̃/,oybɑ,tangles,もつれ,to,ybɑ,noun,3
+素晴らしい,ja,/sɯbaɾaɕii/,uɶɶyy,Amazing,素晴らしい,ufanaríais,es,/ufanaˈɾiais/,uɶɶyɶyb,Ufanaríais,ufanaríais,to,ɶɶy,adjective,5
+大きい,ja,/ookii/,ooyy,big,大きい,kotoisin,fi,/ˈkotoisin/,ooyym,indigenous,先住民,to,oyy,adjective,3
+pendolo,eo,/pendolo/,ømoo,pendulum,振り子,enzootic,ro,/enzootik/,ømooyb,enzootic,enzootic,to,moo,noun,3
+아름다움,ko,/a̠ɾɯmda̠um/,ɶumɶum,beauty,美しさ,tarumbas,es,/taɾumbas/,ɶumɶb,Tarumbas,タルンバ,to,umɶ,noun,3
+アンゴラ,ja,/aɴgoɾa/,ɶmoɶ,Angola,アンゴラ,Anoraks,de,/ˈʔanˌʔoːɾaks/,ɶmoɶbb,Anoraks,アノラック,to,moɶ,noun,3
+angora,fr,/ɑ̃gɔʁa/,ɑɔɶ,angora,アンゴラ,hliði,is,/l̥ɪːðɪ/,ɶbʏʏm,band,バンド,,,noun,3
+angora,en,/æŋˈɡɔɹə/,æmɔə,angora,アンゴラ,sektoro,eo,/sektoro/,øboo,sector,セクタ,,,noun,3
+angora,fi,/ˈɑngorɑ/,ɑmoɑ,angora,アンゴラ,refluyéndolo,es,/refluˈʝendolo/,øbbømø,reflining it,それを反映する,,,noun,3
+scripete,ro,/skripete/,bbyøø,pulley,プーリー,치네다,ko,/t͡ɕʰine̞da̠/,bbyøɶ,Cinada,シナダ,to,byø,noun,3
+pulio,eo,/pulio/,uyo,pulley,プーリー,afta,es,/afta/,ɶøɶɶm,thrush,ツグミ,,,noun,3
+capucha,es,/kaputʃa/,ɶubɶ,hood,フード,ajustaj,ro,/aʒustaʒ/,ɶubɶ,fit,フィット,to,ubɶ,noun,3
+Kapuze,de,/ˈkɑːputsə/,ɑubə,Hood,フード,farrugia,en,/fɑˈɹudʒə/,ɑubə,farrugia,ファルージア,to,ubə,noun,3
+kegembiraan,id,/kəgəmbiraʔan/,əəmyɶɶm,excitement,興奮,balsamerar,sv,/balsam'eːrar/,œɶɑɑœm,balstered,バルスター,,,noun,5
+excitación,es,/eksθitaˈθjon/,øbbyɶbom,excitement,興奮,雪隠大工,ja,/setɕːiɴdaikɯ/,øbbymɶyu,Snowlinder,雪隠大工,to,bby,noun,4
+Aufregung,de,/ˈaʊ̯fʀeːɡʊŋ/,ɶʊbøʊm,excitement,興奮,outpatient,en,/ˈaʊtˌpeɪʃənt/,ɶʊbøʏəmb,outpatient,外来患者,to,ʊbø,noun,3
+tarkistaa,fi,/ˈtɑrkistɑɑ/,ɑybɑɑ,check,小切手,enguirlandassent,fr,/ɑ̃giʁlɑ̃das/,ɑybɑɶb,enhance,強化する,to,ybɑ,verb,4
+ピンポイント,ja,/piɴpoiɴto/,ymoymo,Pinpoint,ピンポイント,sintonías,es,/sintoˈnias/,ymoyɶb,tune you,あなたを調整してください,to,moy,noun,3
+catatan,id,/tʃatatan/,bɶɶɶm,notes,ノート,skapaðar,is,/skaːpaðar/,bɶɶɶ,created,作成した,to,ɶɶɶ,verb,3
+merkintä,fi,/ˈmerkintæ/,øymæ,entry,エントリ,ekzalti,eo,/ekzalti/,øbɶby,Exalt,exalt,,,verb,3
