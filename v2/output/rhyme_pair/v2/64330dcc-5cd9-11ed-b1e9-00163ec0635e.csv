@@ -1,0 +1,48 @@
+word,word_lang,word_ipa,word_ipa_rhyme,word_en,word_ja,pair_word,pair_word_lang,pair_word_ipa,pair_word_ipa_rhyme,pair_word_en,pair_word_ja,rhyme_type,match_ipa_rhyme,pos,syllable
+الاخير,ar,/aːlʔaxiːr/,ɶbɶy,the last,最後,ablatives,fr,/ablativ/,ɶbɶyb,ablative,アブリティブ,to,bɶy,adjective,3
+kestää,fi,/ˈkestææ/,øbææ,take,取った,théoriquement,fr,/teɔʁikmɑ̃/,øɔybɑ,theoretically,理論的に,,,adjective,3
+ultimo,es,/ultimo/,ubyo,latest,最新,publiko,eo,/publiko/,ubyo,public,公衆,to,byo,adjective,3
+대답하다,ko,/tɛ̝da̠pʰa̠da̠/,œɶbɶɶ,Answer,答え,impartageable,fr,/ɛ̃paʁtaʒabl/,œɶbɶɶbb,impercussing,インピーシング,to,ɶbɶɶ,verb,4
+vastata,fi,/ˈvɑstɑtɑ/,ɑbɑɑ,answer,答え,engrangements,fr,/ɑ̃gʁɑ̃ʒmɑ̃/,ɑbɑɑ,reckoning,計算,to,bɑɑ,verb,3
+タキシード,ja,/takiɕiːdo/,ɶyyo,tuxedo,タキシード,ratifiko,eo,/ratifiko/,ɶyyo,ratification,批准,to,yyo,noun,4
+明日,ja,/aɕita/,ɶyɶ,tomorrow,明日,hornsteinn,is,/hɔtnsteitn̥/,ɶbɶɶub,cornerstone,礎石,,,noun,3
+tomorrow,en,/təˈmɑˌɹoʊ/,əɑoʊ,tomorrow,明日,vocalizásemos,es,/bokaliˈθasemos/,øɶoo,Let's vocalize,発声しましょう,,,noun,4
+huomenna,fi,/ˈhuomennɑ/,uoømɑ,tomorrow,明日,クロテン,ja,/kɯɾoteɴ/,uoøm,Cross,クロテン,to,oøm,noun,3
+morgaŭ,eo,/morgau/,oɶu,tomorrow,明日,sarjajako,fi,/ˈsɑrjɑˌjɑko/,bomɑɑ,division,分割,,,noun,3
+uppáhalds,is,/ʏhpauhals/,ʏɶuɶbb,favorite,お気に入り,فسيشمل,ar,/faseɪaʃmal/,ɶbɶub,It will include,含まれます,,,adjective,3
+favorit,ro,/favorit/,ɶoyb,favorite,お気に入り,かと言って,ja,/katoitːe/,ɶoybø,Otherwise,かと言って,to,oyb,verb,3
+お気に入り,ja,/okiniiɾi/,oyyyy,favorite,お気に入り,omitirían,es,/omitiˈɾian/,oyyyɶm,would omit,省略します,to,yyy,verb,4
+フリーダム,ja,/ɸɯɾiːdamɯ/,uyɶu,Freedom,フリーダム,أقيانوسي,ar,/ʔuqiːaːnuːsijj/,uyɶuy,Eclipse,日食,to,yɶu,noun,4
+自由,zh-cn,/tsɯ˥˩ joʊ˧˥/,buoʊ,free,自由,cupo,en,/ˈkjupoʊ/,buoʊ,cupo,Cupo,to,uoʊ,verb,3
+keksijä,fi,/ˈkeksijæ/,øbyæ,inventor,発明者,فلأجعال,ar,/faliʔadʒʕaːl/,ɶybub,Let's,しましょう,,,noun,3
+penemu,id,/pənəmu/,əəu,inventor,発明者,restañaban,es,/restaɲaβan/,ɶɶɶb,They restored,彼らは復元しました,,,noun,3
+盲目,ja,/moɯmokɯ/,ouou,Blindly,盲目,touhotus,fi,/ˈtouhotus/,ououb,palaver,パラバー,to,uou,noun,3
+menghadiri,id,/məŋhadiri/,əmɶyy,attend,出席,震耳欲聋,zh-cn,/ʈʂən˥˩ aɻ˨˩˦ y˥˩ lʊŋ˧˥/,əmɶyʊm,Deafening,耳をつんざく,to,mɶy,verb,4
+teilnehmen,de,/ˈtaelˌnemən/,ɶøbøəm,take part,参加してください,alegem,ro,/aledʒem/,ɶøbøm,choose,選ぶ,to,øbø,verb,3
+asistir,es,/asistiɾ/,ɶyby,attend,出席,laicizat,ro,/laitʃizat/,ɶybyɶb,secularized,世俗化,to,yby,verb,3
+참석하다,ko,/t͡ɕʰa̠msʰʌ̹kʰa̠da̠/,bbɶmbɔbɶɶ,Attend,参加する,zwangsläufigeren,de,/ˈtsvaŋslɔøfɪgɐ̯ən/,bbɶmbɔøʏɐəm,more inevitable,より避けられない,to,bɶmbɔ,verb,4
+raaputtaa,fi,/ˈrɑɑputtɑɑ/,ɑɑubɑɑ,scrape,こすります,besohltes,de,/bəˈzoltəs/,øœmɔœm,sole,唯一,to,,verb,4
+tatami,fr,/tatami/,ɶɶy,tatami,畳,㤟,zh-cn,/kʰʊŋ˨˩˦/,ubɑʊ,Bleak,暗い,,,noun,3
+istoric,ro,/istorik/,yboyb,historic,歴史的,일조일석,ko,/iɭd͡ʑo̞iɭsʰʌ̹k̚/,yboybɔb,Sunjo Ilseok,Sunjo Ilseok,to,boyb,noun,3
+تاريخي,ar,/taːriːxijj/,ɶyy,Historical,歴史的,발열제,ko,/pa̠ɾjʌ̹ɭd͡ʑe̞/,ɶɔbø,Heating agent,暖房剤,,,adjective,3
+historique,fr,/istɔʁik/,ybɔyb,historical,歴史的,separatisti,fi,/ˈsepɑrɑˌtisti/,ɑɑbɑym,separatist,分離主義者,to,,adjective,3
+historiallinen,fi,/ˈhistoriˌɑllinen/,yboyɑbyøm,historic,歴史的,hidrobiologic,ro,/hidrobiolodʒik/,yboyoobyb,Hydrobiology,水素学,to,boy,adjective,5
+sukkahousut,fi,/ˈsukkɑˌhousut/,ubɑouub,pantyhose,パンスト,gucciardo,en,/ɡuˈtʃɑɹdoʊ/,ubɑoʊ,gucciardo,グッチャード,to,bɑo,noun,4
+interval,ro,/interval/,ymøɶb,interval,間隔,tính dễ dãi,vi,/tin˩˧ je˧˩˨ jaj˧˩˨/,ymøɶ,vulnerability,脆弱性,to,møɶ,noun,3
+間隔,ja,/kaɴkakɯ/,ɶmɶu,interval,間隔,Vanuatu,fr,/vanwatu/,ɶmɶu,Vanuatu,バヌアツ,to,mɶu,noun,3
+intervalo,es,/inteɾβalo/,ymøɶo,interval,間隔,kinh tế hàng hoá,vi,/kin˧˥ te˩˧ haŋ˦˨ hwa˩˧/,ymøɶmɶ,commodity economy,商品経済,to,møɶ,noun,4
+intervalle,fr,/ɛ̃tɛʁval/,œœbɶb,interval,間隔,대대장,ko,/tɛ̝dɛ̝d͡ʑa̠ŋ/,œœbɶm,Captain,キャプテン,to,œbɶ,noun,3
+interval,en,/ˈɪntɝvəɫ/,ʏməə,interval,間隔,Synthese,de,/ˈzʏntəsə/,ʏməə,synthesis,合成,to,məə,noun,3
+traverser,fr,/tʁavɛʁse/,bɶœbø,to cross,横切ること,klarlegte,de,/ˈklaɾlɛktə/,bɶœbə,cleared,クリアされた,to,ɶœb,verb,3
+menyeberang,id,/məɲəbəraŋ/,əəəɶm,cross,クロス,ressemela,fr,/ʁəsəməla/,əəəɶ,resitmela,resitmela,to,əəɶ,verb,4
+カップル,ja,/kapːɯɾɯ/,ɶbuu,Couple,カップル,astupuș,ro,/astupuʃ/,ɶbuu,clog,詰まります,to,buu,noun,3
+haisunäätä,fi,/ˈhɑisuˌnæætæ/,ɑyuæææ,skunk,スカンク,cười hà hà,vi,/kɯəj˦˨ ha˦˨ ha˦˨/,byoɶmy,Laugh Ha Ha,笑いハハ,,,noun,4
+bakari,is,/paːkarɪ/,ɶɶʏ,baker,ベイカー,树干,zh-cn,/ʂu˥˩ kan˥˩/,moʊmoʊ,trunk,トランク,,,noun,3
+Sicherheit,de,/zɪçɛɾˈəiːt/,ʏœəyb,security,安全,estampant,fr,/ɛstɑ̃pɑ̃/,œbɑɑ,stamping,スタンピング,,,noun,3
+tryggingar,is,/tʰrɪciŋkar/,bʏymɶ,insurance,保険,perehtyneisyys,fi,/ˈperehtyˌneisyys/,ɑuuɑ,familiarity,親しみやすさ,,,noun,3
+collateral,en,/kəˈɫætɝəɫ/,əæəə,collateral,担保,dót,is,/touːt/,ɶbɶumʏm,gear,装備,,,noun,3
+rebondir,fr,/ʁəbɔ̃diʁ/,əɔyb,bounce,跳ねる、弾む,ergonomisesti,fi,/ˈergoˌnomiˌsesti/,yæøo,ergonomically,人間工学的に,to,,verb,3
+manikyyri,fi,/ˈmɑniˌkyyri/,ɑyyyy,manicure,マニキュア,sensibilises,fr,/sɑ̃sibiliz/,ɑyyyb,awareness,意識,to,yyy,noun,4
+매니큐어,ko,/mɛ̝nikçjuʌ̹/,œybuɔ,manicure,マニキュア,miesylivoima,fi,/ˈmiesyliˌvoimɑ/,oyɑɑɑ,male overpower,男性のオーバーパワー,,,noun,4
+manikuro,eo,/manikuro/,ɶyuo,manicure,マニキュア,apículos,es,/aˈpikulos/,ɶyuob,Apicles,アピクレス,to,yuo,noun,4
+manucure,fr,/manykyʁ/,ɶyyb,manicure,マニキュア,archivierst,de,/ʔaɾxiːfiːɾst/,ɶyybb,archiving,アーカイブ,to,yyb,noun,3

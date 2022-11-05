@@ -1,0 +1,50 @@
+word,word_lang,word_ipa,word_ipa_rhyme,word_en,word_ja,pair_word,pair_word_lang,pair_word_ipa,pair_word_ipa_rhyme,pair_word_en,pair_word_ja,rhyme_type,match_ipa_rhyme,pos,syllable
+tabrakan,id,/tabrakan/,ɶbɶɶm,crash,クラッシュ,salgadas,es,/salgaðas/,ɶbɶɶb,Salgadas,サルガダ,to,bɶɶ,noun,3
+kolizio,eo,/kolizio/,oyyo,collision,衝突,poliizopren,ro,/poliizopren/,oyyobøm,polyizoprene,ポリゾプレン,to,yyo,noun,4
+衝突,ja,/ɕoɯtotsɯ/,ouobu,collision,衝突,módulos,es,/ˈmoðulos/,ouob,Modules,モジュール,to,uob,noun,3
+collision,en,/kəˈɫɪʒən/,əʏəm,collision,衝突,Gestirnen,de,/gəˈʃtɪɾnən/,əʏəm,Streak,ストリーク,to,ʏəm,noun,3
+juliste,fi,/ˈjuliste/,uybø,poster,ポスター,분일제,ko,/puniɭd͡ʑe̞/,uybø,Daily,毎日,to,ybø,noun,3
+포스터,ko,/pʰo̞sʰɯtʰʌ̹/,bobubɔ,poster,ポスター,broscuță,ro,/broskutsə/,bobubə,frog,カエル,to,obub,noun,3
+avalanche,fr,/avalɑ̃ʃ/,ɶɶɑ,avalanche,雪崩,bospara,sv,/²b'uːspɑːra/,œʏmɶ,Boy,男の子,,,noun,3
+lumivyöry,fi,/ˈlumiˌvyøry/,uyyøy,avalanche,雪崩,rusifique,es,/rusifike/,uyyø,rusify,再用します,to,yyø,noun,4
+lavango,eo,/lavango/,ɶɶmo,an avalanche,雪崩,karambol,id,/karambol/,ɶɶmob,carom,キャロム,to,ɶmo,noun,3
+雪崩,ja,/nadaɾe/,ɶɶø,avalanche,雪崩,Lollý,is,/lɔli/,œʏmɶ,Lolly,ロリー,,,noun,3
+退屈,ja,/taikɯtsɯ/,ɶyubu,boring,退屈,majuskla,eo,/maiuskla/,ɶyubbɶ,uppercase,大文字,to,yub,noun,3
+plictisit,ro,/pliktisit/,bybyyb,bored,退屈,cicilan,id,/tʃitʃilan/,bybyɶm,instalment,取り付け,to,yby,verb,3
+gelangweilt,de,/gəˈlaŋvaelt/,əɶmɶøbb,bored,退屈,remaniâtes,fr,/ʁəmanjat/,əɶmɶb,reminiâtes,reminiâtes,to,ɶmɶ,verb,3
+reforma,es,/refoɾma/,øoɶ,reform,改革,whiz-zip-bang,en,/ˈwɪzˈzɪpˈbæŋ/,ʏbʏbæm,whiz-zip-bang,whiz-zip-bang,,,noun,3
+pembaruan,id,/pəmbaruan/,əmɶuɶm,update,アップデート,分岔路,zh-cn,/fən˥˥ ʈʂʰa˥˩ lu˥˩/,əmɶu,Bifurcation road,分岐道路,to,mɶu,noun,3
+改革,ja,/kaikakɯ/,ɶyɶu,reform,改革,kajaŭo,eo,/kaiauo/,ɶyɶuo,platform,プラットホーム,to,yɶu,noun,3
+gallina,es,/gaʎina/,ɶyɶ,chicken,チキン,Grjóteyri,is,/krjouːteirɪ/,bouøyʏ,Grjóteyri,Grjóteyri,,,verb,3
+kokino,eo,/kokino/,oyo,hen,鶏,cubic's,en,/ˈkjubɪks/,ʏoʊə,cubic's,立方体,,,noun,3
+banjo,en,/ˈbænˌdʒoʊ/,æmboʊ,banjo,バンジョー,jambu,id,/dʒambu/,əmubu,guava,グアバ,,,noun,3
+sombrero,fr,/sɔ̃bʁeʁo/,ɔbøo,sombrero,ソンブレロ,어제오늘,ko,/ʌ̹d͡ʑe̞o̞nɯɭ/,ɔbøou,Yesterday Today,今日は昨日,to,bøo,noun,3
+sombrero,en,/sɑmˈbɹɛɹoʊ/,ɑmbœoʊ,sombrero,ソンブレロ,bahnbrechendes,de,/ˈbɑnbrɛçɛndəs/,ɑmbœœməb,groundbreaking,画期的な,to,mbœ,noun,4
+石英,ja,/sekiei/,øyøy,quartz,石英,demiteri,ro,/demiterʲ/,øyøy,dismissals,解雇,to,yøy,noun,3
+サポーター,ja,/sapoːtaː/,ɶoɶ,Supporter,サポーター,reazem,ro,/reazem/,ooɶ,support,サポート,,,noun,3
+stuðningsmaður,is,/stʏðniŋksmaːðʏr/,bʏbymbbɶʏ,supporter,サポーター,Grislibären,de,/ˈgɾɪslibɛɾən/,bʏbyœəm,Grislibar,グリスリバル,to,ʏby,noun,4
+tukija,fi,/ˈtukijɑ/,uyɑ,supporter,サポーター,återbetalar,sv,/²'oːtɛrbɛtɑːlar/,œbɵbbʏm,Refunds,払い戻し,,,noun,3
+pendukung,id,/pəndukuŋ/,əmuum,supporters,サポーター,闷葫芦,zh-cn,/mən˥˩ xu˧˥ lu˧/,əmuu,Stuffed gourd,ひょうたんのぬいぐるみ,to,muu,noun,3
+الدموع,ar,/aːldumuːʕ/,ɶbuub,Tears,涙,合する,ja,/gasːɯɾɯ/,ɶbuu,Combine,合する,to,buu,adjective,3
+itkuinen,fi,/ˈitkuinen/,ybuyøm,crying,泣いている,discourûtes,fr,/diskuʁyt/,ybuyb,discourteous,不誤り,to,buy,adjective,3
+hotărât,ro,/hotərɨt/,oəʉb,decided,決めた,zulauf,en,/ˈzuɫaʊf/,əəmɶʊm,zulauf,ズラウフ,,,verb,3
+enloquecido,es,/enlokeθiðo/,ømoøyo,crazy,クレイジー,senkoleriĝi,eo,/senkolerid͡ʒi/,ømoøyby,to be uneasy,不安になる,to,moøy,adjective,5
+näkökulma,fi,/ˈnækøˌkulmɑ/,æøubɑ,perspective,視点,marmoriu,ro,/marmoriw/,bøybuø,marble,大理石,,,verb,4
+sjónarmið,is,/sjouːnarmɪːð/,bouɶʏb,point of view,視点,城砦,ja,/dʑoɯsai/,bouɶy,Citadel,城砦,to,ouɶ,verb,3
+kumparan,id,/kumparan/,umɶɶm,coil,コイル,bumbara,ro,/bumbara/,umɶɶ,bumbar,バンバル,to,mɶɶ,noun,3
+carrete,es,/karete/,ɶøø,reel,リール,verðinu,is,/vɛrðɪnʏ/,œʏʏ,price,価格,,,verb,3
+bobina,ro,/bobina/,oyɶ,coil,コイル,gata,sv,/²g'ɑːta/,ʊbʏbɔb,street,街,,,noun,3
+kegagalan,id,/kəgagalan/,əɶɶɶm,failure,失敗,slokknuðu,is,/stlɔhknʏðʏ/,œbɶbʏbɶbb,unfit,不適当,,,noun,4
+抗体,ja,/koɯtai/,ouɶy,antibody,抗体,opugnáis,es,/opuɣˈnais/,ouɶyb,OPUGNÁ,オプグナ,to,uɶy,noun,3
+anticorps,fr,/ɑ̃tikɔʁ/,ɑyɔb,antibody,抗体,Papierkorbs,de,/ˈpɑːpiːɾkɔɾps/,ɑyɔbb,Paper collar,紙の襟,to,yɔb,noun,3
+anticorp,ro,/antikorp/,ɶmyob,antibody,抗体,あん肝,ja,/aɴkimo/,ɶmyo,monkfish liver,あん肝,to,myo,verb,3
+Antikörper,de,/ˈʔanˌtiːkœɾpɐ̯/,ɶmyœɐ,antibody,抗体,단기대부,ko,/ta̠nɡidɛ̝bu/,ɶmyœu,Short -term loan,短期ローン,to,myœ,noun,4
+antibodi,id,/antibodi/,ɶmyoy,antibody,抗体,antílopes,es,/anˈtilopes/,ɶmyoøb,Antílopes,アンティロープ,to,myo,noun,4
+アナリスト,ja,/anaɾisɯto/,ɶɶyuo,Analyst,アナリスト,paraditură,ro,/paraditurə/,ɶɶyuə,PARTY,パーティ,to,ɶyu,noun,5
+analyst,en,/ˈænəɫɪst/,æəʏbb,analyst,アナリスト,securizat,ro,/sekurizat/,ʉmyɶ,SECURE,安全,,,noun,3
+analyytikko,fi,/ˈɑnɑˌlyytikko/,ɑɑyyybo,analyst,アナリスト,katalysiertest,de,/ˈkɑːtɑlyziːɾtɛst/,ɑɑyyœbb,catalyzed test,触媒テスト,to,ɑyy,noun,5
+spectacle,en,/ˈspɛktəkəɫ/,bœbəə,spectacle,スペクタクル,tiercerons,fr,/tjɛʁsəʁɔ̃/,bœbəɔ,tiercers,階層,to,œbə,noun,3
+spektaakkeli,fi,/ˈspektɑɑkˌkeli/,bøbɑɑbøy,spectacle,スペクタクル,préscientifique,fr,/pʁesjɑ̃tifik/,bøbɑyyb,truant,真実,to,øbɑ,noun,4
+スペクタクル,ja,/sɯpekɯtakɯɾɯ/,uøuɶuu,Spectacle,スペクタクル,아이스크림,ko,/a̠isʰɯkxɯɾim/,ɶumɶubɶɶ,ice cream,アイスクリーム,,,noun,6
+tontonan,id,/tontonan/,omoɶm,spectacle,スペクタクル,conformas,es,/komfoɾmas/,omoɶb,forms,フォーム,to,moɶ,noun,3
+pătură,ro,/pəturə/,əuə,blanket,毛布,abgewinnendem,de,/ʔapgəˈvɪnnɛndəm/,ɔœbə,dilapidated,老朽化,,,verb,3

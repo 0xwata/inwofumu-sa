@@ -1,0 +1,47 @@
+word,word_lang,word_ipa,word_ipa_rhyme,word_en,word_ja,pair_word,pair_word_lang,pair_word_ipa,pair_word_ipa_rhyme,pair_word_en,pair_word_ja,rhyme_type,match_ipa_rhyme,pos,syllable
+gradiento,eo,/gradiento/,bɶyømo,gradient,勾配,gravites,es,/gɾaβites/,bɶyøb,Gravites,グラビタ,to,ɶyø,adjective,3
+gradient,ro,/ɡradijent/,bɶyømb,gradient,勾配,spanielo,eo,/spanielo/,bɶyøo,spaniel,スパニエル,to,ɶyø,noun,3
+勾配,ja,/koɯbai/,ouɶy,Slope,勾配,ógæfu,is,/ouːcaivʏ/,ouɶyʏ,misfortune,不幸,to,uɶy,noun,3
+balancín,es,/balanˈθin/,ɶɶmym,rocker,ロッカー,吗玩意儿,zh-cn,/ma˧˥ wan˧˥ i˥˩ aɻ˧/,ɶɶmyɶ,What a thing,なんてことだ,to,ɶmy,noun,3
+corchete,es,/koɾtʃete/,obøø,square bracket,四角いブラケット,持ってけ,ja,/motːeke/,obøø,Hold,持ってけ,to,bøø,verb,3
+عطر,ar,/ʕatˤˤara/,ɶbɶɶ,Perfume,香水,Almanach,de,/ˈalmaˌnax/,ɶbɶɶb,almanac,アルマナック,to,bɶɶ,noun,3
+香水,ja,/koɯsɯi/,ouuy,perfume,香水,jouluyö,fi,/ˈjouluyø/,ouuyø,Christmas night,クリスマスの夜,to,uuy,noun,3
+perfume,es,/peɾfume/,øuø,fragrance,香り,hạ đẳng,vi,/ha˨ˀ˩ʔ dăŋ˧˩˨/,ɔoo,inferior,劣っています,,,verb,3
+parfumo,eo,/parfumo/,ɶuo,perfume,香水,đẳng thời,vi,/dăŋ˧˩˨ tʰɤj˦˨/,ubbbbomby,time,時間,,,noun,3
+umbrelă,ro,/umbrelə/,umbøə,umbrella,傘,훈제품,ko,/ɸʷund͡ʑe̞pʰum/,umbøbum,Smoked,喫煙,to,mbø,verb,3
+sombrilla,es,/sombɾiʎa/,ombyɶ,parasol,パラソル,konttialus,fi,/ˈkonttiˌɑlus/,ombyɑub,container,容器,to,mby,noun,3
+parapluie,fr,/paʁaplɥi/,ɶɶbby,umbrella,傘,刹那间,zh-cn,/ʈʂʰa˥˩ na˥˩ tɕjɛn˥˥/,ɶɶbbœm,For a moment,ちょっとの間,to,ɶbb,noun,3
+umbrella,en,/ˈəmˌbɹɛɫə/,əmbœə,umbrella,傘,hulinoitsija,fi,/ˈhuliˌnoitsijɑ/,ybyby,hulino,Hulino,,,noun,3
+Regenschirm,de,/ˈɾeːgɛnʃɪɾm/,øœmʏm,umbrella,傘,للعلوي,ar,/lilʕulwijj/,ybuby,Alawi,アラウィ,,,noun,3
+nýsköpun,is,/niːskœpʏn/,ybœʏm,innovation,革新,replenish,en,/ɹiˈpɫɛnɪʃ/,ybœʏ,replenish,補充します,to,bœʏ,verb,3
+革新,ja,/kakɯɕiɴ/,ɶuym,innovation,革新,paulinia,es,/paulinja/,ɶuymɶ,Paulinia,ポーリアニア,to,uym,noun,3
+innovar,es,/innoβaɾ/,ymoɶ,innovate,革新,イントラ,ja,/iɴtoɾa/,ymoɶ,Intra,イントラ,to,moɶ,verb,3
+innovate,en,/ˈɪnəˌveɪt/,ʏəøʏb,innovate,革新,抢滩,zh-cn,/tɕʰjɑŋ˨˩˦ tʰan˥˥/,ʊmɑʊ,Beach,ビーチ,,,verb,3
+スタッコ,ja,/sɯtakːo/,uɶbo,Stack,スタッコ,húsaskjól,is,/huːsascouːl/,uɶboub,shelter,シェルター,to,ɶbo,noun,3
+terluka,id,/tərluka/,əuɶ,wounded,負傷,division,sv,/dɪvɪɧ'uːn/,ʊbʏbɔb,division,分割,,,verb,3
+伤害,zh-cn,/ʂɑŋ˥˥ xaɪ˥˩/,ɑmɶʏ,harm,危害,nonbiting,en,/nɑnˈbaɪtɪŋ/,ɑmɶʏʏm,nonbiting,非噛み付け,to,mɶʏ,verb,3
+아프다,ko,/a̠pʰɯda̠/,ɶbuɶ,sick,病気,approuvas,fr,/apʁuva/,ɶbuɶ,approved,承認済み,to,buɶ,verb,3
+lateksi,fi,/ˈlɑteksi/,ɑøby,latex,ラテックス,antéchrist,fr,/ɑ̃tekʁist/,ɑøbybb,Antichrist,反キリスト,to,øby,noun,3
+kaivaa,fi,/ˈkɑivɑɑ/,ɑyɑɑ,dig,掘る,讨厌,zh-cn,/tʰɑʊ˨˩˦ jɛn˥˩/,uɔoʊ,Hate,嫌い,,,verb,3
+excavar,es,/ekskaβaɾ/,øbbɶɶ,dig,掘る,déploierons,fr,/deplwaʁɔ̃/,øbbɶɔ,will deploy,展開します,to,bbɶ,verb,3
+クリーム,ja,/kɯɾiːmɯ/,uyu,cream,クリーム,kennarar,is,/cʰɛnarar/,œɶɶ,teachers,教師,,,noun,3
+porcelet,fr,/pɔʁsəlɛ/,ɔbəœ,piglet,ピグレット,rostetest,de,/ˈɾɔstəˌtɛst/,ɔbəœbb,rust test,錆テスト,to,bəœ,noun,3
+opération,fr,/ɔpeʁasjɔ̃/,ɔøɶbɔ,operation,手術,Feudalsystem,de,/ˈfɔødalzʏstəm/,ɔøɶbʏbəm,Feudal system,封建制度,to,øɶb,noun,4
+operation,en,/ˌɑpɝˈeɪʃən/,ɑəøʏəm,operation,手術,belopp,sv,/bɛl'ɔpː/,bɶʏɶyb,amount,額,,,noun,4
+omisión,es,/omiˈsjon/,oybom,omission,省略,horlibro,eo,/horlibro/,oybo,an hour book,1時間の本,to,ybo,noun,3
+laiminlyönti,fi,/ˈlɑiminˌlyønti/,ɑyymyømy,neglect,忘れる,Familienkreis,de,/ˈfɑːmiliːŋkɾaes/,ɑyymbɶøb,family Circle,家族のサークル,to,yym,noun,4
+Unterlassung,de,/ˈʔʊnˌtɛɾlaszʊŋ/,ʊmœɶbʊm,omission,省略,訪問介護,ja,/hoɯmoɴkaigo/,ouomɶyo,Visiting care,訪問介護,,,noun,4
+omisiune,ro,/omisiune/,oyyuø,omission,省略,木挽き歌,ja,/kobikiɯta/,oyyuɶ,Singing song,木挽き歌,to,yyu,noun,4
+tigaie,ro,/tiɡaje/,yɶø,pan,鍋,心有灵犀一点通,zh-cn,/ɕɪn˥˥ joʊ˨˩˦ lɪŋ˧˥ ɕi˥˥ i˥˩ tjɛn˨˩˦ tʰʊŋ˥˥/,ʏmbɶbɶ,Minds think alike,心は同じように考えます,,,noun,3
+女優,ja,/dʑojɯɯ/,bouu,actress,女優,prokuura,fi,/ˈprokuurɑ/,bouuɑ,procuration,代理,to,ouu,noun,3
+leikkona,is,/leiːkʰɔna/,øybɔɶ,actress,女優,예리성,ko,/je̞ɾisʰʌ̹ŋ/,øybɔm,Sharpness,シャープネス,to,ybɔ,noun,3
+marbordo,eo,/marbordo/,ɶoo,Coast,海岸,identitet,sv,/ɪdɛntɪt'eːt/,ɔmʏʊ,identity,身元,,,noun,3
+橱柜,zh-cn,/ʈʂʰu˧˥ kweɪ˥˩/,ubøʏ,cupboard,食器棚,رطينى,ar,/rutˤeɪnaː/,ubøʏɶ,Click,クリック,to,bøʏ,verb,3
+lemari,id,/ləmari/,əɶy,cupboard,食器棚,良き,ja,/joki/,ybuu,good,良き,,,noun,3
+taistella,fi,/ˈtɑistellɑ/,ɑybøbɑ,fight,喧嘩,fendissiez,fr,/fɑ̃disje/,ɑybø,split,スプリット,to,ybø,verb,3
+編集,ja,/heɴɕɯɯ/,ømuu,edit,編集,kenguru,fi,/ˈkenguru/,ømuu,kangaroo,カンガルー,to,muu,noun,3
+bearbeitet,de,/bəʔaɾˈbəiːtət/,əɶəyəb,processed,処理,kerakeling,id,/kərakəliŋ/,əɶəym,Kerakeling,ケラケリング,to,ɶəy,verb,4
+édité,fr,/edite/,øyø,edited,編集,uniksulo,eo,/uniksulo/,obuo,Unix,Unix,,,verb,3
+extravagant,ro,/ekstravaɡant/,øbbbɶɶɶmb,extravagant,贅沢,fehlschlagendes,de,/ˈfelstslɑkˌʔɛndəs/,øbbbbɑbœməb,failure,失敗,to,bbb,adjective,4
+menyukai,id,/məɲukai/,əuɶy,like,お気に入り,blobby,en,/ˈbɫɑbi/,bɑbuəʏm,blobby,ブロブビー,to,,adjective,4
+mielikuvitus,fi,/ˈmieliˌkuvitus/,yøyuyub,imagination,想像力,bisericuță,ro,/biserikutsə/,yøyubə,chapel,チャペル,to,øyu,adjective,5
