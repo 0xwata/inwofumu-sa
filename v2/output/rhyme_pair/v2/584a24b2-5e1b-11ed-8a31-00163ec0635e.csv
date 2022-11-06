@@ -1,0 +1,52 @@
+word,word_lang,word_ipa,word_ipa_rhyme,word_en,word_ja,pair_word,pair_word_lang,pair_word_ipa,pair_word_ipa_rhyme,pair_word_en,pair_word_ja,rhyme_type,match_ipa_rhyme,pos,syllable
+amazon,en,/ˈæməˌzɑn/,æəɑm,amazon,アマゾン,leveähartiainen,fi,/ˈleveæˌhɑrtiˌɑinen/,yøuɑ,wide -paced,ワイドペース,,,noun,3
+أمازون,ar,/ʔamaːzuːn/,ɶɶum,Amazon,アマゾン,farangur,is,/faːrauŋkʏr/,ɶɶumʏ,luggage,荷物,to,ɶum,noun,3
+academie,ro,/akademije/,ɶɶøyø,academy,学校,カラディウム,ja,/kaɾadeiɯmɯ/,ɶɶøyuu,Caradium,カラディウム,to,ɶøy,noun,5
+akatemia,fi,/ˈɑkɑˌtemiɑ/,ɑɑøyɑ,academy,学校,Akademikern,de,/ˈʔɑːkɑdemikɛɾn/,ɑɑøyœm,Academics,学者,to,ɑøy,noun,5
+学校,ja,/gakːoɯ/,ɶbou,school,学校,batjocuri,ro,/batʒokurʲ/,ɶbouy,mockery,ock笑,to,bou,noun,3
+edition,en,/əˈdɪʃən/,əʏəm,edition,版,Gedichten,de,/gəˈdɪçtən/,əʏəm,poems,詩,to,ʏəm,noun,3
+ediție,ro,/editsije/,øybyø,edition,版,kehysryijy,fi,/ˈkehysˌryijy/,øybyyy,frame,フレーム,to,yby,noun,4
+édition,fr,/edisjɔ̃/,øybɔ,editing,編集,획일적,ko,/hø̞ɡiɭd͡ʑʌ̹k̚/,øybɔb,Uniform,ユニフォーム,to,ybɔ,noun,3
+الإصدار,ar,/aːlʔisˤdaːr/,ɶbybɶ,Version,バージョン,salmistas,es,/salmistas/,ɶbybɶb,Psalmists,詩編作者,to,bybɶ,noun,3
+Kamikaze,de,/ˈkɑːmikɑtsə/,ɑyɑbə,kamikaze,神風,farinacci,en,/fɑɹiˈnɑtʃi/,ɑyɑby,farinacci,ファリナッチ,to,yɑb,noun,4
+formula,en,/ˈfɔɹmjəɫə/,ɔməə,formula,方式,وكالباب,ar,/wakaʔalbaːb/,ɶɶbɶym,And as a door,そしてドアとして,,,noun,3
+anormal,es,/anoɾmal/,ɶoɶb,abnormal,異常な,đa số áp đảo,vi,/da˧˥ ʂo˩˧ ap˦˥ daw˧˩˨/,ɶoɶbɶ,Most overwhelming,最も圧倒的です,to,oɶb,adjective,3
+abnormal,en,/æbˈnɔɹməɫ/,æbɔə,abnormal,異常な,siu,vi,/ʂiw˧˥/,ɔubbɶ,Siu,siu,,,adjective,3
+연결하다,ko,/jʌ̹nɡjʌ̹ɾɦa̠da̠/,ɔmbɔɶɶ,Interlink,インターリンク,konfrontieren,de,/kɔnfɾɔnˈtiːɾen/,ɔmbɔmyøm,confront,直面,to,mbɔ,verb,4
+conectar,es,/konektaɾ/,oøbɶ,connect,接続,koneksa,eo,/koneksa/,oøbɶ,Connected,接続,to,øbɶ,verb,3
+verbinden,de,/fɛːɐ̯ˈbɪndən/,œɐʏməm,associate,仲間、同僚,växelström,sv,/²v'ɛkːsɛlstrœmː/,œʏmɶ,AC,交流,,,verb,3
+接続,ja,/setsɯzokɯ/,øbuou,connection,接続,kekkuloida,fi,/ˈkekkuˌloidɑ/,øbuoyɑ,stagger,よろめ,to,buo,noun,4
+verlassen,de,/fɛɐ̯ˈlasən/,œɐɶəm,leaving,去る,rehearing,en,/ɹiˈhiɹɪŋ/,yyʏm,rehearing,リハーサル,,,verb,3
+ditinggalkan,id,/ditiŋgalkan/,yymɶbɶm,abandoned,放棄された,disintamos,es,/disintamos/,yymɶob,We dismit,私たちは除去します,to,ymɶ,verb,4
+abandoned,en,/əˈbændənd/,əæməmb,abandoned,放棄された,commissionnassiez,fr,/kɔmisjɔnasje/,əbuø,commission,手数料,,,verb,3
+atleta,es,/atleta/,ɶbøɶ,athlete,アスリート,Gaspedal,de,/ˈɡaːspeˌdaːl/,ɶbøɶb,accelerator,アクセル,to,bøɶ,noun,3
+atleto,eo,/atleto/,ɶbøo,athlete,アスリート,magnetou,ro,/maɡnetow/,ɶbøo,magneto,マグネトー,to,bøo,noun,3
+urheilija,fi,/ˈurheiˌlijɑ/,uøyyɑ,athlete,アスリート,付貴信,ja,/zɯkekiɕiɴ/,uøyym,Accompaniment,付貴信,to,øyy,noun,4
+ylläpitäjä,fi,/ˈyllæˌpitæjæ/,ybæyææ,administrator,管理者,freineraient,fr,/fʁɛnəʁɛ/,ɶybɶybɑ,would brake,ブレーキをかけます,,,noun,5
+onkologia,fi,/ˈonkoˌlogiɑ/,omooyɑ,oncology,腫瘍学,șontorogire,ro,/ʃontorodʒire/,omoobyø,Shonogire,ショノギア,to,moo,noun,5
+fordæmi,is,/fɔrtaimɪ/,ɔɶyʏ,precedent,先例,ẩu đả,vi,/ɤ̆w˧˩˨ da˧˩˨/,uəmuəbɔbbb,affray,affray,,,noun,3
+precedenco,eo,/pret͡sedent͡so/,bøbøømbo,precedent,先例,frecuentases,es,/fɾekwentases/,bøbømɶøb,frequent,頻繁,to,øbø,noun,4
+知覚,ja,/tɕikakɯ/,byɶu,Perception,知覚,tripatouille,fr,/tʁipatuj/,byɶu,tripatouille,トリパトゥイユ,to,yɶu,noun,3
+wahrnehmen,de,/ˈvɑɾnemən/,ɑøəm,perceive,知覚,eheyttää,fi,/ˈeheˌyttææ/,uøɑ,unify,統一,,,verb,3
+인식하다,ko,/inɕʰikʰa̠da̠/,ymbybɶɶ,Cognize,認識します,臨時工,ja,/ɾiɴdʑikoɯ/,ymbyou,Temporary work,臨時工,to,mby,noun,4
+percevoir,fr,/pɛʁsəvwaʁ/,œbəbɶb,perceive,知覚,westergren,en,/ˈwɛstɝɡɹɛn/,œbəbœm,westergren,ウェスターグレン,to,bəb,noun,3
+percibir,es,/peɾθiβiɾ/,øyy,perceive,知覚,atenta,eo,/atenta/,ɶømɶ,attentive,気配り,,,verb,3
+laulaja,fi,/ˈlɑulɑjɑ/,ɑuɑɑ,vocalist,ボーカリスト,وسيتوجس,ar,/waseɪataʊadʒʒas/,yɶbbɶ,And it will be approved,そして、それは承認されます,,,noun,3
+penyanyi,id,/pəɲaɲi/,əɶy,singer,歌手,weggestrichener,de,/vɛkgəˈʃtɾɪçənɐ̯/,boɶobbbʏ,jailer,看守,,,noun,3
+cantante,es,/kantante/,ɶmɶmø,singer,歌手,단향목,ko,/ta̠nʝja̠ŋmo̞k̚/,ɶmɶmob,Danhyangmok,danhyangmok,to,mɶm,noun,3
+designer,en,/dɪˈzaɪnɝ/,ʏɶʏə,designer,デザイナー,舶,ja,/tsɯmɯ/,uou,Margin,舶,,,noun,3
+デザイナー,ja,/dezainaː/,øɶyɶ,designer,デザイナー,emailaj,ro,/emailaʒ/,øɶyɶ,emilage,エミレージ,to,ɶyɶ,noun,3
+perancang,id,/pərantʃaŋ/,əɶmbɶm,designer,デザイナー,吃晚餐,zh-cn,/ʈʂʰɚ˥˥ wan˨˩˦ tsʰan˥˥/,əɶmbbɶm,have supper,夕食を食べます,to,ɶmb,noun,3
+设计师,zh-cn,/ʂɤ˥˩ tɕi˥˩ ʂɚ˥˥/,obyə,Designer,デザイナー,voltijă,ro,/voltiʒə/,obyə,Volta,Volta,to,byə,noun,3
+تحول,ar,/taħawwala/,ɶɶɶɶ,Transformation,変身,accapara,fr,/akapaʁa/,ɶɶɶɶ,accapara,accapara,to,ɶɶɶ,verb,4
+旋回,ja,/seɴkai/,ømɶy,Turning,旋回,engaito,es,/eŋgaito/,ømɶyo,Death,死,to,mɶy,noun,3
+penipuan,id,/pənipuan/,əyuɶm,fraud,詐欺,ertränkendes,de,/ʔɛːɐˈtɾɛŋkɛndəs/,bɶmbyɐ,drowning,溺死,,,verb,3
+înșelătorie,ro,/ɨnʃelətorije/,ʉmøəoyø,fraud,詐欺,trerummare,sv,/²tr'eːrɵmːarɛ/,ɶyɶɶbɶbɶm,Three room,3部屋,,,noun,6
+vakaa,fi,/ˈvɑkɑɑ/,ɑɑɑ,stable,安定,tikungan,id,/tikuŋan/,yuɶm,Bend,曲げる,,,adjective,3
+不動,ja,/ɸɯdoɯ/,uou,Immovable,不動,abhören,de,/ˈapˌhøːʁən/,ɶbøəm,listen,聞く,,,noun,3
+argumenta,ro,/arɡumenta/,ɶuømɶ,argue,口論,ahuyentarás,es,/auʝentaˈɾas/,ɶuømɶɶb,You will scare away,あなたは怖がるでしょう,to,uømɶ,verb,4
+다투다,ko,/ta̠tʰuda̠/,ɶbuɶ,contend,争う,المحاط,ar,/aːlmuħaːtˤ/,ɶbuɶb,Surrounded,囲まれた,to,buɶ,verb,3
+discutir,es,/diskutiɾ/,ybuy,argue,口論,discourir,fr,/diskuʁiʁ/,ybuyb,discuss,話し合います,to,buy,verb,3
+암사슴,ko,/a̠msʰa̠sʰɯm/,ɶmbɶbum,doe,doe,mamfrato,eo,/mamfrato/,ɶmbɶo,mammal brother,哺乳類の兄弟,to,mbɶ,noun,3
+mineral,id,/minəral/,yəɶb,mineral,ミネラル,curetasses,fr,/kyʁətas/,yəɶb,curetasses,キュロタス,to,əɶb,noun,3
+steinefni,is,/stɛːjnɛpnɪ/,bœœbʏ,mineral,ミネラル,Zählerstand,de,/ˈtsɛlɛɾstant/,bœœbɶmb,Meter,メーター,to,œœb,noun,3

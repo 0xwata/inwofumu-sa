@@ -1,0 +1,43 @@
+word,word_lang,word_ipa,word_ipa_rhyme,word_en,word_ja,pair_word,pair_word_lang,pair_word_ipa,pair_word_ipa_rhyme,pair_word_en,pair_word_ja,rhyme_type,match_ipa_rhyme,pos,syllable
+승강기,ko,/sʰɯŋɡa̠ŋɡi/,bumɶmy,lift,リフト,krunkaði,is,/kʰruŋ̊kaðɪ/,bumɶʏ,shrooked,shrooked,to,umɶ,verb,3
+mengangkat,id,/məŋaŋkat/,əɶmɶb,lift,リフト,remaniable,fr,/ʁəmanjabl/,əɶmɶbb,reworked,作り直した,to,ɶmɶb,verb,3
+levantar,es,/leβantaɾ/,øɶmɶ,get up,起きる,etanșat,ro,/etanʃat/,øɶmɶb,watertight,水密,to,ɶmɶ,verb,3
+言語学者,ja,/geɴgogakɯɕa/,ømoɶuɶ,Linguist,言語学者,encolamiento,es,/eŋkolamjento/,ømoɶmømo,glue,のり,to,moɶ,noun,5
+emotion,en,/ˈiˌmoʊʃən/,yoʊəm,emotion,感情,荷為替,ja,/nigaɰᵝase/,ɶmou,Replacement,荷為替,,,noun,3
+المشاعر,ar,/aːlmaʃaːʕir/,ɶbɶɶy,Feelings,感情,Arnartanga,is,/artnartauŋka/,ɶbɶɶumɶ,Arnartangi,アーナルタンギ,to,bɶɶ,noun,4
+tilfinning,is,/tʰɪlfɪniŋk/,bʏbʏymb,sensibility,感性,Flüchtlingen,de,/ˈflʏçtlɪŋən/,bʏbʏəm,Refugees,難民,to,ʏbʏ,noun,3
+حزن,ar,/ħazana/,ɶɶɶ,Sadnes,サドネス,drogáis,es,/dɾoˈɣais/,ɶøɶɶb,you do,あなたがやる,,,noun,3
+悲哀,zh-cn,/peɪ˥˥ aɪ˥˥/,øʏɶʏ,sorrow,悲しみ,naify,en,/ˈneɪˌfaɪ/,øʏɶʏ,naify,NAIFY,to,ʏɶʏ,verb,3
+malĝojo,eo,/mald͡ʒoio/,ɶbboyo,sadness,悲しみ,astronom,id,/astronom/,ɶbboom,astronomer,天文学者,to,bbo,noun,3
+tristeza,es,/tɾisteθa/,bybøɶ,sadness,悲しみ,cirklego,eo,/t͡sirklego/,bybøo,a circle,円,to,ybø,noun,3
+بدني,ar,/badanijj/,ɶɶy,physical,物理的,pucuk,id,/putʃuʔ/,əyɶ,shoots,撮影,,,adjective,3
+物理的,ja,/bɯtsɯɾiteki/,ubuyøy,Physical,物理的,sulfurizare,ro,/sulfurizare/,ubuyɶø,sulfurization,硫化,to,buy,noun,5
+fyysinen,fi,/ˈfyysinen/,yyyøm,physical,物理的,ridiche,ro,/ridikʲ̩e/,yyyø,radish,だいこん,to,yyø,adjective,3
+physical,en,/ˈfɪzɪkəɫ/,ʏʏə,physical,物理的,tukkalaite,fi,/ˈtukkɑˌlɑite/,ɑoyøb,hairpiece,ヘアピース,,,adjective,3
+transférer,fr,/tʁɑ̃sfeʁe/,bɑbøø,to transfer,乗り換え,spakkeli,fi,/ˈspɑkkeli/,bɑbøy,spray,噴射,to,ɑbø,verb,3
+옮기다,ko,/o̞mɡida̠/,omyɶ,move,動く,compilat,ro,/kompilat/,omyɶb,compiled,編集済み,to,myɶ,verb,3
+قمح,ar,/qammaħa/,ɶmɶɶ,wheat,小麦,danzadas,es,/danθaðas/,ɶmɶɶb,danced,踊った,to,mɶɶ,noun,3
+Getreide,de,/gəˈtɾaedə/,əbɶøə,Grain,粒,recoiffés,fr,/ʁəkwafe/,əbɶø,recoiffees,Recoiffees,to,bɶø,noun,3
+ボルダー,ja,/boɾɯdaː/,ouɶ,Boulder,ボルダー,miðsitju,is,/mɪðsɪtjʏ/,ʏbʏbʏ,grade,学年,,,noun,3
+天花板,zh-cn,/tʰjɛn˥˥ xwa˥˥ pan˨˩˦/,bœmbɶɶm,ceiling,シーリング,jendro,en,/ˈdʒɛndɹoʊ/,bœmboʊ,jendro,ジェンドロ,to,œmb,noun,3
+fertilizante,es,/feɾtiliθante/,øyyɶmø,fertilizer,肥料,sértifikasi,id,/sertifikasi/,øyyɶy,Sétrification,セリフィケーション,to,yyɶ,noun,5
+肥料,ja,/çiɾjoɯ/,you,fertilizer,肥料,haarniska,fi,/ˈhɑɑrniskɑ/,ɑɑybɑ,armor,鎧,,,noun,3
+þægindi,is,/θaijɪntɪ/,ɶyʏmʏ,convenience,快適,Anilin,de,/ˈʔaniːlɪn/,ɶyʏm,aniline,アニリン,to,yʏm,noun,3
+mukavuus,fi,/ˈmukɑvuus/,uɑuub,comfort,快適,duplexeraient,fr,/dyplɛksəʁɛ/,œbəœ,would duplex,二重,,,noun,3
+comodidad,es,/komoðiðað/,ooyɶb,comfort,快適,porositas,id,/porositas/,ooyɶb,porosity,気孔率,to,oyɶb,noun,4
+hodiaŭ,eo,/hodiau/,oyɶu,Today,今日,オーシーアール,ja,/oːɕiːaːɾɯ/,oyɶu,OCER,オーシーアール,to,yɶu,noun,3
+today,en,/təˈdeɪ/,əøʏ,today,今日,ricochons,fr,/ʁikɔʃɔ̃/,yɔɔ,ricochons,リココン,,,noun,3
+sorbete,es,/soɾβete/,oøø,sorbet,シャーベット,Flaschenkinder,de,/ˈflaʃɛŋkɪndɐ̯/,ɔbbʏə,Bottle children,ボトルの子供,,,verb,3
+sorbetti,fi,/ˈsorbetti/,oøby,sorbet,シャーベット,colegii,ro,/koledʒij/,oøby,colleagues,同僚,to,øby,noun,3
+الأقراط,ar,/aːlʔaqraːtˤ/,ɶbɶbɶb,Earrings,イヤリング,alkasyaf,id,/alkasjaf/,ɶbɶbɶb,Alkasyaf,alkasyaf,to,bɶbɶb,noun,3
+반바지,ko,/pa̠nba̠d͡ʑi/,ɶmɶby,shorts,ショーツ,أنفجر,ar,/ʔanfadʒir/,ɶmɶby,burst,バースト,to,mɶby,verb,3
+cigaredo,eo,/t͡sigaredo/,byɶøo,cigarette,シガレット,Hlíðarvegi,is,/l̥iðarveijɪ/,byɶøyʏ,Hlíðarvegur,hlíðarvegur,to,yɶø,noun,4
+sígarettu,is,/siːkarɛhtʏ/,yɶœʏ,cigarette,シガレット,最低水準,ja,/saiteisɯidʑɯɴ/,ɶyøyuybum,Lowest level,最低水準,,,noun,4
+cigarrillo,es,/θiɣariʎo/,yɶyo,cigarette,シガレット,hialinoză,ro,/hialinozə/,yɶyoə,hyalinosis,ヒアリン症,to,ɶyo,noun,4
+高い,ja,/takai/,ɶɶy,high,高い,tresdoblaríais,es,/tɾezðoβlaˈɾiais/,ɶbøɶ,TresDoblaríais,Tresdoblaríais,,,adjective,3
+relación,es,/relaˈθjon/,øɶbom,relationship,関係,scénarios,fr,/senaʁjo/,øɶbo,scenarios,シナリオ,to,ɶbo,noun,3
+デベロッパー,ja,/debeɾopːaː/,øøobɶ,Developer,デベロッパー,telecopter,ro,/telekopter/,øøobø,telescopter,テレスコプター,to,øob,noun,4
+自殺,ja,/dʑisatsɯ/,byɶbu,suicide,自殺,시각화,ko,/ɕʰiɡa̠kʰwa̠/,byɶbɶ,Visualization,視覚化,to,yɶb,noun,3
+sinucidere,ro,/sinutʃidere/,yubyøø,suicide,自殺,hiushygrometri,fi,/ˈhiusˌhygroˌmetri/,yubyboøby,hair hygrometer,ヘア湿度計,to,uby,noun,5
+الانتحار,ar,/aːlintiħaːr/,ɶymyɶ,Suicide,自殺,仮眠室,ja,/kamiɴɕitsɯ/,ɶymybu,Nap room,仮眠室,to,ymy,noun,4
+강아지,ko,/ka̠ŋa̠d͡ʑi/,ɶɶby,puppy,子犬,kapabli,eo,/kapabli/,ɶɶby,to be able to,できるように,to,ɶby,adjective,3
