@@ -1,0 +1,38 @@
+word,word_lang,word_ipa,word_ipa_rhyme,word_en,word_ja,pair_word,pair_word_lang,pair_word_ipa,pair_word_ipa_rhyme,pair_word_en,pair_word_ja,rhyme_type,match_ipa_rhyme,pos,syllable
+sanity,en,/ˈsænəti/,æəy,sanity,正気,hrína,is,/r̥iːna/,ɔbɔʏb,cry,泣く,,,noun,3
+kewarasan,id,/kəwarasan/,əɶɶɶm,sanity,正気,Erdpotenzial,de,/ʔɛːɐtpotɛntsial/,œɐboœmbyɶb,Earth potential,地球の可能性,,,noun,4
+geðheilsu,is,/cɛðheilsʏ/,œbøybʏ,mental,メンタル,helvétiques,fr,/ɛlvetik/,œbøyb,halvetics,ハルベティクス,to,bøyb,noun,3
+pisau,id,/pisau/,yɶu,knife,ナイフ,kontaktiertest,de,/ˈkɔntaktiːɾtɛst/,ʏbyɶəb,contact,コンタクト,,,noun,3
+índice,es,/ˈindiθe/,ymyø,index,索引,insidén,id,/insiden/,ymyøm,incident,インシデント,to,myø,noun,3
+lipsahdus,fi,/ˈlipsɑhdus/,ybɑub,slip,スリップ,Luxembourg,fr,/lyksɑ̃buʁ/,ybɑub,Luxembourg,ルクセンブルク,to,bɑub,noun,3
+ينزلق,ar,/janzaliq/,ɶmɶyb,Slips,スリップ,samræmist,is,/samraimɪst/,ɶmɶyʏbb,compliance,コンプライアンス,to,mɶy,noun,3
+deslizar,es,/dezliθaɾ/,øbyɶ,slide,滑り台,メジナ,ja,/medʑina/,øbyɶ,Medina,メジナ,to,byɶ,verb,3
+スリップ,ja,/sɯɾipːɯ/,uybu,slip,スリップ,흘기죽,ko,/xɯɭɡid͡ʑuk̚/,uybub,Porridge,おかゆ,to,ybu,noun,3
+syndicat,fr,/sɛ̃dika/,œyɶ,union,連合,tự phát,vi,/tɯ˨ˀ˩ʔ fak˦˥/,œboob,spontaneous,自発,,,noun,3
+uniune,ro,/uniune/,uyuø,union,連合,suihkute,fi,/ˈsuihkute/,uyuø,sprayer,噴霧器,to,yuø,noun,3
+nevino,eo,/nevino/,øyo,niece,姪,ジューサー,ja,/dʑɯːsaː/,oyoø,Juicer,ジューサー,,,noun,3
+出現,ja,/ɕɯtsɯgeɴ/,ubuøm,Appearance,出現,vulturești,ro,/vultureʃtʲ/,ubuøy,Vultureşti,Vultureşti,to,buø,noun,3
+aparición,es,/apaɾiˈθjon/,ɶɶybom,appearance,外観,barmaniță,ro,/barmanitsə/,ɶɶybə,bartender,バーテンダー,to,ɶyb,noun,4
+konstanta,eo,/konstanta/,ombɶmɶ,permanent,永続,ậm à ậm ừ,vi,/ɤ̆m˨ˀ˩ʔ a˦˨ ɤ̆m˨ˀ˩ʔ ɯ˦˨/,ombɶombu,"Oh, hum",ああ、ハム,to,mbɶ,adjective,3
+vakaa,fi,/ˈvɑkɑɑ/,ɑɑɑ,stable,安定,mångfald,sv,/²m'ɔŋːfalːd/,yʊʏ,diversity,多様性,,,adjective,3
+等待,zh-cn,/tɤŋ˨˩˦ taɪ˥˩/,omɶʏ,wait,待つ,klerulo,eo,/klerulo/,bøuo,scholar,学者,to,,verb,3
+انتظر,ar,/intaðˤara/,ymɶbɶɶ,wait,待つ,빙하지형,ko,/piŋɦa̠d͡ʑiʝjʌ̹ŋ/,ymɶbyɔm,Glacier,氷河,to,mɶb,verb,4
+moderni,fi,/ˈmoderni/,oøy,modern,モダン,học vấn,vi,/hɔk͡p˨ˀ˩ʔ jɤ̆ŋ˩˧/,yəmuə,Education,教育,,,adjective,3
+アストロラーベ,ja,/asɯtoɾoɾaːbe/,ɶuooɶø,Astrolabe,アストロラーベ,automovilista,es,/automoβilista/,ɶuooyybɶ,motorist,運転手,to,uoo,noun,6
+smáatriði,is,/smauːatrɪðɪ/,bɶuɶbʏʏ,detail,詳細,tradukaĵo,eo,/tradukaʒo/,bɶuɶo,Translation,翻訳,to,ɶuɶ,noun,4
+التفاصيل,ar,/aːltafaːsˤiːl/,ɶbɶɶbyb,the details,詳細,almanaĥo,eo,/almanaxo/,ɶbɶɶo,Almanacia,アルマナシア,to,bɶɶ,noun,4
+Detail,de,/deˈtaɪ̯/,øɶʏ,detail,詳細,muuttumaton,fi,/ˈmuuttuˌmɑton/,ɑɑyu,constant,絶え間ない,,,noun,3
+テンソル,ja,/teɴsoɾɯ/,ømou,tensor,テンソル,senzorul,ro,/senzorul/,ømoub,sensor,センサー,to,mou,noun,3
+membentuk,id,/məmbəntuʔ/,əməmub,form,形,consumption,en,/kənˈsəmpʃən/,əməmbəm,consumption,消費,to,məm,noun,3
+شكل,ar,/ʃakala/,ɶɶɶ,appearance,外観,velkaannuttaa,fi,/ˈvelkɑɑnˌnuttɑɑ/,ɑbøby,indebted,お世話になりました,,,noun,3
+忠実,ja,/tɕɯɯdʑitsɯ/,buubybu,Faithful,忠実,thư mục học,vi,/tʰɯ˧˥ muk͡p˨ˀ˩ʔ hɔk͡p˨ˀ˩ʔ/,buubbbɔbbb,folder,フォルダ,to,uub,noun,3
+uskollinen,fi,/ˈuskolˌlinen/,ubobyøm,loyal,忠実,custodiado,es,/kustoðjaðo/,ubobɶo,guarded,ガード付き,to,bob,adjective,4
+海啸,zh-cn,/xaɪ˨˩˦ ɕjɑʊ˥˩/,ɶʏbɑʊ,Tsunami,津波,wiesbaden,en,/ˈwaɪsˌbɑdən/,ɶʏbɑəm,wiesbaden,ヴィーズバーデン,to,ʏbɑ,noun,3
+tsunami,fr,/tsynami/,byɶy,tsunami,津波,brillarías,es,/bɾiʎaˈɾias/,byɶyɶb,You would shine,あなたは輝くでしょう,to,yɶy,noun,3
+mengangkut,id,/məŋaŋkut/,əɶmub,transport,輸送,Gesamthub,de,/gəˈzamtup/,əɶmub,Overall stroke,全体的なストローク,to,ɶmub,noun,3
+pengelolaan,id,/pəŋəlolaʔan/,əəoɶɶm,management,管理,salzlos,de,/ˈzaltsˌloːs/,øœmbœboœməb,saltless,無塩,,,noun,5
+management,en,/ˈmænədʒmənt/,æəbəmb,management,管理,facilitároslos,es,/faθiliˈtaɾozlos/,obbyɶb,facilitate them,それらを促進します,,,noun,3
+hallinto,fi,/ˈhɑllinto/,ɑbymo,administration,管理,shampouiniez,fr,/ʃɑ̃pwinje/,ɑbymø,shampouiniez,シャンポイニエズ,to,bym,noun,3
+aborigen,ro,/aboridʒen/,ɶoybøm,aboriginal,アボリジニ,Waschtoiletten,de,/vaʃtoiːlkɛtən/,ɶoybœəm,Washing toilet,トイレを洗う,to,oyb,noun,4
+원주민,ko,/wʌ̹nd͡ʑumin/,ɔmbuym,Native,ネイティブ,konfluentem,de,/kɔnfluɛntəm/,ɔmbuœməm,confluent,コンフルエント,to,mbu,adjective,3
+aboriginaali,fi,/ˈɑboˌrigiˌnɑɑli/,ɑoyyɑɑy,Aboriginal,アボリジニ,majorisierendes,de,/ˈmɑːjoɾiziːɾɛndəs/,ɑoyyœməb,Majoricizing,多数化,to,oyy,adjective,6

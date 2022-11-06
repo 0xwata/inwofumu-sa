@@ -1,0 +1,48 @@
+word,word_lang,word_ipa,word_ipa_rhyme,word_en,word_ja,pair_word,pair_word_lang,pair_word_ipa,pair_word_ipa_rhyme,pair_word_en,pair_word_ja,rhyme_type,match_ipa_rhyme,pos,syllable
+catalog,ro,/kataloɡ/,ɶɶob,catalog,カタログ,中落ち,ja,/nakaotɕi/,ɶɶoby,Falling down,中落ち,to,ɶob,noun,3
+luettelo,fi,/ˈluetˌtelo/,uøbøo,catalog,カタログ,județe,ro,/ʒudetse/,uøbø,COUNTY,郡,to,øbø,noun,3
+catalogue,fr,/katalɔg/,ɶɶɔb,catalog,カタログ,matarboð,is,/maːtarpɔːð/,ɶɶɔb,dinner party,ディナーパーティー,to,ɶɔb,noun,3
+Katalog,de,/kataˈloːk/,ɶɶob,Catalog,カタログ,Bá Đa Lộc,vi,/ba˩˧ da˧˥ lok͡p˨ˀ˩ʔ/,ɶɶobbb,Ba Da Loc,ba da loc,to,ɶob,noun,3
+catalogue,en,/ˈkætəˌɫɔɡ/,æəɔb,catalogue,カタログ,carbometru,ro,/karbometru/,oyø,carbometer,カーボメーター,,,noun,3
+날카로운,ko,/na̠ɭkʰa̠ɾo̞un/,ɶbɶoum,sharp,シャープ,lacrado,es,/lakɾaðo/,ɶbɶo,Lacrado,ラクラド,to,bɶo,adjective,3
+terävä,fi,/ˈterævæ/,øææ,sharp,シャープ,rộn rịp,vi,/ʐoŋ͡m˨ˀ˩ʔ ʐip˨ˀ˩ʔ/,buyəmbu,animate,アニメーション,,,adjective,3
+athuga,is,/aːtʏɣa/,ɶʏɶ,observe,観察する,섬려,ko,/sʰʌ̹mɲjʌ̹/,byɶy,Sack,袋,,,verb,3
+comprobación,es,/kompɾoβaˈθjon/,omboɶbom,verification,検証,옹송망송,ko,/o̞ŋsʰo̞ŋma̠ŋsʰo̞ŋ/,ombomɶmbom,Ongsongmangsong,ongsongmangsong,to,mbo,noun,4
+oscuridad,es,/oskuɾiðað/,obuyɶb,darkness,暗闇,solmupisto,fi,/ˈsolmuˌpisto/,obuybo,knot pole,ノットポール,to,buy,noun,4
+mallumo,eo,/mallumo/,ɶbuo,darkness,暗闇,mascullo,es,/maskuʎo/,ɶbuo,male,男,to,buo,noun,3
+întuneric,ro,/ɨntunerik/,ʉmuøyb,darkness,暗闇,bjórinn,is,/pjouːrɪn/,ɶɶbʏbœb,beer,,,,noun,4
+الظلام,ar,/aːlðˤalaːm/,ɶbbɶɶm,the darkness,闇,二甲醚,zh-cn,/aɻ˥˩ tɕja˨˩˦ mi˧˥/,ɶbbɶy,Methalin,メタリン,to,bbɶ,noun,3
+kegelapan,id,/kəgəlapan/,əəɶɶm,darkness,暗闇,kanado,eo,/kanado/,ymɶyɶo,Canada,カナダ,,,noun,4
+鬼ごっこ,ja,/onigokːo/,oyobo,Tag,鬼ごっこ,roikottaa,fi,/ˈroikottɑɑ/,oyobɑɑ,dangle,ぶら下がっています,to,yob,noun,4
+etikedo,eo,/etikedo/,øyøo,tag,鬼ごっこ,レシテーション,ja,/ɾeɕiteːɕoɴ/,øyøom,Reception,レシテーション,to,yøo,noun,4
+menandai,id,/mənandai/,əɶmɶy,mark,マーク,Gesamtablaufs,de,/gəˈzamtablaofs/,əɶmɶbɶobb,Total expiry,総有効期限,to,ɶmɶ,noun,4
+aŭtomata,eo,/automata/,ɶuoɶɶ,Auto,自動,アウトカウント,ja,/aɯtokaɯɴto/,ɶuoɶumo,Out count,アウトカウント,to,uoɶ,noun,4
+自動,ja,/dʑidoɯ/,byou,Automatic,自動,triforiu,ro,/triforju/,byou,triforiu,Triforiu,to,you,noun,3
+所得,ja,/ɕotokɯ/,oou,income,所得,가공업,ko,/ka̠ɡo̞ŋʌ̹p̚/,ɶoɔb,Processing industry,加工業界,,,noun,3
+Einkommen,de,/ˈʔaenˌkɔmmən/,ɶømɔməm,income,所得,anémions,fr,/anemjɔ̃/,ɶømɔ,anemi,アネミ,to,ømɔ,noun,3
+uppruni,is,/ʏhprʏnɪ/,ʏbʏʏ,origin,元,nitpicking,en,/ˈnɪtˌpɪkɪŋ/,ʏbʏʏm,nitpicking,nitpicking,to,bʏʏ,verb,3
+alkuperä,fi,/ˈɑlkuˌperæ/,ɑbuøæ,origin,元,wahrzunehmen,de,/ˈvɑɾtsunemən/,ɑbuøəm,perceive,知覚,to,buø,verb,4
+origine,fr,/ɔʁiʒin/,ɔyym,origin,元,forsýning,is,/fɔr̥siniŋk/,ɔyymb,preview,プレビュー,to,yym,verb,3
+gemeinsames,de,/gəˈməɪnzaːləs/,əəʏmɶəb,common,一般,đò dọc,vi,/dɔ˦˨ jɔk͡p˨ˀ˩ʔ/,ɶbbobbbuəmu,boat vertical,ボート垂直,to,,adjective,4
+sameiginlegt,is,/saːmeijɪnlɛxt/,ɶøyʏmœbb,in common,共通,월령체가,ko,/wʌ̹ɭʎjʌ̹ŋt͡ɕʰe̞ɡa̠/,ɔbɔmbbøɶ,Wolyeong,wolyeong,,,adjective,4
+baðkari,is,/paðkarɪ/,ɶbɶʏ,bathtub,バスタブ,Arbeiter,de,/ˈʔaʁbaɪ̯tɐ/,ɶbɶʏɐ,Worker,ワーカー,to,bɶʏ,noun,3
+バスタブ,ja,/basɯtabɯ/,ɶuɶu,Bathtub,バスタブ,gaŭsa kurbo,eo,/gausa kurbo/,ɶuɶuo,Gaussian curve,ガウス曲線,to,uɶu,noun,4
+banujo,eo,/banuio/,ɶuyo,bathtub,バスタブ,nautiloid,ro,/nautiloid/,ɶuyoyb,nautiloid,ノーチロイド,to,uyo,noun,3
+回廊,ja,/kaiɾoɯ/,ɶyou,corridor,回廊,avionul,ro,/avionul/,ɶyoub,the airplane,飛行機,to,you,noun,3
+mănăstire,ro,/mənəstire/,əəbyø,monastery,修道院,pengecilan,id,/pəŋətʃilan/,əəbyɶm,reduction,割引,to,əby,noun,4
+テレタイプ,ja,/teɾetaipɯ/,øøɶyu,Telegram,テレタイプ,fédérasi,id,/federasi/,øøɶy,federation,フェデレーション,to,øɶy,noun,4
+البنفسجي,ar,/aːlbanafsadʒijj/,ɶbɶɶbɶby,Purple,紫の,jafnaðarmanna,is,/japnaðarmana/,ɶbɶɶɶɶ,socialist,社会主義者,to,bɶɶ,noun,5
+violetti,fi,/ˈvioˌletti/,yoøby,violet,バイオレット,tirones,es,/tiɾones/,yoøb,pulls,プル,to,oøb,noun,3
+violet,en,/ˈvaɪəɫɪt/,ɶʏəʏb,violet,バイオレット,Leiterin,de,/ˈlaɪ̯təʀɪn/,ɶʏəʏm,Leader,リーダー,to,ʏəʏ,noun,3
+시리즈,ko,/ɕʰiɾid͡ʑɯ/,byybu,series,シリーズ,quilici,en,/kwiˈɫitʃi/,byyby,quilici,キリチ,to,yyb,noun,3
+serie,ro,/serije/,øyø,series,シリーズ,lưỡng thê,vi,/lɯəŋ˧˩˨ tʰe˧˥/,ɶoɔmm,amphibian,両生類,,,noun,3
+kangourou,fr,/kɑ̃guʁu/,ɑuu,kangaroo,カンガルー,ليسوغ,ar,/liːasuːɣ/,ɶɶɶbb,Lisug,lisug,,,noun,3
+kangaroo,en,/ˌkæŋɡɝˈu/,æməu,kangaroo,カンガルー,mineral,id,/minəral/,yəɶb,mineral,ミネラル,,,noun,3
+Marketing,de,/ˈmaɾketɪŋ/,ɶøʏm,marketing,マーケティング,annandag,sv,/²'anːandɑːg/,bʊœmʏb,another day,別の日,,,noun,3
+pemasaran,id,/pəmasaran/,əɶɶɶm,marketing,マーケティング,儁,zh-cn,/tɕyn˥˩/,uʊməbbʏm,hansome,ハンソム,,,noun,4
+隔離,ja,/kakɯɾi/,ɶuy,isolation,隔離,chiến phí,vi,/ciəŋ˩˧ fi˩˧/,ubommomm,battle,戦い,,,noun,3
+isolation,en,/ˌaɪsəˈɫeɪʃən/,ɶʏəøʏəm,isolation,隔離,烧制,zh-cn,/ʂɑʊ˥˥ ʈʂɚ˥˩/,ɶʏɶʏɑmɑm,Burn,燃えた,to,,noun,4
+einangrun,is,/eiːnauŋkrʏn/,øyɶumbʏm,isolation,隔離,peisajul,ro,/peisaʒul/,øyɶub,the landscape,風景,to,yɶu,noun,3
+عزل,ar,/ʕazala/,ɶɶɶ,Isolation,隔離,precursor,en,/pɹiˈkɝsɝ/,byəə,precursor,前駆,,,noun,3
+izolo,eo,/izolo/,yoo,isolation,隔離,krokodiltårar,sv,/²krʊkʊd'iːltoːrar/,ɶuʏbb,Crocodile tears,ワニの涙,,,noun,3
+逃げる,ja,/nigeɾɯ/,yøu,run away,逃げる,Bắc Ninh,vi,/băk˦˥ nin˧˥/,ɶɶmbɶm,Bac Ninh,BAC NINH,,,verb,3
