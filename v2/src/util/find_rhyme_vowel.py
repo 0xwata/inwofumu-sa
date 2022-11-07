@@ -75,18 +75,24 @@ def check_ipa_rhyme_match(ipa_rhyme_1: str, ipa_rhyme_2: str, rhyme_type: RhymeT
         # 空文字もしくは1文字しか合致しなかった場合は、Noneを返す
         # if len(match_ipa_rhyme) == 0 or len(match_ipa_rhyme) == 1:
 
-        # 3文字以上の韻ペアが少ないので、一時的に2文字以下のペアは棄却するように
-        if len(match_ipa_rhyme) <= 2:
+        if len(match_ipa_rhyme) < 2:
             return None
         else:
-            if len(match_ipa_rhyme) > 2:
-                return match_ipa_rhyme
-            else: # 2文字で韻を踏んでる場合は3割採用
-                isAccept = random.choices([True, False], weights=[0.3, 0.7], k=1)
+            if len(match_ipa_rhyme) == 2:
+                isAccept = random.choices([True, False], weights=[0.5, 0.5], k=1)
                 if isAccept:
                     return match_ipa_rhyme
-                else:
-                    return None
+            else:
+                return match_ipa_rhyme
+            # return match_ipa_rhyme
+            # if len(match_ipa_rhyme) > 2:
+            #     return match_ipa_rhyme
+            # else: # 2文字で韻を踏んでる場合は3割採用
+            #     isAccept = random.choices([True, False], weights=[0.5, 0.5], k=1)
+            #     if isAccept:
+            #         return match_ipa_rhyme
+            #     else:
+            #         return None
     else:
         """脚韻判定"""
         for i in range(max_rhyme_length):
@@ -102,13 +108,15 @@ def check_ipa_rhyme_match(ipa_rhyme_1: str, ipa_rhyme_2: str, rhyme_type: RhymeT
         # if len(match_ipa_rhyme) == 0 or len(match_ipa_rhyme) == 1:
 
         # 3文字以上の韻ペアが少ないので、一時的に2文字以下のペアは棄却するように
-        if len(match_ipa_rhyme) <=2:
+        if len(match_ipa_rhyme) <2:
             return None
         else:
             if len(match_ipa_rhyme) == 2:
-                isAccept = random.choices([True, False], weights=[0.3, 0.7], k=1)
+                isAccept = random.choices([True, False], weights=[0.5, 0.5], k=1)
                 if isAccept:
                     # 後ろから1文字ずつ追加しているので最後は反転して渡す
                     return match_ipa_rhyme[::-1]
                 else:
                     return None
+            else:
+                return match_ipa_rhyme[::-1]
