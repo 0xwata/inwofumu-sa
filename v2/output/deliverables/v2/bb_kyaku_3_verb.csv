@@ -1,17 +1,17 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-útskrifast,is,graduate,卒業,/uːtskrɪvast/,ubbbʏɶbb
-impeccable,fr,flawless,完璧,/ɛ̃pekabl/,œøɶbb
-hình chữ nhật,vi,rectangle,矩形,/hin˦˨ cɯ˧˩˨ ɲɤ̆k˨ˀ˩ʔ/,ymuobb
-endurreist,is,restrain,拘束,/ɛntʏreist/,œmʏøybb
-guitarist,en,guitarist,ギタリスト,/ˌɡɪˈtɑɹɪst/,ʏɑʏbb
-dialect,en,dialect,方言,/ˈdaɪəˌɫɛkt/,ɶʏəœbb
-heyrist,is,hear,聞く,/heiːrɪst/,øyʏbb
-reconnaître,fr,recognize,認識,/ʁəkɔnɛtʁ/,əɔœbb
-homoséks,id,Homoséks,ホモセクス,/homoseʔs/,ooøbb
-olocaust,ro,holocaust,ホロコースト,/olokaust/,ooɶubb
-magnetized,/ˈmæɡnɪˌtaɪzd/,magnetized,磁化,æbʏɶʏbb,en
-dát vàng bạc,/jak˦˥ jaŋ˦˨ bak˨ˀ˩ʔ/,Gold inlaid,金色の象眼細工,ɶbɶmɶbb,vi
-erschwindelt,de,swindled,詐欺,/ʔɛːɐˈʃvɪndɛlt/,œɐʏmœbb
-protórax,es,prothorax,prothorax,/pɾoˈtoɾaks/,booɶbb
-anseilt,de,hinted,ほのめかした,/ˈʔanˌzaelt/,ɶmɶøbb
-poltergeist,fi,poltergeist,ポルターガイスト,/ˈpoltergeist/,obøøybb
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+útskrifast,is,graduate,卒業,/uːtskrɪvast/,ubbbʏɶbb,bb
+impeccable,fr,flawless,完璧,/ɛ̃pekabl/,œøɶbb,bb
+hình chữ nhật,vi,rectangle,矩形,/hin˦˨ cɯ˧˩˨ ɲɤ̆k˨ˀ˩ʔ/,ymuobb,bb
+endurreist,is,restrain,拘束,/ɛntʏreist/,œmʏøybb,bb
+guitarist,en,guitarist,ギタリスト,/ˌɡɪˈtɑɹɪst/,ʏɑʏbb,bb
+dialect,en,dialect,方言,/ˈdaɪəˌɫɛkt/,ɶʏəœbb,bb
+heyrist,is,hear,聞く,/heiːrɪst/,øyʏbb,bb
+reconnaître,fr,recognize,認識,/ʁəkɔnɛtʁ/,əɔœbb,bb
+homoséks,id,Homoséks,ホモセクス,/homoseʔs/,ooøbb,bb
+olocaust,ro,holocaust,ホロコースト,/olokaust/,ooɶubb,bb
+magnetized,/ˈmæɡnɪˌtaɪzd/,magnetized,磁化,æbʏɶʏbb,en,bb
+dát vàng bạc,/jak˦˥ jaŋ˦˨ bak˨ˀ˩ʔ/,Gold inlaid,金色の象眼細工,ɶbɶmɶbb,vi,bb
+erschwindelt,de,swindled,詐欺,/ʔɛːɐˈʃvɪndɛlt/,œɐʏmœbb,bb
+protórax,es,prothorax,prothorax,/pɾoˈtoɾaks/,booɶbb,bb
+anseilt,de,hinted,ほのめかした,/ˈʔanˌzaelt/,ɶmɶøbb,bb
+poltergeist,fi,poltergeist,ポルターガイスト,/ˈpoltergeist/,obøøybb,bb

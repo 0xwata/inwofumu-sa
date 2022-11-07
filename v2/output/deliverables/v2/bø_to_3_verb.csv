@@ -1,28 +1,28 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-observar,es,look,見る,/oβseɾβaɾ/,obøɶ
-malseka,eo,wet,濡れた,/malseka/,ɶbøɶ
-itkeä,fi,cry,泣く,/ˈitkeæ/,ybøæ
-gastejo,eo,Inn,宿,/gasteio/,ɶbøyo
-osteri,fi,oyster,カキ,/ˈosteri/,obøy
-kulkea,fi,pass,合格,/ˈkulkeɑ/,ubøɑ
-helteinen,fi,hot,ホット,/ˈhelteinen/,øbøyøm
-撕碎,zh-cn,Tear,破れ目,/sɯ˥˥ sweɪ˥˩/,ubøʏ
-sylkeä,fi,spit,スピット,/ˈsylkeæ/,ybøæ
-污秽,zh-cn,filthy,汚い,/u˥˥ xweɪ˥˩/,ubøʏ
-advertir,es,warn,暖かい,/aðβeɾtiɾ/,ɶbøy
-撤退,zh-cn,retreat,退却,/ʈʂʰɤ˥˩ tʰweɪ˥˩/,obøʏ
-obtener,es,get,得る,/oβteneɾ/,obøø
-piceo,eo,spruce,スプルース,/pit͡seo/,ybøo
-vorlegen,de,present,現在,/ˈfoːʁˌleːɡən/,obøəm
-carceră,ro,solitary,孤独,/kartʃerə/,ɶbøə
-見附ける,ja,Seek,見附ける,/mikːeɾɯ/,ybøu
-nachreden,de,talk,話,/ˈnaxˌɾeːdən/,ɶbøəm
-potreemos,es,Let's plead,嘆願しましょう,/potɾeemos/,obøøob
-útleigu,is,rent,家賃,/uːtleiɣʏ/,ubøyʏ
-égrainai,fr,widen,広がります,/egʁenɛ/,øbøœ
-للخيدع,ar,To dump,を投げ捨てます,/lilxeɪdaʕ/,ybøʏɶb
-subvérsif,/subversif/,subversive,破壊的,ubøyb,id
-nachsehen,de,check,小切手,/ˈnaxˌzeːən/,ɶbøəm
-korskeilla,fi,bump,バンプ,/ˈkorskeillɑ/,obøybɑ
-核对,zh-cn,Check,小切手,/xɤ˧˥ tweɪ˥˩/,obøʏ
-disperați,ro,Desperate,やけくそ,/disperatsʲ/,ybøɶby
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+observar,es,look,見る,/oβseɾβaɾ/,obøɶ,bø
+malseka,eo,wet,濡れた,/malseka/,ɶbøɶ,bø
+itkeä,fi,cry,泣く,/ˈitkeæ/,ybøæ,bø
+gastejo,eo,Inn,宿,/gasteio/,ɶbøyo,bø
+osteri,fi,oyster,カキ,/ˈosteri/,obøy,bø
+kulkea,fi,pass,合格,/ˈkulkeɑ/,ubøɑ,bø
+helteinen,fi,hot,ホット,/ˈhelteinen/,øbøyøm,bø
+撕碎,zh-cn,Tear,破れ目,/sɯ˥˥ sweɪ˥˩/,ubøʏ,bø
+sylkeä,fi,spit,スピット,/ˈsylkeæ/,ybøæ,bø
+污秽,zh-cn,filthy,汚い,/u˥˥ xweɪ˥˩/,ubøʏ,bø
+advertir,es,warn,暖かい,/aðβeɾtiɾ/,ɶbøy,bø
+撤退,zh-cn,retreat,退却,/ʈʂʰɤ˥˩ tʰweɪ˥˩/,obøʏ,bø
+obtener,es,get,得る,/oβteneɾ/,obøø,bø
+piceo,eo,spruce,スプルース,/pit͡seo/,ybøo,bø
+vorlegen,de,present,現在,/ˈfoːʁˌleːɡən/,obøəm,bø
+carceră,ro,solitary,孤独,/kartʃerə/,ɶbøə,bø
+見附ける,ja,Seek,見附ける,/mikːeɾɯ/,ybøu,bø
+nachreden,de,talk,話,/ˈnaxˌɾeːdən/,ɶbøəm,bø
+potreemos,es,Let's plead,嘆願しましょう,/potɾeemos/,obøøob,bø
+útleigu,is,rent,家賃,/uːtleiɣʏ/,ubøyʏ,bø
+égrainai,fr,widen,広がります,/egʁenɛ/,øbøœ,bø
+للخيدع,ar,To dump,を投げ捨てます,/lilxeɪdaʕ/,ybøʏɶb,bø
+subvérsif,/subversif/,subversive,破壊的,ubøyb,id,bø
+nachsehen,de,check,小切手,/ˈnaxˌzeːən/,ɶbøəm,bø
+korskeilla,fi,bump,バンプ,/ˈkorskeillɑ/,obøybɑ,bø
+核对,zh-cn,Check,小切手,/xɤ˧˥ tweɪ˥˩/,obøʏ,bø
+disperați,ro,Desperate,やけくそ,/disperatsʲ/,ybøɶby,bø

@@ -1,27 +1,27 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-kateellinen,fi,jealous,嫉妬,/ˈkɑteelˌlinen/,ɑøøbyøm
-kunniallinen,fi,respectable,立派,/ˈkunniˌɑllinen/,umyɑbyøm
-varovainen,fi,careful,気をつけろ,/ˈvɑroˌvɑinen/,ɑoɑyøm
-haitallinen,fi,harmful,危害を与える,/ˈhɑitɑlˌlinen/,ɑyɑbyøm
-konkreettinen,fi,concrete,コンクリート,/ˈkonkreetˌtinen/,ombøøbyøm
-pikkuruinen,fi,tiny,小さな,/ˈpikkuˌruinen/,ybuuyøm
-hyödyllinen,fi,useful,使える,/ˈhyødylˌlinen/,yøybyøm
-harmoninen,fi,harmonious,調和,/ˈhɑrmoˌninen/,ɑoyøm
-keraaminen,fi,ceramic,セラミック,/ˈkerɑɑˌminen/,øɑɑyøm
-kaupallinen,fi,commercial,商業,/ˈkɑupɑlˌlinen/,ɑuɑbyøm
-tietämätön,fi,unaware,気づかない,/ˈtietæˌmætøn/,yøææøm
-akustinen,fi,acoustic,音響,/ˈɑkusˌtinen/,ɑubyøm
-barbaarinen,fi,barbarous,野bar,/ˈbɑrbɑɑˌrinen/,ɑɑɑyøm
-huomaavainen,fi,thoughtful,思慮深い,/ˈhuomɑɑˌvɑinen/,uoɑɑɑyøm
-mahdollinen,fi,possible,可能,/ˈmɑhdolˌlinen/,ɑobyøm
-sericigen,ro,Sericigen,セリシゲン,/seritʃidʒen/,øybybøm
-firmeneigen,de,company,会社,/ˈfɪɾmənˌaeˌgeːn/,ʏəmɶøøm
-クロミフェン,ja,clomiphene,クロミフェン,/kɯɾomiɸɯeɴ/,uoyuøm
-ambivalén,id,ambivalent,アンビバレント,/ambivalen/,ɶmyɶøm
-pascapanén,id,post-harvest,収穫後,/pastʃapanen/,ɶbbɶɶøm
-vợ lẽ con thêm,vi,Child's wife adds more,子供の妻はもっと追加します,/jɤ˨ˀ˩ʔ lɛ˧˩˨ kɔŋ͡m˧˥ tʰem˧˥/,obœɔmmbøm
-hepatogen,ro,hepatogen,肝臓,/hepatodʒen/,øɶobøm
-bấp ba bấp bênh,vi,The three precarious,3つは不安定です,/bɤ̆p˦˥ ba˧˥ bɤ̆p˦˥ ben˧˥/,obɶobøm
-manajemén,id,Managemén,Managemén,/manadʒəmen/,ɶɶbəøm
-indizieren,de,index,索引,/ʔɪndiˈtsiːɾen/,ʏmybyøm
-alabaren,es,praise,賞賛,/alaβaɾen/,ɶɶɶøm
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+kateellinen,fi,jealous,嫉妬,/ˈkɑteelˌlinen/,ɑøøbyøm,øm
+kunniallinen,fi,respectable,立派,/ˈkunniˌɑllinen/,umyɑbyøm,øm
+varovainen,fi,careful,気をつけろ,/ˈvɑroˌvɑinen/,ɑoɑyøm,øm
+haitallinen,fi,harmful,危害を与える,/ˈhɑitɑlˌlinen/,ɑyɑbyøm,øm
+konkreettinen,fi,concrete,コンクリート,/ˈkonkreetˌtinen/,ombøøbyøm,øm
+pikkuruinen,fi,tiny,小さな,/ˈpikkuˌruinen/,ybuuyøm,øm
+hyödyllinen,fi,useful,使える,/ˈhyødylˌlinen/,yøybyøm,øm
+harmoninen,fi,harmonious,調和,/ˈhɑrmoˌninen/,ɑoyøm,øm
+keraaminen,fi,ceramic,セラミック,/ˈkerɑɑˌminen/,øɑɑyøm,øm
+kaupallinen,fi,commercial,商業,/ˈkɑupɑlˌlinen/,ɑuɑbyøm,øm
+tietämätön,fi,unaware,気づかない,/ˈtietæˌmætøn/,yøææøm,øm
+akustinen,fi,acoustic,音響,/ˈɑkusˌtinen/,ɑubyøm,øm
+barbaarinen,fi,barbarous,野bar,/ˈbɑrbɑɑˌrinen/,ɑɑɑyøm,øm
+huomaavainen,fi,thoughtful,思慮深い,/ˈhuomɑɑˌvɑinen/,uoɑɑɑyøm,øm
+mahdollinen,fi,possible,可能,/ˈmɑhdolˌlinen/,ɑobyøm,øm
+sericigen,ro,Sericigen,セリシゲン,/seritʃidʒen/,øybybøm,øm
+firmeneigen,de,company,会社,/ˈfɪɾmənˌaeˌgeːn/,ʏəmɶøøm,øm
+クロミフェン,ja,clomiphene,クロミフェン,/kɯɾomiɸɯeɴ/,uoyuøm,øm
+ambivalén,id,ambivalent,アンビバレント,/ambivalen/,ɶmyɶøm,øm
+pascapanén,id,post-harvest,収穫後,/pastʃapanen/,ɶbbɶɶøm,øm
+vợ lẽ con thêm,vi,Child's wife adds more,子供の妻はもっと追加します,/jɤ˨ˀ˩ʔ lɛ˧˩˨ kɔŋ͡m˧˥ tʰem˧˥/,obœɔmmbøm,øm
+hepatogen,ro,hepatogen,肝臓,/hepatodʒen/,øɶobøm,øm
+bấp ba bấp bênh,vi,The three precarious,3つは不安定です,/bɤ̆p˦˥ ba˧˥ bɤ̆p˦˥ ben˧˥/,obɶobøm,øm
+manajemén,id,Managemén,Managemén,/manadʒəmen/,ɶɶbəøm,øm
+indizieren,de,index,索引,/ʔɪndiˈtsiːɾen/,ʏmybyøm,øm
+alabaren,es,praise,賞賛,/alaβaɾen/,ɶɶɶøm,øm

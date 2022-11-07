@@ -1,44 +1,44 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-hebilla,es,buckle,バックル,/eβiʎa/,øyɶ
-이기다,ko,win,勝つ,/iɡida̠/,yyɶ
-mendigar,es,beg,頼む,/mendiɣaɾ/,ømyɶ
-admirar,es,admire,憧れ,/aðmiɾaɾ/,ɶbyɶ
-cantina,es,canteen,食堂,/kantina/,ɶmyɶ
-retina,es,retina,網膜,/retina/,øyɶ
-الاختيار,ar,the choice,選択肢,/aːlixtiːaːr/,ɶybyɶ
-realizar,es,realize,気付く,/realiθaɾ/,øɶyɶ
-lámina,es,leaf,葉,/ˈlamina/,ɶyɶ
-طعم,ar,Taste,味,/tˤaʕima/,bɶyɶ
-lejía,es,bleach,漂白,/leˈxia/,øyɶ
-deslizar,es,slide,滑り台,/dezliθaɾ/,øbyɶ
-réttlæta,is,rationalize,合理化,/rjɛhtlaita/,œbɶyɶ
-motivar,es,to motivate,やる気を起こさせる,/motiβaɾ/,oyɶ
-생기다,ko,to happen,発生する,/sʰɛ̝ŋɡida̠/,bœmyɶ
-سمع,ar,he heard,彼は聞いた,/samiʕa/,ɶyɶ
-جشع,ar,Greed,貪欲,/dʒaʃiʕa/,bɶyɶ
-dunia,id,world,世界,/dunia/,uyɶ
-umræða,is,discussion,討論,/ʏmraiða/,ʏmɶyɶ
-마시다,ko,drink,飲む,/ma̠ɕʰida̠/,ɶbyɶ
-عمل,ar,a job,仕事,/ʕamila/,ɶyɶ
-나뉘다,ko,Divide,分ける,/na̠nɥida̠/,ɶmyɶ
-bifilar,de,bifilar,バイラー,/biˈfiːlaɽ/,yyɶ
-puricaș,ro,Puricas,斑点,/purikaʃ/,uyɶ
-Úkraína,is,Ukraine,ウクライナ,/uːkra ina/,ubɶyɶ
-vaccina,/vaktʃina/,vaccinate,ワクチン接種,ɶbbyɶ,ro
-玻璃碴,zh-cn,Glass,ガラス,/pɔ˥˥ li˧ ʈʂʰa˧˥/,ɔyɶ
-ordinar,ro,ordinary,普通,/ordinar/,oyɶ
-gagnrýna,is,criticize,批判,/kakrina/,ɶbyɶ
-fermita,eo,closed,閉まっている,/fermita/,øyɶ
-recrutât,/ʁəkʁyta/,recruit,リクルート,əbyɶ,fr
-kveina,is,whine,泣き声,/kʰveiːna/,bøyɶ
-métissages,fr,Mixing,混合,/metisaʒ/,øyɶ
-닫히다,ko,shut,シャット,/ta̠t͡ɕʰida̠/,ɶbbyɶ
-indæla,is,love,愛,/ɪntaila/,ʏmɶyɶ
-空き家,ja,Vacant house,空き家,/akija/,ɶyɶ
-dégrippa,fr,tumbled,転んだ,/degʁipa/,øbyɶ
-madrina,es,godmother,ゴッドマザー,/maðɾina/,ɶbyɶ
-naviga,ro,sail,帆,/naviɡa/,ɶyɶ
-七夜,ja,Seven nights,七夜,/ɕitɕija/,ybyɶ
-berilah,id,Give,与える,/bərilah/,əyɶ
-arruina,es,ruin,破滅,/arwina/,ɶyɶ
-maquillas,fr,made up,作り物,/makija/,ɶyɶ
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+hebilla,es,buckle,バックル,/eβiʎa/,øyɶ,yɶ
+이기다,ko,win,勝つ,/iɡida̠/,yyɶ,yɶ
+mendigar,es,beg,頼む,/mendiɣaɾ/,ømyɶ,yɶ
+admirar,es,admire,憧れ,/aðmiɾaɾ/,ɶbyɶ,yɶ
+cantina,es,canteen,食堂,/kantina/,ɶmyɶ,yɶ
+retina,es,retina,網膜,/retina/,øyɶ,yɶ
+الاختيار,ar,the choice,選択肢,/aːlixtiːaːr/,ɶybyɶ,yɶ
+realizar,es,realize,気付く,/realiθaɾ/,øɶyɶ,yɶ
+lámina,es,leaf,葉,/ˈlamina/,ɶyɶ,yɶ
+طعم,ar,Taste,味,/tˤaʕima/,bɶyɶ,yɶ
+lejía,es,bleach,漂白,/leˈxia/,øyɶ,yɶ
+deslizar,es,slide,滑り台,/dezliθaɾ/,øbyɶ,yɶ
+réttlæta,is,rationalize,合理化,/rjɛhtlaita/,œbɶyɶ,yɶ
+motivar,es,to motivate,やる気を起こさせる,/motiβaɾ/,oyɶ,yɶ
+생기다,ko,to happen,発生する,/sʰɛ̝ŋɡida̠/,bœmyɶ,yɶ
+سمع,ar,he heard,彼は聞いた,/samiʕa/,ɶyɶ,yɶ
+جشع,ar,Greed,貪欲,/dʒaʃiʕa/,bɶyɶ,yɶ
+dunia,id,world,世界,/dunia/,uyɶ,yɶ
+umræða,is,discussion,討論,/ʏmraiða/,ʏmɶyɶ,yɶ
+마시다,ko,drink,飲む,/ma̠ɕʰida̠/,ɶbyɶ,yɶ
+عمل,ar,a job,仕事,/ʕamila/,ɶyɶ,yɶ
+나뉘다,ko,Divide,分ける,/na̠nɥida̠/,ɶmyɶ,yɶ
+bifilar,de,bifilar,バイラー,/biˈfiːlaɽ/,yyɶ,yɶ
+puricaș,ro,Puricas,斑点,/purikaʃ/,uyɶ,yɶ
+Úkraína,is,Ukraine,ウクライナ,/uːkra ina/,ubɶyɶ,yɶ
+vaccina,/vaktʃina/,vaccinate,ワクチン接種,ɶbbyɶ,ro,yɶ
+玻璃碴,zh-cn,Glass,ガラス,/pɔ˥˥ li˧ ʈʂʰa˧˥/,ɔyɶ,yɶ
+ordinar,ro,ordinary,普通,/ordinar/,oyɶ,yɶ
+gagnrýna,is,criticize,批判,/kakrina/,ɶbyɶ,yɶ
+fermita,eo,closed,閉まっている,/fermita/,øyɶ,yɶ
+recrutât,/ʁəkʁyta/,recruit,リクルート,əbyɶ,fr,yɶ
+kveina,is,whine,泣き声,/kʰveiːna/,bøyɶ,yɶ
+métissages,fr,Mixing,混合,/metisaʒ/,øyɶ,yɶ
+닫히다,ko,shut,シャット,/ta̠t͡ɕʰida̠/,ɶbbyɶ,yɶ
+indæla,is,love,愛,/ɪntaila/,ʏmɶyɶ,yɶ
+空き家,ja,Vacant house,空き家,/akija/,ɶyɶ,yɶ
+dégrippa,fr,tumbled,転んだ,/degʁipa/,øbyɶ,yɶ
+madrina,es,godmother,ゴッドマザー,/maðɾina/,ɶbyɶ,yɶ
+naviga,ro,sail,帆,/naviɡa/,ɶyɶ,yɶ
+七夜,ja,Seven nights,七夜,/ɕitɕija/,ybyɶ,yɶ
+berilah,id,Give,与える,/bərilah/,əyɶ,yɶ
+arruina,es,ruin,破滅,/arwina/,ɶyɶ,yɶ
+maquillas,fr,made up,作り物,/makija/,ɶyɶ,yɶ

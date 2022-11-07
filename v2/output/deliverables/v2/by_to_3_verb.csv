@@ -1,30 +1,30 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-etsiä,fi,search,探す,/ˈetsiæ/,øbyæ
-subsistance,fr,subsistence,自給自足,/sybzistɑ̃s/,ybybɑb
-keksiä,fi,invent,発明,/ˈkeksiæ/,øbyæ
-무지개,ko,rainbow,虹,/mud͡ʑiɡɛ̝/,ubyœ
-abspielen,de,play,遊ぶ,/ˈʔapˌʃpiːlən/,ɶbyəm
-vasculaire,fr,vascular,血管,/vaskylɛʁ/,ɶbyœb
-terminer,fr,to end,最後まで,/tɛʁmine/,œbyø
-hallita,fi,control,コントロール,/ˈhɑllitɑ/,ɑbyɑ
-potkia,fi,kick,キック,/ˈpotkiɑ/,obyɑ
-adhesive,en,adhesive,接着剤,/ædˈhisɪv/,æbyʏb
-奇怪,zh-cn,strangeness,奇妙さ,/tɕʰi˧˥ kuaɪ˥˩/,bbyuɶʏ
-suspiro,es,sigh,はぁ,/suspiɾo/,ubyo
-atribut,id,attribute,属性,/atribut/,ɶbyub
-vệ sinh viên,vi,guard,ガード,/je˨ˀ˩ʔ ʂin˧˥ jiəŋ˧˥/,øbymyəm
-hispiré,es,I Hispiré,私はヒスピレです,/ispiˈɾe/,ybyø
-decidi,eo,decide,決めます,/det͡sidi/,øbyy
-húsbílinn,is,camper,キャンピングカー,/huːspilɪn/,ubyʏm
-aflijan,es,They afflict,彼らは苦しむ,/aflixan/,ɶbyɶm
-المشول,/aːlmiʃwal/,Shaved,剃毛,ɶbyɶb,ar
-대진표,ko,Vote,投票,/tɛ̝d͡ʑinpʰjo/,œbymbo
-taxieren,de,estimate,見積もり,/tɑˈksiːɾen/,ɑbyøm
-oxide,es,oxide,酸化物,/oksiðe/,obyø
-mätkiä,fi,imitate,模倣します,/ˈmætkiæ/,æbyæ
-útrýma,/uːtrima/,eliminate,排除,ubyɶ,is
-친밀감,/t͡ɕʰinmiɭɡa̠m/,belonging,所属する,bbymyɶm,ko
-fournirez,fr,will supply,供給します,/fuʁniʁe/,ubyø
-striptease,fi,striptease,ストリップの,/ˈstripteˌɑse/,bbybøɑø
-다지다,ko,Float,浮く,/ta̠d͡ʑida̠/,ɶbyɶ
-abdiquée,fr,abdicated,放棄,/abdike/,ɶbyø
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+etsiä,fi,search,探す,/ˈetsiæ/,øbyæ,by
+subsistance,fr,subsistence,自給自足,/sybzistɑ̃s/,ybybɑb,by
+keksiä,fi,invent,発明,/ˈkeksiæ/,øbyæ,by
+무지개,ko,rainbow,虹,/mud͡ʑiɡɛ̝/,ubyœ,by
+abspielen,de,play,遊ぶ,/ˈʔapˌʃpiːlən/,ɶbyəm,by
+vasculaire,fr,vascular,血管,/vaskylɛʁ/,ɶbyœb,by
+terminer,fr,to end,最後まで,/tɛʁmine/,œbyø,by
+hallita,fi,control,コントロール,/ˈhɑllitɑ/,ɑbyɑ,by
+potkia,fi,kick,キック,/ˈpotkiɑ/,obyɑ,by
+adhesive,en,adhesive,接着剤,/ædˈhisɪv/,æbyʏb,by
+奇怪,zh-cn,strangeness,奇妙さ,/tɕʰi˧˥ kuaɪ˥˩/,bbyuɶʏ,by
+suspiro,es,sigh,はぁ,/suspiɾo/,ubyo,by
+atribut,id,attribute,属性,/atribut/,ɶbyub,by
+vệ sinh viên,vi,guard,ガード,/je˨ˀ˩ʔ ʂin˧˥ jiəŋ˧˥/,øbymyəm,by
+hispiré,es,I Hispiré,私はヒスピレです,/ispiˈɾe/,ybyø,by
+decidi,eo,decide,決めます,/det͡sidi/,øbyy,by
+húsbílinn,is,camper,キャンピングカー,/huːspilɪn/,ubyʏm,by
+aflijan,es,They afflict,彼らは苦しむ,/aflixan/,ɶbyɶm,by
+المشول,/aːlmiʃwal/,Shaved,剃毛,ɶbyɶb,ar,by
+대진표,ko,Vote,投票,/tɛ̝d͡ʑinpʰjo/,œbymbo,by
+taxieren,de,estimate,見積もり,/tɑˈksiːɾen/,ɑbyøm,by
+oxide,es,oxide,酸化物,/oksiðe/,obyø,by
+mätkiä,fi,imitate,模倣します,/ˈmætkiæ/,æbyæ,by
+útrýma,/uːtrima/,eliminate,排除,ubyɶ,is,by
+친밀감,/t͡ɕʰinmiɭɡa̠m/,belonging,所属する,bbymyɶm,ko,by
+fournirez,fr,will supply,供給します,/fuʁniʁe/,ubyø,by
+striptease,fi,striptease,ストリップの,/ˈstripteˌɑse/,bbybøɑø,by
+다지다,ko,Float,浮く,/ta̠d͡ʑida̠/,ɶbyɶ,by
+abdiquée,fr,abdicated,放棄,/abdike/,ɶbyø,by

@@ -1,24 +1,24 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-karibu,fi,caribou,カリブー,/ˈkɑribu/,ɑyu
-menghibur,id,entertain,楽しませる,/məŋhibur/,əmyu
-ratkaisu,fi,solution,解決,/ˈrɑtkɑisu/,ɑbɑyu
-ドリル,ja,Drill,ドリル,/doɾiɾɯ/,oyu
-スパイク,ja,spike,スパイク,/sɯpaikɯ/,uɶyu
-vilkaisu,fi,glance,一目,/ˈvilkɑisu/,ybɑyu
-insinyur,id,engineer,エンジニア,/insiɲur/,ymyu
-エキス,ja,extract,エキス,/ekisɯ/,øyu
-كازينو,ar,casino,カジノ,/kaːziːnuː/,ɶyu
-コーンミール,ja,Cornmeal,コーンミール,/koːɴmiːɾɯ/,omyu
-スパイス,ja,spices,スパイス,/sɯpaisɯ/,uɶyu
-sabicú,/saβiˈku/,Sabicú,サビック,ɶyu,es
-Platinuhr,de,Platinum clock,プラチナクロック,/ˈplɑːtinuɾ/,bɑyu
-muțiu,ro,MUŢIU,ムーイウ,/mutsiu/,ubyu
-lupiu,ro,Lupiu,lupiu,/lupiu/,uyu
-烘衣服,zh-cn,Baking,ベーキング,/xʊŋ˥˥ i˥˥ fu˧/,ʊmyu
-デヴィル,ja,Devil,デヴィル,/deviɾɯ/,øyu
-neniu,/neniu/,No one,誰も,øyu,eo
-刑具,ja,instruments of punishment,刑具,/keigɯ/,øyu
-ĉi tiu,eo,this one,これです,/t͡ʃi tiu/,byyu
-paliu,ro,Paliu,パリウ,/paliu/,ɶyu
-antirouille,fr,rustproof,さび的,/ɑ̃tiʁuj/,ɑyu
-掸衣服,zh-cn,掸 掸 掸,掸掸掸,/tan˨˩˦ i˥˥ fu˧/,ɶmyu
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+karibu,fi,caribou,カリブー,/ˈkɑribu/,ɑyu,yu
+menghibur,id,entertain,楽しませる,/məŋhibur/,əmyu,yu
+ratkaisu,fi,solution,解決,/ˈrɑtkɑisu/,ɑbɑyu,yu
+ドリル,ja,Drill,ドリル,/doɾiɾɯ/,oyu,yu
+スパイク,ja,spike,スパイク,/sɯpaikɯ/,uɶyu,yu
+vilkaisu,fi,glance,一目,/ˈvilkɑisu/,ybɑyu,yu
+insinyur,id,engineer,エンジニア,/insiɲur/,ymyu,yu
+エキス,ja,extract,エキス,/ekisɯ/,øyu,yu
+كازينو,ar,casino,カジノ,/kaːziːnuː/,ɶyu,yu
+コーンミール,ja,Cornmeal,コーンミール,/koːɴmiːɾɯ/,omyu,yu
+スパイス,ja,spices,スパイス,/sɯpaisɯ/,uɶyu,yu
+sabicú,/saβiˈku/,Sabicú,サビック,ɶyu,es,yu
+Platinuhr,de,Platinum clock,プラチナクロック,/ˈplɑːtinuɾ/,bɑyu,yu
+muțiu,ro,MUŢIU,ムーイウ,/mutsiu/,ubyu,yu
+lupiu,ro,Lupiu,lupiu,/lupiu/,uyu,yu
+烘衣服,zh-cn,Baking,ベーキング,/xʊŋ˥˥ i˥˥ fu˧/,ʊmyu,yu
+デヴィル,ja,Devil,デヴィル,/deviɾɯ/,øyu,yu
+neniu,/neniu/,No one,誰も,øyu,eo,yu
+刑具,ja,instruments of punishment,刑具,/keigɯ/,øyu,yu
+ĉi tiu,eo,this one,これです,/t͡ʃi tiu/,byyu,yu
+paliu,ro,Paliu,パリウ,/paliu/,ɶyu,yu
+antirouille,fr,rustproof,さび的,/ɑ̃tiʁuj/,ɑyu,yu
+掸衣服,zh-cn,掸 掸 掸,掸掸掸,/tan˨˩˦ i˥˥ fu˧/,ɶmyu,yu

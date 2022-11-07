@@ -1,16 +1,16 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-回廊,ja,corridor,回廊,/kaiɾoɯ/,ɶyou
-敗北,ja,defeat,敗北,/haibokɯ/,ɶyou
-才能,ja,talent,才能,/sainoɯ/,ɶyou
-地獄,ja,hell,地獄,/dʑigokɯ/,byou
-大砲,ja,Cannon,大砲,/taihoɯ/,ɶyou
-計量,ja,Measurement,計量,/keiɾjoɯ/,øyou
-解像度,ja,resolution,解像度,/kaizoɯdo/,ɶyouo
-自動車,ja,Automobile,自動車,/dʑidoɯɕa/,byouɶ
-警告,ja,warning,警告,/keikokɯ/,øyou
-自動,ja,Automatic,自動,/dʑidoɯ/,byou
-avionul,ro,the airplane,飛行機,/avionul/,ɶyoub
-tuỳ cơ ứng biến,vi,Depending on the improvisation,即興に応じて,/twi˦˨ kɤ˧˥ ɯŋ˩˧ biəŋ˩˧/,byoumyəm
-leirmótun,is,pottery,陶器,/leirmoutʏn/,øyouʏm
-Eyjólfi,is,Island,小島,/eijoulvɪ/,øyoubʏ
-triforiu,ro,triforiu,Triforiu,/triforju/,byou
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+回廊,ja,corridor,回廊,/kaiɾoɯ/,ɶyou,you
+敗北,ja,defeat,敗北,/haibokɯ/,ɶyou,you
+才能,ja,talent,才能,/sainoɯ/,ɶyou,you
+地獄,ja,hell,地獄,/dʑigokɯ/,byou,you
+大砲,ja,Cannon,大砲,/taihoɯ/,ɶyou,you
+計量,ja,Measurement,計量,/keiɾjoɯ/,øyou,you
+解像度,ja,resolution,解像度,/kaizoɯdo/,ɶyouo,you
+自動車,ja,Automobile,自動車,/dʑidoɯɕa/,byouɶ,you
+警告,ja,warning,警告,/keikokɯ/,øyou,you
+自動,ja,Automatic,自動,/dʑidoɯ/,byou,you
+avionul,ro,the airplane,飛行機,/avionul/,ɶyoub,you
+tuỳ cơ ứng biến,vi,Depending on the improvisation,即興に応じて,/twi˦˨ kɤ˧˥ ɯŋ˩˧ biəŋ˩˧/,byoumyəm,you
+leirmótun,is,pottery,陶器,/leirmoutʏn/,øyouʏm,you
+Eyjólfi,is,Island,小島,/eijoulvɪ/,øyoubʏ,you
+triforiu,ro,triforiu,Triforiu,/triforju/,byou,you

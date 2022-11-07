@@ -1,17 +1,17 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-keittiö,fi,kitchen,キッチン,/ˈkeittiø/,øybyø
-syyllisyys,fi,guilt,罪悪感,/ˈsyyllisyys/,yybyyyb
-dentifrice,fr,toothpaste,歯磨き粉,/dɑ̃tifʁis/,ɑybyb
-tahdistin,fi,pacemaker,ペースメーカー,/ˈtɑhdistin/,ɑybym
-logistik,id,logistics,ロジスティクス,/logistiʔ/,oybyb
-muistio,fi,memorandum,メモ,/ˈmuistio/,uybyo
-rasismi,fi,racism,人種差別,/ˈrɑsismi/,ɑyby
-ediții,ro,edition,版,/editsij/,øyby
-理義字,ja,Reason,理義字,/ɾigidʑi/,yyby
-battisti,en,battisti,バティスティ,/bɑˈtisti/,ɑyby
-capizzi,en,capizzi,カピッツィ,/kɑˈpitsi/,ɑyby
-노릿이,ko,Nori,私も,/no̞ɾiɕʰi/,oyby
-reikningum,is,accounts,アカウント,/reihkniŋkʏm/,øybymʏm
-du kích chiến,vi,guerrilla,ゲリラ,/ju˧˥ kit˦˥ ciəŋ˩˧/,uybyəm
-arispe,en,arispe,アリスペ,/ɑˈɹispi/,ɑyby
-لافشين,ar,Lavishin,ラビシン,/liʔifʃiːn/,yybym
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+keittiö,fi,kitchen,キッチン,/ˈkeittiø/,øybyø,yby
+syyllisyys,fi,guilt,罪悪感,/ˈsyyllisyys/,yybyyyb,yby
+dentifrice,fr,toothpaste,歯磨き粉,/dɑ̃tifʁis/,ɑybyb,yby
+tahdistin,fi,pacemaker,ペースメーカー,/ˈtɑhdistin/,ɑybym,yby
+logistik,id,logistics,ロジスティクス,/logistiʔ/,oybyb,yby
+muistio,fi,memorandum,メモ,/ˈmuistio/,uybyo,yby
+rasismi,fi,racism,人種差別,/ˈrɑsismi/,ɑyby,yby
+ediții,ro,edition,版,/editsij/,øyby,yby
+理義字,ja,Reason,理義字,/ɾigidʑi/,yyby,yby
+battisti,en,battisti,バティスティ,/bɑˈtisti/,ɑyby,yby
+capizzi,en,capizzi,カピッツィ,/kɑˈpitsi/,ɑyby,yby
+노릿이,ko,Nori,私も,/no̞ɾiɕʰi/,oyby,yby
+reikningum,is,accounts,アカウント,/reihkniŋkʏm/,øybymʏm,yby
+du kích chiến,vi,guerrilla,ゲリラ,/ju˧˥ kit˦˥ ciəŋ˩˧/,uybyəm,yby
+arispe,en,arispe,アリスペ,/ɑˈɹispi/,ɑyby,yby
+لافشين,ar,Lavishin,ラビシン,/liʔifʃiːn/,yybym,yby

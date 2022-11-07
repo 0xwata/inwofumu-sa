@@ -1,46 +1,46 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-eignarhald,is,ownership,所有,/eiknarhalt/,øybɶɶbb
-Schlangenbiss,de,Snake bite,ヘビの咬傷,/ˈʃlaŋɛnbɪss/,ɶœmʏbb
-socialiste,fr,socialist,社会主義者,/sɔsjalist/,ɔbɶybb
-Firewall,de,Firewall,ファイアウォール,/ˈfiːɾevall/,yøɶbb
-socialist,en,socialist,社会主義者,/ˈsoʊʃəɫəst/,oʊəəbb
-athletics,en,athletics,陸上競技,/æθˈɫɛtɪks/,æbœʏbb
-balloonist,en,balloonist,バルーニスト,/bəˈɫunɪst/,əuʏbb
-intellect,fr,intellect,知性,/ɛ̃telɛkt/,œøœbb
-journalist,en,journalist,ジャーナリスト,/ˈdʒɝnəɫəst/,bəəəbb
-Hebelkraft,de,Leverage,てこの作用,/ˈheːbɛlkɾaft/,øœbbɶbb
-Überlast,de,Overload,過負荷,/ʔybɛɾˈlast/,yœɶbb
-Schweinestall,de,Pork stable,豚肉の安定,/ˈʃvaenɛstall/,ɶøœbɶbb
-logistics,en,logistics,ロジスティクス,/ɫəˈdʒɪstɪks/,əbʏbʏbb
-kilomètre,fr,kilometer,キロメートル,/kilɔmɛtʁ/,yɔœbb
-skíthæll,is,pos,Pos,/sciːthaitl̥/,bybɶybb
-pianist,en,pianist,ピアニスト,/ˈpiənɪst/,yəʏbb
-therapist,en,therapist,セラピスト,/ˈθɛɹəpəst/,œəəbb
-Sessellift,de,Chairlift,チェアリフト,/ˈzɛszɛllɪft/,œbœbʏbb
-Mutterschaft,de,maternity,出産,/ˈmʊtɛɾstshaft/,ʊœbbbɶbb
-underpants,en,underpants,パンツ,/ˈəndɝˌpænts/,əməæmbb
-đại số học,vi,algebra,代数,/daj˨ˀ˩ʔ ʂo˩˧ hɔk͡p˨ˀ˩ʔ/,ɶboɔbbb
-innihald,is,inside,中身,/ɪnɪhalt/,ʏʏɶbb
-anarchist,en,anarchist,アナキスト,/ˈænɝˌkɪst/,æəʏbb
-بمجد,ar,Glory,栄光,/bimudʒidd/,yubybb
-وأستذك,ar,And I am,そして、私は,/waʔastaðk/,ɶɶbɶbb
-Gesandtschaft,de,Legation,公使館,/gəˈzanttstshaft/,əɶmbbbbbɶbb
-conformist,ro,conformist,適合者,/konformist/,omoybb
-îndrăzneț,ro,daring,大胆,/ɨndrəznets/,ʉmbəbøbb
-ceramist,/tʃeramist/,ceramist,セラミスト,bøɶybb,ro
-bolindeț,ro,Bolindeţ,ボリンデţ,/bolindets/,oymøbb
-ولعكس,/waliʕaks/,And the opposite,そして反対,ɶyɶbb,ar
-minigolf,fi,mini golf,ミニゴルフ,/ˈminigolf/,yyobb
-moradux,es,MORADUX,Moradux,/moɾaðuks/,oɶubb
-سأجل,ar,I will,私はそうします,/saʔadʒill/,ɶɶbybb
-mașinist,ro,machinist,機械工,/maʃinist/,ɶyybb
-paradoks,id,paradox,逆説,/paradoʔs/,ɶɶobb
-editierst,/ʔeˈdiːtiːɾst/,edit,編集,øyybb,de
-thi cử học,vi,exam,テスト,/tʰi˧˥ kɯ˧˩˨ hɔk͡p˨ˀ˩ʔ/,byuɔbbb
-ستشاد,ar,Stepse,stepse,/satuʃaːdd/,ɶuɶbb
-فبالحقل,ar,The field,フィールド,/fabiaːlħaql/,ɶyɶbɶbb
-kennzeichnest,de,label,ラベル,/ˈkɛnntsaeçnɛst/,œmmbɶøœbb
-tamarix,ro,Tamarix,タマリックス,/tamariks/,ɶɶybb
-وبابط,ar,Bold,大胆な,/wabiʔibtˤ/,ɶyybb
-وبالحقد,ar,And hatred,そして憎しみ,/wabiaːlħiqd/,ɶyɶbybb
-erwischest,de,caught,つかまった,/ʔɛːɐˈvɪʃɛst/,œɐʏœbb
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+eignarhald,is,ownership,所有,/eiknarhalt/,øybɶɶbb,bb
+Schlangenbiss,de,Snake bite,ヘビの咬傷,/ˈʃlaŋɛnbɪss/,ɶœmʏbb,bb
+socialiste,fr,socialist,社会主義者,/sɔsjalist/,ɔbɶybb,bb
+Firewall,de,Firewall,ファイアウォール,/ˈfiːɾevall/,yøɶbb,bb
+socialist,en,socialist,社会主義者,/ˈsoʊʃəɫəst/,oʊəəbb,bb
+athletics,en,athletics,陸上競技,/æθˈɫɛtɪks/,æbœʏbb,bb
+balloonist,en,balloonist,バルーニスト,/bəˈɫunɪst/,əuʏbb,bb
+intellect,fr,intellect,知性,/ɛ̃telɛkt/,œøœbb,bb
+journalist,en,journalist,ジャーナリスト,/ˈdʒɝnəɫəst/,bəəəbb,bb
+Hebelkraft,de,Leverage,てこの作用,/ˈheːbɛlkɾaft/,øœbbɶbb,bb
+Überlast,de,Overload,過負荷,/ʔybɛɾˈlast/,yœɶbb,bb
+Schweinestall,de,Pork stable,豚肉の安定,/ˈʃvaenɛstall/,ɶøœbɶbb,bb
+logistics,en,logistics,ロジスティクス,/ɫəˈdʒɪstɪks/,əbʏbʏbb,bb
+kilomètre,fr,kilometer,キロメートル,/kilɔmɛtʁ/,yɔœbb,bb
+skíthæll,is,pos,Pos,/sciːthaitl̥/,bybɶybb,bb
+pianist,en,pianist,ピアニスト,/ˈpiənɪst/,yəʏbb,bb
+therapist,en,therapist,セラピスト,/ˈθɛɹəpəst/,œəəbb,bb
+Sessellift,de,Chairlift,チェアリフト,/ˈzɛszɛllɪft/,œbœbʏbb,bb
+Mutterschaft,de,maternity,出産,/ˈmʊtɛɾstshaft/,ʊœbbbɶbb,bb
+underpants,en,underpants,パンツ,/ˈəndɝˌpænts/,əməæmbb,bb
+đại số học,vi,algebra,代数,/daj˨ˀ˩ʔ ʂo˩˧ hɔk͡p˨ˀ˩ʔ/,ɶboɔbbb,bb
+innihald,is,inside,中身,/ɪnɪhalt/,ʏʏɶbb,bb
+anarchist,en,anarchist,アナキスト,/ˈænɝˌkɪst/,æəʏbb,bb
+بمجد,ar,Glory,栄光,/bimudʒidd/,yubybb,bb
+وأستذك,ar,And I am,そして、私は,/waʔastaðk/,ɶɶbɶbb,bb
+Gesandtschaft,de,Legation,公使館,/gəˈzanttstshaft/,əɶmbbbbbɶbb,bb
+conformist,ro,conformist,適合者,/konformist/,omoybb,bb
+îndrăzneț,ro,daring,大胆,/ɨndrəznets/,ʉmbəbøbb,bb
+ceramist,/tʃeramist/,ceramist,セラミスト,bøɶybb,ro,bb
+bolindeț,ro,Bolindeţ,ボリンデţ,/bolindets/,oymøbb,bb
+ولعكس,/waliʕaks/,And the opposite,そして反対,ɶyɶbb,ar,bb
+minigolf,fi,mini golf,ミニゴルフ,/ˈminigolf/,yyobb,bb
+moradux,es,MORADUX,Moradux,/moɾaðuks/,oɶubb,bb
+سأجل,ar,I will,私はそうします,/saʔadʒill/,ɶɶbybb,bb
+mașinist,ro,machinist,機械工,/maʃinist/,ɶyybb,bb
+paradoks,id,paradox,逆説,/paradoʔs/,ɶɶobb,bb
+editierst,/ʔeˈdiːtiːɾst/,edit,編集,øyybb,de,bb
+thi cử học,vi,exam,テスト,/tʰi˧˥ kɯ˧˩˨ hɔk͡p˨ˀ˩ʔ/,byuɔbbb,bb
+ستشاد,ar,Stepse,stepse,/satuʃaːdd/,ɶuɶbb,bb
+فبالحقل,ar,The field,フィールド,/fabiaːlħaql/,ɶyɶbɶbb,bb
+kennzeichnest,de,label,ラベル,/ˈkɛnntsaeçnɛst/,œmmbɶøœbb,bb
+tamarix,ro,Tamarix,タマリックス,/tamariks/,ɶɶybb,bb
+وبابط,ar,Bold,大胆な,/wabiʔibtˤ/,ɶyybb,bb
+وبالحقد,ar,And hatred,そして憎しみ,/wabiaːlħiqd/,ɶyɶbybb,bb
+erwischest,de,caught,つかまった,/ʔɛːɐˈvɪʃɛst/,œɐʏœbb,bb

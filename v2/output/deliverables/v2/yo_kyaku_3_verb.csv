@@ -1,16 +1,16 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-partio,fi,patrol,パトロール,/ˈpɑrtio/,ɑyo
-pikilo,eo,a sting,刺し傷,/pikilo/,yyo
-malĝojo,eo,sadness,悲しみ,/mald͡ʒoio/,ɶbboyo
-suspiro,es,sigh,はぁ,/suspiɾo/,ubyo
-tappio,fi,loss,損失,/ˈtɑppio/,ɑbyo
-paraíso,es,paradise,パラダイス,/paɾaˈiso/,ɶɶyo
-monitor,id,monitor,モニター,/monitor/,oyo
-chorizos,fr,chorizos,チョリソ,/ʃɔʁizo/,ɔyo
-taltio,fi,capture,捕獲,/ˈtɑltio/,ɑbyo
-domino,/domino/,domino,ドミノ,oyo,ro
-へしこ,ja,Heshiko,へしこ,/heɕiko/,øyo
-吃絮了,zh-cn,Eat,食べる,/ʈʂʰɚ˥˥ ɕy˥˩ lɤ˧/,əyo
-orignaux,fr,moose,ムース,/ɔʁiɲo/,ɔyo
-albino,id,albino,アルビノ,/albino/,ɶbyo
-bildigo,eo,rendering,レンダリング,/bildigo/,ybyo
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+partio,fi,patrol,パトロール,/ˈpɑrtio/,ɑyo,yo
+pikilo,eo,a sting,刺し傷,/pikilo/,yyo,yo
+malĝojo,eo,sadness,悲しみ,/mald͡ʒoio/,ɶbboyo,yo
+suspiro,es,sigh,はぁ,/suspiɾo/,ubyo,yo
+tappio,fi,loss,損失,/ˈtɑppio/,ɑbyo,yo
+paraíso,es,paradise,パラダイス,/paɾaˈiso/,ɶɶyo,yo
+monitor,id,monitor,モニター,/monitor/,oyo,yo
+chorizos,fr,chorizos,チョリソ,/ʃɔʁizo/,ɔyo,yo
+taltio,fi,capture,捕獲,/ˈtɑltio/,ɑbyo,yo
+domino,/domino/,domino,ドミノ,oyo,ro,yo
+へしこ,ja,Heshiko,へしこ,/heɕiko/,øyo,yo
+吃絮了,zh-cn,Eat,食べる,/ʈʂʰɚ˥˥ ɕy˥˩ lɤ˧/,əyo,yo
+orignaux,fr,moose,ムース,/ɔʁiɲo/,ɔyo,yo
+albino,id,albino,アルビノ,/albino/,ɶbyo,yo
+bildigo,eo,rendering,レンダリング,/bildigo/,ybyo,yo

@@ -1,43 +1,43 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-cabină,ro,cabin,キャビン,/kabinə/,ɶyə
-牛皮纸,zh-cn,Cowhide,カウハイド,/njoʊ˧˥ pʰi˧˥ ʈʂɚ˨˩˦/,moʊbyə
-latrină,ro,latrine,トイレ,/latrinə/,ɶbyə
-Broschüre,de,brochure,パンフレット,/bʀɔˈʃyːʀə/,bɔyə
-retină,ro,retina,網膜,/retinə/,øyə
-Batterie,de,battery,バッテリー,/batɐ̯iː/jə/,ɶɐyə
-colonial,en,colonial,コロニアル,/kəˈɫoʊniəɫ/,əoʊyə
-muzică,ro,the music,音楽,/muzikə/,uyə
-cantină,ro,canteen,食堂,/kantinə/,ɶmyə
-Elite,de,elite,エリート,/ʔeˈliːtə/,øyə
-material,en,material,素材,/məˈtɪɹiəɫ/,əʏyə
-tortilla,en,tortilla,トルティーヤ,/tɔɹˈtiə/,ɔyə
-Maschine,de,machine,機械,/maˈʃiːnə/,ɶyə
-loggia,en,loggia,ロッジア,/ˈɫɑɡiə/,ɑyə
-lizină,ro,lysine,リジン,/lizinə/,yyə
-kaliber,id,caliber,口径,/kalibər/,ɶyə
-Olive,de,olive,オリーブ,/ʔoˈliːfə/,oyə
-burtică,ro,tummy,おなか,/burtikə/,uyə
-Magie,de,magic,マジック,/mɑˈgiː/jə/,ɑyə
-piedică,ro,obstacle,障害,/pjedikə/,bøyə
-Gemüse,de,vegetables,野菜,/ɡəˈmyːzə/,əyə
-strafidă,ro,Strafid,strafid,/strafidə/,bbɶyə
-élite,id,elite,エリート,/elitə/,øyə
-garnica,en,garnica,ガルニカ,/ɡɑɹˈnikə/,ɑyə
-Amtsmühle,de,Office mill,オフィスミル,/ˈʔamtsmylə/,ɶmbbyə
-au prix de,fr,at the price of,の価格で,/opʁidə/,obyə
-țolină,ro,tolina,トリナ,/tsolinə/,boyə
-thìa lia,vi,spoon,スプーン,/tʰiə˦˨ liə˧˥/,byəyə
-farica,/fɑˈɹikə/,farica,ファリカ,ɑyə,en
-gardină,/ɡardinə/,chime,チャイム,ɶyə,ro
-désainer,id,designer,デザイナー,/desainər/,øɶyə
-cóc tía,/kɔk͡p˦˥ tiə˩˧/,purple,紫の,ɔbbyə,vi
-thông nghĩa,vi,interpreter,通訳者,/tʰoŋ͡m˧˥ ŋiə˧˩˨/,bommyə
-Ventile,de,Valve,バルブ,/ˈvɛntiːlə/,œmyə
-hàm nghĩa,vi,implication,含意,/ham˦˨ ŋiə˧˩˨/,ɶmyə
-logică,ro,logic,論理,/lodʒikə/,obyə
-peria,en,peria,ペリア,/ˈpɛɹiə/,œyə
-sepiker,id,Sepiker,セピカー,/səpikər/,əyə
-sadină,ro,Sadina,サディーナ,/sadinə/,ɶyə
-khiếp vía,vi,horripilation,恐怖,/xiəp˦˥ jiə˩˧/,yəbyə
-Zollkriege,de,Customs wars,税関,/ˈtsɔllkɾiːgə/,bɔbbbyə
-ingria,en,ingria,イングリア,/ˈɪŋɡɹiə/,ʏmbyə
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+cabină,ro,cabin,キャビン,/kabinə/,ɶyə,yə
+牛皮纸,zh-cn,Cowhide,カウハイド,/njoʊ˧˥ pʰi˧˥ ʈʂɚ˨˩˦/,moʊbyə,yə
+latrină,ro,latrine,トイレ,/latrinə/,ɶbyə,yə
+Broschüre,de,brochure,パンフレット,/bʀɔˈʃyːʀə/,bɔyə,yə
+retină,ro,retina,網膜,/retinə/,øyə,yə
+Batterie,de,battery,バッテリー,/batɐ̯iː/jə/,ɶɐyə,yə
+colonial,en,colonial,コロニアル,/kəˈɫoʊniəɫ/,əoʊyə,yə
+muzică,ro,the music,音楽,/muzikə/,uyə,yə
+cantină,ro,canteen,食堂,/kantinə/,ɶmyə,yə
+Elite,de,elite,エリート,/ʔeˈliːtə/,øyə,yə
+material,en,material,素材,/məˈtɪɹiəɫ/,əʏyə,yə
+tortilla,en,tortilla,トルティーヤ,/tɔɹˈtiə/,ɔyə,yə
+Maschine,de,machine,機械,/maˈʃiːnə/,ɶyə,yə
+loggia,en,loggia,ロッジア,/ˈɫɑɡiə/,ɑyə,yə
+lizină,ro,lysine,リジン,/lizinə/,yyə,yə
+kaliber,id,caliber,口径,/kalibər/,ɶyə,yə
+Olive,de,olive,オリーブ,/ʔoˈliːfə/,oyə,yə
+burtică,ro,tummy,おなか,/burtikə/,uyə,yə
+Magie,de,magic,マジック,/mɑˈgiː/jə/,ɑyə,yə
+piedică,ro,obstacle,障害,/pjedikə/,bøyə,yə
+Gemüse,de,vegetables,野菜,/ɡəˈmyːzə/,əyə,yə
+strafidă,ro,Strafid,strafid,/strafidə/,bbɶyə,yə
+élite,id,elite,エリート,/elitə/,øyə,yə
+garnica,en,garnica,ガルニカ,/ɡɑɹˈnikə/,ɑyə,yə
+Amtsmühle,de,Office mill,オフィスミル,/ˈʔamtsmylə/,ɶmbbyə,yə
+au prix de,fr,at the price of,の価格で,/opʁidə/,obyə,yə
+țolină,ro,tolina,トリナ,/tsolinə/,boyə,yə
+thìa lia,vi,spoon,スプーン,/tʰiə˦˨ liə˧˥/,byəyə,yə
+farica,/fɑˈɹikə/,farica,ファリカ,ɑyə,en,yə
+gardină,/ɡardinə/,chime,チャイム,ɶyə,ro,yə
+désainer,id,designer,デザイナー,/desainər/,øɶyə,yə
+cóc tía,/kɔk͡p˦˥ tiə˩˧/,purple,紫の,ɔbbyə,vi,yə
+thông nghĩa,vi,interpreter,通訳者,/tʰoŋ͡m˧˥ ŋiə˧˩˨/,bommyə,yə
+Ventile,de,Valve,バルブ,/ˈvɛntiːlə/,œmyə,yə
+hàm nghĩa,vi,implication,含意,/ham˦˨ ŋiə˧˩˨/,ɶmyə,yə
+logică,ro,logic,論理,/lodʒikə/,obyə,yə
+peria,en,peria,ペリア,/ˈpɛɹiə/,œyə,yə
+sepiker,id,Sepiker,セピカー,/səpikər/,əyə,yə
+sadină,ro,Sadina,サディーナ,/sadinə/,ɶyə,yə
+khiếp vía,vi,horripilation,恐怖,/xiəp˦˥ jiə˩˧/,yəbyə,yə
+Zollkriege,de,Customs wars,税関,/ˈtsɔllkɾiːgə/,bɔbbbyə,yə
+ingria,en,ingria,イングリア,/ˈɪŋɡɹiə/,ʏmbyə,yə

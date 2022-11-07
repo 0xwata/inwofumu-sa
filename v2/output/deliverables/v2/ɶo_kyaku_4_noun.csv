@@ -1,21 +1,21 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-vizitator,ro,guest,ゲスト,/vizitator/,yyɶo
-adaptador,es,adapter,アダプタ,/aðaptaðoɾ/,ɶɶbɶo
-enterrador,es,burial,埋葬,/enteraðoɾ/,ømøɶo
-balonmano,es,handball,ハンドボール,/balommano/,ɶomɶo
-sensencaĵo,eo,nonsense,ナンセンス,/sensent͡saʒo/,ømømbɶo
-escenario,es,scenery,景色,/esθenaɾjo/,øbøɶo
-escariador,es,reamer,リーマー,/eskaɾjaðoɾ/,øbɶɶo
-calculator,ro,computer,コンピューター,/kalkulator/,ɶbuɶo
-murciélago,es,bat,バット,/muˈɾθjelaɣo/,ubøɶo
-aŭtomato,eo,automaton,オートマトン,/automato/,ɶuoɶo
-provokator,id,provocateur,挑発者,/provokator/,booɶo
-図書カード,ja,Library card,図書カード,/toɕokaːdo/,ooɶo
-operator,id,operator,オペレーター,/opərator/,oəɶo
-profanator,ro,sacrilegious,犠牲,/profanator/,boɶɶo
-của ai tai nấy,vi,everyone's ears,みんなの耳,/kuə˧˩˨ aj˧˥ taj˧˥ nɤ̆j˩˧/,uəɶɶo
-교통사고,ko,Traffic Accident,交通事故,/kjotʰo̞ŋsʰa̠ɡo̞/,bobombɶo
-générator,id,generator,発生器,/generator/,øøɶo
-温泉宿,ja,Hot spring inn,温泉宿,/oɴseɴjado/,omømɶo
-najbaraĵo,eo,neighborhood,近所,/naibaraʒo/,ɶyɶɶo
-초산발효,ko,Acid fermentation,酸発酵,/t͡ɕʰo̞sʰa̠nba̠ɾʝjo/,bbobɶmɶo
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+vizitator,ro,guest,ゲスト,/vizitator/,yyɶo,ɶo
+adaptador,es,adapter,アダプタ,/aðaptaðoɾ/,ɶɶbɶo,ɶo
+enterrador,es,burial,埋葬,/enteraðoɾ/,ømøɶo,ɶo
+balonmano,es,handball,ハンドボール,/balommano/,ɶomɶo,ɶo
+sensencaĵo,eo,nonsense,ナンセンス,/sensent͡saʒo/,ømømbɶo,ɶo
+escenario,es,scenery,景色,/esθenaɾjo/,øbøɶo,ɶo
+escariador,es,reamer,リーマー,/eskaɾjaðoɾ/,øbɶɶo,ɶo
+calculator,ro,computer,コンピューター,/kalkulator/,ɶbuɶo,ɶo
+murciélago,es,bat,バット,/muˈɾθjelaɣo/,ubøɶo,ɶo
+aŭtomato,eo,automaton,オートマトン,/automato/,ɶuoɶo,ɶo
+provokator,id,provocateur,挑発者,/provokator/,booɶo,ɶo
+図書カード,ja,Library card,図書カード,/toɕokaːdo/,ooɶo,ɶo
+operator,id,operator,オペレーター,/opərator/,oəɶo,ɶo
+profanator,ro,sacrilegious,犠牲,/profanator/,boɶɶo,ɶo
+của ai tai nấy,vi,everyone's ears,みんなの耳,/kuə˧˩˨ aj˧˥ taj˧˥ nɤ̆j˩˧/,uəɶɶo,ɶo
+교통사고,ko,Traffic Accident,交通事故,/kjotʰo̞ŋsʰa̠ɡo̞/,bobombɶo,ɶo
+générator,id,generator,発生器,/generator/,øøɶo,ɶo
+温泉宿,ja,Hot spring inn,温泉宿,/oɴseɴjado/,omømɶo,ɶo
+najbaraĵo,eo,neighborhood,近所,/naibaraʒo/,ɶyɶɶo,ɶo
+초산발효,ko,Acid fermentation,酸発酵,/t͡ɕʰo̞sʰa̠nba̠ɾʝjo/,bbobɶmɶo,ɶo

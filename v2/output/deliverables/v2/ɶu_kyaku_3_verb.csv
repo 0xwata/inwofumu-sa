@@ -1,16 +1,16 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-探す,ja,seek,探す,/sagasɯ/,ɶɶu
-menabur,id,sow,播種,/mənabur/,əɶu
-解釈,ja,interpretation,解釈,/kaiɕakɯ/,ɶyɶu
-mengatur,id,arrange,整える,/məŋatur/,əɶu
-limau,id,lime,ライム,/limau/,yɶu
-menyapu,id,sweep,掃く,/məɲapu/,əɶu
-mengaku,id,confess,告白する,/məŋaku/,əɶu
-描く,ja,draw,描く,/egakɯ/,øɶu
-bouche-à-bouche,fr,mouth to mouth,口から口,/buʃabuʃ/,uɶu
-afmá,is,erase,消去します,/avmau/,ɶbɶu
-押し合う,ja,Push each other,押し合う,/oɕiaɯ/,oyɶu
-acajou,/akaʒu/,mahogany,マホガニー,ɶɶu,fr
-ونهبر,ar,And be dug,掘られてください,/wanahbur/,ɶɶu
-tripatouilles,fr,tripatouilles,Tripatouilles,/tʁipatuj/,byɶu
-لاغدو,ar,Do not,しない,/liʔaɣduː/,yɶu
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+探す,ja,seek,探す,/sagasɯ/,ɶɶu,ɶu
+menabur,id,sow,播種,/mənabur/,əɶu,ɶu
+解釈,ja,interpretation,解釈,/kaiɕakɯ/,ɶyɶu,ɶu
+mengatur,id,arrange,整える,/məŋatur/,əɶu,ɶu
+limau,id,lime,ライム,/limau/,yɶu,ɶu
+menyapu,id,sweep,掃く,/məɲapu/,əɶu,ɶu
+mengaku,id,confess,告白する,/məŋaku/,əɶu,ɶu
+描く,ja,draw,描く,/egakɯ/,øɶu,ɶu
+bouche-à-bouche,fr,mouth to mouth,口から口,/buʃabuʃ/,uɶu,ɶu
+afmá,is,erase,消去します,/avmau/,ɶbɶu,ɶu
+押し合う,ja,Push each other,押し合う,/oɕiaɯ/,oyɶu,ɶu
+acajou,/akaʒu/,mahogany,マホガニー,ɶɶu,fr,ɶu
+ونهبر,ar,And be dug,掘られてください,/wanahbur/,ɶɶu,ɶu
+tripatouilles,fr,tripatouilles,Tripatouilles,/tʁipatuj/,byɶu,ɶu
+لاغدو,ar,Do not,しない,/liʔaɣduː/,yɶu,ɶu

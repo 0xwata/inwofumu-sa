@@ -1,16 +1,16 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-buĝeto,eo,budget,バジェット,/bud͡ʒeto/,ubøo
-libreto,eo,booklet,冊子,/libreto/,ybøo
-espesor,es,thickness,厚さ,/espesoɾ/,øbøo
-atleto,eo,athlete,アスリート,/atleto/,ɶbøo
-abuelo,es,grandfather,おじいさん,/aβwelo/,ɶbøo
-sombrero,fr,sombrero,ソンブレロ,/sɔ̃bʁeʁo/,ɔbøo
-makzelo,eo,jaw,あご,/makzelo/,ɶbøo
-faceto,eo,facet,ファセット,/fat͡seto/,ɶbøo
-supresor,ro,suppressor,サプレッサー,/supresor/,ubøo
-vidrieros,es,Glass,ガラス,/biðɾjeɾos/,ybøob
-hết veo,vi,all,全て,/het˦˥ jeo˧˥/,øbøo
-magnetou,ro,magneto,マグネトー,/maɡnetow/,ɶbøo
-Algéco,fr,Alco,アルコ,/alʒeko/,ɶbøo
-어제오늘,ko,Yesterday Today,今日は昨日,/ʌ̹d͡ʑe̞o̞nɯɭ/,ɔbøou
-gazbeton,ro,gas concrete,ガスコンクリート,/ɡazbeton/,ɶbøom
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+buĝeto,eo,budget,バジェット,/bud͡ʒeto/,ubøo,bøo
+libreto,eo,booklet,冊子,/libreto/,ybøo,bøo
+espesor,es,thickness,厚さ,/espesoɾ/,øbøo,bøo
+atleto,eo,athlete,アスリート,/atleto/,ɶbøo,bøo
+abuelo,es,grandfather,おじいさん,/aβwelo/,ɶbøo,bøo
+sombrero,fr,sombrero,ソンブレロ,/sɔ̃bʁeʁo/,ɔbøo,bøo
+makzelo,eo,jaw,あご,/makzelo/,ɶbøo,bøo
+faceto,eo,facet,ファセット,/fat͡seto/,ɶbøo,bøo
+supresor,ro,suppressor,サプレッサー,/supresor/,ubøo,bøo
+vidrieros,es,Glass,ガラス,/biðɾjeɾos/,ybøob,bøo
+hết veo,vi,all,全て,/het˦˥ jeo˧˥/,øbøo,bøo
+magnetou,ro,magneto,マグネトー,/maɡnetow/,ɶbøo,bøo
+Algéco,fr,Alco,アルコ,/alʒeko/,ɶbøo,bøo
+어제오늘,ko,Yesterday Today,今日は昨日,/ʌ̹d͡ʑe̞o̞nɯɭ/,ɔbøou,bøo
+gazbeton,ro,gas concrete,ガスコンクリート,/ɡazbeton/,ɶbøom,bøo

@@ -1,27 +1,27 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-instigo,eo,motivation,動機,/instigo/,ymbyo
-pentristo,eo,painter,画家,/pentristo/,ømbybo
-huấn luyện viên,vi,trainer,トレーナー,/hwɤ̆ŋ˩˧ lwiəŋ˨ˀ˩ʔ jiəŋ˧˥/,ombyəmbyəm
-Kompliment,de,compliment,褒め言葉,/kɔmplimɛnt/,ɔmbyœmb
-inginer,ro,engineer,エンジニア,/indʒiner/,ymbyø
-انضباط,ar,discipline,規律,/indˤibaːtˤ/,ymbyɶb
-konflikti,fi,conflict,対立,/ˈkonflikti/,ombyby
-tanssija,fi,dancer,踊り子,/ˈtɑnssijɑ/,ɑmbyɑ
-sombrilla,es,parasol,パラソル,/sombɾiʎa/,ombyɶ
-mencicit,id,squeak,きしむ,/məntʃitʃit/,əmbybyb
-kynttilä,fi,candle,キャンドル,/ˈkynttilæ/,ymbyæ
-comprimat,ro,tablet,タブレット,/komprimat/,ombyɶb
-انطباع,ar,impression,印象,/intˤibaːʕ/,ymbyɶb
-kinh tuyến gốc,vi,Meridian,子午線,/kin˧˥ twiəŋ˩˧ ɣok͡p˦˥/,ymbyəmobb
-왼심방,ko,Left atrium,左心房,/ø̞nɕʰimba̠ŋ/,ømbymɶm
-bonstila,eo,a good style,良いスタイル,/bonstila/,ombyɶ
-번지수,ko,Bonus,ボーナス,/pʌ̹nd͡ʑisʰu/,ɔmbybu
-intrigi,fi,intrigine,イントリジニ,/ˈintrigi/,ymbyy
-inclinas,es,you incline,あなたは傾いています,/inklinas/,ymbyɶb
-conspira,/konspira/,conspire,共謀,ombyɶ,ro
-Mahnbriefen,de,Dunning,ダニング,/ˈmɑnbriːfən/,ɑmbyəm
-konttialus,fi,container,容器,/ˈkonttiˌɑlus/,ombyɑub
-身体瓤,zh-cn,Body 瓤,ボディ瓤,/ʂən˥˥ tʰi˨˩˦ ʐɑŋ˧˥/,əmbyɑm
-kinh tuyến trời,vi,heaven,天国,/kin˧˥ twiəŋ˩˧ ʈɤj˦˨/,ymbyəmo
-komplico,eo,an accomplice,共犯者,/komplit͡so/,ombybo
-kính thiên lí,vi,Glass Thien Ly,Glass Thien ly,/kin˩˧ tʰiəŋ˧˥ li˩˧/,ymbyəmy
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+instigo,eo,motivation,動機,/instigo/,ymbyo,mby
+pentristo,eo,painter,画家,/pentristo/,ømbybo,mby
+huấn luyện viên,vi,trainer,トレーナー,/hwɤ̆ŋ˩˧ lwiəŋ˨ˀ˩ʔ jiəŋ˧˥/,ombyəmbyəm,mby
+Kompliment,de,compliment,褒め言葉,/kɔmplimɛnt/,ɔmbyœmb,mby
+inginer,ro,engineer,エンジニア,/indʒiner/,ymbyø,mby
+انضباط,ar,discipline,規律,/indˤibaːtˤ/,ymbyɶb,mby
+konflikti,fi,conflict,対立,/ˈkonflikti/,ombyby,mby
+tanssija,fi,dancer,踊り子,/ˈtɑnssijɑ/,ɑmbyɑ,mby
+sombrilla,es,parasol,パラソル,/sombɾiʎa/,ombyɶ,mby
+mencicit,id,squeak,きしむ,/məntʃitʃit/,əmbybyb,mby
+kynttilä,fi,candle,キャンドル,/ˈkynttilæ/,ymbyæ,mby
+comprimat,ro,tablet,タブレット,/komprimat/,ombyɶb,mby
+انطباع,ar,impression,印象,/intˤibaːʕ/,ymbyɶb,mby
+kinh tuyến gốc,vi,Meridian,子午線,/kin˧˥ twiəŋ˩˧ ɣok͡p˦˥/,ymbyəmobb,mby
+왼심방,ko,Left atrium,左心房,/ø̞nɕʰimba̠ŋ/,ømbymɶm,mby
+bonstila,eo,a good style,良いスタイル,/bonstila/,ombyɶ,mby
+번지수,ko,Bonus,ボーナス,/pʌ̹nd͡ʑisʰu/,ɔmbybu,mby
+intrigi,fi,intrigine,イントリジニ,/ˈintrigi/,ymbyy,mby
+inclinas,es,you incline,あなたは傾いています,/inklinas/,ymbyɶb,mby
+conspira,/konspira/,conspire,共謀,ombyɶ,ro,mby
+Mahnbriefen,de,Dunning,ダニング,/ˈmɑnbriːfən/,ɑmbyəm,mby
+konttialus,fi,container,容器,/ˈkonttiˌɑlus/,ombyɑub,mby
+身体瓤,zh-cn,Body 瓤,ボディ瓤,/ʂən˥˥ tʰi˨˩˦ ʐɑŋ˧˥/,əmbyɑm,mby
+kinh tuyến trời,vi,heaven,天国,/kin˧˥ twiəŋ˩˧ ʈɤj˦˨/,ymbyəmo,mby
+komplico,eo,an accomplice,共犯者,/komplit͡so/,ombybo,mby
+kính thiên lí,vi,Glass Thien Ly,Glass Thien ly,/kin˩˧ tʰiəŋ˧˥ li˩˧/,ymbyəmy,mby

@@ -1,17 +1,17 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-handtaka,is,capture,捕獲,/hantaka/,ɶmɶɶ
-tantangan,id,challenge,チャレンジ,/tantaŋan/,ɶmɶɶm
-أنفق,ar,Spend,費やす,/ʔanfaqa/,ɶmɶɶ
-tambalan,id,patches,パッチ,/tambalan/,ɶmɶɶm
-engañar,es,scam,詐欺,/eŋgaɲaɾ/,ømɶɶ
-ungkapan,id,expression,表現,/uŋkapan/,umɶɶm
-rintangan,id,obstacle,障害,/rintaŋan/,ymɶɶm
-chamoisasse,fr,chamoisasse,シャモイザス,/ʃamwazas/,ɶmɶɶb
-山旮旯,zh-cn,Hill,丘,/ʂan˥˥ ka˥˥ la˧˥/,ɶmɶɶ
-nantarán,es,Nantarán,ナンタラン,/nantaˈɾan/,ɶmɶɶm
-양하다,ko,Give up,あきらめる,/ja̠ŋɦa̠da̠/,ɶmɶɶ
-縁がある,ja,Have a relationship,縁がある,/eɴgaaɾɯ/,ømɶɶu
-된바람,ko,Wind,風,/tø̞nba̠ɾa̠m/,ømɶɶm
-금하다,ko,Prohibit,禁止,/kɯmɦa̠da̠/,umɶɶ
-إنحنى,ar,Bend over,腰をかがめる,/inħanaː/,ymɶɶ
-منتمى,ar,belonging,所属する,/muntamaː/,umɶɶ
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+handtaka,is,capture,捕獲,/hantaka/,ɶmɶɶ,mɶɶ
+tantangan,id,challenge,チャレンジ,/tantaŋan/,ɶmɶɶm,mɶɶ
+أنفق,ar,Spend,費やす,/ʔanfaqa/,ɶmɶɶ,mɶɶ
+tambalan,id,patches,パッチ,/tambalan/,ɶmɶɶm,mɶɶ
+engañar,es,scam,詐欺,/eŋgaɲaɾ/,ømɶɶ,mɶɶ
+ungkapan,id,expression,表現,/uŋkapan/,umɶɶm,mɶɶ
+rintangan,id,obstacle,障害,/rintaŋan/,ymɶɶm,mɶɶ
+chamoisasse,fr,chamoisasse,シャモイザス,/ʃamwazas/,ɶmɶɶb,mɶɶ
+山旮旯,zh-cn,Hill,丘,/ʂan˥˥ ka˥˥ la˧˥/,ɶmɶɶ,mɶɶ
+nantarán,es,Nantarán,ナンタラン,/nantaˈɾan/,ɶmɶɶm,mɶɶ
+양하다,ko,Give up,あきらめる,/ja̠ŋɦa̠da̠/,ɶmɶɶ,mɶɶ
+縁がある,ja,Have a relationship,縁がある,/eɴgaaɾɯ/,ømɶɶu,mɶɶ
+된바람,ko,Wind,風,/tø̞nba̠ɾa̠m/,ømɶɶm,mɶɶ
+금하다,ko,Prohibit,禁止,/kɯmɦa̠da̠/,umɶɶ,mɶɶ
+إنحنى,ar,Bend over,腰をかがめる,/inħanaː/,ymɶɶ,mɶɶ
+منتمى,ar,belonging,所属する,/muntamaː/,umɶɶ,mɶɶ

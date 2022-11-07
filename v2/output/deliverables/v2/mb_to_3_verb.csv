@@ -1,19 +1,19 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-employ,en,employ,雇用します,/ɛmˈpɫɔɪ/,œmbɔʏ
-enjoy,en,enjoy,楽しい,/ˌɛnˈdʒɔɪ/,œmbɔʏ
-mencegah,id,prevent,防ぐ,/məntʃəgah/,əmbəɶ
-penjahat,id,criminal,犯罪的,/pəndʒahat/,əmbɶɶb
-hankkia,fi,acquire,取得,/ˈhɑnkkiɑ/,ɑmbyɑ
-lonjakan,id,surge,うねり,/londʒakan/,ombɶɶm
-entschlossen,de,determined,決定,/ʔɛntˈʃlɔszən/,œmbɔbəm
-난쟁이,ko,dwarf,小人,/na̠nd͡ʑɛ̝ŋi/,ɶmbœy
-standhalten,de,withstand,耐える,/ˈʃtantˌhaltən/,ɶmbɶbəm
-砚台,zh-cn,Tadping,タッピング,/jɛn˥˩ tʰaɪ˧˥/,œmbɶʏ
-đem theo,vi,bring,持っていく,/dɛm˧˥ tʰeo˧˥/,œmbøo
-针灸,zh-cn,Acupuncture,鍼,/ʈʂən˥˥ tɕjoʊ˨˩˦/,əmbboʊ
-珍贵,zh-cn,precious,貴重,/ʈʂən˥˥ kweɪ˥˩/,əmbøʏ
-畅销,zh-cn,Sell well,よく売る,/ʈʂʰɑŋ˥˩ ɕjɑʊ˥˥/,ɑmbɑʊ
-konstipi,eo,Constipate,便秘,/konstipi/,ombyy
-芫荽,zh-cn,Bleak,暗い,/jɛn˧˥ sweɪ˥˥/,œmbøʏ
-tanjakan,id,incline,傾斜,/tandʒakan/,ɶmbɶɶm
-andlitsins,is,face,顔,/antlɪtsɪns/,ɶmbʏbʏmb
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+employ,en,employ,雇用します,/ɛmˈpɫɔɪ/,œmbɔʏ,mb
+enjoy,en,enjoy,楽しい,/ˌɛnˈdʒɔɪ/,œmbɔʏ,mb
+mencegah,id,prevent,防ぐ,/məntʃəgah/,əmbəɶ,mb
+penjahat,id,criminal,犯罪的,/pəndʒahat/,əmbɶɶb,mb
+hankkia,fi,acquire,取得,/ˈhɑnkkiɑ/,ɑmbyɑ,mb
+lonjakan,id,surge,うねり,/londʒakan/,ombɶɶm,mb
+entschlossen,de,determined,決定,/ʔɛntˈʃlɔszən/,œmbɔbəm,mb
+난쟁이,ko,dwarf,小人,/na̠nd͡ʑɛ̝ŋi/,ɶmbœy,mb
+standhalten,de,withstand,耐える,/ˈʃtantˌhaltən/,ɶmbɶbəm,mb
+砚台,zh-cn,Tadping,タッピング,/jɛn˥˩ tʰaɪ˧˥/,œmbɶʏ,mb
+đem theo,vi,bring,持っていく,/dɛm˧˥ tʰeo˧˥/,œmbøo,mb
+针灸,zh-cn,Acupuncture,鍼,/ʈʂən˥˥ tɕjoʊ˨˩˦/,əmbboʊ,mb
+珍贵,zh-cn,precious,貴重,/ʈʂən˥˥ kweɪ˥˩/,əmbøʏ,mb
+畅销,zh-cn,Sell well,よく売る,/ʈʂʰɑŋ˥˩ ɕjɑʊ˥˥/,ɑmbɑʊ,mb
+konstipi,eo,Constipate,便秘,/konstipi/,ombyy,mb
+芫荽,zh-cn,Bleak,暗い,/jɛn˧˥ sweɪ˥˥/,œmbøʏ,mb
+tanjakan,id,incline,傾斜,/tandʒakan/,ɶmbɶɶm,mb
+andlitsins,is,face,顔,/antlɪtsɪns/,ɶmbʏbʏmb,mb

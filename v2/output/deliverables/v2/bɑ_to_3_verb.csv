@@ -1,18 +1,18 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-jakkara,fi,stool,スツール,/ˈjɑkkɑrɑ/,ɑbɑɑ
-依靠,zh-cn,rely on,に頼る,/i˥˥ kʰɑʊ˥˩/,ybɑʊ
-alkaa,fi,start,始める,/ˈɑlkɑɑ/,ɑbɑɑ
-治疗,zh-cn,treat,扱う,/ʈʂɚ˥˩ ljɑʊ˧˥/,əbɑʊ
-surtension,fr,surge,うねり,/syʁtɑ̃sjɔ̃/,ybɑbɔ
-强调,zh-cn,emphasize,強調,/tɕʰjɑŋ˧˥ tjɑʊ˥˩/,bbɑmbɑʊ
-kilpailla,fi,compete,競争,/ˈkilpɑillɑ/,ybɑybɑ
-rullata,fi,roll,ロール,/ˈrullɑtɑ/,ubɑɑ
-latvala,en,latvala,ラトバラ,/ɫɑtˈvɑɫə/,ɑbɑə
-distanciaient,fr,distinguished,際立っています,/distɑ̃sjɛ/,ybɑbœ
-hobnobbing,en,hobnobbing,ホブノビング,/ˈhɑbˌnɑbɪŋ/,ɑbɑʏm
-retrempait,fr,threw up,投げた,/ʁətʁɑ̃pɛ/,əbɑœ
-hiljaa,fi,shut up,うるさい,/ˈhiljɑɑ/,ybɑɑ
-sklavischen,de,slavish,奴隷,/ˈsklɑːvɪʃən/,bbɑʏəm
-贻笑,zh-cn,Laugh,笑う,/i˧˥ ɕjɑʊ˥˩/,ybɑʊ
-不消,zh-cn,Unwilling,不本意,/pu˥˩ ɕjɑʊ˥˥/,ubɑʊ
-缔造,zh-cn,create,作成,/ti˥˩ tsɑʊ˥˩/,ybɑʊ
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+jakkara,fi,stool,スツール,/ˈjɑkkɑrɑ/,ɑbɑɑ,bɑ
+依靠,zh-cn,rely on,に頼る,/i˥˥ kʰɑʊ˥˩/,ybɑʊ,bɑ
+alkaa,fi,start,始める,/ˈɑlkɑɑ/,ɑbɑɑ,bɑ
+治疗,zh-cn,treat,扱う,/ʈʂɚ˥˩ ljɑʊ˧˥/,əbɑʊ,bɑ
+surtension,fr,surge,うねり,/syʁtɑ̃sjɔ̃/,ybɑbɔ,bɑ
+强调,zh-cn,emphasize,強調,/tɕʰjɑŋ˧˥ tjɑʊ˥˩/,bbɑmbɑʊ,bɑ
+kilpailla,fi,compete,競争,/ˈkilpɑillɑ/,ybɑybɑ,bɑ
+rullata,fi,roll,ロール,/ˈrullɑtɑ/,ubɑɑ,bɑ
+latvala,en,latvala,ラトバラ,/ɫɑtˈvɑɫə/,ɑbɑə,bɑ
+distanciaient,fr,distinguished,際立っています,/distɑ̃sjɛ/,ybɑbœ,bɑ
+hobnobbing,en,hobnobbing,ホブノビング,/ˈhɑbˌnɑbɪŋ/,ɑbɑʏm,bɑ
+retrempait,fr,threw up,投げた,/ʁətʁɑ̃pɛ/,əbɑœ,bɑ
+hiljaa,fi,shut up,うるさい,/ˈhiljɑɑ/,ybɑɑ,bɑ
+sklavischen,de,slavish,奴隷,/ˈsklɑːvɪʃən/,bbɑʏəm,bɑ
+贻笑,zh-cn,Laugh,笑う,/i˧˥ ɕjɑʊ˥˩/,ybɑʊ,bɑ
+不消,zh-cn,Unwilling,不本意,/pu˥˩ ɕjɑʊ˥˥/,ubɑʊ,bɑ
+缔造,zh-cn,create,作成,/ti˥˩ tsɑʊ˥˩/,ybɑʊ,bɑ

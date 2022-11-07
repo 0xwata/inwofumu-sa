@@ -1,34 +1,34 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-suostumus,fi,consent,同意,/ˈsuostumus/,uobuub
-început,ro,beginning,始まり,/ɨntʃeput/,ʉmbøub
-augnaráð,is,joy,喜び,/œiknarauːð/,œybɶɶub
-membusuk,id,rot,腐敗,/məmbusuʔ/,əmuub
-valitus,fi,appeal,訴える,/ˈvɑlitus/,ɑyub
-mengetuk,id,knock,ノック,/məŋətuʔ/,əəub
-merajut,id,knitted,ニット,/məradʒut/,əɶbub
-neplăcut,ro,unpleasant,不快,/nepləkut/,øbəub
-selimut,id,blanket,毛布,/səlimut/,əyub
-tarkastus,fi,inspection,検査,/ˈtɑrkɑstus/,ɑɑbub
-الطموح,ar,Aspiration,願望,/aːltˤumuːħ/,ɶbbuub
-vetoomus,fi,plea,嘆願,/ˈvetoomus/,øooub
-panekuk,id,pancake,パンケーキ,/panəkuʔ/,ɶəub
-attribute,en,attribute,属性,/ˈætɹəbˌjut/,æbəbub
-parasut,id,parachute,パラシュート,/parasut/,ɶɶub
-beitrug,de,contributing,貢献,/bəˈʔɪtɾuk/,əʏbub
-dazutut,de,dazzut,dazzut,/daˈtsuːˌtuːt/,ɶbuub
-introdus,ro,PUT,置く,/introdus/,ymboub
-coup de coude,fr,nudge,ナッジ,/kudəkud/,uəub
-éclaboussent,/eklabus/,splash,スプラッシュ,øbɶub,fr
-avestruz,/aβestɾuθ/,ostrich,ダチョウ,ɶøbbub,es
-eftirlát,/ɛftɪrlauːt/,guide,ガイド,œbʏɶub,is
-chim cu vức,vi,cuckoo,カッコウ,/cim˧˥ ku˧˥ jɯk˦˥/,ymuub
-al apud,eo,to next to,の隣に,/al apud/,ɶbɶub
-disrepute,en,disrepute,嫌い,/ˌdɪsɹɪpˈjut/,ʏbʏbub
-ويرؤف,ar,And it presents,そしてそれは提示します,/weɪarʔuf/,øʏɶub
-străbătut,ro,traveled,旅行した,/strəbətut/,bbəəub
-tourneboulent,fr,rotate,回転します,/tuʁnəbul/,ubəub
-alentour,fr,surrounding,周囲,/alɑ̃tuʁ/,ɶɑub
-baba cool,fr,hippie,ヒッピー,/babakul/,ɶɶub
-harvennus,fi,spacing,間隔,/ˈhɑrvennus/,ɑømub
-하부룩,ko,Lower look,低い外観,/ha̠buɾuk̚/,ɶuub
-perenyuk,id,crush,打ち砕く,/pərəɲuʔ/,əəub
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+suostumus,fi,consent,同意,/ˈsuostumus/,uobuub,ub
+început,ro,beginning,始まり,/ɨntʃeput/,ʉmbøub,ub
+augnaráð,is,joy,喜び,/œiknarauːð/,œybɶɶub,ub
+membusuk,id,rot,腐敗,/məmbusuʔ/,əmuub,ub
+valitus,fi,appeal,訴える,/ˈvɑlitus/,ɑyub,ub
+mengetuk,id,knock,ノック,/məŋətuʔ/,əəub,ub
+merajut,id,knitted,ニット,/məradʒut/,əɶbub,ub
+neplăcut,ro,unpleasant,不快,/nepləkut/,øbəub,ub
+selimut,id,blanket,毛布,/səlimut/,əyub,ub
+tarkastus,fi,inspection,検査,/ˈtɑrkɑstus/,ɑɑbub,ub
+الطموح,ar,Aspiration,願望,/aːltˤumuːħ/,ɶbbuub,ub
+vetoomus,fi,plea,嘆願,/ˈvetoomus/,øooub,ub
+panekuk,id,pancake,パンケーキ,/panəkuʔ/,ɶəub,ub
+attribute,en,attribute,属性,/ˈætɹəbˌjut/,æbəbub,ub
+parasut,id,parachute,パラシュート,/parasut/,ɶɶub,ub
+beitrug,de,contributing,貢献,/bəˈʔɪtɾuk/,əʏbub,ub
+dazutut,de,dazzut,dazzut,/daˈtsuːˌtuːt/,ɶbuub,ub
+introdus,ro,PUT,置く,/introdus/,ymboub,ub
+coup de coude,fr,nudge,ナッジ,/kudəkud/,uəub,ub
+éclaboussent,/eklabus/,splash,スプラッシュ,øbɶub,fr,ub
+avestruz,/aβestɾuθ/,ostrich,ダチョウ,ɶøbbub,es,ub
+eftirlát,/ɛftɪrlauːt/,guide,ガイド,œbʏɶub,is,ub
+chim cu vức,vi,cuckoo,カッコウ,/cim˧˥ ku˧˥ jɯk˦˥/,ymuub,ub
+al apud,eo,to next to,の隣に,/al apud/,ɶbɶub,ub
+disrepute,en,disrepute,嫌い,/ˌdɪsɹɪpˈjut/,ʏbʏbub,ub
+ويرؤف,ar,And it presents,そしてそれは提示します,/weɪarʔuf/,øʏɶub,ub
+străbătut,ro,traveled,旅行した,/strəbətut/,bbəəub,ub
+tourneboulent,fr,rotate,回転します,/tuʁnəbul/,ubəub,ub
+alentour,fr,surrounding,周囲,/alɑ̃tuʁ/,ɶɑub,ub
+baba cool,fr,hippie,ヒッピー,/babakul/,ɶɶub,ub
+harvennus,fi,spacing,間隔,/ˈhɑrvennus/,ɑømub,ub
+하부룩,ko,Lower look,低い外観,/ha̠buɾuk̚/,ɶuub,ub
+perenyuk,id,crush,打ち砕く,/pərəɲuʔ/,əəub,ub

@@ -1,46 +1,46 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-qualité,fr,quality,品質,/kalite/,ɶyø
-venire,ro,coming,到来,/venire/,øyø
-ilmiö,fi,phenomenon,現象,/ˈilmiø/,ybyø
-吐き気,ja,nausea,吐き気,/hakike/,ɶyø
-găsire,ro,finding,発見,/ɡəsire/,əyø
-käsite,fi,concept,概念,/ˈkæsite/,æyø
-säiliö,fi,tank,タンク,/ˈsæiliø/,æyyø
-painike,fi,handle,扱う,/ˈpɑinike/,ɑyyø
-vérité,fr,truth,真実,/veʁite/,øyø
-premier,ro,premier,プレミア,/premijer/,bøyø
-odyssée,fr,Odyssey,オデッセイ,/ɔdise/,ɔyø
-teorie,ro,theory,仮説,/teorije/,øoyø
-ホリデー,ja,Holiday,ホリデー,/hoɾideː/,oyø
-ieșire,ro,exit,出口,/jeʃire/,øyø
-boltire,ro,vaulting,ボールディング,/boltire/,obyø
-sosire,ro,arrival,到着,/sosire/,oyø
-pruncie,ro,babyhood,赤ちゃんの頃,/pruntʃije/,bumbyø
-unité,fr,unity,団結,/ynite/,yyø
-prerie,ro,prairie,草原,/prerije/,bøyø
-admirer,fr,admire,憧れ,/admiʁe/,ɶbyø
-henkilö,fi,person,人,/ˈhenkilø/,ømyø
-mândrie,ro,pride,誇り,/mɨndrije/,ʉmbyø
-hârtie,ro,paper,紙,/hɨrtije/,ʉyø
-etnie,ro,ethnicity,民族,/etnije/,øbyø
-memdire,eo,self -insecure,セルフインセキュア,/memdire/,ømyø
-scările,ro,stairs,階段,/skərile/,bəyø
-gan chí mề,vi,liver,肝臓,/ɣaŋ˧˥ ci˩˧ me˦˨/,ɶmyø
-Furniere,de,Veneer,ベニア,/fʊɾˈniːɾe/,ʊyø
-affliger,/afliʒe/,afflict,苦しめる,ɶbyø,fr
-Untiere,/ˈʔʊnˈtiːɾe/,Undeterma,undeterma,ʊmyø,de
-multfoje,/multfoie/,many times,何度も,ubboyø,eo
-päätie,/ˈpæætie/,main road,主要道路,ææyø,fi
-捕り手,ja,Catcher,捕り手,/toɾite/,oyø
-prenoire,ro,prenoire,Prenoire,/prenoire/,bøoyø
-aliñé,es,I season,私は味付けします,/aliˈɲe/,ɶyø
-migăire,ro,migration,移行,/miɡəire/,yəyø
-ひいき目,/çiikime/,Patronage,ひいき目,yyyø,ja
-번지레,/pʌ̹nd͡ʑiɾe̞/,Bungee,バンジー,ɔmbyø,ko
-jouluyö,fi,Christmas night,クリスマスの夜,/ˈjouluyø/,ouuyø
-rugire,ro,prayer,祈り,/rudʒire/,ubyø
-전시회,ko,Exhibition,展示,/t͡ɕʌ̹nɕʰiɦø̞/,bɔmbyø
-雪解,ja,Snow solution,雪解,/jɯkige/,uyø
-stihuire,ro,Stihire,stihire,/stihuire/,byuyø
-militér,id,military,軍隊,/militer/,yyø
-défilé,id,procession,行列,/defile/,øyø
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+qualité,fr,quality,品質,/kalite/,ɶyø,yø
+venire,ro,coming,到来,/venire/,øyø,yø
+ilmiö,fi,phenomenon,現象,/ˈilmiø/,ybyø,yø
+吐き気,ja,nausea,吐き気,/hakike/,ɶyø,yø
+găsire,ro,finding,発見,/ɡəsire/,əyø,yø
+käsite,fi,concept,概念,/ˈkæsite/,æyø,yø
+säiliö,fi,tank,タンク,/ˈsæiliø/,æyyø,yø
+painike,fi,handle,扱う,/ˈpɑinike/,ɑyyø,yø
+vérité,fr,truth,真実,/veʁite/,øyø,yø
+premier,ro,premier,プレミア,/premijer/,bøyø,yø
+odyssée,fr,Odyssey,オデッセイ,/ɔdise/,ɔyø,yø
+teorie,ro,theory,仮説,/teorije/,øoyø,yø
+ホリデー,ja,Holiday,ホリデー,/hoɾideː/,oyø,yø
+ieșire,ro,exit,出口,/jeʃire/,øyø,yø
+boltire,ro,vaulting,ボールディング,/boltire/,obyø,yø
+sosire,ro,arrival,到着,/sosire/,oyø,yø
+pruncie,ro,babyhood,赤ちゃんの頃,/pruntʃije/,bumbyø,yø
+unité,fr,unity,団結,/ynite/,yyø,yø
+prerie,ro,prairie,草原,/prerije/,bøyø,yø
+admirer,fr,admire,憧れ,/admiʁe/,ɶbyø,yø
+henkilö,fi,person,人,/ˈhenkilø/,ømyø,yø
+mândrie,ro,pride,誇り,/mɨndrije/,ʉmbyø,yø
+hârtie,ro,paper,紙,/hɨrtije/,ʉyø,yø
+etnie,ro,ethnicity,民族,/etnije/,øbyø,yø
+memdire,eo,self -insecure,セルフインセキュア,/memdire/,ømyø,yø
+scările,ro,stairs,階段,/skərile/,bəyø,yø
+gan chí mề,vi,liver,肝臓,/ɣaŋ˧˥ ci˩˧ me˦˨/,ɶmyø,yø
+Furniere,de,Veneer,ベニア,/fʊɾˈniːɾe/,ʊyø,yø
+affliger,/afliʒe/,afflict,苦しめる,ɶbyø,fr,yø
+Untiere,/ˈʔʊnˈtiːɾe/,Undeterma,undeterma,ʊmyø,de,yø
+multfoje,/multfoie/,many times,何度も,ubboyø,eo,yø
+päätie,/ˈpæætie/,main road,主要道路,ææyø,fi,yø
+捕り手,ja,Catcher,捕り手,/toɾite/,oyø,yø
+prenoire,ro,prenoire,Prenoire,/prenoire/,bøoyø,yø
+aliñé,es,I season,私は味付けします,/aliˈɲe/,ɶyø,yø
+migăire,ro,migration,移行,/miɡəire/,yəyø,yø
+ひいき目,/çiikime/,Patronage,ひいき目,yyyø,ja,yø
+번지레,/pʌ̹nd͡ʑiɾe̞/,Bungee,バンジー,ɔmbyø,ko,yø
+jouluyö,fi,Christmas night,クリスマスの夜,/ˈjouluyø/,ouuyø,yø
+rugire,ro,prayer,祈り,/rudʒire/,ubyø,yø
+전시회,ko,Exhibition,展示,/t͡ɕʌ̹nɕʰiɦø̞/,bɔmbyø,yø
+雪解,ja,Snow solution,雪解,/jɯkige/,uyø,yø
+stihuire,ro,Stihire,stihire,/stihuire/,byuyø,yø
+militér,id,military,軍隊,/militer/,yyø,yø
+défilé,id,procession,行列,/defile/,øyø,yø

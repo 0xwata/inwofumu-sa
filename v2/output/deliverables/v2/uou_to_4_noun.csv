@@ -1,20 +1,20 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-アルコール,ja,alcohol,アルコール,/aɾɯkoːɾɯ/,ɶuou
-緑青,ja,Green blue,緑青,/ɾjokɯɕoɯ/,ouou
-フクロウ,ja,owl,フクロウ,/ɸɯkɯɾoɯ/,uuou
-悪党,ja,Villain,悪党,/akɯtoɯ/,ɶuou
-ピストル,ja,pistol,ピストル,/pisɯtoɾɯ/,yuou
-アルコーブ,ja,alcove,アルコーブ,/aɾɯkoːbɯ/,ɶuou
-keuhkokuume,fi,pneumonia,肺炎,/ˈkeuhkoˌkuume/,øuouuø
-労働力,ja,Labor force,労働力,/ɾoɯdoɯɾjokɯ/,ououou
-食欲,ja,appetite,食欲,/ɕokɯjokɯ/,ouou
-浴槽,ja,Bathtub,浴槽,/jokɯsoɯ/,ouou
-ajutorul,ro,help,ヘルプ,/aʒutorul/,ɶuoub
-óróleiki,is,turbulence,乱流,/ouːrouleiːcɪ/,ououøyʏ
-pukukoru,fi,suit,スーツ,/ˈpukuˌkoru/,uuou
-ármótunum,is,the root,根っ子,/aurmoutɔnʏm/,ɶuouɔʏm
-이구동음,ko,Lee -gu Dongum,Lee -gu Dongum,/ˈiːɡudo̞ŋɯm/,yuoum
-ármótahyl,is,shelter,シェルター,/aurmoutahɪːl/,ɶuouɶʏb
-セル・ロス,ja,Cellulos,セル・ロス,/seɾɯ ɾosɯ/,øuou
-noutotukku,fi,pickup,選び出す,/ˈnoutoˌtukku/,ououbu
-toukokuinen,fi,May,5月,/ˈtoukoˌkuinen/,ououyøm
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+アルコール,ja,alcohol,アルコール,/aɾɯkoːɾɯ/,ɶuou,uou
+緑青,ja,Green blue,緑青,/ɾjokɯɕoɯ/,ouou,uou
+フクロウ,ja,owl,フクロウ,/ɸɯkɯɾoɯ/,uuou,uou
+悪党,ja,Villain,悪党,/akɯtoɯ/,ɶuou,uou
+ピストル,ja,pistol,ピストル,/pisɯtoɾɯ/,yuou,uou
+アルコーブ,ja,alcove,アルコーブ,/aɾɯkoːbɯ/,ɶuou,uou
+keuhkokuume,fi,pneumonia,肺炎,/ˈkeuhkoˌkuume/,øuouuø,uou
+労働力,ja,Labor force,労働力,/ɾoɯdoɯɾjokɯ/,ououou,uou
+食欲,ja,appetite,食欲,/ɕokɯjokɯ/,ouou,uou
+浴槽,ja,Bathtub,浴槽,/jokɯsoɯ/,ouou,uou
+ajutorul,ro,help,ヘルプ,/aʒutorul/,ɶuoub,uou
+óróleiki,is,turbulence,乱流,/ouːrouleiːcɪ/,ououøyʏ,uou
+pukukoru,fi,suit,スーツ,/ˈpukuˌkoru/,uuou,uou
+ármótunum,is,the root,根っ子,/aurmoutɔnʏm/,ɶuouɔʏm,uou
+이구동음,ko,Lee -gu Dongum,Lee -gu Dongum,/ˈiːɡudo̞ŋɯm/,yuoum,uou
+ármótahyl,is,shelter,シェルター,/aurmoutahɪːl/,ɶuouɶʏb,uou
+セル・ロス,ja,Cellulos,セル・ロス,/seɾɯ ɾosɯ/,øuou,uou
+noutotukku,fi,pickup,選び出す,/ˈnoutoˌtukku/,ououbu,uou
+toukokuinen,fi,May,5月,/ˈtoukoˌkuinen/,ououyøm,uou

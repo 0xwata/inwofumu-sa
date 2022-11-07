@@ -1,19 +1,19 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-kilpailija,fi,rival,ライバル,/ˈkilpɑiˌlijɑ/,ybɑyyɑ
-jalkapallo,fi,football,フットボール,/ˈjɑlkɑˌpɑllo/,ɑbɑɑbo
-vastalause,fi,objection,異議,/ˈvɑstɑˌlɑuse/,ɑbɑɑuø
-ilmapallo,fi,balloon,バルーン,/ˈilmɑˌpɑllo/,ybɑɑbo
-virstanpylväs,fi,milestone,マイルストーン,/ˈvirstɑnˌpylvæs/,ybɑmybæb
-kollageeni,fi,collagen,コラーゲン,/ˈkollɑˌgeeni/,obɑøøy
-草莓,zh-cn,strawberry,いちご,/tsʰɑʊ˨˩˦ meɪ˧˥/,bbɑʊøʏ
-akvaario,fi,aquarium,水族館,/ˈɑkvɑɑˌrio/,ɑbɑɑyo
-vastaanotto,fi,reception,受信,/ˈvɑstɑɑˌnotto/,ɑbɑɑobo
-一厢情愿,zh-cn,Wishful thinking,希望的思考,/i˥˩ ɕjɑŋ˥˥ tɕʰɪŋ˧˥ ɥœn˥˩/,ybɑmbbʏmœm
-optometry,en,optometry,検眼,/ɑpˈtɑmətɹi/,ɑbɑəby
-lazzaro,en,lazzaro,ラザロ,/ɫɑtˈsɑɹoʊ/,ɑbɑoʊ
-pignato,en,pignato,ピニート,/piɡˈnɑtoʊ/,ybɑoʊ
-pigmenteriez,fr,Pigmendia,豚メンディア,/pigmɑ̃təʁje/,ybɑəbø
-augmentassions,fr,augmentation,増強,/ogmɑ̃tasjɔ̃/,obɑɶbɔ
-strangulation,fr,strangulation,絞殺,/stʁɑ̃gylasjɔ̃/,bbɑyɶbɔ
-castaneda,en,castaneda,カスタネダ,/kɑstɑˈnɛdə/,ɑbɑœə
-gasbarro,en,gasbarro,ガスバロ,/ɡɑsˈbɑɹoʊ/,ɑbɑoʊ
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+kilpailija,fi,rival,ライバル,/ˈkilpɑiˌlijɑ/,ybɑyyɑ,bɑ
+jalkapallo,fi,football,フットボール,/ˈjɑlkɑˌpɑllo/,ɑbɑɑbo,bɑ
+vastalause,fi,objection,異議,/ˈvɑstɑˌlɑuse/,ɑbɑɑuø,bɑ
+ilmapallo,fi,balloon,バルーン,/ˈilmɑˌpɑllo/,ybɑɑbo,bɑ
+virstanpylväs,fi,milestone,マイルストーン,/ˈvirstɑnˌpylvæs/,ybɑmybæb,bɑ
+kollageeni,fi,collagen,コラーゲン,/ˈkollɑˌgeeni/,obɑøøy,bɑ
+草莓,zh-cn,strawberry,いちご,/tsʰɑʊ˨˩˦ meɪ˧˥/,bbɑʊøʏ,bɑ
+akvaario,fi,aquarium,水族館,/ˈɑkvɑɑˌrio/,ɑbɑɑyo,bɑ
+vastaanotto,fi,reception,受信,/ˈvɑstɑɑˌnotto/,ɑbɑɑobo,bɑ
+一厢情愿,zh-cn,Wishful thinking,希望的思考,/i˥˩ ɕjɑŋ˥˥ tɕʰɪŋ˧˥ ɥœn˥˩/,ybɑmbbʏmœm,bɑ
+optometry,en,optometry,検眼,/ɑpˈtɑmətɹi/,ɑbɑəby,bɑ
+lazzaro,en,lazzaro,ラザロ,/ɫɑtˈsɑɹoʊ/,ɑbɑoʊ,bɑ
+pignato,en,pignato,ピニート,/piɡˈnɑtoʊ/,ybɑoʊ,bɑ
+pigmenteriez,fr,Pigmendia,豚メンディア,/pigmɑ̃təʁje/,ybɑəbø,bɑ
+augmentassions,fr,augmentation,増強,/ogmɑ̃tasjɔ̃/,obɑɶbɔ,bɑ
+strangulation,fr,strangulation,絞殺,/stʁɑ̃gylasjɔ̃/,bbɑyɶbɔ,bɑ
+castaneda,en,castaneda,カスタネダ,/kɑstɑˈnɛdə/,ɑbɑœə,bɑ
+gasbarro,en,gasbarro,ガスバロ,/ɡɑsˈbɑɹoʊ/,ɑbɑoʊ,bɑ

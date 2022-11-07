@@ -1,29 +1,29 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-ハスキー,ja,Husky,ハスキー,/hasɯkiː/,ɶuy
-kirurgi,fi,surgeon,外科医,/ˈkirurgi/,yuy
-減衰,ja,Attenuation,減衰,/geɴsɯi/,ømuy
-sipuli,fi,onion,タマネギ,/ˈsipuli/,yuy
-熱意,ja,enthusiasm,熱意,/netsɯi/,øbuy
-シルキー,ja,Silky,シルキー,/ɕiɾɯkiː/,yuy
-원숭이,ko,monkey,猿,/wʌ̹nsʰuŋi/,ɔmbuy
-sikuri,fi,chicory,チコリ,/ˈsikuri/,yuy
-ruuvi,fi,screw,スクリュー,/ˈruuvi/,uuy
-seerumi,fi,serum,血清,/ˈseerumi/,øøuy
-物理,ja,Physics,物理,/bɯtsɯɾi/,ubuy
-手首,ja,wrist,手首,/tekɯbi/,øuy
-너구리,ko,Raccoons,アライグマ,/nʌ̹ɡuɾi/,ɔuy
-ライ麦,ja,Rye,ライ麦,/ɾaimɯgi/,ɶyuy
-심퉁이,ko,Culmination,頂点,/ɕʰimtʰuŋi/,bymbuy
-rămuriș,ro,branches,枝,/rəmuriʃ/,əuy
-徇私舞弊,zh-cn,Fraud in private,プライベートでの詐欺,/ɕyn˥˩ sɯ˥˥ u˨˩˦ pi˥˩/,ymuuy
-assouvis,fr,ascouvis,Ascouvis,/asuvi/,ɶuy
-أيوبي,ar,Ayyubi,ayyubi,/ʔajjuːbijj/,ɶuy
-matusi,en,matusi,マトシ,/məˈtusi/,əuy
-työkausi,fi,working season,ワーキングシーズン,/ˈtyøkɑusi/,yøɑuy
-文月,ja,July,文月,/ɸɯzɯki/,uuy
-tinkturi,eo,dye,染料,/tinkturi/,ymbuy
-quang chu kì,vi,Optical cycle,光学サイクル,/waŋ˧˥ cu˧˥ ki˦˨/,ɶmuy
-비구니,ko,Nun,修道女,/piɡuni/,yuy
-laturi,fi,charger,充電器,/ˈlɑturi/,ɑuy
-お次,ja,Next,お次,/otsɯgi/,obuy
-leikkuri,fi,cutter,カッター,/ˈleikkuri/,øybuy
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+ハスキー,ja,Husky,ハスキー,/hasɯkiː/,ɶuy,uy
+kirurgi,fi,surgeon,外科医,/ˈkirurgi/,yuy,uy
+減衰,ja,Attenuation,減衰,/geɴsɯi/,ømuy,uy
+sipuli,fi,onion,タマネギ,/ˈsipuli/,yuy,uy
+熱意,ja,enthusiasm,熱意,/netsɯi/,øbuy,uy
+シルキー,ja,Silky,シルキー,/ɕiɾɯkiː/,yuy,uy
+원숭이,ko,monkey,猿,/wʌ̹nsʰuŋi/,ɔmbuy,uy
+sikuri,fi,chicory,チコリ,/ˈsikuri/,yuy,uy
+ruuvi,fi,screw,スクリュー,/ˈruuvi/,uuy,uy
+seerumi,fi,serum,血清,/ˈseerumi/,øøuy,uy
+物理,ja,Physics,物理,/bɯtsɯɾi/,ubuy,uy
+手首,ja,wrist,手首,/tekɯbi/,øuy,uy
+너구리,ko,Raccoons,アライグマ,/nʌ̹ɡuɾi/,ɔuy,uy
+ライ麦,ja,Rye,ライ麦,/ɾaimɯgi/,ɶyuy,uy
+심퉁이,ko,Culmination,頂点,/ɕʰimtʰuŋi/,bymbuy,uy
+rămuriș,ro,branches,枝,/rəmuriʃ/,əuy,uy
+徇私舞弊,zh-cn,Fraud in private,プライベートでの詐欺,/ɕyn˥˩ sɯ˥˥ u˨˩˦ pi˥˩/,ymuuy,uy
+assouvis,fr,ascouvis,Ascouvis,/asuvi/,ɶuy,uy
+أيوبي,ar,Ayyubi,ayyubi,/ʔajjuːbijj/,ɶuy,uy
+matusi,en,matusi,マトシ,/məˈtusi/,əuy,uy
+työkausi,fi,working season,ワーキングシーズン,/ˈtyøkɑusi/,yøɑuy,uy
+文月,ja,July,文月,/ɸɯzɯki/,uuy,uy
+tinkturi,eo,dye,染料,/tinkturi/,ymbuy,uy
+quang chu kì,vi,Optical cycle,光学サイクル,/waŋ˧˥ cu˧˥ ki˦˨/,ɶmuy,uy
+비구니,ko,Nun,修道女,/piɡuni/,yuy,uy
+laturi,fi,charger,充電器,/ˈlɑturi/,ɑuy,uy
+お次,ja,Next,お次,/otsɯgi/,obuy,uy
+leikkuri,fi,cutter,カッター,/ˈleikkuri/,øybuy,uy

@@ -1,16 +1,16 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-놓치다,ko,to let go,手放す,/no̞t̚t͡ɕʰida̠/,obbbyɶ
-útkoma,is,conclusion,結論,/uːtkʰɔma/,ubbɔɶ
-붙이다,ko,attach,取り付けます,/put͡ɕʰida̠/,ubbyɶ
-abstracted,en,abstracted,抽象化,/ˈæbˌstɹæktɪd/,æbbbæbʏb
-software,es,software,ソフトウェア,/softwaɾe/,obbɶø
-välttää,fi,avoid,避ける,/ˈvælttææ/,æbbææ
-disfrute,es,enjoyment,楽しみ,/disfɾute/,ybbuø
-tập tính học,vi,learning,学ぶ,/tɤ̆p˨ˀ˩ʔ tin˩˧ hɔk͡p˨ˀ˩ʔ/,obbymɔbbb
-tewksbury,en,tewksbury,テュークスベリー,/ˈtuksbɝi/,ubbəy
-toothbrushes,en,toothbrushes,歯ブラシ,/ˈtuθˌbɹəʃɪz/,ubbəʏb
-välkkyä,fi,glint,グリント,/ˈvælkkyæ/,æbbyæ
-hợp lí hóa,vi,rationalize,合理化,/hɤp˨ˀ˩ʔ li˩˧ hwa˩˧/,obbyɶ
-得罪,zh-cn,offend,気分を害する,/tɤ˧˥ tsweɪ˥˩/,obbøʏ
-食っちゃ寝,ja,Eating and lying,食っちゃ寝,/kɯtɕːane/,ubbɶø
-비치다,ko,hint,ヒント,/pit͡ɕʰida̠/,ybbyɶ
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+놓치다,ko,to let go,手放す,/no̞t̚t͡ɕʰida̠/,obbbyɶ,bb
+útkoma,is,conclusion,結論,/uːtkʰɔma/,ubbɔɶ,bb
+붙이다,ko,attach,取り付けます,/put͡ɕʰida̠/,ubbyɶ,bb
+abstracted,en,abstracted,抽象化,/ˈæbˌstɹæktɪd/,æbbbæbʏb,bb
+software,es,software,ソフトウェア,/softwaɾe/,obbɶø,bb
+välttää,fi,avoid,避ける,/ˈvælttææ/,æbbææ,bb
+disfrute,es,enjoyment,楽しみ,/disfɾute/,ybbuø,bb
+tập tính học,vi,learning,学ぶ,/tɤ̆p˨ˀ˩ʔ tin˩˧ hɔk͡p˨ˀ˩ʔ/,obbymɔbbb,bb
+tewksbury,en,tewksbury,テュークスベリー,/ˈtuksbɝi/,ubbəy,bb
+toothbrushes,en,toothbrushes,歯ブラシ,/ˈtuθˌbɹəʃɪz/,ubbəʏb,bb
+välkkyä,fi,glint,グリント,/ˈvælkkyæ/,æbbyæ,bb
+hợp lí hóa,vi,rationalize,合理化,/hɤp˨ˀ˩ʔ li˩˧ hwa˩˧/,obbyɶ,bb
+得罪,zh-cn,offend,気分を害する,/tɤ˧˥ tsweɪ˥˩/,obbøʏ,bb
+食っちゃ寝,ja,Eating and lying,食っちゃ寝,/kɯtɕːane/,ubbɶø,bb
+비치다,ko,hint,ヒント,/pit͡ɕʰida̠/,ybbyɶ,bb

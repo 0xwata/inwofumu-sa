@@ -1,17 +1,17 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-dilution,fr,dilution,希釈,/dilysjɔ̃/,yybɔ
-leikkona,is,actress,女優,/leiːkʰɔna/,øybɔɶ
-illusion,fr,illusion,幻想,/ilyzjɔ̃/,yybɔ
-édition,fr,editing,編集,/edisjɔ̃/,øybɔ
-position,fr,position,位置,/pozisjɔ̃/,oybɔ
-émission,fr,emission,排出,/emisjɔ̃/,øybɔ
-décision,fr,decision,決断,/desizjɔ̃/,øybɔ
-ambition,fr,ambition,野心,/ɑ̃bisjɔ̃/,ɑybɔ
-미비점,ko,Insufficiency,不足,/mibid͡ʑʌ̹m/,yybɔm
-vêtissions,fr,clothes,服,/vetisjɔ̃/,øybɔ
-일미선,ko,Ilmi -sun,Ilmi -sun,/iɭmisʰʌ̹n/,yybɔm
-획일적,ko,Uniform,ユニフォーム,/hø̞ɡiɭd͡ʑʌ̹k̚/,øybɔb
-Horizonts,de,Horizonts,Horizo​​nts,/ˈhoːɾitsɔnts/,oybɔmbb
-예리성,ko,Sharpness,シャープネス,/je̞ɾisʰʌ̹ŋ/,øybɔm
-leikkonur,is,actress,女優,/leiːkʰɔnʏr/,øybɔʏ
-davignon,en,davignon,デイヴィニヨン,/dɑviɡˈnɔn/,ɑybɔm
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+dilution,fr,dilution,希釈,/dilysjɔ̃/,yybɔ,ybɔ
+leikkona,is,actress,女優,/leiːkʰɔna/,øybɔɶ,ybɔ
+illusion,fr,illusion,幻想,/ilyzjɔ̃/,yybɔ,ybɔ
+édition,fr,editing,編集,/edisjɔ̃/,øybɔ,ybɔ
+position,fr,position,位置,/pozisjɔ̃/,oybɔ,ybɔ
+émission,fr,emission,排出,/emisjɔ̃/,øybɔ,ybɔ
+décision,fr,decision,決断,/desizjɔ̃/,øybɔ,ybɔ
+ambition,fr,ambition,野心,/ɑ̃bisjɔ̃/,ɑybɔ,ybɔ
+미비점,ko,Insufficiency,不足,/mibid͡ʑʌ̹m/,yybɔm,ybɔ
+vêtissions,fr,clothes,服,/vetisjɔ̃/,øybɔ,ybɔ
+일미선,ko,Ilmi -sun,Ilmi -sun,/iɭmisʰʌ̹n/,yybɔm,ybɔ
+획일적,ko,Uniform,ユニフォーム,/hø̞ɡiɭd͡ʑʌ̹k̚/,øybɔb,ybɔ
+Horizonts,de,Horizonts,Horizo​​nts,/ˈhoːɾitsɔnts/,oybɔmbb,ybɔ
+예리성,ko,Sharpness,シャープネス,/je̞ɾisʰʌ̹ŋ/,øybɔm,ybɔ
+leikkonur,is,actress,女優,/leiːkʰɔnʏr/,øybɔʏ,ybɔ
+davignon,en,davignon,デイヴィニヨン,/dɑviɡˈnɔn/,ɑybɔm,ybɔ

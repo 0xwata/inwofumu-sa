@@ -1,40 +1,40 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-melipat,id,fold,折り畳み,/məlipat/,əyɶb
-limonade,fr,lemonade,レモネード,/limɔnad/,yɔɶb
-concejal,es,councilor,評議員,/konθexal/,omøɶb
-الصراخ,ar,Screaming,叫ぶ,/aːlsˤuraːx/,ɶbbuɶb
-decimal,es,decimal,小数,/deθimal/,øyɶb
-intervalle,fr,interval,間隔,/ɛ̃tɛʁval/,œœbɶb
-menetas,id,hatch,ハッチ,/mənətas/,əəɶb
-perekat,id,adhesive,接着剤,/pərəkat/,əəɶb
-menangkap,id,catch,キャッチ,/mənaŋkap/,əɶmɶb
-melompat,id,jump,ジャンプ,/məlompat/,əomɶb
-menghafal,id,memorize,暗記,/məŋhafal/,əmɶɶb
-오두막,ko,hut,小屋,/o̞duma̠k̚/,ouɶb
-încordat,ro,strained,緊張,/ɨnkordat/,ʉmoɶb
-berteriak,id,shout,叫ぶ,/bərtəriaʔ/,əəyɶb
-mengupas,id,peeling,ピーリング,/məŋupas/,əuɶb
-iritat,ro,peevishly,ピーヴィッシュに,/iritat/,yyɶb
-aluat,ro,it took,それは取った,/aluwat/,ɶuɶb
-memahat,id,sculpt,彫刻,/məmahat/,əɶɶb
-complicat,ro,complicated,複雑,/komplikat/,ombyɶb
-التفاف,ar,Wrapping,ラッピング,/iltifaːf/,ybyɶb
-pengawal,id,bodyguard,ボディーガード,/pəŋawal/,əɶɶb
-áorkað,is,understood,了解した,/auːɔr̥kað/,ɶuɔɶb
-tausendfach,de,thousand times,千回,/ˈtaozɛntfax/,ɶoœmbɶb
-đừng cỏ trách,vi,Do not blame,責めないで,/dɯŋ˦˨ kɔ˧˩˨ ʈak˦˥/,umɔɶb
-bevingad,sv,winged,翼,/bɛvɪŋːad/,œʏmɶb
-cavalasses,/kavalas/,cavalasses,Cavalasses,ɶɶɶb,fr
-chớ có trách,vi,Do not blame,責めないで,/cɤ˩˧ kɔ˩˧ ʈak˦˥/,oɔɶb
-고증학,ko,Toughness,タフネス,/ko̞d͡ʑɯŋɦa̠k̚/,obumɶb
-détestassent,fr,hate,嫌い,/detɛstas/,øœbɶb
-breitgetratscht,/ˈbraetgɛtɾaʧt/,ripped off,だまされた,bɶøbœbɶb,de
-كالإرجاء,ar,Like delaying,遅延が好きです,/kaaːlʔirdʒaːʔ/,ɶɶbybɶb
-bersajak,id,rhyming,韻を踏む,/bərsadʒaʔ/,əɶbɶb
-sérhannað,is,designed,設計,/sjɛːrhanað/,bœɶɶb
-다듬작,ko,Trim,トリム,/ta̠dɯmd͡ʑa̠k̚/,ɶumbɶb
-membinjat,id,Bredded,繁殖,/məmbindʒat/,əmymbɶb
-ausgedacht,de,thoughtful,思慮深い,/ʔaosgədaˈçt/,ɶobəɶb
-widersprach,de,contradict,矛盾,/ˈviːdɛɾspɾax/,yœbbɶb
-dépiautasses,fr,depiates,depiates,/depjotas/,øboɶb
-escoplead,es,Escoplead,エスプレッド,/eskopleað/,øbobøɶb
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+melipat,id,fold,折り畳み,/məlipat/,əyɶb,ɶb
+limonade,fr,lemonade,レモネード,/limɔnad/,yɔɶb,ɶb
+concejal,es,councilor,評議員,/konθexal/,omøɶb,ɶb
+الصراخ,ar,Screaming,叫ぶ,/aːlsˤuraːx/,ɶbbuɶb,ɶb
+decimal,es,decimal,小数,/deθimal/,øyɶb,ɶb
+intervalle,fr,interval,間隔,/ɛ̃tɛʁval/,œœbɶb,ɶb
+menetas,id,hatch,ハッチ,/mənətas/,əəɶb,ɶb
+perekat,id,adhesive,接着剤,/pərəkat/,əəɶb,ɶb
+menangkap,id,catch,キャッチ,/mənaŋkap/,əɶmɶb,ɶb
+melompat,id,jump,ジャンプ,/məlompat/,əomɶb,ɶb
+menghafal,id,memorize,暗記,/məŋhafal/,əmɶɶb,ɶb
+오두막,ko,hut,小屋,/o̞duma̠k̚/,ouɶb,ɶb
+încordat,ro,strained,緊張,/ɨnkordat/,ʉmoɶb,ɶb
+berteriak,id,shout,叫ぶ,/bərtəriaʔ/,əəyɶb,ɶb
+mengupas,id,peeling,ピーリング,/məŋupas/,əuɶb,ɶb
+iritat,ro,peevishly,ピーヴィッシュに,/iritat/,yyɶb,ɶb
+aluat,ro,it took,それは取った,/aluwat/,ɶuɶb,ɶb
+memahat,id,sculpt,彫刻,/məmahat/,əɶɶb,ɶb
+complicat,ro,complicated,複雑,/komplikat/,ombyɶb,ɶb
+التفاف,ar,Wrapping,ラッピング,/iltifaːf/,ybyɶb,ɶb
+pengawal,id,bodyguard,ボディーガード,/pəŋawal/,əɶɶb,ɶb
+áorkað,is,understood,了解した,/auːɔr̥kað/,ɶuɔɶb,ɶb
+tausendfach,de,thousand times,千回,/ˈtaozɛntfax/,ɶoœmbɶb,ɶb
+đừng cỏ trách,vi,Do not blame,責めないで,/dɯŋ˦˨ kɔ˧˩˨ ʈak˦˥/,umɔɶb,ɶb
+bevingad,sv,winged,翼,/bɛvɪŋːad/,œʏmɶb,ɶb
+cavalasses,/kavalas/,cavalasses,Cavalasses,ɶɶɶb,fr,ɶb
+chớ có trách,vi,Do not blame,責めないで,/cɤ˩˧ kɔ˩˧ ʈak˦˥/,oɔɶb,ɶb
+고증학,ko,Toughness,タフネス,/ko̞d͡ʑɯŋɦa̠k̚/,obumɶb,ɶb
+détestassent,fr,hate,嫌い,/detɛstas/,øœbɶb,ɶb
+breitgetratscht,/ˈbraetgɛtɾaʧt/,ripped off,だまされた,bɶøbœbɶb,de,ɶb
+كالإرجاء,ar,Like delaying,遅延が好きです,/kaaːlʔirdʒaːʔ/,ɶɶbybɶb,ɶb
+bersajak,id,rhyming,韻を踏む,/bərsadʒaʔ/,əɶbɶb,ɶb
+sérhannað,is,designed,設計,/sjɛːrhanað/,bœɶɶb,ɶb
+다듬작,ko,Trim,トリム,/ta̠dɯmd͡ʑa̠k̚/,ɶumbɶb,ɶb
+membinjat,id,Bredded,繁殖,/məmbindʒat/,əmymbɶb,ɶb
+ausgedacht,de,thoughtful,思慮深い,/ʔaosgədaˈçt/,ɶobəɶb,ɶb
+widersprach,de,contradict,矛盾,/ˈviːdɛɾspɾax/,yœbbɶb,ɶb
+dépiautasses,fr,depiates,depiates,/depjotas/,øboɶb,ɶb
+escoplead,es,Escoplead,エスプレッド,/eskopleað/,øbobøɶb,ɶb

@@ -1,34 +1,34 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-komento,fi,command,指図,/ˈkomento/,oømo
-rubando,eo,ribbon,リボン,/rubando/,uɶmo
-comienzo,es,beginning,始まり,/komjenθo/,omømo
-evento,eo,event,イベント,/evento/,øømo
-agento,eo,an agent,エージェント,/agento/,ɶømo
-hallinto,fi,administration,管理,/ˈhɑllinto/,ɑbymo
-olento,fi,being,であること,/ˈolento/,oømo
-abundo,eo,abundance,豊富,/abundo/,ɶumo
-自行车,zh-cn,bike,自転車,/tsɯ˥˩ ɕɪŋ˧˥ ʈʂʰɤ˥˥/,buʏmo
-atingo,eo,achievement,業績,/atingo/,ɶymo
-lausunto,fi,opinion,意見,/ˈlɑusunto/,ɑuumo
-ブレンド,ja,blend,ブレンド,/bɯɾeɴdo/,uømo
-momento,es,moment,一瞬,/momento/,oømo
-ペナント,ja,pennant,ペナント,/penaɴto/,øɶmo
-profundo,eo,depth,深さ,/profundo/,boumo
-ingenio,es,ingenuity,創意工夫,/iŋxenjo/,ymømo
-饂飩粉,ja,Noodles,饂飩粉,/ɯdoɴko/,uomo
-蚊蜻蛉,ja,Mosquito dragonfly,蚊蜻蛉,/katoɴbo/,ɶomo
-katsanto,fi,mien,ミエン,/ˈkɑtsɑnto/,ɑbɑmo
-diskonto,/diskonto/,discount,割引,ybomo,id
-johdanto,fi,introduction,前書き,/ˈjohdɑnto/,oɑmo
-生还者,zh-cn,survivor,サバイバー,/ʂɤŋ˥˥ xwan˧˥ ʈʂɤ˨˩˦/,ombɶmo
-열전도,ko,Thermal conductivity,熱伝導率,/jʌ̹ɭd͡ʑʌ̹ndo̞/,ɔbɔmo
-평생도,ko,Lifetime,一生,/pʰjʌ̹ŋsʰɛ̝ŋdo̞/,bɔmbœmo
-patanco,es,Patanco,パタンコ,/pataŋko/,ɶɶmo
-mondongo,es,Tripe,くだらない話,/mondoŋgo/,omomo
-使用者,zh-cn,user,ユーザー,/ʂɚ˨˩˦ jʊŋ˥˩ ʈʂɤ˨˩˦/,əʊmo
-rocambor,es,Rocambor,ロカンボー,/rokamboɾ/,oɶmo
-진입로,ko,access,アクセス,/t͡ɕinimno̞/,byymo
-朝圣者,zh-cn,Pilgrims,巡礼者,/ʈʂʰɑʊ˧˥ ʂɤŋ˥˩ ʈʂɤ˨˩˦/,ɑʊomo
-セカンド,ja,second,セカンド,/sekaɴdo/,øɶmo
-我们的,zh-cn,our,私たちの,/uɔ˨˩˦ mən˧ tɤ˧/,uɔəmo
-Gegentor,de,Gate,ゲート,/gəgəˈntoːɾ/,əəmo
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+komento,fi,command,指図,/ˈkomento/,oømo,mo
+rubando,eo,ribbon,リボン,/rubando/,uɶmo,mo
+comienzo,es,beginning,始まり,/komjenθo/,omømo,mo
+evento,eo,event,イベント,/evento/,øømo,mo
+agento,eo,an agent,エージェント,/agento/,ɶømo,mo
+hallinto,fi,administration,管理,/ˈhɑllinto/,ɑbymo,mo
+olento,fi,being,であること,/ˈolento/,oømo,mo
+abundo,eo,abundance,豊富,/abundo/,ɶumo,mo
+自行车,zh-cn,bike,自転車,/tsɯ˥˩ ɕɪŋ˧˥ ʈʂʰɤ˥˥/,buʏmo,mo
+atingo,eo,achievement,業績,/atingo/,ɶymo,mo
+lausunto,fi,opinion,意見,/ˈlɑusunto/,ɑuumo,mo
+ブレンド,ja,blend,ブレンド,/bɯɾeɴdo/,uømo,mo
+momento,es,moment,一瞬,/momento/,oømo,mo
+ペナント,ja,pennant,ペナント,/penaɴto/,øɶmo,mo
+profundo,eo,depth,深さ,/profundo/,boumo,mo
+ingenio,es,ingenuity,創意工夫,/iŋxenjo/,ymømo,mo
+饂飩粉,ja,Noodles,饂飩粉,/ɯdoɴko/,uomo,mo
+蚊蜻蛉,ja,Mosquito dragonfly,蚊蜻蛉,/katoɴbo/,ɶomo,mo
+katsanto,fi,mien,ミエン,/ˈkɑtsɑnto/,ɑbɑmo,mo
+diskonto,/diskonto/,discount,割引,ybomo,id,mo
+johdanto,fi,introduction,前書き,/ˈjohdɑnto/,oɑmo,mo
+生还者,zh-cn,survivor,サバイバー,/ʂɤŋ˥˥ xwan˧˥ ʈʂɤ˨˩˦/,ombɶmo,mo
+열전도,ko,Thermal conductivity,熱伝導率,/jʌ̹ɭd͡ʑʌ̹ndo̞/,ɔbɔmo,mo
+평생도,ko,Lifetime,一生,/pʰjʌ̹ŋsʰɛ̝ŋdo̞/,bɔmbœmo,mo
+patanco,es,Patanco,パタンコ,/pataŋko/,ɶɶmo,mo
+mondongo,es,Tripe,くだらない話,/mondoŋgo/,omomo,mo
+使用者,zh-cn,user,ユーザー,/ʂɚ˨˩˦ jʊŋ˥˩ ʈʂɤ˨˩˦/,əʊmo,mo
+rocambor,es,Rocambor,ロカンボー,/rokamboɾ/,oɶmo,mo
+진입로,ko,access,アクセス,/t͡ɕinimno̞/,byymo,mo
+朝圣者,zh-cn,Pilgrims,巡礼者,/ʈʂʰɑʊ˧˥ ʂɤŋ˥˩ ʈʂɤ˨˩˦/,ɑʊomo,mo
+セカンド,ja,second,セカンド,/sekaɴdo/,øɶmo,mo
+我们的,zh-cn,our,私たちの,/uɔ˨˩˦ mən˧ tɤ˧/,uɔəmo,mo
+Gegentor,de,Gate,ゲート,/gəgəˈntoːɾ/,əəmo,mo

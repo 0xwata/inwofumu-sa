@@ -1,23 +1,23 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-Hosenanzug,de,Pants suit,パンツスーツ,/ˈhoːzenantsuk/,oøɶmbub
-التسلح,ar,Armament,武装,/aːltasalluħ/,ɶbɶɶbub
-Algorithmus,de,algorithm,アルゴリズム,/ˈʔalgoɾɪtmus/,ɶboʏbub
-lomakeskus,fi,resort,リゾート,/ˈlomɑˌkeskus/,oɑøbub
-politikus,id,politician,政治家,/politikus/,oyyub
-todellisuus,fi,reality,現実,/ˈtodelˌlisuus/,oøbyuub
-levottomuus,fi,agitation,攪拌,/ˈlevotˌtomuus/,øobouub
-kotitalous,fi,domestic science,国内科学,/ˈkotiˌtɑlous/,oyɑoub
-eriarvoisuus,fi,inequality,不平等,/ˈeriɑrˌvoisuus/,øyɑoyuub
-sólarupprás,is,sunrise,日の出,/souːlarʏhpraus/,ouɶʏbɶub
-chương trình nghị sự,vi,agenda,議題,/cɯəŋ˧˥ ʈin˦˨ ŋi˨ˀ˩ʔ ʂɯ˨ˀ˩ʔ/,uəmymybub
-aeroperu's,en,aeroperu's,Aeroperu's,/ˌɛɹoʊpeɪˈɹuz/,œoʊøʏub
-vânzătorul,ro,seller,売り手,/vɨnzətorul/,ʉməoub
-óperuhús,is,opera,オペラ,/ouːpʰɛrʏhuːs/,oubœʏub
-episodul,ro,Episode,エピソード,/episodul/,øyoub
-goottilaisuus,fi,gothicism,ゴシズム,/ˈgoottiˌlɑisuus/,oobyɑyuub
-badmintonráð,is,badminton,バドミントン,/patmɪntʰɔnraːuð/,ɶbʏmbɔmɶub
-Gesamtbezug,de,Overall reference,全体的な参照,/gəˈzamtbetsuk/,əɶmbøbub
-au point du jour,/opwɛ̃dyʒuʁ/,at the point of the day,その日の時点で,obœyub,fr
-chàng Ngưu ả Chức,vi,The burdock,ビルドック,/caŋ˦˨ ŋɯw˧˥ a˧˩˨ cɯk˦˥/,ɶmuɶub
-telefonul,/telefonul/,phone,電話,øøoub,ro
-ineptitud,es,ineptitude,無能さ,/ineptituð/,yøbyub
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+Hosenanzug,de,Pants suit,パンツスーツ,/ˈhoːzenantsuk/,oøɶmbub,ub
+التسلح,ar,Armament,武装,/aːltasalluħ/,ɶbɶɶbub,ub
+Algorithmus,de,algorithm,アルゴリズム,/ˈʔalgoɾɪtmus/,ɶboʏbub,ub
+lomakeskus,fi,resort,リゾート,/ˈlomɑˌkeskus/,oɑøbub,ub
+politikus,id,politician,政治家,/politikus/,oyyub,ub
+todellisuus,fi,reality,現実,/ˈtodelˌlisuus/,oøbyuub,ub
+levottomuus,fi,agitation,攪拌,/ˈlevotˌtomuus/,øobouub,ub
+kotitalous,fi,domestic science,国内科学,/ˈkotiˌtɑlous/,oyɑoub,ub
+eriarvoisuus,fi,inequality,不平等,/ˈeriɑrˌvoisuus/,øyɑoyuub,ub
+sólarupprás,is,sunrise,日の出,/souːlarʏhpraus/,ouɶʏbɶub,ub
+chương trình nghị sự,vi,agenda,議題,/cɯəŋ˧˥ ʈin˦˨ ŋi˨ˀ˩ʔ ʂɯ˨ˀ˩ʔ/,uəmymybub,ub
+aeroperu's,en,aeroperu's,Aeroperu's,/ˌɛɹoʊpeɪˈɹuz/,œoʊøʏub,ub
+vânzătorul,ro,seller,売り手,/vɨnzətorul/,ʉməoub,ub
+óperuhús,is,opera,オペラ,/ouːpʰɛrʏhuːs/,oubœʏub,ub
+episodul,ro,Episode,エピソード,/episodul/,øyoub,ub
+goottilaisuus,fi,gothicism,ゴシズム,/ˈgoottiˌlɑisuus/,oobyɑyuub,ub
+badmintonráð,is,badminton,バドミントン,/patmɪntʰɔnraːuð/,ɶbʏmbɔmɶub,ub
+Gesamtbezug,de,Overall reference,全体的な参照,/gəˈzamtbetsuk/,əɶmbøbub,ub
+au point du jour,/opwɛ̃dyʒuʁ/,at the point of the day,その日の時点で,obœyub,fr,ub
+chàng Ngưu ả Chức,vi,The burdock,ビルドック,/caŋ˦˨ ŋɯw˧˥ a˧˩˨ cɯk˦˥/,ɶmuɶub,ub
+telefonul,/telefonul/,phone,電話,øøoub,ro,ub
+ineptitud,es,ineptitude,無能さ,/ineptituð/,yøbyub,ub

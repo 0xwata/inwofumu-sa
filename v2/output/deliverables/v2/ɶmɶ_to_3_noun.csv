@@ -1,17 +1,17 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-kampavín,is,champagne,シャンパン,/kʰam̥paviːn/,bɶmɶym
-キャンバス,ja,canvas,キャンバス,/kjaɴbasɯ/,bɶmɶu
-bufanda,es,scarf,スカーフ,/bufanda/,uɶmɶ
-キャンパス,ja,campus,キャンパス,/kjaɴpasɯ/,bɶmɶu
-フランカー,ja,Flanker,フランカー,/ɸɯɾaɴkaː/,uɶmɶ
-プランター,ja,planter,プランター,/pɯɾaɴtaː/,uɶmɶ
-tetangga,id,neighbor,近所の人,/tətaŋga/,əɶmɶ
-beranda,id,Home,家,/bəranda/,əɶmɶ
-thanh quản kí,vi,larynx,喉頭,/tʰan˧˥ waŋ˧˩˨ ki˩˧/,bɶmɶmy
-cramoisi,fr,crimson,真紅,/kʁamwazi/,bɶmɶy
-Súgandafjörð,is,Sugandafjörður,Sugandafjörður,/suːantafjœrð/,uɶmɶbœb
-frandaĵo,eo,candy,キャンディー,/frandaʒo/,bɶmɶo
-هولانده,ar,Holland,オランダ,/huːlaːndah/,uɶmɶ
-remaniât,fr,reminiât,レミニート,/ʁəmanja/,əɶmɶ
-Bestandteils,de,Component,成分,/bəˈʃtantaels/,əɶmɶøbb
-Uhrarmband,de,Watch band,バンドを見る,/ˈʔuɾaɾmbant/,uɶmɶmb
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+kampavín,is,champagne,シャンパン,/kʰam̥paviːn/,bɶmɶym,ɶmɶ
+キャンバス,ja,canvas,キャンバス,/kjaɴbasɯ/,bɶmɶu,ɶmɶ
+bufanda,es,scarf,スカーフ,/bufanda/,uɶmɶ,ɶmɶ
+キャンパス,ja,campus,キャンパス,/kjaɴpasɯ/,bɶmɶu,ɶmɶ
+フランカー,ja,Flanker,フランカー,/ɸɯɾaɴkaː/,uɶmɶ,ɶmɶ
+プランター,ja,planter,プランター,/pɯɾaɴtaː/,uɶmɶ,ɶmɶ
+tetangga,id,neighbor,近所の人,/tətaŋga/,əɶmɶ,ɶmɶ
+beranda,id,Home,家,/bəranda/,əɶmɶ,ɶmɶ
+thanh quản kí,vi,larynx,喉頭,/tʰan˧˥ waŋ˧˩˨ ki˩˧/,bɶmɶmy,ɶmɶ
+cramoisi,fr,crimson,真紅,/kʁamwazi/,bɶmɶy,ɶmɶ
+Súgandafjörð,is,Sugandafjörður,Sugandafjörður,/suːantafjœrð/,uɶmɶbœb,ɶmɶ
+frandaĵo,eo,candy,キャンディー,/frandaʒo/,bɶmɶo,ɶmɶ
+هولانده,ar,Holland,オランダ,/huːlaːndah/,uɶmɶ,ɶmɶ
+remaniât,fr,reminiât,レミニート,/ʁəmanja/,əɶmɶ,ɶmɶ
+Bestandteils,de,Component,成分,/bəˈʃtantaels/,əɶmɶøbb,ɶmɶ
+Uhrarmband,de,Watch band,バンドを見る,/ˈʔuɾaɾmbant/,uɶmɶmb,ɶmɶ

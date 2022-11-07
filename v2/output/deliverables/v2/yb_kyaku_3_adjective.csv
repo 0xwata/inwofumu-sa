@@ -1,50 +1,50 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-utopique,fr,Utopian,ユートピア,/ytɔpik/,yɔyb
-compozit,ro,composite,複合,/kompozit/,omoyb
-terpencil,id,isolated,隔離,/tərpəntʃil/,əəmbyb
-ridicule,fr,ridiculous,ばかげている,/ʁidikyl/,yyyb
-väsynyt,fi,tired,疲れた,/ˈvæsynyt/,æyyb
-minuscule,fr,tiny,小さな,/minyskyl/,yybyb
-obtenir,fr,obtain,入手します,/ɔptəniʁ/,ɔbəyb
-teribil,ro,terrible,ひどい,/teribil/,øyyb
-harmonis,id,harmonious,調和,/harmonis/,ɶoyb
-adjectiv,ro,adjective,形容詞,/adʒektiv/,ɶbøbyb
-dramatic,ro,dramatic,劇的,/dramatik/,bɶɶyb
-imbécil,es,fool,バカ,/iˈmbeθil/,ymøyb
-historique,fr,historical,歴史的,/istɔʁik/,ybɔyb
-historis,id,historical,歴史的,/historis/,yboyb
-selectiv,ro,selective,選択的,/selektiv/,øøbyb
-mustahil,id,impossible,無理だよ,/mustahil/,ubɶyb
-périodique,fr,periodic,周期的,/peʁjɔdik/,øbɔyb
-الخارج,ar,the outside,外側,/aːlxaːridʒ/,ɶbɶyb
-interzis,ro,forbidden,禁断,/interzis/,ymøyb
-مخادع,ar,cheater,詐欺師,/maxaːdiʕ/,ɶɶyb
-difficile,fr,hard,難しい,/difisil/,yyyb
-difícil,es,hard,難しい,/diˈfiθil/,yyyb
-immobile,fr,motionless,動かない,/imɔbil/,yɔyb
-inmóvil,es,still,まだ,/iˈmmoβil/,ymoyb
-الأزتيك,ar,Aztec,アステカ,/aːlʔaztiːk/,ɶbɶbyb
-glórulaus,is,glorious,輝かしい,/klouːrʏlœiːs/,bouʏœyb
-sălbatic,ro,wild,野生,/səlbatik/,əbɶyb
-maharive,en,maharive,マハリブ,/ˌmɑhəˈɹiv/,ɑəyb
-malonic,ro,Malonic,マロニック,/malonik/,ɶoyb
-grundsolid,de,rock solid,岩の固体,/ˈgɾʊntzolit/,bʊmboyb
-sómakært,is,decent,ちゃんとした,/souːmacair̥t/,ouɶɶyb
-embarquéis,es,embark,乗り出します,/embaˈɾkeis/,ømɶøyb
-전문직,ko,Professional,プロ,/t͡ɕʌ̹nmund͡ʑik̚/,bɔmumbyb
-synchroniques,fr,synchronic,同期,/sɛ̃kʁɔnik/,œbɔyb
-óhagstætt,is,unfavorable,不利,/ouːhaxstaiht/,ouɶbbɶyb
-endalaus,is,endless,無限,/ɛntalœiːs/,œmɶœyb
-adumbrit,ro,overshadowed,影を落とした,/adumbrit/,ɶumbyb
-أنجرف,ar,Spare,予備の,/ʔandʒarif/,ɶmbɶyb
-rutaseis,es,routaseis,Rurasaseis,/rutaseis/,uɶøyb
-hömlulaus,is,rampant,横行します,/hœmlʏlœiːs/,œmʏœyb
-normatif,id,normative,規範,/normatif/,oɶyb
-prognostic,ro,prognosis,予後,/proɡnostik/,bobobyb
-teutonique,fr,Teutonic,チュートン,/tøtɔnik/,øɔyb
-bộ chính trị,vi,the political,政治,/bo˨ˀ˩ʔ cin˩˧ ʈi˨ˀ˩ʔ/,obymyb
-maceaseis,es,Maceaseis,Maceaseis,/maθeaseis/,ɶøɶøyb
-ليستطيع,ar,To be able,できること,/liːastatˤiːʕ/,yɶbɶbyb
-martinique,en,martinique,マルティニーク,/mɑɹtɪˈnik/,ɑʏyb
-métalik,id,metallic,メタリック,/metaliʔ/,øɶyb
-festejáis,es,You celebrate,あなたは祝います,/festeˈxais/,øbøɶyb
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+utopique,fr,Utopian,ユートピア,/ytɔpik/,yɔyb,yb
+compozit,ro,composite,複合,/kompozit/,omoyb,yb
+terpencil,id,isolated,隔離,/tərpəntʃil/,əəmbyb,yb
+ridicule,fr,ridiculous,ばかげている,/ʁidikyl/,yyyb,yb
+väsynyt,fi,tired,疲れた,/ˈvæsynyt/,æyyb,yb
+minuscule,fr,tiny,小さな,/minyskyl/,yybyb,yb
+obtenir,fr,obtain,入手します,/ɔptəniʁ/,ɔbəyb,yb
+teribil,ro,terrible,ひどい,/teribil/,øyyb,yb
+harmonis,id,harmonious,調和,/harmonis/,ɶoyb,yb
+adjectiv,ro,adjective,形容詞,/adʒektiv/,ɶbøbyb,yb
+dramatic,ro,dramatic,劇的,/dramatik/,bɶɶyb,yb
+imbécil,es,fool,バカ,/iˈmbeθil/,ymøyb,yb
+historique,fr,historical,歴史的,/istɔʁik/,ybɔyb,yb
+historis,id,historical,歴史的,/historis/,yboyb,yb
+selectiv,ro,selective,選択的,/selektiv/,øøbyb,yb
+mustahil,id,impossible,無理だよ,/mustahil/,ubɶyb,yb
+périodique,fr,periodic,周期的,/peʁjɔdik/,øbɔyb,yb
+الخارج,ar,the outside,外側,/aːlxaːridʒ/,ɶbɶyb,yb
+interzis,ro,forbidden,禁断,/interzis/,ymøyb,yb
+مخادع,ar,cheater,詐欺師,/maxaːdiʕ/,ɶɶyb,yb
+difficile,fr,hard,難しい,/difisil/,yyyb,yb
+difícil,es,hard,難しい,/diˈfiθil/,yyyb,yb
+immobile,fr,motionless,動かない,/imɔbil/,yɔyb,yb
+inmóvil,es,still,まだ,/iˈmmoβil/,ymoyb,yb
+الأزتيك,ar,Aztec,アステカ,/aːlʔaztiːk/,ɶbɶbyb,yb
+glórulaus,is,glorious,輝かしい,/klouːrʏlœiːs/,bouʏœyb,yb
+sălbatic,ro,wild,野生,/səlbatik/,əbɶyb,yb
+maharive,en,maharive,マハリブ,/ˌmɑhəˈɹiv/,ɑəyb,yb
+malonic,ro,Malonic,マロニック,/malonik/,ɶoyb,yb
+grundsolid,de,rock solid,岩の固体,/ˈgɾʊntzolit/,bʊmboyb,yb
+sómakært,is,decent,ちゃんとした,/souːmacair̥t/,ouɶɶyb,yb
+embarquéis,es,embark,乗り出します,/embaˈɾkeis/,ømɶøyb,yb
+전문직,ko,Professional,プロ,/t͡ɕʌ̹nmund͡ʑik̚/,bɔmumbyb,yb
+synchroniques,fr,synchronic,同期,/sɛ̃kʁɔnik/,œbɔyb,yb
+óhagstætt,is,unfavorable,不利,/ouːhaxstaiht/,ouɶbbɶyb,yb
+endalaus,is,endless,無限,/ɛntalœiːs/,œmɶœyb,yb
+adumbrit,ro,overshadowed,影を落とした,/adumbrit/,ɶumbyb,yb
+أنجرف,ar,Spare,予備の,/ʔandʒarif/,ɶmbɶyb,yb
+rutaseis,es,routaseis,Rurasaseis,/rutaseis/,uɶøyb,yb
+hömlulaus,is,rampant,横行します,/hœmlʏlœiːs/,œmʏœyb,yb
+normatif,id,normative,規範,/normatif/,oɶyb,yb
+prognostic,ro,prognosis,予後,/proɡnostik/,bobobyb,yb
+teutonique,fr,Teutonic,チュートン,/tøtɔnik/,øɔyb,yb
+bộ chính trị,vi,the political,政治,/bo˨ˀ˩ʔ cin˩˧ ʈi˨ˀ˩ʔ/,obymyb,yb
+maceaseis,es,Maceaseis,Maceaseis,/maθeaseis/,ɶøɶøyb,yb
+ليستطيع,ar,To be able,できること,/liːastatˤiːʕ/,yɶbɶbyb,yb
+martinique,en,martinique,マルティニーク,/mɑɹtɪˈnik/,ɑʏyb,yb
+métalik,id,metallic,メタリック,/metaliʔ/,øɶyb,yb
+festejáis,es,You celebrate,あなたは祝います,/festeˈxais/,øbøɶyb,yb

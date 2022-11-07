@@ -1,19 +1,19 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-ファイアウォール,ja,Firewall,ファイアウォール,/ɸaiaɯoːɾɯ/,ɶyɶuou
-代謝物,ja,Metabolic,代謝物,/taiɕabɯtsɯ/,ɶyɶubu
-calitate,ro,quality,品質,/kalitate/,ɶyɶø
-組み立て,ja,assembly,組み立て,/kɯmitate/,uyɶø
-クリアランス,ja,clearance,クリアランス,/kɯɾiaɾaɴsɯ/,uyɶɶmu
-Privatsphäre,de,privacy,プライバシー,/ˈpɾiːvatzfɛɾə/,byɶbbœə
-hésitation,fr,hesitation,ためらいます,/ezitasjɔ̃/,øyɶbɔ
-石細工,ja,Stone work,石細工,/iɕizaikɯ/,yyɶyu
-alligator,fr,alligator,アリゲーター,/aligatɔʁ/,ɶyɶɔb
-lamiacoj,eo,Lamiacs,ラミアック,/lamiat͡soi/,ɶyɶboy
-fajraĵisto,eo,Fireworker,花火人,/fairaʒisto/,ɶyɶybo
-habitatnya,id,Habitat,生息地,/habitatɲa/,ɶyɶbɶ
-كوديان,ar,Code,コード,/kuːdijjaːni/,uyɶy
-puritano,/puritano/,Puritan,ピューリタン,uyɶo,eo
-trivalență,ro,trivalence,三価,/trivalentsə/,byɶømbə
-Menükarten,de,Menu cards,メニューカード,/ˈmeːnykaɾtən/,øyɶəm
-litigaréis,es,You will litigate,あなたは訴訟を起こします,/litiɣaˈɾeis/,yyɶøyb
-kærastanum,is,boyfriend,彼氏,/cʰaiːrastanʏm/,ɶyɶbɶʏm
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+ファイアウォール,ja,Firewall,ファイアウォール,/ɸaiaɯoːɾɯ/,ɶyɶuou,yɶ
+代謝物,ja,Metabolic,代謝物,/taiɕabɯtsɯ/,ɶyɶubu,yɶ
+calitate,ro,quality,品質,/kalitate/,ɶyɶø,yɶ
+組み立て,ja,assembly,組み立て,/kɯmitate/,uyɶø,yɶ
+クリアランス,ja,clearance,クリアランス,/kɯɾiaɾaɴsɯ/,uyɶɶmu,yɶ
+Privatsphäre,de,privacy,プライバシー,/ˈpɾiːvatzfɛɾə/,byɶbbœə,yɶ
+hésitation,fr,hesitation,ためらいます,/ezitasjɔ̃/,øyɶbɔ,yɶ
+石細工,ja,Stone work,石細工,/iɕizaikɯ/,yyɶyu,yɶ
+alligator,fr,alligator,アリゲーター,/aligatɔʁ/,ɶyɶɔb,yɶ
+lamiacoj,eo,Lamiacs,ラミアック,/lamiat͡soi/,ɶyɶboy,yɶ
+fajraĵisto,eo,Fireworker,花火人,/fairaʒisto/,ɶyɶybo,yɶ
+habitatnya,id,Habitat,生息地,/habitatɲa/,ɶyɶbɶ,yɶ
+كوديان,ar,Code,コード,/kuːdijjaːni/,uyɶy,yɶ
+puritano,/puritano/,Puritan,ピューリタン,uyɶo,eo,yɶ
+trivalență,ro,trivalence,三価,/trivalentsə/,byɶømbə,yɶ
+Menükarten,de,Menu cards,メニューカード,/ˈmeːnykaɾtən/,øyɶəm,yɶ
+litigaréis,es,You will litigate,あなたは訴訟を起こします,/litiɣaˈɾeis/,yyɶøyb,yɶ
+kærastanum,is,boyfriend,彼氏,/cʰaiːrastanʏm/,ɶyɶbɶʏm,yɶ

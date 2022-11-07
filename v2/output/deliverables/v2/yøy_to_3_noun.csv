@@ -1,24 +1,24 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-衛生,ja,Hygiene,衛生,/eisei/,øyøy
-台形,ja,Trapezoidal,台形,/daikei/,ɶyøy
-名声,ja,fame,名声,/meisei/,øyøy
-会計士,ja,Accountant,会計士,/kaikeiɕi/,ɶyøyy
-治世,ja,reign,治世,/tɕisei/,byøy
-marketing,ro,marketing,マーケティング,/markʲetinɡ/,ɶyøymb
-石英,ja,quartz,石英,/sekiei/,øyøy
-背景,ja,background,背景,/haikei/,ɶyøy
-smirgeli,fi,emery,エメリー,/ˈsmirgeli/,byøy
-塊茎,ja,Tumor stem,塊茎,/kaikei/,ɶyøy
-閉経,ja,menopause,閉経,/heikei/,øyøy
-reliefi,fi,relief,安心,/ˈreliefi/,øyøy
-Bæheimi,is,Bohemia,ボヘミア,/paiːheimɪ/,ɶyøyʏ
-refinéis,es,Refine,リファイン,/refiˈneis/,øyøyb
-aviséis,es,Notice,知らせ,/aβiˈseis/,ɶyøyb
-glycémie,fr,blood sugar,血糖,/glisemi/,byøy
-財政難,ja,Financial difficulties,財政難,/zaiseinaɴ/,ɶyøyɶm
-demiteri,ro,dismissals,解雇,/demiterʲ/,øyøy
-barcinéis,es,Bark,吠える,/baɾθiˈneis/,ɶyøyb
-triperías,es,Triperías,Triperías,/tɾipeˈɾias/,byøyɶb
-fajrejo,eo,fireplace,暖炉,/faireio/,ɶyøyo
-regiréis,es,You will govern,あなたは統治します,/rexiˈɾeis/,øyøyb
-deshiléis,es,Since you,あなたから,/desiˈleis/,øyøyb
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+衛生,ja,Hygiene,衛生,/eisei/,øyøy,yøy
+台形,ja,Trapezoidal,台形,/daikei/,ɶyøy,yøy
+名声,ja,fame,名声,/meisei/,øyøy,yøy
+会計士,ja,Accountant,会計士,/kaikeiɕi/,ɶyøyy,yøy
+治世,ja,reign,治世,/tɕisei/,byøy,yøy
+marketing,ro,marketing,マーケティング,/markʲetinɡ/,ɶyøymb,yøy
+石英,ja,quartz,石英,/sekiei/,øyøy,yøy
+背景,ja,background,背景,/haikei/,ɶyøy,yøy
+smirgeli,fi,emery,エメリー,/ˈsmirgeli/,byøy,yøy
+塊茎,ja,Tumor stem,塊茎,/kaikei/,ɶyøy,yøy
+閉経,ja,menopause,閉経,/heikei/,øyøy,yøy
+reliefi,fi,relief,安心,/ˈreliefi/,øyøy,yøy
+Bæheimi,is,Bohemia,ボヘミア,/paiːheimɪ/,ɶyøyʏ,yøy
+refinéis,es,Refine,リファイン,/refiˈneis/,øyøyb,yøy
+aviséis,es,Notice,知らせ,/aβiˈseis/,ɶyøyb,yøy
+glycémie,fr,blood sugar,血糖,/glisemi/,byøy,yøy
+財政難,ja,Financial difficulties,財政難,/zaiseinaɴ/,ɶyøyɶm,yøy
+demiteri,ro,dismissals,解雇,/demiterʲ/,øyøy,yøy
+barcinéis,es,Bark,吠える,/baɾθiˈneis/,ɶyøyb,yøy
+triperías,es,Triperías,Triperías,/tɾipeˈɾias/,byøyɶb,yøy
+fajrejo,eo,fireplace,暖炉,/faireio/,ɶyøyo,yøy
+regiréis,es,You will govern,あなたは統治します,/rexiˈɾeis/,øyøyb,yøy
+deshiléis,es,Since you,あなたから,/desiˈleis/,øyøyb,yøy

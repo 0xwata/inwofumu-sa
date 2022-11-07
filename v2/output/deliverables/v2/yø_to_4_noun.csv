@@ -1,18 +1,18 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-ナビゲーション,ja,navigation,ナビゲーション,/nabigeːɕoɴ/,ɶyøom
-アリゲーター,ja,alligator,アリゲーター,/aɾigeːtaː/,ɶyøɶ
-劇的,ja,dramatic,劇的,/gekiteki/,øyøy
-vinietă,ro,vignette,ビネット,/vinijetə/,yyøə
-petit-déjeuner,fr,breakfast,朝ごはん,/ptideʒœne/,byøœø
-alimento,es,food,食物,/alimento/,ɶyømo
-torniquete,es,tourniquet,止血帯,/toɾnikete/,oyøø
-täydentää,fi,supplement,補足,/ˈtæydentææ/,æyømææ
-Færeyinga,is,Faroe Islands,フェロー諸島,/faiːreijiŋka/,ɶyøyymɶ
-فبليمون,ar,Flamon,フラモン,/fabileɪmuːn/,ɶyøʏum
-récupérasses,fr,recuperation,療養,/ʁekypeʁas/,øyøɶb
-pirineas,es,Pyrineas,ピリニーズ,/piɾineas/,yyøɶb
-kritéria,id,criteria,基準,/ʔriteria/,byøyɶ
-Archipelen,de,Archipelago,諸島,/ˈʔaɾxipelən/,ɶyøəm
-ولايفاع,ar,And no,といいえ,/waliʔeɪfaːʕ/,ɶyøʏɶb
-ときめき,ja,Crush,ときめき,/tokimeki/,oyøy
-cassiday,en,cassiday,Cassiday,/ˈkæsideɪ/,æyøʏ
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+ナビゲーション,ja,navigation,ナビゲーション,/nabigeːɕoɴ/,ɶyøom,yø
+アリゲーター,ja,alligator,アリゲーター,/aɾigeːtaː/,ɶyøɶ,yø
+劇的,ja,dramatic,劇的,/gekiteki/,øyøy,yø
+vinietă,ro,vignette,ビネット,/vinijetə/,yyøə,yø
+petit-déjeuner,fr,breakfast,朝ごはん,/ptideʒœne/,byøœø,yø
+alimento,es,food,食物,/alimento/,ɶyømo,yø
+torniquete,es,tourniquet,止血帯,/toɾnikete/,oyøø,yø
+täydentää,fi,supplement,補足,/ˈtæydentææ/,æyømææ,yø
+Færeyinga,is,Faroe Islands,フェロー諸島,/faiːreijiŋka/,ɶyøyymɶ,yø
+فبليمون,ar,Flamon,フラモン,/fabileɪmuːn/,ɶyøʏum,yø
+récupérasses,fr,recuperation,療養,/ʁekypeʁas/,øyøɶb,yø
+pirineas,es,Pyrineas,ピリニーズ,/piɾineas/,yyøɶb,yø
+kritéria,id,criteria,基準,/ʔriteria/,byøyɶ,yø
+Archipelen,de,Archipelago,諸島,/ˈʔaɾxipelən/,ɶyøəm,yø
+ولايفاع,ar,And no,といいえ,/waliʔeɪfaːʕ/,ɶyøʏɶb,yø
+ときめき,ja,Crush,ときめき,/tokimeki/,oyøy,yø
+cassiday,en,cassiday,Cassiday,/ˈkæsideɪ/,æyøʏ,yø

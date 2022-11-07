@@ -1,31 +1,31 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-机构,zh-cn,mechanism,機構,/tɕi˥˥ koʊ˥˩/,byoʊ
-săritor,ro,jumper,ジャンパー,/səritor/,əyo
-chino,en,chino,チノ,/ˈtʃinoʊ/,byoʊ
-対称,ja,Symmetry,対称,/taiɕoɯ/,ɶyou
-回廊,ja,corridor,回廊,/kaiɾoɯ/,ɶyou
-適応,ja,Adaptation,適応,/tekioɯ/,øyou
-divizor,ro,divisor,除数,/divizor/,yyo
-チコリ,ja,chicory,チコリ,/tɕikoɾi/,byoy
-パイロット,ja,pilot,パイロット,/paiɾotːo/,ɶyobo
-几何学,zh-cn,geometry,ジオメトリ,/tɕi˨˩˦ xɤ˧˥ ɕɥœ˧˥/,byobœ
-radiko,eo,root,根,/radiko/,ɶyo
-概要,ja,Overview,概要,/gaijoɯ/,ɶyou
-外側,ja,outside,外側,/gaisokɯ/,ɶyou
-膵臓,ja,pancreas,膵臓,/sɯizoɯ/,uyou
-prioritas,id,priority,優先順位,/prioritas/,byoyɶb
-merino,en,merino,メリノ,/mɝˈinoʊ/,əyoʊ
-ĉioscia,eo,omniscient,全知,/t͡ʃiost͡sia/,byobbyɶ
-Bariton,de,baritone,バリトン,/ˈbaɽiːtoːn/,ɶyom
-kasino,id,casino,カジノ,/kasino/,ɶyo
-집오리,ko,Duck,アヒル,/t͡ɕibo̞ɾi/,byoy
-sériosa,id,Sériosa,セリオサ,/seriosa/,øyoɶ
-nimiosa,/ˈnimiˌosɑ/,title role,タイトルの役割,yyoɑ,fi
-chirlones,es,Chirlones,シルロン,/tʃiɾlones/,byoøb
-amino,id,amino,アミノ,/amino/,ɶyo
-parigot,fr,parigot,パリゴー,/paʁigo/,ɶyo
-grifona,es,Grifona,グリフォナ,/gɾifona/,byoɶ
-armiños,es,armiños,アルミニョス,/aɾmiɲos/,ɶyob
-calicots,fr,calicots,カリコ,/kaliko/,ɶyo
-hoá mĩ phẩm,vi,cosmetics,化粧品,/hwa˩˧ mi˧˩˨ fɤ̆m˧˩˨/,ɶyom
-nữ phi công,vi,airwoman,エアウーマン,/nɯ˧˩˨ fi˧˥ koŋ͡m˧˥/,uyomm
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+机构,zh-cn,mechanism,機構,/tɕi˥˥ koʊ˥˩/,byoʊ,yo
+săritor,ro,jumper,ジャンパー,/səritor/,əyo,yo
+chino,en,chino,チノ,/ˈtʃinoʊ/,byoʊ,yo
+対称,ja,Symmetry,対称,/taiɕoɯ/,ɶyou,yo
+回廊,ja,corridor,回廊,/kaiɾoɯ/,ɶyou,yo
+適応,ja,Adaptation,適応,/tekioɯ/,øyou,yo
+divizor,ro,divisor,除数,/divizor/,yyo,yo
+チコリ,ja,chicory,チコリ,/tɕikoɾi/,byoy,yo
+パイロット,ja,pilot,パイロット,/paiɾotːo/,ɶyobo,yo
+几何学,zh-cn,geometry,ジオメトリ,/tɕi˨˩˦ xɤ˧˥ ɕɥœ˧˥/,byobœ,yo
+radiko,eo,root,根,/radiko/,ɶyo,yo
+概要,ja,Overview,概要,/gaijoɯ/,ɶyou,yo
+外側,ja,outside,外側,/gaisokɯ/,ɶyou,yo
+膵臓,ja,pancreas,膵臓,/sɯizoɯ/,uyou,yo
+prioritas,id,priority,優先順位,/prioritas/,byoyɶb,yo
+merino,en,merino,メリノ,/mɝˈinoʊ/,əyoʊ,yo
+ĉioscia,eo,omniscient,全知,/t͡ʃiost͡sia/,byobbyɶ,yo
+Bariton,de,baritone,バリトン,/ˈbaɽiːtoːn/,ɶyom,yo
+kasino,id,casino,カジノ,/kasino/,ɶyo,yo
+집오리,ko,Duck,アヒル,/t͡ɕibo̞ɾi/,byoy,yo
+sériosa,id,Sériosa,セリオサ,/seriosa/,øyoɶ,yo
+nimiosa,/ˈnimiˌosɑ/,title role,タイトルの役割,yyoɑ,fi,yo
+chirlones,es,Chirlones,シルロン,/tʃiɾlones/,byoøb,yo
+amino,id,amino,アミノ,/amino/,ɶyo,yo
+parigot,fr,parigot,パリゴー,/paʁigo/,ɶyo,yo
+grifona,es,Grifona,グリフォナ,/gɾifona/,byoɶ,yo
+armiños,es,armiños,アルミニョス,/aɾmiɲos/,ɶyob,yo
+calicots,fr,calicots,カリコ,/kaliko/,ɶyo,yo
+hoá mĩ phẩm,vi,cosmetics,化粧品,/hwa˩˧ mi˧˩˨ fɤ̆m˧˩˨/,ɶyom,yo
+nữ phi công,vi,airwoman,エアウーマン,/nɯ˧˩˨ fi˧˥ koŋ͡m˧˥/,uyomm,yo

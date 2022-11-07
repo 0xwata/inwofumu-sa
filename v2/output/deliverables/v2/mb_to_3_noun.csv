@@ -1,41 +1,41 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-empresa,es,business,仕事,/empɾesa/,ømbøɶ
-ambiente,es,ambient,アンビエント,/ambjente/,ɶmbømø
-intrigo,eo,plot,プロット,/intrigo/,ymbyo
-방정식,ko,equation,方程式,/pa̠ŋd͡ʑʌ̹ŋɕʰik̚/,ɶmbɔmbyb
-鸣叫,zh-cn,tweet,つぶやき,/mɪŋ˧˥ tɕjɑʊ˥˩/,ʏmbbɑʊ
-방지책,ko,hedge,ヘッジ,/pa̠ŋd͡ʑit͡ɕʰɛ̝k̚/,ɶmbybbœb
-공포증,ko,phobia,恐怖症,/ko̞ŋpʰo̞d͡ʑɯŋ/,ombobum
-membrană,ro,membrane,膜,/membranə/,ømbɶə
-pantteri,fi,panther,パンサー,/ˈpɑntteri/,ɑmbøy
-阳台,zh-cn,balcony,バルコニー,/jɑŋ˧˥ tʰaɪ˧˥/,ɑmbɶʏ
-눈사람,ko,snow man,スノーマン,/nunsʰa̠ɾa̠m/,umbɶɶm
-眼鏡,ja,glasses,眼鏡,/gaɴkjoɯ/,ɶmbou
-amplekso,eo,amplitude,振幅,/amplekso/,ɶmbøbo
-engineer,en,engineer,エンジニア,/ˈɛndʒəˈnɪɹ/,œmbəʏ
-inginer,ro,engineer,エンジニア,/indʒiner/,ymbyø
-햄스터,ko,hamster,ハムスター,/hɛ̝msʰɯtʰʌ̹/,œmbubɔ
-工作,zh-cn,Work,仕事,/kʊŋ˥˥ tsuɔ˥˩/,ʊmbuɔ
-enjoyment,en,enjoyment,楽しみ,/ˌɛnˈdʒɔɪmənt/,œmbɔʏəmb
-computer,en,computer,コンピューター,/kəmˈpjutɝ/,əmbuə
-덴푸라,ko,Tenfura,Tenfura,/te̞npʰuɾa̠/,ømbuɶ
-samstarfsmenn,is,co-workers,同僚,/samstarvsmɛn/,ɶmbɶbbœm
-임계온도,ko,Critical temperature,臨界温度,/imɡje̞o̞ndo̞/,ymbøomo
-andleysið,is,disorder,障害,/antlɛjsɪð/,ɶmbœʏb
-singular,en,singular,特異な,/ˈsɪŋɡjəɫɝ/,ʏmbəə
-vanguardia,/baŋgwaɾðja/,Vanguard,ヴァンガード,ɶmbɶbɶ,es
-constates,es,confirms,確認します,/konstates/,ombɶøb
-encueve,/eŋkweβe/,Encove,エンコーブ,ømbøø,es
-montgomery,en,montgomery,モンゴメリー,/mɑntˈɡəmɹi/,ɑmbəmy
-complexes,en,complexes,複合体,/ˈkɑmpɫɛksəz/,ɑmbœbəb
-moondreamers,en,moondreamers,ムーンドリーマー,/ˈmunˌdɹimɝz/,umbyəb
-방사백,ko,Radiation,放射線,/pa̠ŋsʰa̠bɛ̝k̚/,ɶmbɶœb
-Handdrucker,/ˈhanddɾʊkɐ̯/,Hand printer,ハンドプリンター,ɶmbbʊɐ,de
-뱀장어,ko,eel,うなぎ,/pɛ̝md͡ʑa̠ŋʌ̹/,œmbɶɔ
-hringhröðun,is,ring,指輪,/r̥iŋkr̥œðʏn/,ymbœʏm
-bernskunnar,is,childhood,子供時代,/pɛnskʏnar/,œmbʏɶ
-Fundsache,de,found object,見つかったオブジェクト,/ˈfʊntzaxə/,ʊmbɶə
-sandviĉo,eo,sandwich,サンドイッチ,/sandvit͡ʃo/,ɶmbybo
-网球场,zh-cn,tennis court,テニスコート,/wɑŋ˨˩˦ tɕʰjoʊ˧˥ ʈʂʰɑŋ˨˩˦/,ɑmbboʊɑm
-ankrejo,eo,an anchorage,アンカレッジ,/ankreio/,ɶmbøyo
-penjahit,id,seamstress,仕立て屋,/pəndʒahit/,əmbɶyb
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+empresa,es,business,仕事,/empɾesa/,ømbøɶ,mb
+ambiente,es,ambient,アンビエント,/ambjente/,ɶmbømø,mb
+intrigo,eo,plot,プロット,/intrigo/,ymbyo,mb
+방정식,ko,equation,方程式,/pa̠ŋd͡ʑʌ̹ŋɕʰik̚/,ɶmbɔmbyb,mb
+鸣叫,zh-cn,tweet,つぶやき,/mɪŋ˧˥ tɕjɑʊ˥˩/,ʏmbbɑʊ,mb
+방지책,ko,hedge,ヘッジ,/pa̠ŋd͡ʑit͡ɕʰɛ̝k̚/,ɶmbybbœb,mb
+공포증,ko,phobia,恐怖症,/ko̞ŋpʰo̞d͡ʑɯŋ/,ombobum,mb
+membrană,ro,membrane,膜,/membranə/,ømbɶə,mb
+pantteri,fi,panther,パンサー,/ˈpɑntteri/,ɑmbøy,mb
+阳台,zh-cn,balcony,バルコニー,/jɑŋ˧˥ tʰaɪ˧˥/,ɑmbɶʏ,mb
+눈사람,ko,snow man,スノーマン,/nunsʰa̠ɾa̠m/,umbɶɶm,mb
+眼鏡,ja,glasses,眼鏡,/gaɴkjoɯ/,ɶmbou,mb
+amplekso,eo,amplitude,振幅,/amplekso/,ɶmbøbo,mb
+engineer,en,engineer,エンジニア,/ˈɛndʒəˈnɪɹ/,œmbəʏ,mb
+inginer,ro,engineer,エンジニア,/indʒiner/,ymbyø,mb
+햄스터,ko,hamster,ハムスター,/hɛ̝msʰɯtʰʌ̹/,œmbubɔ,mb
+工作,zh-cn,Work,仕事,/kʊŋ˥˥ tsuɔ˥˩/,ʊmbuɔ,mb
+enjoyment,en,enjoyment,楽しみ,/ˌɛnˈdʒɔɪmənt/,œmbɔʏəmb,mb
+computer,en,computer,コンピューター,/kəmˈpjutɝ/,əmbuə,mb
+덴푸라,ko,Tenfura,Tenfura,/te̞npʰuɾa̠/,ømbuɶ,mb
+samstarfsmenn,is,co-workers,同僚,/samstarvsmɛn/,ɶmbɶbbœm,mb
+임계온도,ko,Critical temperature,臨界温度,/imɡje̞o̞ndo̞/,ymbøomo,mb
+andleysið,is,disorder,障害,/antlɛjsɪð/,ɶmbœʏb,mb
+singular,en,singular,特異な,/ˈsɪŋɡjəɫɝ/,ʏmbəə,mb
+vanguardia,/baŋgwaɾðja/,Vanguard,ヴァンガード,ɶmbɶbɶ,es,mb
+constates,es,confirms,確認します,/konstates/,ombɶøb,mb
+encueve,/eŋkweβe/,Encove,エンコーブ,ømbøø,es,mb
+montgomery,en,montgomery,モンゴメリー,/mɑntˈɡəmɹi/,ɑmbəmy,mb
+complexes,en,complexes,複合体,/ˈkɑmpɫɛksəz/,ɑmbœbəb,mb
+moondreamers,en,moondreamers,ムーンドリーマー,/ˈmunˌdɹimɝz/,umbyəb,mb
+방사백,ko,Radiation,放射線,/pa̠ŋsʰa̠bɛ̝k̚/,ɶmbɶœb,mb
+Handdrucker,/ˈhanddɾʊkɐ̯/,Hand printer,ハンドプリンター,ɶmbbʊɐ,de,mb
+뱀장어,ko,eel,うなぎ,/pɛ̝md͡ʑa̠ŋʌ̹/,œmbɶɔ,mb
+hringhröðun,is,ring,指輪,/r̥iŋkr̥œðʏn/,ymbœʏm,mb
+bernskunnar,is,childhood,子供時代,/pɛnskʏnar/,œmbʏɶ,mb
+Fundsache,de,found object,見つかったオブジェクト,/ˈfʊntzaxə/,ʊmbɶə,mb
+sandviĉo,eo,sandwich,サンドイッチ,/sandvit͡ʃo/,ɶmbybo,mb
+网球场,zh-cn,tennis court,テニスコート,/wɑŋ˨˩˦ tɕʰjoʊ˧˥ ʈʂʰɑŋ˨˩˦/,ɑmbboʊɑm,mb
+ankrejo,eo,an anchorage,アンカレッジ,/ankreio/,ɶmbøyo,mb
+penjahit,id,seamstress,仕立て屋,/pəndʒahit/,əmbɶyb,mb

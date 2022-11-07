@@ -1,27 +1,27 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-kerikil,id,gravel,砂利,/kərikil/,əyyb
-toimisto,fi,office,オフィス,/ˈtoimisto/,oyybo
-yritys,fi,company,会社,/ˈyritys/,yyyb
-시리즈,ko,series,シリーズ,/ɕʰiɾid͡ʑɯ/,byybu
-oribil,ro,horrible,最悪,/oribil/,oyyb
-paniikki,fi,panic,パニック,/ˈpɑniikki/,ɑyyby
-basilic,fr,basil,バジル,/bazilik/,ɶyyb
-latitude,fr,latitude,緯度,/latityd/,ɶyyb
-sedikit,id,a little,少し,/sədikit/,əyyb
-manucure,fr,manicure,マニキュア,/manykyʁ/,ɶyyb
-pyhimys,fi,saint,聖人,/ˈpyhimys/,yyyb
-demi-litres,fr,half liters,半リットル,/dəmilitʁ/,əyybb
-御兄ちゃん,ja,Older brother,御兄ちゃん,/oniitɕaɴ/,oyybɶm
-dirigistes,fr,managers,マネージャー,/diʁiʒist/,yyybb
-frizisto,eo,hairdresser,美容師,/frizisto/,byybo
-gotiikka,fi,Gothic,ゴシック,/ˈgotiikkɑ/,oyybɑ
-bas-reliefs,en,bas-reliefs,バスリリーフ,/ˈbɑɹiˈɫifs/,ɑyybb
-しきい値,ja,threshold,しきい値,/ɕikiitɕi/,yyyby
-فلوزر,ar,Foulzer,ファウザー,/faliwizr/,ɶyyb
-وبلزق,ar,And Balsal,とバルサル,/wabilizq/,ɶyybb
-laicismo,es,secularism,世俗主義,/laiθizmo/,ɶyybo
-caseze's,en,caseze's,caseze's,/kəˈsiziz/,əyyb
-archivierst,de,archiving,アーカイブ,/ʔaɾxiːfiːɾst/,ɶyybb
-لقرميد,ar,Ligramid,ligramid,/liqirmiːd/,yyyb
-dirigiste,fr,managers,マネージャー,/diʁiʒist/,yyybb
-quilici,en,quilici,キリチ,/kwiˈɫitʃi/,byyby
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+kerikil,id,gravel,砂利,/kərikil/,əyyb,yyb
+toimisto,fi,office,オフィス,/ˈtoimisto/,oyybo,yyb
+yritys,fi,company,会社,/ˈyritys/,yyyb,yyb
+시리즈,ko,series,シリーズ,/ɕʰiɾid͡ʑɯ/,byybu,yyb
+oribil,ro,horrible,最悪,/oribil/,oyyb,yyb
+paniikki,fi,panic,パニック,/ˈpɑniikki/,ɑyyby,yyb
+basilic,fr,basil,バジル,/bazilik/,ɶyyb,yyb
+latitude,fr,latitude,緯度,/latityd/,ɶyyb,yyb
+sedikit,id,a little,少し,/sədikit/,əyyb,yyb
+manucure,fr,manicure,マニキュア,/manykyʁ/,ɶyyb,yyb
+pyhimys,fi,saint,聖人,/ˈpyhimys/,yyyb,yyb
+demi-litres,fr,half liters,半リットル,/dəmilitʁ/,əyybb,yyb
+御兄ちゃん,ja,Older brother,御兄ちゃん,/oniitɕaɴ/,oyybɶm,yyb
+dirigistes,fr,managers,マネージャー,/diʁiʒist/,yyybb,yyb
+frizisto,eo,hairdresser,美容師,/frizisto/,byybo,yyb
+gotiikka,fi,Gothic,ゴシック,/ˈgotiikkɑ/,oyybɑ,yyb
+bas-reliefs,en,bas-reliefs,バスリリーフ,/ˈbɑɹiˈɫifs/,ɑyybb,yyb
+しきい値,ja,threshold,しきい値,/ɕikiitɕi/,yyyby,yyb
+فلوزر,ar,Foulzer,ファウザー,/faliwizr/,ɶyyb,yyb
+وبلزق,ar,And Balsal,とバルサル,/wabilizq/,ɶyybb,yyb
+laicismo,es,secularism,世俗主義,/laiθizmo/,ɶyybo,yyb
+caseze's,en,caseze's,caseze's,/kəˈsiziz/,əyyb,yyb
+archivierst,de,archiving,アーカイブ,/ʔaɾxiːfiːɾst/,ɶyybb,yyb
+لقرميد,ar,Ligramid,ligramid,/liqirmiːd/,yyyb,yyb
+dirigiste,fr,managers,マネージャー,/diʁiʒist/,yyybb,yyb
+quilici,en,quilici,キリチ,/kwiˈɫitʃi/,byyby,yyb

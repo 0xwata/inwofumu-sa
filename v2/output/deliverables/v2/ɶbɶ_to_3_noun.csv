@@ -1,34 +1,34 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-이발사,ko,barber,理髪師,/iba̠ɭsʰa̠/,yɶbɶ
-مسدس,ar,pistol,ピストル,/musaddas/,uɶbɶb
-terdakwa,id,defendant,被告,/tərdaʔwa/,əɶbɶ
-kerasnya,id,hard,難しい,/kərasɲa/,əɶbɶ
-subasta,es,auction,競売,/suβasta/,uɶbɶ
-diagramă,ro,chart,チャート,/diaɡramə/,yɶbɶə
-falacia,es,fallacy,誤acy,/falaθja/,ɶɶbɶ
-graduación,es,graduation,卒業,/gɾaðwaˈθjon/,bɶbɶbom
-مؤقت,ar,temporary,一時的,/muʔaqqat/,uɶbɶb
-مبعثر,ar,Scattered,散らばっている,/mubaʕθar/,uɶbɶ
-kraftaverk,is,miracle,奇跡,/kʰraftavɛr̥k/,bɶbɶœb
-igualdad,es,equality,平等,/iɣwaldað/,yɶbɶb
-bavardage,fr,chat,チャット,/bavaʁdaʒ/,ɶɶbɶ
-remaja,id,teenager,ティーンエイジャー,/rəmadʒa/,əɶbɶ
-معسكر,ar,camp,キャンプ,/muʕaskar/,uɶbɶ
-أرض,ar,a land,土地,/ʔarradˤa/,ɶɶbɶ
-diastazo,eo,diastasis,拡張,/diastazo/,yɶbɶo
-브라자,ko,Braza,ブラザ,/pɯɾa̠d͡ʑa̠/,uɶbɶ
-remariasse,fr,remariary,残党,/ʁəmaʁjas/,əɶbɶb
-relaxas,fr,relaxas,リラックス,/ʁəlaksa/,əɶbɶ
-surfaca,eo,surface,水面,/surfat͡sa/,uɶbɶ
-quy cách hoá,vi,chemical,化学,/wi˧˥ kak˦˥ hwa˩˧/,yɶbɶ
-ngải áp xanh,vi,Green Wormwood,緑のワームウッド,/ŋaj˧˩˨ ap˦˥ san˧˥/,ɶɶbɶm
-spartakismes,fr,spartakisms,スパルタキズム,/spaʁtakism/,bɶbɶybm
-sinapsa,eo,Sinapsa,シナプサ,/sinapsa/,yɶbɶ
-구라파,ko,Gurapa,グルパ,/kuɾa̠pʰa̠/,uɶbɶ
-جلفن,ar,Galvin,ガルビン,/dʒalfana/,bɶbɶɶ
-diablaĵo,eo,devil,悪魔,/diablaʒo/,yɶbɶo
-한라산,ko,Mt. Hanlla,ハンラ山,/ha̠ɭɭa̠sʰa̠n/,ɶɶbɶm
-Gewaltakt,de,Act of violence,暴力行為,/gəˈvaltakt/,əɶbɶbb
-humazgas,es,Humazgas,Humazgas,/umaθɣas/,uɶbɶb
-paragraf,ro,paragraph,段落,/paraɡraf/,ɶɶbɶb
-Beatfan,de,Beatfan,ビートファン,/bəʔatˈfan/,əɶbɶm
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+이발사,ko,barber,理髪師,/iba̠ɭsʰa̠/,yɶbɶ,ɶbɶ
+مسدس,ar,pistol,ピストル,/musaddas/,uɶbɶb,ɶbɶ
+terdakwa,id,defendant,被告,/tərdaʔwa/,əɶbɶ,ɶbɶ
+kerasnya,id,hard,難しい,/kərasɲa/,əɶbɶ,ɶbɶ
+subasta,es,auction,競売,/suβasta/,uɶbɶ,ɶbɶ
+diagramă,ro,chart,チャート,/diaɡramə/,yɶbɶə,ɶbɶ
+falacia,es,fallacy,誤acy,/falaθja/,ɶɶbɶ,ɶbɶ
+graduación,es,graduation,卒業,/gɾaðwaˈθjon/,bɶbɶbom,ɶbɶ
+مؤقت,ar,temporary,一時的,/muʔaqqat/,uɶbɶb,ɶbɶ
+مبعثر,ar,Scattered,散らばっている,/mubaʕθar/,uɶbɶ,ɶbɶ
+kraftaverk,is,miracle,奇跡,/kʰraftavɛr̥k/,bɶbɶœb,ɶbɶ
+igualdad,es,equality,平等,/iɣwaldað/,yɶbɶb,ɶbɶ
+bavardage,fr,chat,チャット,/bavaʁdaʒ/,ɶɶbɶ,ɶbɶ
+remaja,id,teenager,ティーンエイジャー,/rəmadʒa/,əɶbɶ,ɶbɶ
+معسكر,ar,camp,キャンプ,/muʕaskar/,uɶbɶ,ɶbɶ
+أرض,ar,a land,土地,/ʔarradˤa/,ɶɶbɶ,ɶbɶ
+diastazo,eo,diastasis,拡張,/diastazo/,yɶbɶo,ɶbɶ
+브라자,ko,Braza,ブラザ,/pɯɾa̠d͡ʑa̠/,uɶbɶ,ɶbɶ
+remariasse,fr,remariary,残党,/ʁəmaʁjas/,əɶbɶb,ɶbɶ
+relaxas,fr,relaxas,リラックス,/ʁəlaksa/,əɶbɶ,ɶbɶ
+surfaca,eo,surface,水面,/surfat͡sa/,uɶbɶ,ɶbɶ
+quy cách hoá,vi,chemical,化学,/wi˧˥ kak˦˥ hwa˩˧/,yɶbɶ,ɶbɶ
+ngải áp xanh,vi,Green Wormwood,緑のワームウッド,/ŋaj˧˩˨ ap˦˥ san˧˥/,ɶɶbɶm,ɶbɶ
+spartakismes,fr,spartakisms,スパルタキズム,/spaʁtakism/,bɶbɶybm,ɶbɶ
+sinapsa,eo,Sinapsa,シナプサ,/sinapsa/,yɶbɶ,ɶbɶ
+구라파,ko,Gurapa,グルパ,/kuɾa̠pʰa̠/,uɶbɶ,ɶbɶ
+جلفن,ar,Galvin,ガルビン,/dʒalfana/,bɶbɶɶ,ɶbɶ
+diablaĵo,eo,devil,悪魔,/diablaʒo/,yɶbɶo,ɶbɶ
+한라산,ko,Mt. Hanlla,ハンラ山,/ha̠ɭɭa̠sʰa̠n/,ɶɶbɶm,ɶbɶ
+Gewaltakt,de,Act of violence,暴力行為,/gəˈvaltakt/,əɶbɶbb,ɶbɶ
+humazgas,es,Humazgas,Humazgas,/umaθɣas/,uɶbɶb,ɶbɶ
+paragraf,ro,paragraph,段落,/paraɡraf/,ɶɶbɶb,ɶbɶ
+Beatfan,de,Beatfan,ビートファン,/bəʔatˈfan/,əɶbɶm,ɶbɶ

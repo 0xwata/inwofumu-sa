@@ -1,26 +1,26 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-وضع,ar,state,州,/wadˤaʕa/,ɶbɶɶ
-لجأ,ar,Refuge,避難,/ladʒaʔa/,ɶbɶɶ
-barnabarn,is,granddaughter,孫娘,/patnapatn̥/,ɶbɶɶbm
-castaña,es,Chestnut,栗,/kastaɲa/,ɶbɶɶ
-almanak,id,almanac,アルマナック,/almanaʔ/,ɶbɶɶb
-almanach,fr,almanac,アルマナック,/almana/,ɶbɶɶ
-곱하다,ko,multiply,かける,/ko̞pʰa̠da̠/,obɶɶ
-paksaan,id,coercion,強制,/paʔsaʔan/,ɶbɶɶm
-قطع,ar,to cut,切る,/qatˤaʕa/,ɶbɶɶ
-reclamar,es,claim,請求,/reklamaɾ/,øbɶɶ
-وجه,ar,Face,顔,/wadʒʒaha/,ɶbɶɶ
-حضر,ar,Attended,出席した,/ħadˤara/,ɶbɶɶ
-رتب,ar,sort,選別,/rattaba/,ɶbɶɶ
-berjalan,id,walk,歩く,/bərdʒalan/,əbɶɶm
-hát ả đào,vi,dao,ダオ,/hak˦˥ a˧˩˨ daw˦˨/,ɶbɶɶ
-학하다,ko,Collect,収集,/ha̠kʰa̠da̠/,ɶbɶɶ
-malkaŝa,eo,revealing,明らかに,/malkaʃa/,ɶbɶɶ
-やったら,ja,After doing,やったら,/jatːaɾa/,ɶbɶɶ
-waspada,id,alert,アラート,/waspada/,ɶbɶɶ
-soflaman,es,SOFLAN,ソフラン,/soflaman/,obɶɶm
-aðhafast,is,take,取った,/aːðhavast/,ɶbɶɶbb
-déclarâtes,fr,declared,宣言されています,/deklaʁat/,øbɶɶb
-dạ lá sách,vi,folklore,民間伝承,/ja˨ˀ˩ʔ la˩˧ ʂak˦˥/,ɶbɶɶb
-reclassas,fr,reclassas,リクラサ,/ʁəklasa/,əbɶɶ
-aplanat,ro,settled,落ち着いた,/aplanat/,ɶbɶɶb
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+وضع,ar,state,州,/wadˤaʕa/,ɶbɶɶ,bɶɶ
+لجأ,ar,Refuge,避難,/ladʒaʔa/,ɶbɶɶ,bɶɶ
+barnabarn,is,granddaughter,孫娘,/patnapatn̥/,ɶbɶɶbm,bɶɶ
+castaña,es,Chestnut,栗,/kastaɲa/,ɶbɶɶ,bɶɶ
+almanak,id,almanac,アルマナック,/almanaʔ/,ɶbɶɶb,bɶɶ
+almanach,fr,almanac,アルマナック,/almana/,ɶbɶɶ,bɶɶ
+곱하다,ko,multiply,かける,/ko̞pʰa̠da̠/,obɶɶ,bɶɶ
+paksaan,id,coercion,強制,/paʔsaʔan/,ɶbɶɶm,bɶɶ
+قطع,ar,to cut,切る,/qatˤaʕa/,ɶbɶɶ,bɶɶ
+reclamar,es,claim,請求,/reklamaɾ/,øbɶɶ,bɶɶ
+وجه,ar,Face,顔,/wadʒʒaha/,ɶbɶɶ,bɶɶ
+حضر,ar,Attended,出席した,/ħadˤara/,ɶbɶɶ,bɶɶ
+رتب,ar,sort,選別,/rattaba/,ɶbɶɶ,bɶɶ
+berjalan,id,walk,歩く,/bərdʒalan/,əbɶɶm,bɶɶ
+hát ả đào,vi,dao,ダオ,/hak˦˥ a˧˩˨ daw˦˨/,ɶbɶɶ,bɶɶ
+학하다,ko,Collect,収集,/ha̠kʰa̠da̠/,ɶbɶɶ,bɶɶ
+malkaŝa,eo,revealing,明らかに,/malkaʃa/,ɶbɶɶ,bɶɶ
+やったら,ja,After doing,やったら,/jatːaɾa/,ɶbɶɶ,bɶɶ
+waspada,id,alert,アラート,/waspada/,ɶbɶɶ,bɶɶ
+soflaman,es,SOFLAN,ソフラン,/soflaman/,obɶɶm,bɶɶ
+aðhafast,is,take,取った,/aːðhavast/,ɶbɶɶbb,bɶɶ
+déclarâtes,fr,declared,宣言されています,/deklaʁat/,øbɶɶb,bɶɶ
+dạ lá sách,vi,folklore,民間伝承,/ja˨ˀ˩ʔ la˩˧ ʂak˦˥/,ɶbɶɶb,bɶɶ
+reclassas,fr,reclassas,リクラサ,/ʁəklasa/,əbɶɶ,bɶɶ
+aplanat,ro,settled,落ち着いた,/aplanat/,ɶbɶɶb,bɶɶ

@@ -1,44 +1,44 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-الترخيص,ar,License,ライセンス,/aːltarxiːsˤ/,ɶbɶyb
-يعتذر,ar,Apologize,謝罪,/jaʕtaðir/,ɶbɶy
-رصد,ar,monitor,モニター,/rasˤada/,ɶbɶɶ
-cáscara,es,peel,皮,/ˈkaskaɾa/,ɶbɶɶ
-اكتب,ar,Type,タイプ,/ʔaktaba/,ɶbɶɶ
-خطأ,ar,Error,エラー,/xatˤˤaʔa/,ɶbɶɶ
-villandi,is,deceitful,欺ce,/vɪtlantɪ/,ʏbɶmʏ
-hydrater,fr,hydrate,水和物,/idʁate/,ybɶø
-التأسيس,ar,Foundation,財団,/aːltaʔsiːs/,ɶbɶbyb
-لجأ,ar,Refuge,避難,/ladʒaʔa/,ɶbɶɶ
-يضيف,ar,Add,追加,/judˤajjif/,ubɶyb
-المسرح,ar,The theater,劇場,/aːlmasraħ/,ɶbɶbɶb
-قطع,ar,to cut,切る,/qatˤaʕa/,ɶbɶɶ
-retrasar,es,to delay,遅延する,/retɾasaɾ/,øbɶɶ
-الألعاب,ar,the games,ゲーム,/aːlʔalʕaːb/,ɶbɶbɶb
-despacho,es,office,オフィス,/despatʃo/,øbɶbo
-كعب,ar,heel,ヒール,/kaʕʕaba/,ɶbɶɶ
-wetteifern,de,compete,競争,/ˈvɛtʔaɪ̯fɐn/,œbɶʏɐm
-낙하산,ko,parachute,パラシュート,/na̠kʰa̠sʰa̠n/,ɶbɶbɶm
-dezbate,ro,debate,議論,/dezbate/,øbɶø
-búskapur,is,farming,農業,/puːskapʏr/,ubɶʏ
-restauriert,de,restored,復元,/ʁestaʊ̯ˈʁiːɐ̯t/,øbɶʊyɐb
-발자국,ko,footprint,フットプリント,/pa̠ɭd͡ʑa̠ɡuk̚/,ɶbɶub
-fallandi,is,fall,秋,/fatlantɪ/,ɶbɶmʏ
-拉开,zh-cn,Open up,開いてください,/la˥˥ kʰaɪ˥˥/,ɶbɶʏ
-albatros,ro,albatross,アルバトロス,/albatros/,ɶbɶbob
-nachweisen,de,prove,証明,/ˈnaxˌvaezən/,ɶbɶøəm
-bakþanka,is,rear,後方,/paːkθauŋ̊ka/,ɶbɶumɶ
-mitteiltet,de,communicated,通信,/ˈmɪtˌtaeltət/,ʏbɶøbəb
-dicari,id,searching for,探している,/ditʃari/,ybɶy
-abweisen,de,reject,拒絶,/ˈapˌvaɪ̯zən/,ɶbɶʏəm
-訴え,ja,Complaint,訴え,/ɯtːae/,ubɶø
-abstamme,de,damp,湿気,/ˈʔapˌʃtammə/,ɶbɶmə
-afmá,is,erase,消去します,/avmau/,ɶbɶu
-cadenassaient,fr,padlocked,パドロック,/kadnasɛ/,ɶbɶœ
-retradus,ro,retranslated,再巻き戻されました,/retradus/,øbɶub
-afþakka,is,reject,拒絶,/afθahka/,ɶbɶɶ
-SH,is,Sh,sh,/es hauː/,øbɶu
-alnajli,eo,to be nailed,釘付けにされる,/alnaili/,ɶbɶyy
-대상적,ko,Objective,目的,/tɛ̝sʰa̠ŋd͡ʑʌ̹k̚/,œbɶmbɔb
-dát vàng bạc,vi,Gold inlaid,金色の象眼細工,/jak˦˥ jaŋ˦˨ bak˨ˀ˩ʔ/,ɶbɶmɶbb
-굴화성,ko,Oyster,カキ,/kuɾβwa̠sʰʌ̹ŋ/,ubɶbɔm
-sesgará,es,will skew,ゆがみます,/sezɣaˈɾa/,øbɶɶ
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+الترخيص,ar,License,ライセンス,/aːltarxiːsˤ/,ɶbɶyb,bɶ
+يعتذر,ar,Apologize,謝罪,/jaʕtaðir/,ɶbɶy,bɶ
+رصد,ar,monitor,モニター,/rasˤada/,ɶbɶɶ,bɶ
+cáscara,es,peel,皮,/ˈkaskaɾa/,ɶbɶɶ,bɶ
+اكتب,ar,Type,タイプ,/ʔaktaba/,ɶbɶɶ,bɶ
+خطأ,ar,Error,エラー,/xatˤˤaʔa/,ɶbɶɶ,bɶ
+villandi,is,deceitful,欺ce,/vɪtlantɪ/,ʏbɶmʏ,bɶ
+hydrater,fr,hydrate,水和物,/idʁate/,ybɶø,bɶ
+التأسيس,ar,Foundation,財団,/aːltaʔsiːs/,ɶbɶbyb,bɶ
+لجأ,ar,Refuge,避難,/ladʒaʔa/,ɶbɶɶ,bɶ
+يضيف,ar,Add,追加,/judˤajjif/,ubɶyb,bɶ
+المسرح,ar,The theater,劇場,/aːlmasraħ/,ɶbɶbɶb,bɶ
+قطع,ar,to cut,切る,/qatˤaʕa/,ɶbɶɶ,bɶ
+retrasar,es,to delay,遅延する,/retɾasaɾ/,øbɶɶ,bɶ
+الألعاب,ar,the games,ゲーム,/aːlʔalʕaːb/,ɶbɶbɶb,bɶ
+despacho,es,office,オフィス,/despatʃo/,øbɶbo,bɶ
+كعب,ar,heel,ヒール,/kaʕʕaba/,ɶbɶɶ,bɶ
+wetteifern,de,compete,競争,/ˈvɛtʔaɪ̯fɐn/,œbɶʏɐm,bɶ
+낙하산,ko,parachute,パラシュート,/na̠kʰa̠sʰa̠n/,ɶbɶbɶm,bɶ
+dezbate,ro,debate,議論,/dezbate/,øbɶø,bɶ
+búskapur,is,farming,農業,/puːskapʏr/,ubɶʏ,bɶ
+restauriert,de,restored,復元,/ʁestaʊ̯ˈʁiːɐ̯t/,øbɶʊyɐb,bɶ
+발자국,ko,footprint,フットプリント,/pa̠ɭd͡ʑa̠ɡuk̚/,ɶbɶub,bɶ
+fallandi,is,fall,秋,/fatlantɪ/,ɶbɶmʏ,bɶ
+拉开,zh-cn,Open up,開いてください,/la˥˥ kʰaɪ˥˥/,ɶbɶʏ,bɶ
+albatros,ro,albatross,アルバトロス,/albatros/,ɶbɶbob,bɶ
+nachweisen,de,prove,証明,/ˈnaxˌvaezən/,ɶbɶøəm,bɶ
+bakþanka,is,rear,後方,/paːkθauŋ̊ka/,ɶbɶumɶ,bɶ
+mitteiltet,de,communicated,通信,/ˈmɪtˌtaeltət/,ʏbɶøbəb,bɶ
+dicari,id,searching for,探している,/ditʃari/,ybɶy,bɶ
+abweisen,de,reject,拒絶,/ˈapˌvaɪ̯zən/,ɶbɶʏəm,bɶ
+訴え,ja,Complaint,訴え,/ɯtːae/,ubɶø,bɶ
+abstamme,de,damp,湿気,/ˈʔapˌʃtammə/,ɶbɶmə,bɶ
+afmá,is,erase,消去します,/avmau/,ɶbɶu,bɶ
+cadenassaient,fr,padlocked,パドロック,/kadnasɛ/,ɶbɶœ,bɶ
+retradus,ro,retranslated,再巻き戻されました,/retradus/,øbɶub,bɶ
+afþakka,is,reject,拒絶,/afθahka/,ɶbɶɶ,bɶ
+SH,is,Sh,sh,/es hauː/,øbɶu,bɶ
+alnajli,eo,to be nailed,釘付けにされる,/alnaili/,ɶbɶyy,bɶ
+대상적,ko,Objective,目的,/tɛ̝sʰa̠ŋd͡ʑʌ̹k̚/,œbɶmbɔb,bɶ
+dát vàng bạc,vi,Gold inlaid,金色の象眼細工,/jak˦˥ jaŋ˦˨ bak˨ˀ˩ʔ/,ɶbɶmɶbb,bɶ
+굴화성,ko,Oyster,カキ,/kuɾβwa̠sʰʌ̹ŋ/,ubɶbɔm,bɶ
+sesgará,es,will skew,ゆがみます,/sezɣaˈɾa/,øbɶɶ,bɶ

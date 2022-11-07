@@ -1,18 +1,18 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-strategie,ro,strategy,ストラテジー,/stratedʒije/,bbɶøbyø
-استمتع,ar,Have fun,楽しむ,/istamtaʕa/,ybɶmɶɶ
-المرجعي,ar,Reference,参照,/aːlmardʒiʕijj/,ɶbɶbyy
-Abwanderung,de,Emigration,移民,/ˈapˌvandəʁʊŋ/,ɶbɶməʊm
-기관지염,ko,bronchitis,気管支炎,/kiɡwa̠nd͡ʑijʌ̹m/,ybɶmbyɔm
-تجاهل,ar,discard,破棄,/tadʒaːhala/,ɶbɶɶɶ
-kacamata,id,glasses,眼鏡,/katʃamata/,ɶbɶɶɶ
-마카로니,ko,macaroni,マカロニ,/ma̠kʰa̠ɾo̞ni/,ɶbɶoy
-餐风露宿,zh-cn,Meals,食事,/tsʰan˥˥ fɤŋ˥˥ lu˥˩ su˥˩/,bbɶmomuu
-surchargeras,fr,overloads,過負荷,/syʁʃaʁʒəʁa/,ybɶbəɶ
-アッパーカット,ja,Upper cut,アッパーカット,/apːaːkatːo/,ɶbɶɶbo
-avoisiner,fr,bewilder,戸惑い,/avwazine/,ɶbɶyø
-almamatér,id,Almamatér,母校,/almamater/,ɶbɶɶø
-vulgarisasse,fr,popularisasse,PolumeSasse,/vylgaʁizas/,ybɶyɶb
-almagesto,es,almagest,alMagest,/almaxesto/,ɶbɶøbo
-salvármelo,es,save it to me,私にそれを保存してください,/saˈlβaɾmelo/,ɶbɶøo
-Agrarprodukt,de,Agricultural product,農産物,/ˈʔagɾaɾpɾodʊkt/,ɶbɶboʊbb
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+strategie,ro,strategy,ストラテジー,/stratedʒije/,bbɶøbyø,bɶ
+استمتع,ar,Have fun,楽しむ,/istamtaʕa/,ybɶmɶɶ,bɶ
+المرجعي,ar,Reference,参照,/aːlmardʒiʕijj/,ɶbɶbyy,bɶ
+Abwanderung,de,Emigration,移民,/ˈapˌvandəʁʊŋ/,ɶbɶməʊm,bɶ
+기관지염,ko,bronchitis,気管支炎,/kiɡwa̠nd͡ʑijʌ̹m/,ybɶmbyɔm,bɶ
+تجاهل,ar,discard,破棄,/tadʒaːhala/,ɶbɶɶɶ,bɶ
+kacamata,id,glasses,眼鏡,/katʃamata/,ɶbɶɶɶ,bɶ
+마카로니,ko,macaroni,マカロニ,/ma̠kʰa̠ɾo̞ni/,ɶbɶoy,bɶ
+餐风露宿,zh-cn,Meals,食事,/tsʰan˥˥ fɤŋ˥˥ lu˥˩ su˥˩/,bbɶmomuu,bɶ
+surchargeras,fr,overloads,過負荷,/syʁʃaʁʒəʁa/,ybɶbəɶ,bɶ
+アッパーカット,ja,Upper cut,アッパーカット,/apːaːkatːo/,ɶbɶɶbo,bɶ
+avoisiner,fr,bewilder,戸惑い,/avwazine/,ɶbɶyø,bɶ
+almamatér,id,Almamatér,母校,/almamater/,ɶbɶɶø,bɶ
+vulgarisasse,fr,popularisasse,PolumeSasse,/vylgaʁizas/,ybɶyɶb,bɶ
+almagesto,es,almagest,alMagest,/almaxesto/,ɶbɶøbo,bɶ
+salvármelo,es,save it to me,私にそれを保存してください,/saˈlβaɾmelo/,ɶbɶøo,bɶ
+Agrarprodukt,de,Agricultural product,農産物,/ˈʔagɾaɾpɾodʊkt/,ɶbɶboʊbb,bɶ

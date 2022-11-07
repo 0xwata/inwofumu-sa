@@ -1,25 +1,25 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-هستيري,ar,hysterical,ヒステリック,/histiːrijj/,ybyy
-vestido,es,dress,ドレス,/bestiðo/,øbyo
-padrino,es,godfather,ゴッドファーザー,/paðɾino/,ɶbyo
-bajingan,id,bastard,子なし,/badʒiŋan/,ɶbyɶm
-aspirant,ro,vacuum cleaner,掃除機,/aspirant/,ɶbyɶmb
-وظيفي,ar,functional,機能,/waðˤiːfijj/,ɶbyy
-agreeable,en,agreeable,同意します,/əˈɡɹiəbəɫ/,əbyəə
-ordinaire,fr,ordinary,普通,/ɔʁdinɛʁ/,ɔbyœb
-activo,es,active,アクティブ,/aktiβo/,ɶbyo
-helvítis,is,damn,くそ,/hɛlvitɪs/,œbyʏb
-silbido,es,whistle,ホイッスル,/silβiðo/,ybyo
-óxido,es,oxide,酸化物,/ˈoksiðo/,obyo
-diluirles,es,Dilute them,それらを希釈します,/dilwiɾles/,ybyøb
-löllyä,fi,fluffy,ふわふわ,/ˈløllyæ/,øbyæ
-dại gì mà,vi,What foolish,なんて愚かだ,/jaj˨ˀ˩ʔ ɣi˦˨ ma˦˨/,ɶbyɶ
-staffiertes,de,staggered,よろめい,/ʃtafˈfiːɾtəs/,ɶbyəb
-Baltiko,eo,Baltic,バルト,/baltiko/,ɶbyo
-mastiko,eo,mastic,マスチックの,/mastiko/,ɶbyo
-kecilnya,id,little,少し,/kətʃilɲa/,əbybɶ
-열심히,ko,hard,難しい,/jʌ̹ɭɕʰimʝi/,ɔbymy
-facila,eo,easy,簡単,/fat͡sila/,ɶbyɶ
-persistantes,fr,persistent,持続的に,/pɛʁsistɑ̃t/,œbybɑb
-distingtif,id,Distintive,Distintive,/distiŋtif/,ybymyb
-optimi,fi,optimum,最適,/ˈoptimi/,obyy
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+هستيري,ar,hysterical,ヒステリック,/histiːrijj/,ybyy,by
+vestido,es,dress,ドレス,/bestiðo/,øbyo,by
+padrino,es,godfather,ゴッドファーザー,/paðɾino/,ɶbyo,by
+bajingan,id,bastard,子なし,/badʒiŋan/,ɶbyɶm,by
+aspirant,ro,vacuum cleaner,掃除機,/aspirant/,ɶbyɶmb,by
+وظيفي,ar,functional,機能,/waðˤiːfijj/,ɶbyy,by
+agreeable,en,agreeable,同意します,/əˈɡɹiəbəɫ/,əbyəə,by
+ordinaire,fr,ordinary,普通,/ɔʁdinɛʁ/,ɔbyœb,by
+activo,es,active,アクティブ,/aktiβo/,ɶbyo,by
+helvítis,is,damn,くそ,/hɛlvitɪs/,œbyʏb,by
+silbido,es,whistle,ホイッスル,/silβiðo/,ybyo,by
+óxido,es,oxide,酸化物,/ˈoksiðo/,obyo,by
+diluirles,es,Dilute them,それらを希釈します,/dilwiɾles/,ybyøb,by
+löllyä,fi,fluffy,ふわふわ,/ˈløllyæ/,øbyæ,by
+dại gì mà,vi,What foolish,なんて愚かだ,/jaj˨ˀ˩ʔ ɣi˦˨ ma˦˨/,ɶbyɶ,by
+staffiertes,de,staggered,よろめい,/ʃtafˈfiːɾtəs/,ɶbyəb,by
+Baltiko,eo,Baltic,バルト,/baltiko/,ɶbyo,by
+mastiko,eo,mastic,マスチックの,/mastiko/,ɶbyo,by
+kecilnya,id,little,少し,/kətʃilɲa/,əbybɶ,by
+열심히,ko,hard,難しい,/jʌ̹ɭɕʰimʝi/,ɔbymy,by
+facila,eo,easy,簡単,/fat͡sila/,ɶbyɶ,by
+persistantes,fr,persistent,持続的に,/pɛʁsistɑ̃t/,œbybɑb,by
+distingtif,id,Distintive,Distintive,/distiŋtif/,ybymyb,by
+optimi,fi,optimum,最適,/ˈoptimi/,obyy,by

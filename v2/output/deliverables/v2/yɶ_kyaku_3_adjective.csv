@@ -1,31 +1,31 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-قوي,ar,strong,強い,/qaʊiːa/,ɶʊyɶ
-química,es,chemistry,化学,/ˈkimika/,yyɶ
-crónica,es,chronicle,クロニクル,/ˈkɾonika/,boyɶ
-أرق,ar,insomnia,不眠症,/ʔariqa/,ɶyɶ
-facila,eo,easy,簡単,/fat͡sila/,ɶbyɶ
-gembira,id,happy,ハッピー,/gəmbira/,əmyɶ
-gracia,eo,grace,恵み,/grat͡sia/,bɶbyɶ
-túnica,es,tunica,チュニカ,/ˈtunika/,uyɶ
-mortiga,eo,Deadly,致命的,/mortiga/,oyɶ
-gaja,eo,,陽気な,/gaia/,ɶyɶ
-física,es,physical,物理的,/ˈfisika/,yyɶ
-bergairah,id,enthusiastic,熱狂的,/bərgairah/,əɶyɶ
-اختبار,ar,a test,テスト,/ixtibaːr/,ybyɶ
-شره,ar,gluttonous,大食い,/ʃariha/,ɶyɶ
-dại gì mà,vi,What foolish,なんて愚かだ,/jaj˨ˀ˩ʔ ɣi˦˨ ma˦˨/,ɶbyɶ
-indignât,fr,indignant,憤慨する,/ɛ̃diɲa/,œyɶ
-느리다,ko,slow,スロー,/nɯɾida̠/,uyɶ
-gelisah,id,nervous,緊張,/gəlisah/,əyɶ
-belia,id,young,若い,/bəlia/,əyɶ
-valía,es,It was worth,価値がありました,/baˈlia/,ɶyɶ
-لإحمرار,/liiħmiraːr/,To red,赤へ,yybyɶ,ar
-betina.,id,female.,女性。,/bətina./,əyɶ
-devia,ro,depart,出発,/devija/,øyɶ
-질기다,ko,be tough,強くなれ,/t͡ɕiɭɡida̠/,byyɶ
-졸리다,ko,Sleepy,眠いです,/t͡ɕo̞ɭʎida̠/,boyɶ
-커지다,ko,grow big,大きくなる,/kʰʌ̹d͡ʑida̠/,bɔbyɶ
-nervurât,fr,nervous,緊張,/nɛʁvyʁa/,œbyɶ
-valida,eo,Valid,有効,/valida/,ɶyɶ
-prendida,es,set on,上の設定,/pɾendiða/,bømyɶ
-malĝoja,eo,sad,悲しい,/mald͡ʒoia/,ɶbboyɶ
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+قوي,ar,strong,強い,/qaʊiːa/,ɶʊyɶ,yɶ
+química,es,chemistry,化学,/ˈkimika/,yyɶ,yɶ
+crónica,es,chronicle,クロニクル,/ˈkɾonika/,boyɶ,yɶ
+أرق,ar,insomnia,不眠症,/ʔariqa/,ɶyɶ,yɶ
+facila,eo,easy,簡単,/fat͡sila/,ɶbyɶ,yɶ
+gembira,id,happy,ハッピー,/gəmbira/,əmyɶ,yɶ
+gracia,eo,grace,恵み,/grat͡sia/,bɶbyɶ,yɶ
+túnica,es,tunica,チュニカ,/ˈtunika/,uyɶ,yɶ
+mortiga,eo,Deadly,致命的,/mortiga/,oyɶ,yɶ
+gaja,eo,,陽気な,/gaia/,ɶyɶ,yɶ
+física,es,physical,物理的,/ˈfisika/,yyɶ,yɶ
+bergairah,id,enthusiastic,熱狂的,/bərgairah/,əɶyɶ,yɶ
+اختبار,ar,a test,テスト,/ixtibaːr/,ybyɶ,yɶ
+شره,ar,gluttonous,大食い,/ʃariha/,ɶyɶ,yɶ
+dại gì mà,vi,What foolish,なんて愚かだ,/jaj˨ˀ˩ʔ ɣi˦˨ ma˦˨/,ɶbyɶ,yɶ
+indignât,fr,indignant,憤慨する,/ɛ̃diɲa/,œyɶ,yɶ
+느리다,ko,slow,スロー,/nɯɾida̠/,uyɶ,yɶ
+gelisah,id,nervous,緊張,/gəlisah/,əyɶ,yɶ
+belia,id,young,若い,/bəlia/,əyɶ,yɶ
+valía,es,It was worth,価値がありました,/baˈlia/,ɶyɶ,yɶ
+لإحمرار,/liiħmiraːr/,To red,赤へ,yybyɶ,ar,yɶ
+betina.,id,female.,女性。,/bətina./,əyɶ,yɶ
+devia,ro,depart,出発,/devija/,øyɶ,yɶ
+질기다,ko,be tough,強くなれ,/t͡ɕiɭɡida̠/,byyɶ,yɶ
+졸리다,ko,Sleepy,眠いです,/t͡ɕo̞ɭʎida̠/,boyɶ,yɶ
+커지다,ko,grow big,大きくなる,/kʰʌ̹d͡ʑida̠/,bɔbyɶ,yɶ
+nervurât,fr,nervous,緊張,/nɛʁvyʁa/,œbyɶ,yɶ
+valida,eo,Valid,有効,/valida/,ɶyɶ,yɶ
+prendida,es,set on,上の設定,/pɾendiða/,bømyɶ,yɶ
+malĝoja,eo,sad,悲しい,/mald͡ʒoia/,ɶbboyɶ,yɶ

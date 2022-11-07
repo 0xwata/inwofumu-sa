@@ -1,27 +1,27 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-判定,ja,judgement,判定,/haɴtei/,ɶmøy
-Anregung,de,Stimulation,刺激,/ˈʔanˌɾeːgʊŋ/,ɶmøʊm
-pensetă,ro,tweezers,ピンセット,/pensetə/,ømøə
-ピンセット,ja,tweezers,ピンセット,/piɴsetːo/,ymøbo
-intelect,ro,intellect,知性,/intelekt/,ymøøbb
-インテリ,ja,Intellectual,インテリ,/iɴteɾi/,ymøy
-longeco,eo,length,長さ,/longet͡so/,omøbo
-samheiti,is,synonym,シノニム,/saːmheitɪ/,ɶmøyʏ
-contexto,es,context,環境,/konteksto/,omøbbo
-samhengi,is,sequence,順序,/saːmheiɲcɪ/,ɶmøymʏ
-vinjeto,eo,vignette,ビネット,/vinjeto/,ymøo
-神経,ja,Nerve,神経,/ɕiɴkei/,ymøy
-タンデム,ja,Tandem,タンデム,/taɴdemɯ/,ɶmøu
-泔水,zh-cn,swill,すすります,/kan˥˥ ʂweɪ˨˩˦/,ɶmøʏ
-lanterno,eo,lantern,灯籠,/lanterno/,ɶmøo
-限定詞,/geɴteiɕi/,Limited lyrics,限定詞,ømøyy,ja
-símleiðis,/simleiðɪs/,by way,ところで,ymøyʏb,is
-ingerís,/iŋxeˈɾis/,Ingerís,インゲリス,ymøyb,es
-liñuelos,es,Liañuelos,リニュエロス,/liɲwelos/,ymøob
-恩恵,ja,benefit,恩恵,/oɴkei/,omøy
-难为情,/nan˧˥ weɪ˧˥ tɕʰɪŋ˧˥/,Embarrassed,恥ずかしい,ɶmøʏbbʏm,zh-cn
-Pompejo,/pompeio/,Pompeii,ポンペイ,omøyo,eo
-bánh xèo,/ban˩˧ seo˦˨/,pancakes,パンケーキ,ɶmøo,vi
-fingelska,fi,fingelska,フィンゲルスカ,/ˈfingelskɑ/,ymøbbɑ
-indexen,es,Indexen,インデックスン,/indeksen/,ymøbøm
-amnésiques,fr,amnesiac,健忘,/amnezik/,ɶmøyb
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+判定,ja,judgement,判定,/haɴtei/,ɶmøy,mø
+Anregung,de,Stimulation,刺激,/ˈʔanˌɾeːgʊŋ/,ɶmøʊm,mø
+pensetă,ro,tweezers,ピンセット,/pensetə/,ømøə,mø
+ピンセット,ja,tweezers,ピンセット,/piɴsetːo/,ymøbo,mø
+intelect,ro,intellect,知性,/intelekt/,ymøøbb,mø
+インテリ,ja,Intellectual,インテリ,/iɴteɾi/,ymøy,mø
+longeco,eo,length,長さ,/longet͡so/,omøbo,mø
+samheiti,is,synonym,シノニム,/saːmheitɪ/,ɶmøyʏ,mø
+contexto,es,context,環境,/konteksto/,omøbbo,mø
+samhengi,is,sequence,順序,/saːmheiɲcɪ/,ɶmøymʏ,mø
+vinjeto,eo,vignette,ビネット,/vinjeto/,ymøo,mø
+神経,ja,Nerve,神経,/ɕiɴkei/,ymøy,mø
+タンデム,ja,Tandem,タンデム,/taɴdemɯ/,ɶmøu,mø
+泔水,zh-cn,swill,すすります,/kan˥˥ ʂweɪ˨˩˦/,ɶmøʏ,mø
+lanterno,eo,lantern,灯籠,/lanterno/,ɶmøo,mø
+限定詞,/geɴteiɕi/,Limited lyrics,限定詞,ømøyy,ja,mø
+símleiðis,/simleiðɪs/,by way,ところで,ymøyʏb,is,mø
+ingerís,/iŋxeˈɾis/,Ingerís,インゲリス,ymøyb,es,mø
+liñuelos,es,Liañuelos,リニュエロス,/liɲwelos/,ymøob,mø
+恩恵,ja,benefit,恩恵,/oɴkei/,omøy,mø
+难为情,/nan˧˥ weɪ˧˥ tɕʰɪŋ˧˥/,Embarrassed,恥ずかしい,ɶmøʏbbʏm,zh-cn,mø
+Pompejo,/pompeio/,Pompeii,ポンペイ,omøyo,eo,mø
+bánh xèo,/ban˩˧ seo˦˨/,pancakes,パンケーキ,ɶmøo,vi,mø
+fingelska,fi,fingelska,フィンゲルスカ,/ˈfingelskɑ/,ymøbbɑ,mø
+indexen,es,Indexen,インデックスン,/indeksen/,ymøbøm,mø
+amnésiques,fr,amnesiac,健忘,/amnezik/,ɶmøyb,mø

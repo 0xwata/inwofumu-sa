@@ -1,16 +1,16 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-revista,es,magazine,雑誌,/reβista/,øybɶ
-familia,es,family,家族,/familja/,ɶybɶ
-artista,es,artist,アーティスト,/aɾtista/,ɶybɶ
-حرج,ar,HARAJ,ハラジ,/ħaridʒa/,ɶybɶ
-meistari,is,champion,チャンピオン,/meistarɪ/,øybɶʏ
-غوريلا,ar,gorilla,ゴリラ,/ɣuːriːllaː/,uybɶ
-지팡이,ko,cane,杖,/t͡ɕipʰa̠ŋi/,bybɶy
-회의장,ko,Conference,会議,/hø̞ɰid͡ʑa̠ŋ/,øybɶm
-maizpano,eo,corn bread,コーンブレッド,/maizpano/,ɶybɶo
-meistarann,is,champion,チャンピオン,/meistaran/,øybɶɶm
-giải tích hàm,vi,Procurement of function,機能の調達,/jaj˧˩˨ tit˦˥ ham˦˨/,ɶybɶm
-kalikla,eo,Calic,カリック,/kalikla/,ɶybɶ
-正逆,ja,Reverse,正逆,/seigjakɯ/,øybɶu
-莖茶,ja,Teas,莖茶,/kɯkitɕa/,uybɶ
-speechwriter,en,speechwriter,SpeechWriter,/ˈspitʃˌɹaɪtɝ/,bybɶʏə
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+revista,es,magazine,雑誌,/reβista/,øybɶ,ybɶ
+familia,es,family,家族,/familja/,ɶybɶ,ybɶ
+artista,es,artist,アーティスト,/aɾtista/,ɶybɶ,ybɶ
+حرج,ar,HARAJ,ハラジ,/ħaridʒa/,ɶybɶ,ybɶ
+meistari,is,champion,チャンピオン,/meistarɪ/,øybɶʏ,ybɶ
+غوريلا,ar,gorilla,ゴリラ,/ɣuːriːllaː/,uybɶ,ybɶ
+지팡이,ko,cane,杖,/t͡ɕipʰa̠ŋi/,bybɶy,ybɶ
+회의장,ko,Conference,会議,/hø̞ɰid͡ʑa̠ŋ/,øybɶm,ybɶ
+maizpano,eo,corn bread,コーンブレッド,/maizpano/,ɶybɶo,ybɶ
+meistarann,is,champion,チャンピオン,/meistaran/,øybɶɶm,ybɶ
+giải tích hàm,vi,Procurement of function,機能の調達,/jaj˧˩˨ tit˦˥ ham˦˨/,ɶybɶm,ybɶ
+kalikla,eo,Calic,カリック,/kalikla/,ɶybɶ,ybɶ
+正逆,ja,Reverse,正逆,/seigjakɯ/,øybɶu,ybɶ
+莖茶,ja,Teas,莖茶,/kɯkitɕa/,uybɶ,ybɶ
+speechwriter,en,speechwriter,SpeechWriter,/ˈspitʃˌɹaɪtɝ/,bybɶʏə,ybɶ

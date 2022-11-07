@@ -1,18 +1,18 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-発明者,ja,Inventor,発明者,/hatsɯmeiɕa/,ɶbuøyɶ
-野球場,ja,baseball Ground,野球場,/jakjɯɯdʑoɯ/,ɶbuubou
-出力,ja,output,出力,/ɕɯtsɯɾjokɯ/,ubuou
-calculator,ro,computer,コンピューター,/kalkulator/,ɶbuɶo
-kalkulilo,eo,calculator,電卓,/kalkulilo/,ɶbuyo
-ネックレス,ja,necklace,ネックレス,/nekːɯɾesɯ/,øbuøu
-الأكسجين,ar,Oxygen,空気,/aːlʔuksidʒiːn/,ɶbubybym
-失業,ja,unemployment,失業,/ɕitsɯgjoɯ/,ybubou
-bát lưng bát vực,vi,Bat bowl bowl,バットボウルボウル,/bak˦˥ lɯŋ˧˥ bak˦˥ jɯk˨ˀ˩ʔ/,ɶbumɶbubb
-baskulludo,eo,Bascupleading,Bascupleading,/baskulludo/,ɶbubuo
-kulkusalla,fi,travelery,旅行者,/ˈkulkuˌsɑllɑ/,ubuɑbɑ
-Magnúsdóttur,/maknustouhtʏr/,Magnúsdóttir,マグナスドッティル,ɶbubouʏ,is
-아스팔트,ko,asphalt,アスファルト,/a̠sʰɯpʰa̠ɭtʰɯ/,ɶbubɶbu
-deglutina,ro,Deglutina,デグルチナ,/deɡlutina/,øbuyɶ
-aktuaria,id,Actuarial,保険数理,/aʔtuaria/,ɶbuɶyɶ
-tire-bouchonnée,fr,cork puller,コルクプーラー,/tiʁbuʃɔne/,ybuɔø
-maljunulo,eo,old man,老人,/maljunulo/,ɶbuuo
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+発明者,ja,Inventor,発明者,/hatsɯmeiɕa/,ɶbuøyɶ,bu
+野球場,ja,baseball Ground,野球場,/jakjɯɯdʑoɯ/,ɶbuubou,bu
+出力,ja,output,出力,/ɕɯtsɯɾjokɯ/,ubuou,bu
+calculator,ro,computer,コンピューター,/kalkulator/,ɶbuɶo,bu
+kalkulilo,eo,calculator,電卓,/kalkulilo/,ɶbuyo,bu
+ネックレス,ja,necklace,ネックレス,/nekːɯɾesɯ/,øbuøu,bu
+الأكسجين,ar,Oxygen,空気,/aːlʔuksidʒiːn/,ɶbubybym,bu
+失業,ja,unemployment,失業,/ɕitsɯgjoɯ/,ybubou,bu
+bát lưng bát vực,vi,Bat bowl bowl,バットボウルボウル,/bak˦˥ lɯŋ˧˥ bak˦˥ jɯk˨ˀ˩ʔ/,ɶbumɶbubb,bu
+baskulludo,eo,Bascupleading,Bascupleading,/baskulludo/,ɶbubuo,bu
+kulkusalla,fi,travelery,旅行者,/ˈkulkuˌsɑllɑ/,ubuɑbɑ,bu
+Magnúsdóttur,/maknustouhtʏr/,Magnúsdóttir,マグナスドッティル,ɶbubouʏ,is,bu
+아스팔트,ko,asphalt,アスファルト,/a̠sʰɯpʰa̠ɭtʰɯ/,ɶbubɶbu,bu
+deglutina,ro,Deglutina,デグルチナ,/deɡlutina/,øbuyɶ,bu
+aktuaria,id,Actuarial,保険数理,/aʔtuaria/,ɶbuɶyɶ,bu
+tire-bouchonnée,fr,cork puller,コルクプーラー,/tiʁbuʃɔne/,ybuɔø,bu
+maljunulo,eo,old man,老人,/maljunulo/,ɶbuuo,bu

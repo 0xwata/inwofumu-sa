@@ -1,29 +1,29 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-cannibale,fr,cannibal,人食い,/kanibal/,ɶyɶb
-înghețat,ro,frozen,凍った,/ɨngʲ̩etsat/,ʉmyøbɶb
-excitat,ro,excited,興奮した,/ekstʃitat/,øbbbyɶb
-infernal,ro,infernal,地獄,/infernal/,ymøɶb
-general,es,general,全般的,/xeneɾal/,øøɶb
-textual,ro,textual,テキスト,/tekstuwal/,øbbuɶb
-المفضل,ar,the favorite,お気に入り,/aːlmifdˤal/,ɶbybbɶb
-păstârnac,ro,parsnip,パースニップ,/pəstɨrnak/,əbʉɶb
-comercial,es,commercial,商業,/komeɾθjal/,oøbɶb
-음향학,ko,acoustics,音響,/ɯmʝja̠ŋɦa̠k̚/,umɶmɶb
-especial,es,special,特別な,/espeθjal/,øbøbɶb
-neegalat,ro,unequaled,比類のない,/neeɡalat/,øøɶɶb
-vegetal,ro,plant,工場,/vedʒetal/,øbøɶb
-gradual,ro,gradually,徐々に,/ɡraduwal/,bɶuɶb
-menyesak,id,I'm sorry,申し訳ありません,/məɲəsaʔ/,əəɶb
-فافدح,ar,I am afraid,怖いです,/faʔafdaħ/,ɶɶbɶb
-가로막,ko,Horizontal,水平,/ka̠ɾo̞ma̠k̚/,ɶoɶb
-bảng lượng giác,vi,trigonometric,三角法,/baŋ˧˩˨ lɯəŋ˨ˀ˩ʔ jak˦˥/,ɶmuəmbɶb
-chất phóng xạ,vi,radioactive,放射性,/cɤ̆k˦˥ fɔŋ͡m˩˧ sa˨ˀ˩ʔ/,obɔmmɶb
-rascadas,es,scratched,ひっかい,/raskaðas/,ɶbɶɶb
-bụi phóng xạ,vi,radioactive,放射性,/buj˨ˀ˩ʔ fɔŋ͡m˩˧ sa˨ˀ˩ʔ/,ubɔmmɶb
-inglesas,es,English,英語,/iŋglesas/,ymbøɶb
-동양학,ko,Oriental,オリエンタル,/to̞ŋja̠ŋɦa̠k̚/,omɶmɶb
-insertas,es,Inserts,挿入,/inseɾtas/,ymøɶb
-ósannað,is,untiprous,untiprous,/ouːsanað/,ouɶɶb
-해부학,ko,Anatomy,解剖学,/hɛ̝buɦa̠k̚/,œuɶb
-góc khúc xạ,vi,refractive,屈折率,/ɣɔk͡p˦˥ xuk͡p˦˥ sa˨ˀ˩ʔ/,ɔbbubbɶb
-so gốc rạ,vi,Compare stubble,無精ひげを比較します,/ʂɔ˧˥ ɣok͡p˦˥ ʐa˨ˀ˩ʔ/,ɔobbɶb
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+cannibale,fr,cannibal,人食い,/kanibal/,ɶyɶb,ɶb
+înghețat,ro,frozen,凍った,/ɨngʲ̩etsat/,ʉmyøbɶb,ɶb
+excitat,ro,excited,興奮した,/ekstʃitat/,øbbbyɶb,ɶb
+infernal,ro,infernal,地獄,/infernal/,ymøɶb,ɶb
+general,es,general,全般的,/xeneɾal/,øøɶb,ɶb
+textual,ro,textual,テキスト,/tekstuwal/,øbbuɶb,ɶb
+المفضل,ar,the favorite,お気に入り,/aːlmifdˤal/,ɶbybbɶb,ɶb
+păstârnac,ro,parsnip,パースニップ,/pəstɨrnak/,əbʉɶb,ɶb
+comercial,es,commercial,商業,/komeɾθjal/,oøbɶb,ɶb
+음향학,ko,acoustics,音響,/ɯmʝja̠ŋɦa̠k̚/,umɶmɶb,ɶb
+especial,es,special,特別な,/espeθjal/,øbøbɶb,ɶb
+neegalat,ro,unequaled,比類のない,/neeɡalat/,øøɶɶb,ɶb
+vegetal,ro,plant,工場,/vedʒetal/,øbøɶb,ɶb
+gradual,ro,gradually,徐々に,/ɡraduwal/,bɶuɶb,ɶb
+menyesak,id,I'm sorry,申し訳ありません,/məɲəsaʔ/,əəɶb,ɶb
+فافدح,ar,I am afraid,怖いです,/faʔafdaħ/,ɶɶbɶb,ɶb
+가로막,ko,Horizontal,水平,/ka̠ɾo̞ma̠k̚/,ɶoɶb,ɶb
+bảng lượng giác,vi,trigonometric,三角法,/baŋ˧˩˨ lɯəŋ˨ˀ˩ʔ jak˦˥/,ɶmuəmbɶb,ɶb
+chất phóng xạ,vi,radioactive,放射性,/cɤ̆k˦˥ fɔŋ͡m˩˧ sa˨ˀ˩ʔ/,obɔmmɶb,ɶb
+rascadas,es,scratched,ひっかい,/raskaðas/,ɶbɶɶb,ɶb
+bụi phóng xạ,vi,radioactive,放射性,/buj˨ˀ˩ʔ fɔŋ͡m˩˧ sa˨ˀ˩ʔ/,ubɔmmɶb,ɶb
+inglesas,es,English,英語,/iŋglesas/,ymbøɶb,ɶb
+동양학,ko,Oriental,オリエンタル,/to̞ŋja̠ŋɦa̠k̚/,omɶmɶb,ɶb
+insertas,es,Inserts,挿入,/inseɾtas/,ymøɶb,ɶb
+ósannað,is,untiprous,untiprous,/ouːsanað/,ouɶɶb,ɶb
+해부학,ko,Anatomy,解剖学,/hɛ̝buɦa̠k̚/,œuɶb,ɶb
+góc khúc xạ,vi,refractive,屈折率,/ɣɔk͡p˦˥ xuk͡p˦˥ sa˨ˀ˩ʔ/,ɔbbubbɶb,ɶb
+so gốc rạ,vi,Compare stubble,無精ひげを比較します,/ʂɔ˧˥ ɣok͡p˦˥ ʐa˨ˀ˩ʔ/,ɔobbɶb,ɶb

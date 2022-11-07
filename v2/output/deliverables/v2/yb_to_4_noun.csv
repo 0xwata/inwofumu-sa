@@ -1,23 +1,23 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-komissio,fi,commission,手数料,/ˈkomisˌsio/,oybyo
-マニキュア,ja,Manicure,マニキュア,/manikjɯa/,ɶybuɶ
-riippumatto,fi,hammock,ハンモック,/ˈriippuˌmɑtto/,yybuɑbo
-الاعتزاز,ar,Pride,誇り,/aːliʕtizaːz/,ɶybyɶb
-Penicillin,de,penicillin,ペニシリン,/ˈpeːnitsɪllɪn/,øybʏbʏm
-bicicleta,es,bike,自転車,/biθikleta/,yybøɶ
-maissijauho,fi,cornflour,コーンフラワー,/ˈmɑissiˌjɑuho/,ɑybyɑuo
-leiðbeinandi,is,instructor,インストラクター,/leiðpeinantɪ/,øybøyɶmʏ
-solisluu,fi,clavicle,鎖骨,/ˈsolisluu/,oybuu
-grillikylki,fi,barbecue,バーベキュー,/ˈgrilliˌkylki/,bybyyby
-ravitsemus,fi,nutrition,栄養,/ˈrɑvitˌsemus/,ɑybøub
-codiciase,es,covered,カバーされています,/koðiθjase/,oybɶø
-maizviskio,eo,corn whiskey,コーンウイスキー,/maizviskio/,ɶybybyo
-pisicile,/pisitʃile/,cats,猫,yybyø,ro
-kariljono,/kariljono/,Cariljon,カリジョン,ɶyboo,eo
-persistieras,es,You persisted,あなたは固執しました,/peɾsistjeɾas/,øybbøɶb
-لإدريسي,ar,To Edriss,エドリスへ,/liʔidriːsijj/,yybyy
-Papierstreifens,de,Streaks of paper,紙の縞,/ˈpɑːpiːɾstɾaefɛns/,ɑybbɶøœmb
-législatrices,fr,legislators,議員,/leʒislatʁis/,øybɶbyb
-노리카에,ko,Norika,ノリカ,/no̞ɾikʰa̠e̞/,oybɶø
-triptongases,es,Triptonses,トリプトン,/tɾiptoŋgases/,bybomɶøb
-endurcissons,fr,Standcrafts,携帯電話,/ɑ̃dyʁsisɔ̃/,ɑybyɔ
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+komissio,fi,commission,手数料,/ˈkomisˌsio/,oybyo,yb
+マニキュア,ja,Manicure,マニキュア,/manikjɯa/,ɶybuɶ,yb
+riippumatto,fi,hammock,ハンモック,/ˈriippuˌmɑtto/,yybuɑbo,yb
+الاعتزاز,ar,Pride,誇り,/aːliʕtizaːz/,ɶybyɶb,yb
+Penicillin,de,penicillin,ペニシリン,/ˈpeːnitsɪllɪn/,øybʏbʏm,yb
+bicicleta,es,bike,自転車,/biθikleta/,yybøɶ,yb
+maissijauho,fi,cornflour,コーンフラワー,/ˈmɑissiˌjɑuho/,ɑybyɑuo,yb
+leiðbeinandi,is,instructor,インストラクター,/leiðpeinantɪ/,øybøyɶmʏ,yb
+solisluu,fi,clavicle,鎖骨,/ˈsolisluu/,oybuu,yb
+grillikylki,fi,barbecue,バーベキュー,/ˈgrilliˌkylki/,bybyyby,yb
+ravitsemus,fi,nutrition,栄養,/ˈrɑvitˌsemus/,ɑybøub,yb
+codiciase,es,covered,カバーされています,/koðiθjase/,oybɶø,yb
+maizviskio,eo,corn whiskey,コーンウイスキー,/maizviskio/,ɶybybyo,yb
+pisicile,/pisitʃile/,cats,猫,yybyø,ro,yb
+kariljono,/kariljono/,Cariljon,カリジョン,ɶyboo,eo,yb
+persistieras,es,You persisted,あなたは固執しました,/peɾsistjeɾas/,øybbøɶb,yb
+لإدريسي,ar,To Edriss,エドリスへ,/liʔidriːsijj/,yybyy,yb
+Papierstreifens,de,Streaks of paper,紙の縞,/ˈpɑːpiːɾstɾaefɛns/,ɑybbɶøœmb,yb
+législatrices,fr,legislators,議員,/leʒislatʁis/,øybɶbyb,yb
+노리카에,ko,Norika,ノリカ,/no̞ɾikʰa̠e̞/,oybɶø,yb
+triptongases,es,Triptonses,トリプトン,/tɾiptoŋgases/,bybomɶøb,yb
+endurcissons,fr,Standcrafts,携帯電話,/ɑ̃dyʁsisɔ̃/,ɑybyɔ,yb

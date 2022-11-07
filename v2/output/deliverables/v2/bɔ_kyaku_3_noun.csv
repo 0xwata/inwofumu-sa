@@ -1,21 +1,21 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-expulsion,fr,expulsion,追放,/ɛkspylsjɔ̃/,œbbybbɔ
-occasion,fr,opportunity,機会,/ɔkazjɔ̃/,ɔɶbɔ
-contention,fr,restraint,拘束,/kɔ̃tɑ̃sjɔ̃/,ɔɑbɔ
-confusion,fr,confusion,錯乱,/kɔ̃fyzjɔ̃/,ɔybɔ
-크래커,ko,cracker,クラッカー,/kxɯɾɛ̝kʰʌ̹/,buœbɔ
-incision,fr,incision,切開,/ɛ̃sizjɔ̃/,œybɔ
-rotation,fr,spin,スピン,/ʁɔtasjɔ̃/,ɔɶbɔ
-cohésion,fr,cohesion,凝集,/kɔezjɔ̃/,ɔøbɔ
-컴퓨터,ko,computer,コンピューター,/kʰʌ̹mpʰjutʰʌ̹/,bɔmbubɔ
-probation,fr,probation,保護観察,/pʁɔbasjɔ̃/,bɔɶbɔ
-conclusion,fr,conclusion,結論,/kɔ̃klyzjɔ̃/,ɔbybɔ
-摔破,zh-cn,Break,壊す,/ʂuaɪ˥˥ pʰɔ˥˩/,uɶʏbɔ
-구매처,ko,Buyer,買い手,/kumɛ̝t͡ɕʰʌ̹/,uœbbɔ
-인과설,ko,Phosphorus,リン,/inɡwa̠sʰʌ̹ɭ/,ymbɶbɔ
-Wetterfrosch,de,Weather frog,ウェザーカエル,/ˈvɛtɛɾfɾɔʃ/,œœbɔ
-동맥혈,ko,Arterial blood,動脈血,/to̞ŋmɛ̝kçjʌ̹ɭ/,omœbɔ
-josephthal,en,josephthal,ジョセフタール,/ˈdʒoʊsəfˌθɔɫ/,boʊəbɔ
-爆破,zh-cn,blasting,爆破,/pɑʊ˥˩ pʰɔ˥˩/,ɑʊbɔ
-disjoindrions,fr,disjoint,否認,/disʒwɛ̃dʁjɔ̃/,ybœbbɔ
-外婆,zh-cn,grandmother,祖母,/uaɪ˥˩ pʰɔ˧˥/,uɶʏbɔ
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+expulsion,fr,expulsion,追放,/ɛkspylsjɔ̃/,œbbybbɔ,bɔ
+occasion,fr,opportunity,機会,/ɔkazjɔ̃/,ɔɶbɔ,bɔ
+contention,fr,restraint,拘束,/kɔ̃tɑ̃sjɔ̃/,ɔɑbɔ,bɔ
+confusion,fr,confusion,錯乱,/kɔ̃fyzjɔ̃/,ɔybɔ,bɔ
+크래커,ko,cracker,クラッカー,/kxɯɾɛ̝kʰʌ̹/,buœbɔ,bɔ
+incision,fr,incision,切開,/ɛ̃sizjɔ̃/,œybɔ,bɔ
+rotation,fr,spin,スピン,/ʁɔtasjɔ̃/,ɔɶbɔ,bɔ
+cohésion,fr,cohesion,凝集,/kɔezjɔ̃/,ɔøbɔ,bɔ
+컴퓨터,ko,computer,コンピューター,/kʰʌ̹mpʰjutʰʌ̹/,bɔmbubɔ,bɔ
+probation,fr,probation,保護観察,/pʁɔbasjɔ̃/,bɔɶbɔ,bɔ
+conclusion,fr,conclusion,結論,/kɔ̃klyzjɔ̃/,ɔbybɔ,bɔ
+摔破,zh-cn,Break,壊す,/ʂuaɪ˥˥ pʰɔ˥˩/,uɶʏbɔ,bɔ
+구매처,ko,Buyer,買い手,/kumɛ̝t͡ɕʰʌ̹/,uœbbɔ,bɔ
+인과설,ko,Phosphorus,リン,/inɡwa̠sʰʌ̹ɭ/,ymbɶbɔ,bɔ
+Wetterfrosch,de,Weather frog,ウェザーカエル,/ˈvɛtɛɾfɾɔʃ/,œœbɔ,bɔ
+동맥혈,ko,Arterial blood,動脈血,/to̞ŋmɛ̝kçjʌ̹ɭ/,omœbɔ,bɔ
+josephthal,en,josephthal,ジョセフタール,/ˈdʒoʊsəfˌθɔɫ/,boʊəbɔ,bɔ
+爆破,zh-cn,blasting,爆破,/pɑʊ˥˩ pʰɔ˥˩/,ɑʊbɔ,bɔ
+disjoindrions,fr,disjoint,否認,/disʒwɛ̃dʁjɔ̃/,ybœbbɔ,bɔ
+外婆,zh-cn,grandmother,祖母,/uaɪ˥˩ pʰɔ˧˥/,uɶʏbɔ,bɔ

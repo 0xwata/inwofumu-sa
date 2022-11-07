@@ -1,22 +1,22 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-法律家,ja,Lawyer,法律家,/hoɯɾitsɯka/,ouybuɶ
-envoltura,es,envelope,封筒,/emboltuɾa/,ømobuɶ
-創設者,ja,Founder,創設者,/soɯsetsɯɕa/,ouøbuɶ
-cobertura,es,coverage,カバレッジ,/koβeɾtuɾa/,oøuɶ
-復号化,ja,Decryption,復号化,/ɸɯkɯgoɯka/,uuouɶ
-mandíbula,es,jaw,あご,/manˈdiβula/,ɶmyuɶ
-干し草,ja,hay,干し草,/hoɕikɯsa/,oyuɶ
-入札者,ja,Bidder,入札者,/njɯɯsatsɯɕa/,muuɶbuɶ
-ハムスター,ja,hamster,ハムスター,/hamɯsɯtaː/,ɶuuɶ
-escultura,es,sculpture,彫刻,/eskultuɾa/,øbubuɶ
-chước quỷ mưu ma,vi,mimic,模倣します,/cɯək˦˥ wi˧˩˨ mɯw˧˥ ma˧˥/,uəbyuɶ
-tripatouilla,/tʁipatuja/,Tripatouilla,Tripatouilla,byɶuɶ,fr
-chúi mũi chúi tai,/cuj˩˧ muj˧˩˨ cuj˩˧ taj˧˥/,Ear nose,耳の鼻,uuuɶ,vi
-begitulah,/bəgitulah/,That's it,それでおしまい,əyuɶ,id
-모스크바,ko,Moscow,モスクワ,/mo̞sʰɯkxɯba̠/,obubuɶ
-サカ豚,/sakabɯta/,Saka pig,サカ豚,ɶɶuɶ,ja
-depopula,ro,depopulate,過疎化,/depopula/,øouɶ
-evacua,ro,evict,立ち退かせる,/evakuwa/,øɶuɶ
-夜郎自大,zh-cn,Yelang Zi Da,Yelang Zi Da,/jɛ˥˩ lɑŋ˧˥ tsɯ˥˩ ta˥˩/,œɑmbuɶ
-Vokabular,de,vocabulary,単語,/vokɑbuˈlaɽ/,oɑuɶ
-inocula,ro,inoculate,接種します,/inokula/,youɶ
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+法律家,ja,Lawyer,法律家,/hoɯɾitsɯka/,ouybuɶ,uɶ
+envoltura,es,envelope,封筒,/emboltuɾa/,ømobuɶ,uɶ
+創設者,ja,Founder,創設者,/soɯsetsɯɕa/,ouøbuɶ,uɶ
+cobertura,es,coverage,カバレッジ,/koβeɾtuɾa/,oøuɶ,uɶ
+復号化,ja,Decryption,復号化,/ɸɯkɯgoɯka/,uuouɶ,uɶ
+mandíbula,es,jaw,あご,/manˈdiβula/,ɶmyuɶ,uɶ
+干し草,ja,hay,干し草,/hoɕikɯsa/,oyuɶ,uɶ
+入札者,ja,Bidder,入札者,/njɯɯsatsɯɕa/,muuɶbuɶ,uɶ
+ハムスター,ja,hamster,ハムスター,/hamɯsɯtaː/,ɶuuɶ,uɶ
+escultura,es,sculpture,彫刻,/eskultuɾa/,øbubuɶ,uɶ
+chước quỷ mưu ma,vi,mimic,模倣します,/cɯək˦˥ wi˧˩˨ mɯw˧˥ ma˧˥/,uəbyuɶ,uɶ
+tripatouilla,/tʁipatuja/,Tripatouilla,Tripatouilla,byɶuɶ,fr,uɶ
+chúi mũi chúi tai,/cuj˩˧ muj˧˩˨ cuj˩˧ taj˧˥/,Ear nose,耳の鼻,uuuɶ,vi,uɶ
+begitulah,/bəgitulah/,That's it,それでおしまい,əyuɶ,id,uɶ
+모스크바,ko,Moscow,モスクワ,/mo̞sʰɯkxɯba̠/,obubuɶ,uɶ
+サカ豚,/sakabɯta/,Saka pig,サカ豚,ɶɶuɶ,ja,uɶ
+depopula,ro,depopulate,過疎化,/depopula/,øouɶ,uɶ
+evacua,ro,evict,立ち退かせる,/evakuwa/,øɶuɶ,uɶ
+夜郎自大,zh-cn,Yelang Zi Da,Yelang Zi Da,/jɛ˥˩ lɑŋ˧˥ tsɯ˥˩ ta˥˩/,œɑmbuɶ,uɶ
+Vokabular,de,vocabulary,単語,/vokɑbuˈlaɽ/,oɑuɶ,uɶ
+inocula,ro,inoculate,接種します,/inokula/,youɶ,uɶ

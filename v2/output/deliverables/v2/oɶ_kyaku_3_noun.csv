@@ -1,18 +1,18 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-大人,ja,adult,大人,/otona/,ooɶ
-claxona,ro,toot,トゥート,/klaksona/,bɶboɶ
-paloma,es,dove,鳩,/paloma/,ɶoɶ
-consola,es,console,コンソール,/konsola/,omoɶ
-señora,es,Mrs,夫人,/seɲoɾa/,øoɶ
-canoa,es,canoe,カヌー,/kanoa/,ɶoɶ
-persona,es,person,人,/peɾsona/,øoɶ
-キューポラ,ja,Cucumber,キューポラ,/kjɯːpoɾa/,buoɶ
-không tơ hào,vi,no trenches,トレンチはありません,/xoŋ͡m˧˥ tɤ˧˥ haw˦˨/,ommoɶ
-pergola,id,Pergola,パーゴラ,/pərgola/,əoɶ
-drakona,eo,Dragona,ドラゴナ,/drakona/,bɶoɶ
-malmiopa,eo,malmiopa,マルミオパ,/malmiopa/,ɶbyoɶ
-nakhoda,id,skipper,スキッパー,/naʔhoda/,ɶboɶ
-kantornya,id,his office,彼のオフィス,/kantorɲa/,ɶmoɶ
-cam tẩu mã,vi,Cam Cam,カムカム,/kam˧˥ tɤ̆w˧˩˨ ma˧˩˨/,ɶmoɶ
-天爾遠波,ja,Parenthesis,天爾遠波,/tenioha/,øyoɶ
-galvaudât,fr,galvan,ガルバン,/galvoda/,ɶboɶ
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+大人,ja,adult,大人,/otona/,ooɶ,oɶ
+claxona,ro,toot,トゥート,/klaksona/,bɶboɶ,oɶ
+paloma,es,dove,鳩,/paloma/,ɶoɶ,oɶ
+consola,es,console,コンソール,/konsola/,omoɶ,oɶ
+señora,es,Mrs,夫人,/seɲoɾa/,øoɶ,oɶ
+canoa,es,canoe,カヌー,/kanoa/,ɶoɶ,oɶ
+persona,es,person,人,/peɾsona/,øoɶ,oɶ
+キューポラ,ja,Cucumber,キューポラ,/kjɯːpoɾa/,buoɶ,oɶ
+không tơ hào,vi,no trenches,トレンチはありません,/xoŋ͡m˧˥ tɤ˧˥ haw˦˨/,ommoɶ,oɶ
+pergola,id,Pergola,パーゴラ,/pərgola/,əoɶ,oɶ
+drakona,eo,Dragona,ドラゴナ,/drakona/,bɶoɶ,oɶ
+malmiopa,eo,malmiopa,マルミオパ,/malmiopa/,ɶbyoɶ,oɶ
+nakhoda,id,skipper,スキッパー,/naʔhoda/,ɶboɶ,oɶ
+kantornya,id,his office,彼のオフィス,/kantorɲa/,ɶmoɶ,oɶ
+cam tẩu mã,vi,Cam Cam,カムカム,/kam˧˥ tɤ̆w˧˩˨ ma˧˩˨/,ɶmoɶ,oɶ
+天爾遠波,ja,Parenthesis,天爾遠波,/tenioha/,øyoɶ,oɶ
+galvaudât,fr,galvan,ガルバン,/galvoda/,ɶboɶ,oɶ

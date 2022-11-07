@@ -1,23 +1,23 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-経済,ja,Economy,経済,/keizai/,øyɶy
-kærasti,is,boyfriend,彼氏,/cʰaiːrastɪ/,ɶyɶbʏ
-kesiapan,id,readiness,準備ができています,/kəsiapan/,əyɶɶm
-pilihan,id,choice,選択,/pilihan/,yyɶm
-klimato,eo,climate,気候,/klimato/,byɶo
-ハイランド,ja,Highland,ハイランド,/haiɾaɴdo/,ɶyɶmo
-ارتباك,ar,confusion,錯乱,/irtibaːk/,yyɶb
-制約,ja,Restrictions,制約,/seijakɯ/,øyɶu
-귀마개,ko,ear plug,耳栓,/kɥima̠ɡɛ̝/,byɶœ
-正確,ja,correct,正確,/seikakɯ/,øyɶu
-cuidado,es,watch out,気を付けて,/kwiðaðo/,byɶo
-guerrillas,es,guerrillas,ゲリラ,/geriʎas/,øyɶb
-halima,ro,Halim,ハリム,/halima/,ɶyɶ
-earlywine,en,earlywine,早い,/ˈɝɫiˌwaɪn/,əyɶʏm
-linia,eo,Line,ライン,/linia/,yyɶ
-피란지,/pʰiɾa̠nd͡ʑi/,Piranji,ピランジ,byɶmby,ko
-bassinât,/basina/,basin,たらい,ɶyɶ,fr
-Filialen,de,Branches,枝,/filialən/,yyɶəm
-ferianto,eo,Holiday,ホリデー,/ferianto/,øyɶmo
-țigaret,ro,cigarette,シガレット,/tsiɡaret/,byɶøb
-pétillâtes,fr,petillâtes,ペティラ,/petijat/,øyɶb
-急巴巴,zh-cn,Urgent,急,/tɕi˧˥ pa˥˥ pa˥˥/,byɶɶ
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+経済,ja,Economy,経済,/keizai/,øyɶy,yɶ
+kærasti,is,boyfriend,彼氏,/cʰaiːrastɪ/,ɶyɶbʏ,yɶ
+kesiapan,id,readiness,準備ができています,/kəsiapan/,əyɶɶm,yɶ
+pilihan,id,choice,選択,/pilihan/,yyɶm,yɶ
+klimato,eo,climate,気候,/klimato/,byɶo,yɶ
+ハイランド,ja,Highland,ハイランド,/haiɾaɴdo/,ɶyɶmo,yɶ
+ارتباك,ar,confusion,錯乱,/irtibaːk/,yyɶb,yɶ
+制約,ja,Restrictions,制約,/seijakɯ/,øyɶu,yɶ
+귀마개,ko,ear plug,耳栓,/kɥima̠ɡɛ̝/,byɶœ,yɶ
+正確,ja,correct,正確,/seikakɯ/,øyɶu,yɶ
+cuidado,es,watch out,気を付けて,/kwiðaðo/,byɶo,yɶ
+guerrillas,es,guerrillas,ゲリラ,/geriʎas/,øyɶb,yɶ
+halima,ro,Halim,ハリム,/halima/,ɶyɶ,yɶ
+earlywine,en,earlywine,早い,/ˈɝɫiˌwaɪn/,əyɶʏm,yɶ
+linia,eo,Line,ライン,/linia/,yyɶ,yɶ
+피란지,/pʰiɾa̠nd͡ʑi/,Piranji,ピランジ,byɶmby,ko,yɶ
+bassinât,/basina/,basin,たらい,ɶyɶ,fr,yɶ
+Filialen,de,Branches,枝,/filialən/,yyɶəm,yɶ
+ferianto,eo,Holiday,ホリデー,/ferianto/,øyɶmo,yɶ
+țigaret,ro,cigarette,シガレット,/tsiɡaret/,byɶøb,yɶ
+pétillâtes,fr,petillâtes,ペティラ,/petijat/,øyɶb,yɶ
+急巴巴,zh-cn,Urgent,急,/tɕi˧˥ pa˥˥ pa˥˥/,byɶɶ,yɶ

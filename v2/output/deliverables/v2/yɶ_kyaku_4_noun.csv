@@ -1,34 +1,34 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-gelatina,es,jelly,ゼリー,/xelatina/,øɶyɶ
-penerima,id,receiver,受信機,/pənərima/,əəyɶ
-ceasornicar,ro,watchmaker,時計職人,/tʃ̩asornikar/,bɶoyɶ
-ボランティア,ja,volunteer,ボランティア,/boɾaɴteia/,oɶmøyɶ
-peristiwa,id,incident,インシデント,/pəristiwa/,əybyɶ
-manusia,id,man,男,/manusia/,ɶuyɶ
-キクヂシャ,ja,endive,キクヂシャ,/kikɯdʑiɕa/,yubyɶ
-航空会社,ja,Airlines,航空会社,/koɯkɯɯgaiɕa/,ouuuɶyɶ
-sukacita,id,joy,喜び,/sukatʃita/,uɶbyɶ
-zoología,es,zoology,動物学,/θooloˈxia/,oooyɶ
-familiar,ro,familiar,見慣れた,/familijar/,ɶyyɶ
-インテリア,ja,interior,インテリア,/iɴteɾia/,ymøyɶ
-alegría,es,happiness,幸福,/aleˈɣɾia/,ɶøyɶ
-組織化,ja,Organization,組織化,/soɕikika/,oyyɶ
-carretilla,es,wheelbarrow,手押し車,/karetiʎa/,ɶøyɶ
-بندقية,ar,Gun,銃,/bunduqijja/,umuyɶ
-cố cựu chi giao,vi,The former chi giao,元Chi Giao,/ko˩˧ kɯw˨ˀ˩ʔ ci˧˥ jaw˧˥/,oubyɶ
-kindahausar,is,sheep,羊,/cʰɪntahœiːsar/,ʏmɶœyɶ
-jaquetilla,es,Jaquetilla,ジャケティラ,/xaketiʎa/,ɶøyɶ
-biofisika,id,biophysics,生物物理学,/biofisika/,yoyyɶ
-espartilla,/espaɾtiʎa/,Spartilla,スパルティラ,øbɶyɶ,es
-商屋,ja,Merchant,商屋,/akinaija/,ɶyɶyɶ
-baratija,/baɾatixa/,trinket,装身具,ɶɶyɶ,es
-파닥이다,ko,Spap,スパップ,/pʰa̠da̠ɡida̠/,bɶɶyɶ
-فكإستغفار,ar,Ask forgiveness,許しをしてください,/fakaistiɣfaːr/,ɶɶybyɶ
-ايطاليا,ar,Italia,イタリア,/ʔiːtˤaːliːaː/,ybɶyɶ
-贸易逆差,zh-cn,Trade deficit,貿易赤字,/mɑʊ˥˩ i˥˩ ni˥˩ ʈʂʰa˥˥/,ɑʊyyɶ
-nostalgia,eo,nostalgic,ノスタルジック,/nostalgia/,obɶbyɶ
-口诛笔伐,zh-cn,Verbal,口頭,/kʰoʊ˨˩˦ ʈʂu˥˥ pi˨˩˦ fa˧˥/,boʊuyɶ
-불가리아,ko,Bulgaria,ブルガリア,/puɭɡa̠ɾia̠/,uɶyɶ
-弹无虚发,zh-cn,Bounce,跳ねる、弾む,/tan˥˩ u˧˥ ɕy˥˥ fa˥˥/,ɶmuyɶ
-erozia,eo,erosion,侵食,/erozia/,øoyɶ
-Snæfellsbæjar,is,Snæfellsbaer,Snæfellsbaer,/stnaiːfɛlspaiːjar/,bbɶyœbbɶyɶ
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+gelatina,es,jelly,ゼリー,/xelatina/,øɶyɶ,yɶ
+penerima,id,receiver,受信機,/pənərima/,əəyɶ,yɶ
+ceasornicar,ro,watchmaker,時計職人,/tʃ̩asornikar/,bɶoyɶ,yɶ
+ボランティア,ja,volunteer,ボランティア,/boɾaɴteia/,oɶmøyɶ,yɶ
+peristiwa,id,incident,インシデント,/pəristiwa/,əybyɶ,yɶ
+manusia,id,man,男,/manusia/,ɶuyɶ,yɶ
+キクヂシャ,ja,endive,キクヂシャ,/kikɯdʑiɕa/,yubyɶ,yɶ
+航空会社,ja,Airlines,航空会社,/koɯkɯɯgaiɕa/,ouuuɶyɶ,yɶ
+sukacita,id,joy,喜び,/sukatʃita/,uɶbyɶ,yɶ
+zoología,es,zoology,動物学,/θooloˈxia/,oooyɶ,yɶ
+familiar,ro,familiar,見慣れた,/familijar/,ɶyyɶ,yɶ
+インテリア,ja,interior,インテリア,/iɴteɾia/,ymøyɶ,yɶ
+alegría,es,happiness,幸福,/aleˈɣɾia/,ɶøyɶ,yɶ
+組織化,ja,Organization,組織化,/soɕikika/,oyyɶ,yɶ
+carretilla,es,wheelbarrow,手押し車,/karetiʎa/,ɶøyɶ,yɶ
+بندقية,ar,Gun,銃,/bunduqijja/,umuyɶ,yɶ
+cố cựu chi giao,vi,The former chi giao,元Chi Giao,/ko˩˧ kɯw˨ˀ˩ʔ ci˧˥ jaw˧˥/,oubyɶ,yɶ
+kindahausar,is,sheep,羊,/cʰɪntahœiːsar/,ʏmɶœyɶ,yɶ
+jaquetilla,es,Jaquetilla,ジャケティラ,/xaketiʎa/,ɶøyɶ,yɶ
+biofisika,id,biophysics,生物物理学,/biofisika/,yoyyɶ,yɶ
+espartilla,/espaɾtiʎa/,Spartilla,スパルティラ,øbɶyɶ,es,yɶ
+商屋,ja,Merchant,商屋,/akinaija/,ɶyɶyɶ,yɶ
+baratija,/baɾatixa/,trinket,装身具,ɶɶyɶ,es,yɶ
+파닥이다,ko,Spap,スパップ,/pʰa̠da̠ɡida̠/,bɶɶyɶ,yɶ
+فكإستغفار,ar,Ask forgiveness,許しをしてください,/fakaistiɣfaːr/,ɶɶybyɶ,yɶ
+ايطاليا,ar,Italia,イタリア,/ʔiːtˤaːliːaː/,ybɶyɶ,yɶ
+贸易逆差,zh-cn,Trade deficit,貿易赤字,/mɑʊ˥˩ i˥˩ ni˥˩ ʈʂʰa˥˥/,ɑʊyyɶ,yɶ
+nostalgia,eo,nostalgic,ノスタルジック,/nostalgia/,obɶbyɶ,yɶ
+口诛笔伐,zh-cn,Verbal,口頭,/kʰoʊ˨˩˦ ʈʂu˥˥ pi˨˩˦ fa˧˥/,boʊuyɶ,yɶ
+불가리아,ko,Bulgaria,ブルガリア,/puɭɡa̠ɾia̠/,uɶyɶ,yɶ
+弹无虚发,zh-cn,Bounce,跳ねる、弾む,/tan˥˩ u˧˥ ɕy˥˥ fa˥˥/,ɶmuyɶ,yɶ
+erozia,eo,erosion,侵食,/erozia/,øoyɶ,yɶ
+Snæfellsbæjar,is,Snæfellsbaer,Snæfellsbaer,/stnaiːfɛlspaiːjar/,bbɶyœbbɶyɶ,yɶ

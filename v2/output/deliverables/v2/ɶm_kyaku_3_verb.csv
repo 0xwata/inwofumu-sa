@@ -1,33 +1,33 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-aturan,id,rule,ルール,/aturan/,ɶuɶm
-pandangan,id,view,見る,/pandaŋan/,ɶmɶɶm
-pakaian,id,clothes,服,/pakaian/,ɶɶyɶm
-penjualan,id,sale,セール,/pəndʒualan/,əmbuɶɶm
-putaran,id,round,円形,/putaran/,uɶɶm
-pikiran,id,thought,考え,/pikiran/,yyɶm
-dorongan,id,encouragement,奨励,/doroŋan/,ooɶm
-jangkauan,id,range,範囲,/dʒaŋkauan/,bɶmɶuɶm
-menaikkan,id,raise,高める,/mənaiʔkan/,əɶybɶm
-bersarang,id,nest,ネスト,/bərsaraŋ/,əɶɶm
-温暖,zh-cn,warmth,暖かさ,/uən˥˥ nwan˨˩˦/,uəmmɶm
-ukiran,id,carving,彫刻,/ukiran/,uyɶm
-meluangkan,id,to spare,スペアに,/məluaŋkan/,əuɶmɶm
-menahan,id,withhold,差し控える,/mənahan/,əɶɶm
-melarang,id,forbid,禁止,/məlaraŋ/,əɶɶm
-بالمركم,ar,Palmyra,パルミラ,/biaːlmirkam/,yɶbyɶm
-بالإعلان,ar,By advertising,広告によって,/biaːlʔiʕlaːn/,yɶbybɶm
-冰醋酸,zh-cn,glacial acetic acid,氷河酢酸,/pɪŋ˥˥ tsʰu˥˩ swan˥˥/,ʏmbbubɶm
-abgetan,de,dismissed,却下,/ʔapgəˈtan/,ɶbəɶm
-nálægan,is,close,近い,/nauːlaiɣan/,ɶuɶyɶm
-氢氯酸,zh-cn,Hydrochloric acid,塩酸,/tɕʰɪŋ˥˥ ly˥˩ swan˥˥/,bbʏmybɶm
-bakhlutann,is,backyed,裏切り,/paːkl̥ʏtan/,ɶbbʏɶm
-duplican,/duplikan/,They duplicate,それらは複製します,ubyɶm,es
-phở xốt vang,vi,Pho sauce,フォースソース,/fɤ˧˩˨ sok͡p˦˥ jaŋ˧˥/,oobbɶm
-tibetan,ro,Tibetan,チベット,/tibetan/,yøɶm
-不以为然,zh-cn,Not to take care of,世話をしないでください,/pu˥˩ i˨˩˦ weɪ˧˥ ʐan˧˥/,uyøʏɶm
-manojean,es,handle,扱う,/manoxean/,ɶoøɶm
-blăjovan,ro,Blăjovan,ブラジョヴァン,/bləʒovan/,bəoɶm
-crisparán,es,They will cry out,彼らは叫ぶでしょう,/kɾispaˈɾan/,bybɶɶm
-殖産,ja,Breeding,殖産,/ɕokɯsaɴ/,ouɶm
-緑眼,ja,Green -eye,緑眼,/ɾjokɯgaɴ/,ouɶm
-나침반,ko,Compass,方位磁針,/na̠t͡ɕʰimba̠n/,ɶbbymɶm
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+aturan,id,rule,ルール,/aturan/,ɶuɶm,ɶm
+pandangan,id,view,見る,/pandaŋan/,ɶmɶɶm,ɶm
+pakaian,id,clothes,服,/pakaian/,ɶɶyɶm,ɶm
+penjualan,id,sale,セール,/pəndʒualan/,əmbuɶɶm,ɶm
+putaran,id,round,円形,/putaran/,uɶɶm,ɶm
+pikiran,id,thought,考え,/pikiran/,yyɶm,ɶm
+dorongan,id,encouragement,奨励,/doroŋan/,ooɶm,ɶm
+jangkauan,id,range,範囲,/dʒaŋkauan/,bɶmɶuɶm,ɶm
+menaikkan,id,raise,高める,/mənaiʔkan/,əɶybɶm,ɶm
+bersarang,id,nest,ネスト,/bərsaraŋ/,əɶɶm,ɶm
+温暖,zh-cn,warmth,暖かさ,/uən˥˥ nwan˨˩˦/,uəmmɶm,ɶm
+ukiran,id,carving,彫刻,/ukiran/,uyɶm,ɶm
+meluangkan,id,to spare,スペアに,/məluaŋkan/,əuɶmɶm,ɶm
+menahan,id,withhold,差し控える,/mənahan/,əɶɶm,ɶm
+melarang,id,forbid,禁止,/məlaraŋ/,əɶɶm,ɶm
+بالمركم,ar,Palmyra,パルミラ,/biaːlmirkam/,yɶbyɶm,ɶm
+بالإعلان,ar,By advertising,広告によって,/biaːlʔiʕlaːn/,yɶbybɶm,ɶm
+冰醋酸,zh-cn,glacial acetic acid,氷河酢酸,/pɪŋ˥˥ tsʰu˥˩ swan˥˥/,ʏmbbubɶm,ɶm
+abgetan,de,dismissed,却下,/ʔapgəˈtan/,ɶbəɶm,ɶm
+nálægan,is,close,近い,/nauːlaiɣan/,ɶuɶyɶm,ɶm
+氢氯酸,zh-cn,Hydrochloric acid,塩酸,/tɕʰɪŋ˥˥ ly˥˩ swan˥˥/,bbʏmybɶm,ɶm
+bakhlutann,is,backyed,裏切り,/paːkl̥ʏtan/,ɶbbʏɶm,ɶm
+duplican,/duplikan/,They duplicate,それらは複製します,ubyɶm,es,ɶm
+phở xốt vang,vi,Pho sauce,フォースソース,/fɤ˧˩˨ sok͡p˦˥ jaŋ˧˥/,oobbɶm,ɶm
+tibetan,ro,Tibetan,チベット,/tibetan/,yøɶm,ɶm
+不以为然,zh-cn,Not to take care of,世話をしないでください,/pu˥˩ i˨˩˦ weɪ˧˥ ʐan˧˥/,uyøʏɶm,ɶm
+manojean,es,handle,扱う,/manoxean/,ɶoøɶm,ɶm
+blăjovan,ro,Blăjovan,ブラジョヴァン,/bləʒovan/,bəoɶm,ɶm
+crisparán,es,They will cry out,彼らは叫ぶでしょう,/kɾispaˈɾan/,bybɶɶm,ɶm
+殖産,ja,Breeding,殖産,/ɕokɯsaɴ/,ouɶm,ɶm
+緑眼,ja,Green -eye,緑眼,/ɾjokɯgaɴ/,ouɶm,ɶm
+나침반,ko,Compass,方位磁針,/na̠t͡ɕʰimba̠n/,ɶbbymɶm,ɶm

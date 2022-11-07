@@ -1,16 +1,16 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-obligation,fr,obligation,義務,/ɔbligasjɔ̃/,ɔbyɶbɔ
-agitation,fr,hustle,ハッスル,/aʒitasjɔ̃/,ɶyɶbɔ
-télévision,fr,television,テレビ,/televizjɔ̃/,øøybɔ
-hésitation,fr,hesitation,ためらいます,/ezitasjɔ̃/,øyɶbɔ
-expédition,fr,dispatch,急送,/ɛkspedisjɔ̃/,œbbøybɔ
-proposition,fr,proposal,提案,/pʁɔpozisjɔ̃/,bɔoybɔ
-inhibition,fr,inhibition,阻害,/inibisjɔ̃/,yyybɔ
-décoration,fr,decoration,装飾,/dekɔʁasjɔ̃/,øɔɶbɔ
-như pháo tịt ngòi,vi,like a cannon,大砲のように,/ɲɯ˧˥ faw˩˧ tit˨ˀ˩ʔ ŋɔj˦˨/,uɶybbɔ
-cavalli-sfor,en,cavalli-sfor,Cavalli-sfor,/kəˌvæɫisˈfɔɹ/,əæybɔ
-lòng lang dạ sói,/lɔŋ͡m˦˨ laŋ˧˥ ja˨ˀ˩ʔ ʂɔj˩˧/,wolf wolf wolf,ウルフウルフウルフ,ɔmmɶmɶbɔ,vi
-lấy thúng úp voi,vi,Get the basket on the elephant,象のバスケットを手に入れてください,/lɤ̆j˩˧ tʰuŋ͡m˩˧ up˦˥ jɔj˧˥/,obummubɔ
-voi uống thuốc gió,vi,Elephant,象,/jɔj˧˥ uəŋ˩˧ tʰuək˦˥ jɔ˩˧/,ɔuəmbuəbɔ
-너털너털,ko,Tag,鬼ごっこ,/nʌ̹tʰʌ̹ɭɭʌ̹tʰʌ̹ɭ/,ɔbɔɔbɔ
-饥寒交迫,zh-cn,suffer hunger and cold,空腹と寒さに苦しむ,/tɕi˥˥ xan˧˥ tɕjɑʊ˥˥ pʰɔ˥˩/,byɶmbbɑʊbɔ
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+obligation,fr,obligation,義務,/ɔbligasjɔ̃/,ɔbyɶbɔ,bɔ
+agitation,fr,hustle,ハッスル,/aʒitasjɔ̃/,ɶyɶbɔ,bɔ
+télévision,fr,television,テレビ,/televizjɔ̃/,øøybɔ,bɔ
+hésitation,fr,hesitation,ためらいます,/ezitasjɔ̃/,øyɶbɔ,bɔ
+expédition,fr,dispatch,急送,/ɛkspedisjɔ̃/,œbbøybɔ,bɔ
+proposition,fr,proposal,提案,/pʁɔpozisjɔ̃/,bɔoybɔ,bɔ
+inhibition,fr,inhibition,阻害,/inibisjɔ̃/,yyybɔ,bɔ
+décoration,fr,decoration,装飾,/dekɔʁasjɔ̃/,øɔɶbɔ,bɔ
+như pháo tịt ngòi,vi,like a cannon,大砲のように,/ɲɯ˧˥ faw˩˧ tit˨ˀ˩ʔ ŋɔj˦˨/,uɶybbɔ,bɔ
+cavalli-sfor,en,cavalli-sfor,Cavalli-sfor,/kəˌvæɫisˈfɔɹ/,əæybɔ,bɔ
+lòng lang dạ sói,/lɔŋ͡m˦˨ laŋ˧˥ ja˨ˀ˩ʔ ʂɔj˩˧/,wolf wolf wolf,ウルフウルフウルフ,ɔmmɶmɶbɔ,vi,bɔ
+lấy thúng úp voi,vi,Get the basket on the elephant,象のバスケットを手に入れてください,/lɤ̆j˩˧ tʰuŋ͡m˩˧ up˦˥ jɔj˧˥/,obummubɔ,bɔ
+voi uống thuốc gió,vi,Elephant,象,/jɔj˧˥ uəŋ˩˧ tʰuək˦˥ jɔ˩˧/,ɔuəmbuəbɔ,bɔ
+너털너털,ko,Tag,鬼ごっこ,/nʌ̹tʰʌ̹ɭɭʌ̹tʰʌ̹ɭ/,ɔbɔɔbɔ,bɔ
+饥寒交迫,zh-cn,suffer hunger and cold,空腹と寒さに苦しむ,/tɕi˥˥ xan˧˥ tɕjɑʊ˥˥ pʰɔ˥˩/,byɶmbbɑʊbɔ,bɔ

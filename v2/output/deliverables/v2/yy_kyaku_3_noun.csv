@@ -1,31 +1,31 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-분위기,ko,atmosphere,雰囲気,/punɥiɡi/,umyy
-図式,ja,Diagram,図式,/zɯɕiki/,uyy
-bensiini,fi,petrol,ガソリン,/ˈbensiini/,ømyyy
-vampyyri,fi,vampire,吸血鬼,/ˈvɑmpyyri/,ɑmyyy
-pesisir,id,coast,海岸,/pəsisir/,əyy
-儀式,ja,Ritual,儀式,/giɕiki/,yyy
-كريشي,ar,Krishi,クリシ,/kariːʃijj/,ɶyy
-pankkiiri,fi,banker,バンカー,/ˈpɑnkkiiri/,ɑmbyyy
-pendiri,id,founding father,建国の父,/pəndiri/,əmyy
-乞食,ja,beggar,乞食,/kodʑiki/,obyy
-admiri,eo,admire,憧れ,/admiri/,ɶbyy
-能力,ja,ability,能力,/noɯɾiki/,ouyy
-résidu,fr,residue,残基,/ʁezidy/,øyy
-仕切り,ja,partition,仕切り,/ɕikiɾi/,yyy
-surprizi,eo,surprise,サプライズ,/surprizi/,ubyy
-pelisir,id,pleats,プリーツ,/pəlisir/,əyy
-Ligurie,fr,Liguria,リグリア,/ligyʁi/,yyy
-ban chỉ huy,vi,Steering committee,運営委員会,/baŋ˧˥ ci˧˩˨ hwi˧˥/,ɶmyy
-损益比,zh-cn,Profit -orc,,/suən˨˩˦ i˥˩ pi˨˩˦/,uəmyy
-아니리,ko,No,いいえ,/a̠niɾi/,ɶyy
-suspiri,/suspiri/,sigh,はぁ,ubyy,eo
-rădăcini,ro,roots,ルーツ,/rədətʃinʲ/,əəbyy
-domini,de,domini,ドミニ,/ˈdoːmini/,oyy
-cărpiniș,ro,Cărpiniş,cærpiniş,/kərpiniʃ/,əyy
-侄女婿,zh-cn,Niece,姪,/ʈʂɚ˧˥ ny˨˩˦ ɕy˥˩/,əyy
-والتشيكي,ar,Czech,チェコ,/waaːltʃiːkijj/,ɶɶbbyy
-구십일,ko,Thirteen days,13日間,/kuɕʰibiɭ/,ubyy
-Alibi,de,alibi,アリバイ,/ˈʔɑːlibi/,ɑyy
-scârții,ro,crishes,詐欺師,/skɨrtsiji/,bʉbyy
-المشمش,ar,Apricot,アプリコット,/aːlmiʃmiʃ/,ɶbyy
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+분위기,ko,atmosphere,雰囲気,/punɥiɡi/,umyy,yy
+図式,ja,Diagram,図式,/zɯɕiki/,uyy,yy
+bensiini,fi,petrol,ガソリン,/ˈbensiini/,ømyyy,yy
+vampyyri,fi,vampire,吸血鬼,/ˈvɑmpyyri/,ɑmyyy,yy
+pesisir,id,coast,海岸,/pəsisir/,əyy,yy
+儀式,ja,Ritual,儀式,/giɕiki/,yyy,yy
+كريشي,ar,Krishi,クリシ,/kariːʃijj/,ɶyy,yy
+pankkiiri,fi,banker,バンカー,/ˈpɑnkkiiri/,ɑmbyyy,yy
+pendiri,id,founding father,建国の父,/pəndiri/,əmyy,yy
+乞食,ja,beggar,乞食,/kodʑiki/,obyy,yy
+admiri,eo,admire,憧れ,/admiri/,ɶbyy,yy
+能力,ja,ability,能力,/noɯɾiki/,ouyy,yy
+résidu,fr,residue,残基,/ʁezidy/,øyy,yy
+仕切り,ja,partition,仕切り,/ɕikiɾi/,yyy,yy
+surprizi,eo,surprise,サプライズ,/surprizi/,ubyy,yy
+pelisir,id,pleats,プリーツ,/pəlisir/,əyy,yy
+Ligurie,fr,Liguria,リグリア,/ligyʁi/,yyy,yy
+ban chỉ huy,vi,Steering committee,運営委員会,/baŋ˧˥ ci˧˩˨ hwi˧˥/,ɶmyy,yy
+损益比,zh-cn,Profit -orc,,/suən˨˩˦ i˥˩ pi˨˩˦/,uəmyy,yy
+아니리,ko,No,いいえ,/a̠niɾi/,ɶyy,yy
+suspiri,/suspiri/,sigh,はぁ,ubyy,eo,yy
+rădăcini,ro,roots,ルーツ,/rədətʃinʲ/,əəbyy,yy
+domini,de,domini,ドミニ,/ˈdoːmini/,oyy,yy
+cărpiniș,ro,Cărpiniş,cærpiniş,/kərpiniʃ/,əyy,yy
+侄女婿,zh-cn,Niece,姪,/ʈʂɚ˧˥ ny˨˩˦ ɕy˥˩/,əyy,yy
+والتشيكي,ar,Czech,チェコ,/waaːltʃiːkijj/,ɶɶbbyy,yy
+구십일,ko,Thirteen days,13日間,/kuɕʰibiɭ/,ubyy,yy
+Alibi,de,alibi,アリバイ,/ˈʔɑːlibi/,ɑyy,yy
+scârții,ro,crishes,詐欺師,/skɨrtsiji/,bʉbyy,yy
+المشمش,ar,Apricot,アプリコット,/aːlmiʃmiʃ/,ɶbyy,yy

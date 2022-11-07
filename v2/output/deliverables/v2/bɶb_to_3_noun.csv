@@ -1,40 +1,40 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-fixation,fr,fixation,固定,/fiksasjɔ̃/,ybɶbɔ
-التثبيت,ar,Installation,インストール,/aːltaθbiːt/,ɶbɶbyb
-nostalgia,es,nostalgia,ノスタルジア,/nostalxja/,obɶbbɶ
-مستأجر,ar,tenant,テナント,/mustaʔdʒir/,ubɶbby
-úlfalda,is,camel,キャメル,/ulvalta/,ubɶbɶ
-inflation,fr,inflation,インフレーション,/ɛ̃flasjɔ̃/,œbɶbɔ
-الفضاء,ar,outer space,宇宙空間,/aːlfadˤaːʔ/,ɶbɶbɶb
-hydravion,fr,seaplane,水上飛行機,/idʁavjɔ̃/,ybɶbɔ
-مجفف,ar,dryer,ドライヤー,/mudʒaffif/,ubɶbyb
-savoir-faire,fr,know how,ノーハウ,/savwaʁfɛʁ/,ɶbɶbœb
-الالقاء,ar,Giving,与える,/aːlʔalqaːʔ/,ɶbɶbɶb
-formation,fr,training,トレーニング,/fɔʁmasjɔ̃/,ɔbɶbɔ
-التعدين,ar,Mining,マイニング,/aːltaʕdiːn/,ɶbɶbym
-التصميم,ar,the design,デザイン,/aːltasˤmiːm/,ɶbɶbym
-situación,es,situation,状況,/sitwaˈθjon/,ybɶbom
-situation,fr,situation,状況,/sitɥasjɔ̃/,ybɶbɔ
-escalier,fr,stairs,階段,/ɛskalje/,œbɶbø
-아파트,ko,Apartment,アパート,/a̠pʰa̠tʰɯ/,ɶbɶbu
-マッサージ,ja,Massage,マッサージ,/masːaːdʑi/,ɶbɶby
-vibrații,ro,vibration,振動,/vibratsij/,ybɶby
-patialba,es,Patialba,パティアルバ,/patjalβa/,ɶbɶbɶ
-octatlon,ro,Ocatlon,オカトロン,/oktatlon/,obɶbom
-suprafluid,ro,superfluid,Superfluid,/suprafluid/,ubɶbuyb
-대화재,ko,Conflict,対立,/tɛ̝βwa̠d͡ʑɛ̝/,œbɶbœ
-Sachwalters,de,Valet,バレット,/ˈzaxvaltɛɾs/,ɶbɶbœb
-يجرجر,ar,Dirt,泥,/judʒardʒir/,ubɶby
-للاضراب,ar,For the strike,ストライキのために,/lilʔadˤraːb/,ybɶbɶb
-Buchhaltung,de,accounting,会計,/ˈbuːxˌhaltʊŋ/,ubɶbʊm
-laplaca,eo,laplaca,ラプラカ,/laplat͡sa/,ɶbɶbɶ
-dalmatiens,fr,Dalmatians,ダルメシアン,/dalmasjɛ̃/,ɶbɶbœ
-어사화,ko,Portrait,肖像画,/ʌ̹sʰa̠βwa̠/,ɔbɶbɶ
-jafnaldri,is,pension,年金,/japnaltrɪ/,ɶbɶbbʏ
-atractriz,es,attractive,魅力的,/atɾaktɾiθ/,ɶbɶbbyb
-nitragin,ro,nitragin,ニトラギン,/nitradʒin/,ybɶbym
-이사장,ko,Chairman,会長,/isʰa̠d͡ʑa̠ŋ/,ybɶbɶm
-statthaftes,de,steady,安定,/ˈʃtathaftəs/,ɶbɶbəb
-phép hài thanh,vi,miracle,奇跡,/fɛp˦˥ haj˦˨ tʰan˧˥/,œbɶbɶm
-asfaltor,ro,asphalt,アスファルト,/asfaltor/,ɶbɶbo
-Nachbarkreis,de,Neighboring circle,隣接する円,/ˈnaxˌbaɾkɾaes/,ɶbɶbɶøb
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+fixation,fr,fixation,固定,/fiksasjɔ̃/,ybɶbɔ,bɶb
+التثبيت,ar,Installation,インストール,/aːltaθbiːt/,ɶbɶbyb,bɶb
+nostalgia,es,nostalgia,ノスタルジア,/nostalxja/,obɶbbɶ,bɶb
+مستأجر,ar,tenant,テナント,/mustaʔdʒir/,ubɶbby,bɶb
+úlfalda,is,camel,キャメル,/ulvalta/,ubɶbɶ,bɶb
+inflation,fr,inflation,インフレーション,/ɛ̃flasjɔ̃/,œbɶbɔ,bɶb
+الفضاء,ar,outer space,宇宙空間,/aːlfadˤaːʔ/,ɶbɶbɶb,bɶb
+hydravion,fr,seaplane,水上飛行機,/idʁavjɔ̃/,ybɶbɔ,bɶb
+مجفف,ar,dryer,ドライヤー,/mudʒaffif/,ubɶbyb,bɶb
+savoir-faire,fr,know how,ノーハウ,/savwaʁfɛʁ/,ɶbɶbœb,bɶb
+الالقاء,ar,Giving,与える,/aːlʔalqaːʔ/,ɶbɶbɶb,bɶb
+formation,fr,training,トレーニング,/fɔʁmasjɔ̃/,ɔbɶbɔ,bɶb
+التعدين,ar,Mining,マイニング,/aːltaʕdiːn/,ɶbɶbym,bɶb
+التصميم,ar,the design,デザイン,/aːltasˤmiːm/,ɶbɶbym,bɶb
+situación,es,situation,状況,/sitwaˈθjon/,ybɶbom,bɶb
+situation,fr,situation,状況,/sitɥasjɔ̃/,ybɶbɔ,bɶb
+escalier,fr,stairs,階段,/ɛskalje/,œbɶbø,bɶb
+아파트,ko,Apartment,アパート,/a̠pʰa̠tʰɯ/,ɶbɶbu,bɶb
+マッサージ,ja,Massage,マッサージ,/masːaːdʑi/,ɶbɶby,bɶb
+vibrații,ro,vibration,振動,/vibratsij/,ybɶby,bɶb
+patialba,es,Patialba,パティアルバ,/patjalβa/,ɶbɶbɶ,bɶb
+octatlon,ro,Ocatlon,オカトロン,/oktatlon/,obɶbom,bɶb
+suprafluid,ro,superfluid,Superfluid,/suprafluid/,ubɶbuyb,bɶb
+대화재,ko,Conflict,対立,/tɛ̝βwa̠d͡ʑɛ̝/,œbɶbœ,bɶb
+Sachwalters,de,Valet,バレット,/ˈzaxvaltɛɾs/,ɶbɶbœb,bɶb
+يجرجر,ar,Dirt,泥,/judʒardʒir/,ubɶby,bɶb
+للاضراب,ar,For the strike,ストライキのために,/lilʔadˤraːb/,ybɶbɶb,bɶb
+Buchhaltung,de,accounting,会計,/ˈbuːxˌhaltʊŋ/,ubɶbʊm,bɶb
+laplaca,eo,laplaca,ラプラカ,/laplat͡sa/,ɶbɶbɶ,bɶb
+dalmatiens,fr,Dalmatians,ダルメシアン,/dalmasjɛ̃/,ɶbɶbœ,bɶb
+어사화,ko,Portrait,肖像画,/ʌ̹sʰa̠βwa̠/,ɔbɶbɶ,bɶb
+jafnaldri,is,pension,年金,/japnaltrɪ/,ɶbɶbbʏ,bɶb
+atractriz,es,attractive,魅力的,/atɾaktɾiθ/,ɶbɶbbyb,bɶb
+nitragin,ro,nitragin,ニトラギン,/nitradʒin/,ybɶbym,bɶb
+이사장,ko,Chairman,会長,/isʰa̠d͡ʑa̠ŋ/,ybɶbɶm,bɶb
+statthaftes,de,steady,安定,/ˈʃtathaftəs/,ɶbɶbəb,bɶb
+phép hài thanh,vi,miracle,奇跡,/fɛp˦˥ haj˦˨ tʰan˧˥/,œbɶbɶm,bɶb
+asfaltor,ro,asphalt,アスファルト,/asfaltor/,ɶbɶbo,bɶb
+Nachbarkreis,de,Neighboring circle,隣接する円,/ˈnaxˌbaɾkɾaes/,ɶbɶbɶøb,bɶb

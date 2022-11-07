@@ -1,32 +1,32 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-confesar,es,to confess,告白する,/komfesaɾ/,omøɶ
-omega,es,omega,オメガ,/omeɣa/,oøɶ
-aldea,es,village,村,/aldea/,ɶbøɶ
-saborear,es,savor,味わい,/saβoɾeaɾ/,ɶoøɶ
-liberar,es,release,リリース,/liβeɾaɾ/,yøɶ
-piqueta,es,pickaxe,ピタックス,/piketa/,yøɶ
-pantera,es,panther,パンサー,/panteɾa/,ɶmøɶ
-perrera,es,dog pound,犬のポンド,/pereɾa/,øøɶ
-galleta,es,cracker,クラッカー,/gaʎeta/,ɶøɶ
-pradera,es,Meadow,牧草地,/pɾaðeɾa/,bɶøɶ
-alerta,es,alert,アラート,/aleɾta/,ɶøɶ
-alegar,es,plead,嘆願する,/aleɣaɾ/,ɶøɶ
-vitela,es,vellum,ベラム,/bitela/,yøɶ
-agregar,es,add,追加,/aɣɾeɣaɾ/,ɶøɶ
-ordenar,es,organize,整理,/oɾðenaɾ/,oøɶ
-entregar,es,deliver,配達,/entɾeɣaɾ/,ømbøɶ
-慣れた,ja,Accustomed,慣れた,/naɾeta/,ɶøɶ
-잘되다,ko,go well,うまく行きます,/t͡ɕa̠ɭdø̞da̠/,bɶøɶ
-pikema,eo,stinging,刺し傷,/pikema/,yøɶ
-cụ thể hoá,vi,concretize,コンクリート化,/ku˨ˀ˩ʔ tʰe˧˩˨ hwa˩˧/,ubbøɶ
-diaterma,eo,diatermate,日中の,/diaterma/,yɶøɶ
-réinséra,fr,reinstate,回復します,/ʁeɛ̃seʁa/,øœøɶ
-sângerau,ro,bleeding,出血,/sɨndʒeraw/,ʉmbøɶ
-întreba,ro,ask,聞く,/ɨntreba/,ʉmbøɶ
-안되다,ko,Do not,しない,/a̠ndø̞da̠/,ɶmøɶ
-번뇌마,ko,Defilement,汚れ,/pʌ̹nnø̞ma̠/,ɔmøɶ
-占めた,ja,Occupied,占めた,/ɕimeta/,yøɶ
-aciéras,fr,aeraras,aeraras,/asjeʁa/,ɶbøɶ
-reflétas,fr,reflects,反映します,/ʁəfleta/,əbøɶ
-terléka,id,Tell,教えて,/tərleka/,əøɶ
-berkémah,id,camping,キャンプ,/bərkemah/,əøɶ
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+confesar,es,to confess,告白する,/komfesaɾ/,omøɶ,øɶ
+omega,es,omega,オメガ,/omeɣa/,oøɶ,øɶ
+aldea,es,village,村,/aldea/,ɶbøɶ,øɶ
+saborear,es,savor,味わい,/saβoɾeaɾ/,ɶoøɶ,øɶ
+liberar,es,release,リリース,/liβeɾaɾ/,yøɶ,øɶ
+piqueta,es,pickaxe,ピタックス,/piketa/,yøɶ,øɶ
+pantera,es,panther,パンサー,/panteɾa/,ɶmøɶ,øɶ
+perrera,es,dog pound,犬のポンド,/pereɾa/,øøɶ,øɶ
+galleta,es,cracker,クラッカー,/gaʎeta/,ɶøɶ,øɶ
+pradera,es,Meadow,牧草地,/pɾaðeɾa/,bɶøɶ,øɶ
+alerta,es,alert,アラート,/aleɾta/,ɶøɶ,øɶ
+alegar,es,plead,嘆願する,/aleɣaɾ/,ɶøɶ,øɶ
+vitela,es,vellum,ベラム,/bitela/,yøɶ,øɶ
+agregar,es,add,追加,/aɣɾeɣaɾ/,ɶøɶ,øɶ
+ordenar,es,organize,整理,/oɾðenaɾ/,oøɶ,øɶ
+entregar,es,deliver,配達,/entɾeɣaɾ/,ømbøɶ,øɶ
+慣れた,ja,Accustomed,慣れた,/naɾeta/,ɶøɶ,øɶ
+잘되다,ko,go well,うまく行きます,/t͡ɕa̠ɭdø̞da̠/,bɶøɶ,øɶ
+pikema,eo,stinging,刺し傷,/pikema/,yøɶ,øɶ
+cụ thể hoá,vi,concretize,コンクリート化,/ku˨ˀ˩ʔ tʰe˧˩˨ hwa˩˧/,ubbøɶ,øɶ
+diaterma,eo,diatermate,日中の,/diaterma/,yɶøɶ,øɶ
+réinséra,fr,reinstate,回復します,/ʁeɛ̃seʁa/,øœøɶ,øɶ
+sângerau,ro,bleeding,出血,/sɨndʒeraw/,ʉmbøɶ,øɶ
+întreba,ro,ask,聞く,/ɨntreba/,ʉmbøɶ,øɶ
+안되다,ko,Do not,しない,/a̠ndø̞da̠/,ɶmøɶ,øɶ
+번뇌마,ko,Defilement,汚れ,/pʌ̹nnø̞ma̠/,ɔmøɶ,øɶ
+占めた,ja,Occupied,占めた,/ɕimeta/,yøɶ,øɶ
+aciéras,fr,aeraras,aeraras,/asjeʁa/,ɶbøɶ,øɶ
+reflétas,fr,reflects,反映します,/ʁəfleta/,əbøɶ,øɶ
+terléka,id,Tell,教えて,/tərleka/,əøɶ,øɶ
+berkémah,id,camping,キャンプ,/bərkemah/,əøɶ,øɶ

@@ -1,16 +1,16 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-insinuación,es,innuendo,暗示,/insinwaˈθjon/,ymymɶbom
-ambianță,ro,surroundings,周囲,/ambijantsə/,ɶmyɶmbə
-kummisetä,fi,godfather,ゴッドファーザー,/ˈkummiˌsetæ/,umyøæ
-lämmitellä,fi,warm,暖かい,/ˈlæmmiˌtellæ/,æmyøbæ
-ampiainen,fi,wasp,スズメバチ,/ˈɑmpiˌɑinen/,ɑmyɑyøm
-pommikone,fi,bomber,爆撃機,/ˈpommiˌkone/,omyoø
-continente,es,continent,大陸,/kontinente/,omyømø
-بنسلفاني,ar,Pennslevani,Pennslevani,/binsilfaːnijj/,ymybɶy
-samningsmarkmið,is,negotiating goal,交渉目標,/samniŋsmar̥kmɪð/,ɶmymbɶbʏb
-bưng bít miệng bình,vi,Shrap the mouth of the bottle,ボトルの口を縮めます,/bɯŋ˧˥ bit˦˥ miəŋ˨ˀ˩ʔ bin˦˨/,umybyəmbym
-namby-pamby,en,namby-pamby,ナムビー・パンビー,/ˈnæmbiˈpæmbi/,æmyæmy
-zampino,en,zampino,ザンピノ,/zɑmˈpinoʊ/,ɑmyoʊ
-kompilator,id,compilation,編集,/kompilator/,omyɶo
-كوملينوفيتش,ar,Komlinovich,コムリンヴィッチ,/kuːmliːnuːfiːtʃ/,umyuyb
-kontinuitas,id,continuity,連続,/kontinuitas/,omyuyɶb
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+insinuación,es,innuendo,暗示,/insinwaˈθjon/,ymymɶbom,my
+ambianță,ro,surroundings,周囲,/ambijantsə/,ɶmyɶmbə,my
+kummisetä,fi,godfather,ゴッドファーザー,/ˈkummiˌsetæ/,umyøæ,my
+lämmitellä,fi,warm,暖かい,/ˈlæmmiˌtellæ/,æmyøbæ,my
+ampiainen,fi,wasp,スズメバチ,/ˈɑmpiˌɑinen/,ɑmyɑyøm,my
+pommikone,fi,bomber,爆撃機,/ˈpommiˌkone/,omyoø,my
+continente,es,continent,大陸,/kontinente/,omyømø,my
+بنسلفاني,ar,Pennslevani,Pennslevani,/binsilfaːnijj/,ymybɶy,my
+samningsmarkmið,is,negotiating goal,交渉目標,/samniŋsmar̥kmɪð/,ɶmymbɶbʏb,my
+bưng bít miệng bình,vi,Shrap the mouth of the bottle,ボトルの口を縮めます,/bɯŋ˧˥ bit˦˥ miəŋ˨ˀ˩ʔ bin˦˨/,umybyəmbym,my
+namby-pamby,en,namby-pamby,ナムビー・パンビー,/ˈnæmbiˈpæmbi/,æmyæmy,my
+zampino,en,zampino,ザンピノ,/zɑmˈpinoʊ/,ɑmyoʊ,my
+kompilator,id,compilation,編集,/kompilator/,omyɶo,my
+كوملينوفيتش,ar,Komlinovich,コムリンヴィッチ,/kuːmliːnuːfiːtʃ/,umyuyb,my
+kontinuitas,id,continuity,連続,/kontinuitas/,omyuyɶb,my

@@ -1,25 +1,25 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-samræmi,is,harmony,調和,/samraimɪ/,ɶmɶyʏ
-Kampagne,de,campaign,運動,/ˈkampagnə/,ɶmɶbə
-kampanye,id,campaign,運動,/kampaɲə/,ɶmɶə
-vendaval,es,gale,ゲイル,/bendaβal/,ømɶɶb
-manfaat,id,benefit,利点,/manfaʔat/,ɶmɶɶb
-encanto,es,charm,魅力,/eŋkanto/,ømɶmo
-chim cánh cụt,vi,penguin,ペンギン,/cim˧˥ kan˩˧ kuk͡p˨ˀ˩ʔ/,ymɶmubbb
-angaja,ro,hire,雇用,/anɡaʒa/,ɶmɶɶ
-infarto,es,heart attack,心臓発作,/imfaɾto/,ymɶo
-Anpassung,de,adjustment,調整,/ˈʔanˌpaszʊŋ/,ɶmɶbʊm
-マンハント,ja,Man hunt,マンハント,/maɴhaɴto/,ɶmɶmo
-mansardă,ro,attic,屋根裏,/mansardə/,ɶmɶə
-bandaĉo,eo,bandage,包帯,/bandat͡ʃo/,ɶmɶbo
-淡彩画,ja,Light painting,淡彩画,/taɴsaiga/,ɶmɶyɶ
-تمتصص,ar,Suck,吸う,/tamtasˤisˤ/,ɶmɶbyb
-点訳,ja,Translation,点訳,/teɴjakɯ/,ømɶu
-nhãn áp kí,vi,glaucoma,緑内障,/ɲaŋ˧˩˨ ap˦˥ ki˩˧/,ɶmɶby
-pentagon,ro,pentagon,五角形,/pentaɡon/,ømɶom
-熏茶叶,zh-cn,Tea,お茶,/ɕyn˥˥ ʈʂʰa˧˥ jɛ˥˩/,ymɶœ
-lambakjöt,is,Lamb meat,ラム肉,/lampacœːt/,ɶmɶœb
-sintaksis,id,syntax,構文,/sintaʔsis/,ymɶbyb
-vandanum,is,the problem,問題,/vantanʏm/,ɶmɶʏm
-landakort,is,chart,チャート,/lantakɔr̥t/,ɶmɶɔb
-maniassions,fr,maniassions,マニキシオン,/manjasjɔ̃/,ɶmɶbɔ
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+samræmi,is,harmony,調和,/samraimɪ/,ɶmɶyʏ,mɶ
+Kampagne,de,campaign,運動,/ˈkampagnə/,ɶmɶbə,mɶ
+kampanye,id,campaign,運動,/kampaɲə/,ɶmɶə,mɶ
+vendaval,es,gale,ゲイル,/bendaβal/,ømɶɶb,mɶ
+manfaat,id,benefit,利点,/manfaʔat/,ɶmɶɶb,mɶ
+encanto,es,charm,魅力,/eŋkanto/,ømɶmo,mɶ
+chim cánh cụt,vi,penguin,ペンギン,/cim˧˥ kan˩˧ kuk͡p˨ˀ˩ʔ/,ymɶmubbb,mɶ
+angaja,ro,hire,雇用,/anɡaʒa/,ɶmɶɶ,mɶ
+infarto,es,heart attack,心臓発作,/imfaɾto/,ymɶo,mɶ
+Anpassung,de,adjustment,調整,/ˈʔanˌpaszʊŋ/,ɶmɶbʊm,mɶ
+マンハント,ja,Man hunt,マンハント,/maɴhaɴto/,ɶmɶmo,mɶ
+mansardă,ro,attic,屋根裏,/mansardə/,ɶmɶə,mɶ
+bandaĉo,eo,bandage,包帯,/bandat͡ʃo/,ɶmɶbo,mɶ
+淡彩画,ja,Light painting,淡彩画,/taɴsaiga/,ɶmɶyɶ,mɶ
+تمتصص,ar,Suck,吸う,/tamtasˤisˤ/,ɶmɶbyb,mɶ
+点訳,ja,Translation,点訳,/teɴjakɯ/,ømɶu,mɶ
+nhãn áp kí,vi,glaucoma,緑内障,/ɲaŋ˧˩˨ ap˦˥ ki˩˧/,ɶmɶby,mɶ
+pentagon,ro,pentagon,五角形,/pentaɡon/,ømɶom,mɶ
+熏茶叶,zh-cn,Tea,お茶,/ɕyn˥˥ ʈʂʰa˧˥ jɛ˥˩/,ymɶœ,mɶ
+lambakjöt,is,Lamb meat,ラム肉,/lampacœːt/,ɶmɶœb,mɶ
+sintaksis,id,syntax,構文,/sintaʔsis/,ymɶbyb,mɶ
+vandanum,is,the problem,問題,/vantanʏm/,ɶmɶʏm,mɶ
+landakort,is,chart,チャート,/lantakɔr̥t/,ɶmɶɔb,mɶ
+maniassions,fr,maniassions,マニキシオン,/manjasjɔ̃/,ɶmɶbɔ,mɶ

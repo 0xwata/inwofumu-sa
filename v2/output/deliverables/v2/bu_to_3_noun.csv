@@ -1,34 +1,34 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-美術,ja,art,美術,/bidʑɯtsɯ/,ybubu
-mallumo,eo,darkness,暗闇,/mallumo/,ɶbuo
-lechuga,es,lettuce,レタス,/letʃuɣa/,øbuɶ
-الحمر,ar,Red,赤,/aːlħumar/,ɶbuɶ
-スツール,ja,stool,スツール,/sɯtsɯːɾɯ/,ubuu
-espuma,es,foam,フォーム,/espuma/,øbuɶ
-タックル,ja,Tackle,タックル,/takːɯɾɯ/,ɶbuu
-patruuna,fi,cartridge,カートリッジ,/ˈpɑtruunɑ/,ɑbuuɑ
-まつ毛,ja,Eyelashes,まつ毛,/matsɯge/,ɶbuø
-ikkuna,fi,window,窓,/ˈikkunɑ/,ybuɑ
-위스키,ko,whiskey,ウィスキー,/ɥisʰɯkçi/,ybuby
-البندق,ar,Hazelnut,ヘーゼルナッツ,/aːlbunduq/,ɶbumub
-sitruuna,fi,lemon,レモン,/ˈsitruunɑ/,ybuuɑ
-القرصان,ar,Pirate,海賊,/aːlqursˤaːn/,ɶbubɶm
-pictură,ro,the painting,ペインティング,/pikturə/,ybuə
-ミックス,ja,mix,ミックス,/mikːɯsɯ/,ybuu
-vidpunkto,eo,point of view,視点,/vidpunkto/,ybumbo
-almuazam,id,Almuazam,アルムアザム,/almuazam/,ɶbuɶɶm
-rektumo,eo,rectum,直腸,/rektumo/,øbuo
-farfouiller,fr,rummage,rummage,/faʁfuje/,ɶbuø
-pustulo,eo,pustulo,パスロ,/pustulo/,ubuo
-écroulons,/ekʁulɔ̃/,Crowd,群衆,øbuɔ,fr
-Aktuare,de,Actuar,アクチュアー,/ʔaktuaɽə/,ɶbuɶə
-costumers,en,costumers,衣装,/ˈkɑstumɝz/,ɑbuəb
-rabrouât,fr,rabrouât,rabrouât,/ʁabʁua/,ɶbuɶ
-șițuire,ro,sip,一口,/ʃitsuire/,ybuyø
-pistura,/pistuɾa/,position,位置,ybuɶ,es
-vaglumo,eo,wanderer,ワンダラー,/vaglumo/,ɶbuo
-للقسطاس,ar,For installments,分割払い用,/lilqustˤaːs/,ybubbɶb
-adjuntéis,es,attach,取り付けます,/aðxunˈteis/,ɶbumøyb
-bikŝuo,eo,bikini,ビキニ,/bikʃuo/,ybuo
-Bierkruges,de,Beer jug,ビール水差し,/ˈbiːɾkɾugəs/,ybuəb
-diskusi,id,discussion,討論,/diskusi/,ybuy
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+美術,ja,art,美術,/bidʑɯtsɯ/,ybubu,bu
+mallumo,eo,darkness,暗闇,/mallumo/,ɶbuo,bu
+lechuga,es,lettuce,レタス,/letʃuɣa/,øbuɶ,bu
+الحمر,ar,Red,赤,/aːlħumar/,ɶbuɶ,bu
+スツール,ja,stool,スツール,/sɯtsɯːɾɯ/,ubuu,bu
+espuma,es,foam,フォーム,/espuma/,øbuɶ,bu
+タックル,ja,Tackle,タックル,/takːɯɾɯ/,ɶbuu,bu
+patruuna,fi,cartridge,カートリッジ,/ˈpɑtruunɑ/,ɑbuuɑ,bu
+まつ毛,ja,Eyelashes,まつ毛,/matsɯge/,ɶbuø,bu
+ikkuna,fi,window,窓,/ˈikkunɑ/,ybuɑ,bu
+위스키,ko,whiskey,ウィスキー,/ɥisʰɯkçi/,ybuby,bu
+البندق,ar,Hazelnut,ヘーゼルナッツ,/aːlbunduq/,ɶbumub,bu
+sitruuna,fi,lemon,レモン,/ˈsitruunɑ/,ybuuɑ,bu
+القرصان,ar,Pirate,海賊,/aːlqursˤaːn/,ɶbubɶm,bu
+pictură,ro,the painting,ペインティング,/pikturə/,ybuə,bu
+ミックス,ja,mix,ミックス,/mikːɯsɯ/,ybuu,bu
+vidpunkto,eo,point of view,視点,/vidpunkto/,ybumbo,bu
+almuazam,id,Almuazam,アルムアザム,/almuazam/,ɶbuɶɶm,bu
+rektumo,eo,rectum,直腸,/rektumo/,øbuo,bu
+farfouiller,fr,rummage,rummage,/faʁfuje/,ɶbuø,bu
+pustulo,eo,pustulo,パスロ,/pustulo/,ubuo,bu
+écroulons,/ekʁulɔ̃/,Crowd,群衆,øbuɔ,fr,bu
+Aktuare,de,Actuar,アクチュアー,/ʔaktuaɽə/,ɶbuɶə,bu
+costumers,en,costumers,衣装,/ˈkɑstumɝz/,ɑbuəb,bu
+rabrouât,fr,rabrouât,rabrouât,/ʁabʁua/,ɶbuɶ,bu
+șițuire,ro,sip,一口,/ʃitsuire/,ybuyø,bu
+pistura,/pistuɾa/,position,位置,ybuɶ,es,bu
+vaglumo,eo,wanderer,ワンダラー,/vaglumo/,ɶbuo,bu
+للقسطاس,ar,For installments,分割払い用,/lilqustˤaːs/,ybubbɶb,bu
+adjuntéis,es,attach,取り付けます,/aðxunˈteis/,ɶbumøyb,bu
+bikŝuo,eo,bikini,ビキニ,/bikʃuo/,ybuo,bu
+Bierkruges,de,Beer jug,ビール水差し,/ˈbiːɾkɾugəs/,ybuəb,bu
+diskusi,id,discussion,討論,/diskusi/,ybuy,bu

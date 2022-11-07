@@ -1,38 +1,38 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-agama,id,religion,宗教,/agama/,ɶɶɶ
-بالغ,ar,Adult,大人,/baːlaɣa/,ɶɶɶ
-makanan,id,food,食物,/makanan/,ɶɶɶm
-pizarra,es,board,ボード,/piθara/,yɶɶ
-حكم,ar,Rule,ルール,/ħakama/,ɶɶɶ
-halangan,id,obstacle,障害,/halaŋan/,ɶɶɶm
-carnaval,es,carnival,カーニバル,/kaɾnaβal/,ɶɶɶb
-バナナ,ja,banana,バナナ,/banana/,ɶɶɶ
-شعر,ar,Poetry,詩,/ʃaʕara/,ɶɶɶ
-cigarra,es,cicada,蝉,/θiɣara/,yɶɶ
-صحافي,ar,journalist,ジャーナリスト,/sˤaħaːfijj/,bɶɶy
-ذيل,ar,Tail,しっぽ,/ðajjala/,ɶɶɶ
-عامل,ar,Worker,ワーカー,/ʕaːmala/,ɶɶɶ
-budaya,id,culture,文化,/budaja/,uɶɶ
-رقم,ar,number,番号,/raqama/,ɶɶɶ
-기하학,ko,geometry,ジオメトリ,/kiɦa̠ɦa̠k̚/,yɶɶb
-طابق,ar,floor,床,/tˤaːbaqa/,bɶɶɶ
-سلامة,ar,safety,安全性,/salaːma/,ɶɶɶ
-llanadas,es,Llanadas,ラナダス,/ʎanaðas/,ɶɶɶb
-hoa đai vàng,vi,yellow belt,黄色のベルト,/hwa˧˥ daj˧˥ jaŋ˦˨/,ɶɶɶm
-bahaano,eo,Bahaan,バハーン,/bahaano/,ɶɶɶo
-Gigabyte,de,Gigabyte,ギガバイト,/ˈɡiːɡaˌbai̯t/,yɶɶyb
-wawasan,id,outlook,見通し,/wawasan/,ɶɶɶm
-barbara,eo,Barbara,バーバラ,/barbara/,ɶɶɶ
-玉菜,ja,cabbage,玉菜,/tamana/,ɶɶɶ
-pajazas,es,Pajazas,パジャザ,/paxaθas/,ɶɶɶb
-lazabais,es,lazabais,ラザバイ,/laθaβais/,ɶɶɶyb
-كنشاش,/kanaʃʃaːʃ/,Kanshash,カンシャッシュ,ɶɶɶ,ar
-Thái Giàng Phố,vi,Thai Giang Pho,タイ・ジアン・フォー,/tʰaj˩˧ jaŋ˦˨ fo˩˧/,bɶɶmo
-chảo quai vạc,vi,canton,カントン,/caw˧˩˨ waj˧˥ jak˨ˀ˩ʔ/,ɶɶɶbb
-barbabais,es,Barbabais,バルババイス,/baɾβaβais/,ɶɶɶyb
-turradas,es,turned,,/turaðas/,uɶɶb
-tasarlas,es,Table them,それらをテーブル,/tasaɾlas/,ɶɶɶb
-pi gia ma,vi,Pi Gia Ma,Pi gia ma,/pi˧˥ ja˧˥ ma˧˥/,yɶɶ
-狭带纪,zh-cn,Tiny,小さい,/ɕja˧˥ taɪ˥˩ tɕi˥˩/,bɶɶʏby
-sábanas,es,sheets,シート,/ˈsaβanas/,ɶɶɶb
-banaĥa,eo,Banah,バナ,/banaxa/,ɶɶɶ
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+agama,id,religion,宗教,/agama/,ɶɶɶ,ɶɶ
+بالغ,ar,Adult,大人,/baːlaɣa/,ɶɶɶ,ɶɶ
+makanan,id,food,食物,/makanan/,ɶɶɶm,ɶɶ
+pizarra,es,board,ボード,/piθara/,yɶɶ,ɶɶ
+حكم,ar,Rule,ルール,/ħakama/,ɶɶɶ,ɶɶ
+halangan,id,obstacle,障害,/halaŋan/,ɶɶɶm,ɶɶ
+carnaval,es,carnival,カーニバル,/kaɾnaβal/,ɶɶɶb,ɶɶ
+バナナ,ja,banana,バナナ,/banana/,ɶɶɶ,ɶɶ
+شعر,ar,Poetry,詩,/ʃaʕara/,ɶɶɶ,ɶɶ
+cigarra,es,cicada,蝉,/θiɣara/,yɶɶ,ɶɶ
+صحافي,ar,journalist,ジャーナリスト,/sˤaħaːfijj/,bɶɶy,ɶɶ
+ذيل,ar,Tail,しっぽ,/ðajjala/,ɶɶɶ,ɶɶ
+عامل,ar,Worker,ワーカー,/ʕaːmala/,ɶɶɶ,ɶɶ
+budaya,id,culture,文化,/budaja/,uɶɶ,ɶɶ
+رقم,ar,number,番号,/raqama/,ɶɶɶ,ɶɶ
+기하학,ko,geometry,ジオメトリ,/kiɦa̠ɦa̠k̚/,yɶɶb,ɶɶ
+طابق,ar,floor,床,/tˤaːbaqa/,bɶɶɶ,ɶɶ
+سلامة,ar,safety,安全性,/salaːma/,ɶɶɶ,ɶɶ
+llanadas,es,Llanadas,ラナダス,/ʎanaðas/,ɶɶɶb,ɶɶ
+hoa đai vàng,vi,yellow belt,黄色のベルト,/hwa˧˥ daj˧˥ jaŋ˦˨/,ɶɶɶm,ɶɶ
+bahaano,eo,Bahaan,バハーン,/bahaano/,ɶɶɶo,ɶɶ
+Gigabyte,de,Gigabyte,ギガバイト,/ˈɡiːɡaˌbai̯t/,yɶɶyb,ɶɶ
+wawasan,id,outlook,見通し,/wawasan/,ɶɶɶm,ɶɶ
+barbara,eo,Barbara,バーバラ,/barbara/,ɶɶɶ,ɶɶ
+玉菜,ja,cabbage,玉菜,/tamana/,ɶɶɶ,ɶɶ
+pajazas,es,Pajazas,パジャザ,/paxaθas/,ɶɶɶb,ɶɶ
+lazabais,es,lazabais,ラザバイ,/laθaβais/,ɶɶɶyb,ɶɶ
+كنشاش,/kanaʃʃaːʃ/,Kanshash,カンシャッシュ,ɶɶɶ,ar,ɶɶ
+Thái Giàng Phố,vi,Thai Giang Pho,タイ・ジアン・フォー,/tʰaj˩˧ jaŋ˦˨ fo˩˧/,bɶɶmo,ɶɶ
+chảo quai vạc,vi,canton,カントン,/caw˧˩˨ waj˧˥ jak˨ˀ˩ʔ/,ɶɶɶbb,ɶɶ
+barbabais,es,Barbabais,バルババイス,/baɾβaβais/,ɶɶɶyb,ɶɶ
+turradas,es,turned,,/turaðas/,uɶɶb,ɶɶ
+tasarlas,es,Table them,それらをテーブル,/tasaɾlas/,ɶɶɶb,ɶɶ
+pi gia ma,vi,Pi Gia Ma,Pi gia ma,/pi˧˥ ja˧˥ ma˧˥/,yɶɶ,ɶɶ
+狭带纪,zh-cn,Tiny,小さい,/ɕja˧˥ taɪ˥˩ tɕi˥˩/,bɶɶʏby,ɶɶ
+sábanas,es,sheets,シート,/ˈsaβanas/,ɶɶɶb,ɶɶ
+banaĥa,eo,Banah,バナ,/banaxa/,ɶɶɶ,ɶɶ

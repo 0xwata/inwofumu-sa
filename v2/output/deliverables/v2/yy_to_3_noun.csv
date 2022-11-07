@@ -1,17 +1,17 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-yritys,fi,company,会社,/ˈyritys/,yyyb
-glitilo,eo,Slide,滑り台,/glitilo/,byyo
-sleepiness,en,sleepiness,眠気,/ˈsɫipinəs/,byyəb
-Privileg,de,privilege,特権,/ˈpɾiːvilek/,byyøb
-privilège,fr,privilege,特権,/pʁivilɛʒ/,byyœ
-fysiikka,fi,physique,体格,/ˈfysiikkɑ/,yyybɑ
-merimies,fi,sailor,船乗り,/ˈmerimies/,øyyøb
-painike,fi,handle,扱う,/ˈpɑinike/,ɑyyø
-simii,eo,simii,simii,/simii/,yyy
-schițare,ro,rough-cast,ラフキャスト,/skʲ̩itsare/,byybɶø
-地域化,ja,Regionalization,地域化,/tɕiikika/,byyyɶ
-拘泥不安,zh-cn,Restless,落ち着きがない,/tɕy˥˥ ni˥˩ pu˥˩ an˥˥/,byyuɶm
-Zivilehen,de,Civilia,民間,/ˈtsiːvileən/,byyøəm
-lichida,ro,liquidate,清算します,/likʲ̩ida/,yyyɶ
-聖櫃,ja,Sacred lunch,聖櫃,/seiçitsɯ/,øyybu
-pardini,en,pardini,パルディーニ,/pɑɹˈdini/,ɑyy
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+yritys,fi,company,会社,/ˈyritys/,yyyb,yy
+glitilo,eo,Slide,滑り台,/glitilo/,byyo,yy
+sleepiness,en,sleepiness,眠気,/ˈsɫipinəs/,byyəb,yy
+Privileg,de,privilege,特権,/ˈpɾiːvilek/,byyøb,yy
+privilège,fr,privilege,特権,/pʁivilɛʒ/,byyœ,yy
+fysiikka,fi,physique,体格,/ˈfysiikkɑ/,yyybɑ,yy
+merimies,fi,sailor,船乗り,/ˈmerimies/,øyyøb,yy
+painike,fi,handle,扱う,/ˈpɑinike/,ɑyyø,yy
+simii,eo,simii,simii,/simii/,yyy,yy
+schițare,ro,rough-cast,ラフキャスト,/skʲ̩itsare/,byybɶø,yy
+地域化,ja,Regionalization,地域化,/tɕiikika/,byyyɶ,yy
+拘泥不安,zh-cn,Restless,落ち着きがない,/tɕy˥˥ ni˥˩ pu˥˩ an˥˥/,byyuɶm,yy
+Zivilehen,de,Civilia,民間,/ˈtsiːvileən/,byyøəm,yy
+lichida,ro,liquidate,清算します,/likʲ̩ida/,yyyɶ,yy
+聖櫃,ja,Sacred lunch,聖櫃,/seiçitsɯ/,øyybu,yy
+pardini,en,pardini,パルディーニ,/pɑɹˈdini/,ɑyy,yy

@@ -1,25 +1,25 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-تؤثر,ar,effect,効果,/tuʔaθθir/,uɶby
-penacho,es,plume,飾り羽,/penatʃo/,øɶbo
-打哈欠,zh-cn,,欠伸,/ta˨˩˦ xa˥˥ tɕʰjɛn˧/,ɶɶbbœm
-fondation,fr,foundation,財団,/fɔ̃dasjɔ̃/,ɔɶbɔ
-donaco,eo,gift,贈り物,/donat͡so/,oɶbo
-rédaction,fr,writing,書き込み,/ʁedaksjɔ̃/,øɶbbɔ
-adapti,eo,adapt,適応する,/adapti/,ɶɶby
-adapter,fr,adapt,適応する,/adapte/,ɶɶbø
-diagramo,eo,Diagram,図,/diagramo/,yɶbɶo
-خفض,ar,scale down,スケールダウンします,/xafadˤa/,ɶɶbɶ
-مثلث,ar,triangle,三角形,/muθallaθ/,uɶbɶb
-súrsaðri,is,pickled,ピクルス,/sur̥saðrɪ/,uɶbʏ
-legalsten,de,most legal,最も合法,/ˈleːgalstən/,øɶbbəm
-ستجهم,ar,It will be stressed,それは強調されます,/satadʒhum/,ɶɶbum
-forlagsins,is,publishing,出版,/fɔrlaxsɪns/,ɔɶbʏmb
-toastendes,/toastʔɛnˈdəs/,toasting,トースト,oɶbbœməb,de
-redakti,eo,edit,編集,/redakti/,øɶby
-ونسو,ar,And forget,そして忘れてください,/wanaswa/,ɶɶbɶ
-asaltat,ro,assault,暴行,/asaltat/,ɶɶbɶb
-لنخلف,ar,Let's leave,行きましょう,/linaxluf/,yɶbub
-cadavru,ro,corpse,死体,/kadavru/,ɶɶbu
-salatblöð,is,lettuce,レタス,/saːlatplœːð/,ɶɶbbœb
-patschnassen,de,snap,スナップ,/ˈpaʧnaszən/,ɶɶbəm
-kuraĝi,eo,to dare,あえて,/kurad͡ʒi/,uɶby
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+تؤثر,ar,effect,効果,/tuʔaθθir/,uɶby,ɶb
+penacho,es,plume,飾り羽,/penatʃo/,øɶbo,ɶb
+打哈欠,zh-cn,,欠伸,/ta˨˩˦ xa˥˥ tɕʰjɛn˧/,ɶɶbbœm,ɶb
+fondation,fr,foundation,財団,/fɔ̃dasjɔ̃/,ɔɶbɔ,ɶb
+donaco,eo,gift,贈り物,/donat͡so/,oɶbo,ɶb
+rédaction,fr,writing,書き込み,/ʁedaksjɔ̃/,øɶbbɔ,ɶb
+adapti,eo,adapt,適応する,/adapti/,ɶɶby,ɶb
+adapter,fr,adapt,適応する,/adapte/,ɶɶbø,ɶb
+diagramo,eo,Diagram,図,/diagramo/,yɶbɶo,ɶb
+خفض,ar,scale down,スケールダウンします,/xafadˤa/,ɶɶbɶ,ɶb
+مثلث,ar,triangle,三角形,/muθallaθ/,uɶbɶb,ɶb
+súrsaðri,is,pickled,ピクルス,/sur̥saðrɪ/,uɶbʏ,ɶb
+legalsten,de,most legal,最も合法,/ˈleːgalstən/,øɶbbəm,ɶb
+ستجهم,ar,It will be stressed,それは強調されます,/satadʒhum/,ɶɶbum,ɶb
+forlagsins,is,publishing,出版,/fɔrlaxsɪns/,ɔɶbʏmb,ɶb
+toastendes,/toastʔɛnˈdəs/,toasting,トースト,oɶbbœməb,de,ɶb
+redakti,eo,edit,編集,/redakti/,øɶby,ɶb
+ونسو,ar,And forget,そして忘れてください,/wanaswa/,ɶɶbɶ,ɶb
+asaltat,ro,assault,暴行,/asaltat/,ɶɶbɶb,ɶb
+لنخلف,ar,Let's leave,行きましょう,/linaxluf/,yɶbub,ɶb
+cadavru,ro,corpse,死体,/kadavru/,ɶɶbu,ɶb
+salatblöð,is,lettuce,レタス,/saːlatplœːð/,ɶɶbbœb,ɶb
+patschnassen,de,snap,スナップ,/ˈpaʧnaszən/,ɶɶbəm,ɶb
+kuraĝi,eo,to dare,あえて,/kurad͡ʒi/,uɶby,ɶb

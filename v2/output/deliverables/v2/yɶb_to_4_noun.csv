@@ -1,21 +1,21 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-motivación,es,motivation,動機,/motiβaˈθjon/,oyɶbom
-incubation,fr,incubation,インキュベーション,/ɛ̃kybasjɔ̃/,œyɶbɔ
-habitación,es,room,部屋,/aβitaˈθjon/,ɶyɶbom
-invitation,fr,invitation,招待,/ɛ̃vitasjɔ̃/,œyɶbɔ
-Privatsphäre,de,privacy,プライバシー,/ˈpɾiːvatzfɛɾə/,byɶbbœə
-imitation,fr,imitation,模倣,/imitasjɔ̃/,yyɶbɔ
-dérivation,fr,derivation,導出,/deʁivasjɔ̃/,øyɶbɔ
-derivación,es,derivation,導出,/deɾiβaˈθjon/,øyɶbom
-asignación,es,assignment,割り当て,/asiɣnaˈθjon/,ɶyɶbom
-irrigation,fr,irrigation,灌漑,/iʁigasjɔ̃/,yyɶbɔ
-Nominalwert,de,Nominal value,公称値,/ˈnoːminalvɛɾt/,oyɶbœb
-Serviertassen,de,Serving cups,サービングカップ,/ˈzɛɾviːɾtaszən/,œyɶbəm
-فبالصائم,ar,Fixes,修正,/fabiaːlsˤaːʔim/,ɶyɶbbɶym
-launagreiðslur,is,wage,賃金,/lœiːnakreiðstlʏr/,œyɶbøybbbʏ
-Hlíðaskóla,is,School,学校,/l̥iðaskouːla/,byɶbouɶ
-chinaldină,ro,Chinaldina,チナルディナ,/kʲ̩inaldinə/,yyɶbyə
-heimaslóðir,is,home,家,/heiːmastlouːðɪr/,øyɶbbouʏ
-epigastru,ro,epigastrium,上腹部,/epiɡastru/,øyɶbbu
-bæjarstjórnar,is,city council,市議会,/paiːjastjoutnar/,ɶyɶbboubɶ
-minimalster,de,minimal,最小限,/ˈmiːnimalstɐ̯/,yyɶbbɐ
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+motivación,es,motivation,動機,/motiβaˈθjon/,oyɶbom,yɶb
+incubation,fr,incubation,インキュベーション,/ɛ̃kybasjɔ̃/,œyɶbɔ,yɶb
+habitación,es,room,部屋,/aβitaˈθjon/,ɶyɶbom,yɶb
+invitation,fr,invitation,招待,/ɛ̃vitasjɔ̃/,œyɶbɔ,yɶb
+Privatsphäre,de,privacy,プライバシー,/ˈpɾiːvatzfɛɾə/,byɶbbœə,yɶb
+imitation,fr,imitation,模倣,/imitasjɔ̃/,yyɶbɔ,yɶb
+dérivation,fr,derivation,導出,/deʁivasjɔ̃/,øyɶbɔ,yɶb
+derivación,es,derivation,導出,/deɾiβaˈθjon/,øyɶbom,yɶb
+asignación,es,assignment,割り当て,/asiɣnaˈθjon/,ɶyɶbom,yɶb
+irrigation,fr,irrigation,灌漑,/iʁigasjɔ̃/,yyɶbɔ,yɶb
+Nominalwert,de,Nominal value,公称値,/ˈnoːminalvɛɾt/,oyɶbœb,yɶb
+Serviertassen,de,Serving cups,サービングカップ,/ˈzɛɾviːɾtaszən/,œyɶbəm,yɶb
+فبالصائم,ar,Fixes,修正,/fabiaːlsˤaːʔim/,ɶyɶbbɶym,yɶb
+launagreiðslur,is,wage,賃金,/lœiːnakreiðstlʏr/,œyɶbøybbbʏ,yɶb
+Hlíðaskóla,is,School,学校,/l̥iðaskouːla/,byɶbouɶ,yɶb
+chinaldină,ro,Chinaldina,チナルディナ,/kʲ̩inaldinə/,yyɶbyə,yɶb
+heimaslóðir,is,home,家,/heiːmastlouːðɪr/,øyɶbbouʏ,yɶb
+epigastru,ro,epigastrium,上腹部,/epiɡastru/,øyɶbbu,yɶb
+bæjarstjórnar,is,city council,市議会,/paiːjastjoutnar/,ɶyɶbboubɶ,yɶb
+minimalster,de,minimal,最小限,/ˈmiːnimalstɐ̯/,yyɶbbɐ,yɶb

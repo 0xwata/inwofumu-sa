@@ -1,45 +1,45 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-卵巣,ja,Ovarian,卵巣,/ɾaɴsoɯ/,ɶmou
-完了,ja,completion,完了,/kaɴɾjoɯ/,ɶmou
-阴谋,zh-cn,conspiracy,陰謀,/ɪn˥˥ moʊ˧˥/,ʏmoʊ
-現象,ja,phenomenon,現象,/geɴɕoɯ/,ømou
-参照,ja,reference,参照,/saɴɕoɯ/,ɶmou
-剣道,ja,kendo,剣道,/keɴdoɯ/,ømou
-番号,ja,number,番号,/baɴgoɯ/,ɶmou
-コンソール,ja,console,コンソール,/koɴsoːɾɯ/,omou
-konsoli,fi,console,コンソール,/ˈkonsoli/,omoy
-天国,ja,heaven,天国,/teɴgokɯ/,ømou
-contorno,es,outline,概要,/kontoɾno/,omoo
-監督,ja,directed by,監督,/kaɴtokɯ/,ɶmou
-肝臓,ja,liver,肝臓,/kaɴzoɯ/,ɶmou
-点灯,ja,Lighting,点灯,/teɴtoɯ/,ømou
-原告,ja,plaintiff,原告,/geɴkokɯ/,ømou
-心臓,ja,heart,心臓,/ɕiɴzoɯ/,ymou
-ハンモック,ja,hammock,ハンモック,/haɴmokːɯ/,ɶmobu
-mentori,fi,mentor,メンター,/ˈmentori/,ømoy
-ゴンドラ,ja,gondola,ゴンドラ,/goɴdoɾa/,omoɶ
-gondoli,fi,gondola,ゴンドラ,/ˈgondoli/,omoy
-銀行,ja,Bank,銀行,/giɴkoɯ/,ymou
-均等,ja,Equal,均等,/kiɴtoɯ/,ymou
-半成品,zh-cn,Semi -finished product,セミフィニッシュ製品,/pan˥˩ ʈʂʰɤŋ˧˥ pʰɪn˨˩˦/,ɶmombʏm
-anggota,id,member,メンバー,/aŋgota/,ɶmoɶ
-umsóknar,is,application,応用,/ʏmsouhknar/,ʏmoubɶ
-Lehnshoheit,de,Sovereignty,主権,/lensoˈəiːt/,ømoəyb
-đánh trống lảng,vi,change the subject,主題を変更します,/dan˩˧ ʈoŋ͡m˩˧ laŋ˧˩˨/,ɶmommɶm
-enrosque,es,curl,カール,/enroske/,ømobø
-ancoșă,/ankoʃə/,notch,ノッチ,ɶmoə,ro
-lommoilla,fi,tag,鬼ごっこ,/ˈlommoillɑ/,omoybɑ
-romboedros,es,Romboedros,Romboedros,/romboeðɾos/,omoøbob
-pentoză,ro,pentosis,胎児症,/pentozə/,ømoə
-Tân Hội Trung,vi,Tan Hoi Trung,タン・ホイ・トゥング,/tɤ̆ŋ˧˥ hoj˨ˀ˩ʔ ʈuŋ͡m˧˥/,omobumm
-ancoré,es,I anchor,アンカー,/aŋkoˈɾe/,ɶmoø
-senzorga,eo,careless,不注意,/senzorga/,ømoɶ
-nên cơm cháo,vi,Should rice porridge,ライスポリッジが必要です,/nen˧˥ kɤm˧˥ caw˩˧/,ømomɶ
-encoged,es,shrink,縮む,/eŋkoxeð/,ømoøb
-importi,eo,Import,輸入,/importi/,ymoy
-rannsókna,is,research,リサーチ,/ransouhkna/,ɶmoubɶ
-vểnh râu trê,vi,crop,作物,/jen˧˩˨ ʐɤ̆w˧˥ ʈe˧˥/,ømoø
-kondori,fi,condor,コンドル,/ˈkondori/,omoy
-동호회,ko,club,クラブ,/to̞ŋβo̞ɦø̞/,omoø
-熏蒸剂,zh-cn,Fumigation,燻蒸,/ɕyn˥˥ ʈʂɤŋ˥˥ tɕi˥˩/,ymomby
-pintones,es,Pintones,ピントン,/pintones/,ymoøb
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+卵巣,ja,Ovarian,卵巣,/ɾaɴsoɯ/,ɶmou,mo
+完了,ja,completion,完了,/kaɴɾjoɯ/,ɶmou,mo
+阴谋,zh-cn,conspiracy,陰謀,/ɪn˥˥ moʊ˧˥/,ʏmoʊ,mo
+現象,ja,phenomenon,現象,/geɴɕoɯ/,ømou,mo
+参照,ja,reference,参照,/saɴɕoɯ/,ɶmou,mo
+剣道,ja,kendo,剣道,/keɴdoɯ/,ømou,mo
+番号,ja,number,番号,/baɴgoɯ/,ɶmou,mo
+コンソール,ja,console,コンソール,/koɴsoːɾɯ/,omou,mo
+konsoli,fi,console,コンソール,/ˈkonsoli/,omoy,mo
+天国,ja,heaven,天国,/teɴgokɯ/,ømou,mo
+contorno,es,outline,概要,/kontoɾno/,omoo,mo
+監督,ja,directed by,監督,/kaɴtokɯ/,ɶmou,mo
+肝臓,ja,liver,肝臓,/kaɴzoɯ/,ɶmou,mo
+点灯,ja,Lighting,点灯,/teɴtoɯ/,ømou,mo
+原告,ja,plaintiff,原告,/geɴkokɯ/,ømou,mo
+心臓,ja,heart,心臓,/ɕiɴzoɯ/,ymou,mo
+ハンモック,ja,hammock,ハンモック,/haɴmokːɯ/,ɶmobu,mo
+mentori,fi,mentor,メンター,/ˈmentori/,ømoy,mo
+ゴンドラ,ja,gondola,ゴンドラ,/goɴdoɾa/,omoɶ,mo
+gondoli,fi,gondola,ゴンドラ,/ˈgondoli/,omoy,mo
+銀行,ja,Bank,銀行,/giɴkoɯ/,ymou,mo
+均等,ja,Equal,均等,/kiɴtoɯ/,ymou,mo
+半成品,zh-cn,Semi -finished product,セミフィニッシュ製品,/pan˥˩ ʈʂʰɤŋ˧˥ pʰɪn˨˩˦/,ɶmombʏm,mo
+anggota,id,member,メンバー,/aŋgota/,ɶmoɶ,mo
+umsóknar,is,application,応用,/ʏmsouhknar/,ʏmoubɶ,mo
+Lehnshoheit,de,Sovereignty,主権,/lensoˈəiːt/,ømoəyb,mo
+đánh trống lảng,vi,change the subject,主題を変更します,/dan˩˧ ʈoŋ͡m˩˧ laŋ˧˩˨/,ɶmommɶm,mo
+enrosque,es,curl,カール,/enroske/,ømobø,mo
+ancoșă,/ankoʃə/,notch,ノッチ,ɶmoə,ro,mo
+lommoilla,fi,tag,鬼ごっこ,/ˈlommoillɑ/,omoybɑ,mo
+romboedros,es,Romboedros,Romboedros,/romboeðɾos/,omoøbob,mo
+pentoză,ro,pentosis,胎児症,/pentozə/,ømoə,mo
+Tân Hội Trung,vi,Tan Hoi Trung,タン・ホイ・トゥング,/tɤ̆ŋ˧˥ hoj˨ˀ˩ʔ ʈuŋ͡m˧˥/,omobumm,mo
+ancoré,es,I anchor,アンカー,/aŋkoˈɾe/,ɶmoø,mo
+senzorga,eo,careless,不注意,/senzorga/,ømoɶ,mo
+nên cơm cháo,vi,Should rice porridge,ライスポリッジが必要です,/nen˧˥ kɤm˧˥ caw˩˧/,ømomɶ,mo
+encoged,es,shrink,縮む,/eŋkoxeð/,ømoøb,mo
+importi,eo,Import,輸入,/importi/,ymoy,mo
+rannsókna,is,research,リサーチ,/ransouhkna/,ɶmoubɶ,mo
+vểnh râu trê,vi,crop,作物,/jen˧˩˨ ʐɤ̆w˧˥ ʈe˧˥/,ømoø,mo
+kondori,fi,condor,コンドル,/ˈkondori/,omoy,mo
+동호회,ko,club,クラブ,/to̞ŋβo̞ɦø̞/,omoø,mo
+熏蒸剂,zh-cn,Fumigation,燻蒸,/ɕyn˥˥ ʈʂɤŋ˥˥ tɕi˥˩/,ymomby,mo
+pintones,es,Pintones,ピントン,/pintones/,ymoøb,mo

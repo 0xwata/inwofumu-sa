@@ -1,26 +1,26 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-pencari,id,seeker,シーカー,/pəntʃari/,əmbɶy
-방화벽,ko,firewall,ファイアウォール,/pa̠ŋβwa̠bjʌ̹k̚/,ɶmbɶbɔb
-بنطلون,ar,trouser,ズボン,/bantˤaluːn/,ɶmbɶum
-inflación,es,inflation,インフレーション,/imflaˈθjon/,ymbɶbom
-inflasi,id,inflation,インフレーション,/inflasi/,ymbɶy
-암사슴,ko,doe,doe,/a̠msʰa̠sʰɯm/,ɶmbɶbum
-inquiry,en,inquiry,問い合わせ,/ˌɪnˈkwaɪˌɹi/,ʏmbɶʏy
-entrada,es,entry,エントリ,/entɾaða/,ømbɶɶ
-帮派,zh-cn,Gang,ギャング,/pɑŋ˥˥ pʰaɪ˥˩/,ɑmbɶʏ
-mencatut,id,profiteer,利益者,/məntʃatut/,əmbɶub
-kontraktor,id,contractor,請負業者,/kontraʔtor/,ombɶbo
-Dankbarkeit,de,gratitude,感謝,/daŋkbaɾˈkəiːt/,ɶmbɶəyb
-공화국,ko,republic,共和国,/ko̞ŋβwa̠ɡuk̚/,ombɶub
-闷罐车,zh-cn,Tanker,タンカー,/mən˥˩ kwan˥˩ ʈʂʰɤ˥˥/,əmbɶmo
-Cam Thành Nam,vi,Cam Thanh Nam,カム・タン・ナム,/kam˧˥ tʰan˦˨ nam˧˥/,ɶmbɶmɶm
-散摊子,zh-cn,Scattered stall,散在する屋台,/san˥˩ tʰan˥˥ tsɯ˧/,ɶmbɶmbu
-Indiana,fr,Indiana,インディアナ,/indjana/,ymbɶɶ
-mamfrato,eo,mammal brother,哺乳類の兄弟,/mamfrato/,ɶmbɶo
-顶呱呱,zh-cn,Top,上,/tɪŋ˨˩˦ kwa˥˥ kwa˥˥/,ʏmbɶbɶ
-bệnh mãn tính,vi,Chronic diseases,慢性疾患,/ben˨ˀ˩ʔ maŋ˧˩˨ tin˩˧/,ømbɶmym
-Bahngleise,de,Railway tracks,鉄道路線,/ˈbɑnglaezə/,ɑmbɶøə
-赈灾,zh-cn,Disaster relief,災害救援,/ʈʂən˥˩ tsaɪ˥˥/,əmbɶʏ
-生态,zh-cn,Ecological,生態学的,/ʂɤŋ˥˥ tʰaɪ˥˩/,ombɶʏ
-أنطبع,ar,Print,印刷,/ʔantˤabiʕ/,ɶmbɶyb
-sombrajos,es,Shadow,影,/sombɾaxos/,ombɶob
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+pencari,id,seeker,シーカー,/pəntʃari/,əmbɶy,mbɶ
+방화벽,ko,firewall,ファイアウォール,/pa̠ŋβwa̠bjʌ̹k̚/,ɶmbɶbɔb,mbɶ
+بنطلون,ar,trouser,ズボン,/bantˤaluːn/,ɶmbɶum,mbɶ
+inflación,es,inflation,インフレーション,/imflaˈθjon/,ymbɶbom,mbɶ
+inflasi,id,inflation,インフレーション,/inflasi/,ymbɶy,mbɶ
+암사슴,ko,doe,doe,/a̠msʰa̠sʰɯm/,ɶmbɶbum,mbɶ
+inquiry,en,inquiry,問い合わせ,/ˌɪnˈkwaɪˌɹi/,ʏmbɶʏy,mbɶ
+entrada,es,entry,エントリ,/entɾaða/,ømbɶɶ,mbɶ
+帮派,zh-cn,Gang,ギャング,/pɑŋ˥˥ pʰaɪ˥˩/,ɑmbɶʏ,mbɶ
+mencatut,id,profiteer,利益者,/məntʃatut/,əmbɶub,mbɶ
+kontraktor,id,contractor,請負業者,/kontraʔtor/,ombɶbo,mbɶ
+Dankbarkeit,de,gratitude,感謝,/daŋkbaɾˈkəiːt/,ɶmbɶəyb,mbɶ
+공화국,ko,republic,共和国,/ko̞ŋβwa̠ɡuk̚/,ombɶub,mbɶ
+闷罐车,zh-cn,Tanker,タンカー,/mən˥˩ kwan˥˩ ʈʂʰɤ˥˥/,əmbɶmo,mbɶ
+Cam Thành Nam,vi,Cam Thanh Nam,カム・タン・ナム,/kam˧˥ tʰan˦˨ nam˧˥/,ɶmbɶmɶm,mbɶ
+散摊子,zh-cn,Scattered stall,散在する屋台,/san˥˩ tʰan˥˥ tsɯ˧/,ɶmbɶmbu,mbɶ
+Indiana,fr,Indiana,インディアナ,/indjana/,ymbɶɶ,mbɶ
+mamfrato,eo,mammal brother,哺乳類の兄弟,/mamfrato/,ɶmbɶo,mbɶ
+顶呱呱,zh-cn,Top,上,/tɪŋ˨˩˦ kwa˥˥ kwa˥˥/,ʏmbɶbɶ,mbɶ
+bệnh mãn tính,vi,Chronic diseases,慢性疾患,/ben˨ˀ˩ʔ maŋ˧˩˨ tin˩˧/,ømbɶmym,mbɶ
+Bahngleise,de,Railway tracks,鉄道路線,/ˈbɑnglaezə/,ɑmbɶøə,mbɶ
+赈灾,zh-cn,Disaster relief,災害救援,/ʈʂən˥˩ tsaɪ˥˥/,əmbɶʏ,mbɶ
+生态,zh-cn,Ecological,生態学的,/ʂɤŋ˥˥ tʰaɪ˥˩/,ombɶʏ,mbɶ
+أنطبع,ar,Print,印刷,/ʔantˤabiʕ/,ɶmbɶyb,mbɶ
+sombrajos,es,Shadow,影,/sombɾaxos/,ombɶob,mbɶ

@@ -1,19 +1,19 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-kojootti,fi,coyote,コヨーテ,/ˈkojootti/,oooby
-ilustri,eo,illustrate,説明します,/ilustri/,yubby
-membenci,id,hate,嫌い,/məmbəntʃi/,əməmby
-gergaji,id,saw,鋸,/gərgadʒi/,əɶby
-التفكير,ar,Thinking,考え,/aːltafkiːr/,ɶbɶby
-fregatti,fi,frigate,フリゲート,/ˈfregɑtti/,bøɑby
-원산지,ko,origin,元,/wʌ̹nsʰa̠nd͡ʑi/,ɔmbɶmby
-redukti,eo,to reduce,削減する,/redukti/,øuby
-existir,es,exist,存在,/eksistiɾ/,øbyby
-invitați,ro,guests,ゲスト,/invitatsʲ/,ymyɶby
-託児,ja,Child care,託児,/takɯdʑi/,ɶuby
-살포시,ko,Spraying,スプレー,/sʰa̠ɭpʰo̞ɕʰi/,bɶboby
-雨落ち,/amaotɕi/,Falling in the rain,雨落ち,ɶɶoby,ja
-atesti,eo,to testify,証言する,/atesti/,ɶøby
-鳥打ち,ja,Bird of birds,鳥打ち,/toɾiɯtɕi/,oyuby
-retribuí,es,I paid,支払いました,/retɾiˈβwi/,øbyby
-tchaikovsky,en,tchaikovsky,チャイコフスキー,/ˌtʃaɪˈkɑfski/,bɶʏɑbby
-suulaasti,fi,palate,口蓋,/ˈsuulɑɑsti/,uuɑɑby
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+kojootti,fi,coyote,コヨーテ,/ˈkojootti/,oooby,by
+ilustri,eo,illustrate,説明します,/ilustri/,yubby,by
+membenci,id,hate,嫌い,/məmbəntʃi/,əməmby,by
+gergaji,id,saw,鋸,/gərgadʒi/,əɶby,by
+التفكير,ar,Thinking,考え,/aːltafkiːr/,ɶbɶby,by
+fregatti,fi,frigate,フリゲート,/ˈfregɑtti/,bøɑby,by
+원산지,ko,origin,元,/wʌ̹nsʰa̠nd͡ʑi/,ɔmbɶmby,by
+redukti,eo,to reduce,削減する,/redukti/,øuby,by
+existir,es,exist,存在,/eksistiɾ/,øbyby,by
+invitați,ro,guests,ゲスト,/invitatsʲ/,ymyɶby,by
+託児,ja,Child care,託児,/takɯdʑi/,ɶuby,by
+살포시,ko,Spraying,スプレー,/sʰa̠ɭpʰo̞ɕʰi/,bɶboby,by
+雨落ち,/amaotɕi/,Falling in the rain,雨落ち,ɶɶoby,ja,by
+atesti,eo,to testify,証言する,/atesti/,ɶøby,by
+鳥打ち,ja,Bird of birds,鳥打ち,/toɾiɯtɕi/,oyuby,by
+retribuí,es,I paid,支払いました,/retɾiˈβwi/,øbyby,by
+tchaikovsky,en,tchaikovsky,チャイコフスキー,/ˌtʃaɪˈkɑfski/,bɶʏɑbby,by
+suulaasti,fi,palate,口蓋,/ˈsuulɑɑsti/,uuɑɑby,by

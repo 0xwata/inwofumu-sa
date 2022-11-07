@@ -1,17 +1,17 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-lakimies,fi,lawyer,法律家,/ˈlɑkimies/,ɑyyøb
-siipimies,fi,winger,ウィンガー,/ˈsiipimies/,yyyyøb
-Abstellgleis,de,siding,サイディング,/ˈʔapˌʃtɛllglaes/,ɶbœbbbɶøb
-putkimies,fi,plumber,配管工,/ˈputkimies/,ubyyøb
-rumores,es,Rumors,噂,/rumoɾes/,uoøb
-jousimies,fi,Sagittarius,射手座,/ˈjousimies/,ouyyøb
-Geldbeutel,de,wallet,財布,/gəˈltbɔøtel/,əbbɔøøb
-vihannes,fi,vegetable,野菜,/ˈvihɑnnes/,yɑmøb
-amanet,ro,pawn,ポーン,/amanet/,ɶɶøb
-arracheuses,fr,wadders,ワーダー,/aʁaʃøz/,ɶɶøb
-trilingües,es,Trilingual,三言語,/tɾiliŋgwes/,byymbøb
-Thái Dương Hệ,/tʰaj˩˧ jɯəŋ˧˥ he˨ˀ˩ʔ/,Solar system,太陽系,bɶuəmøb,vi
-uittomies,/ˈuittomies/,swimmen,水泳選手,uyboyøb,fi
-cavalet,ro,Cavlet,洞窟,/kavalet/,ɶɶøb
-sveitaprests,is,countryside,田舎,/sveiːtapʰres/,bøyɶbøb
-sobrades,es,Sobrades,ソブレード,/soβɾaðes/,obɶøb
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+lakimies,fi,lawyer,法律家,/ˈlɑkimies/,ɑyyøb,øb
+siipimies,fi,winger,ウィンガー,/ˈsiipimies/,yyyyøb,øb
+Abstellgleis,de,siding,サイディング,/ˈʔapˌʃtɛllglaes/,ɶbœbbbɶøb,øb
+putkimies,fi,plumber,配管工,/ˈputkimies/,ubyyøb,øb
+rumores,es,Rumors,噂,/rumoɾes/,uoøb,øb
+jousimies,fi,Sagittarius,射手座,/ˈjousimies/,ouyyøb,øb
+Geldbeutel,de,wallet,財布,/gəˈltbɔøtel/,əbbɔøøb,øb
+vihannes,fi,vegetable,野菜,/ˈvihɑnnes/,yɑmøb,øb
+amanet,ro,pawn,ポーン,/amanet/,ɶɶøb,øb
+arracheuses,fr,wadders,ワーダー,/aʁaʃøz/,ɶɶøb,øb
+trilingües,es,Trilingual,三言語,/tɾiliŋgwes/,byymbøb,øb
+Thái Dương Hệ,/tʰaj˩˧ jɯəŋ˧˥ he˨ˀ˩ʔ/,Solar system,太陽系,bɶuəmøb,vi,øb
+uittomies,/ˈuittomies/,swimmen,水泳選手,uyboyøb,fi,øb
+cavalet,ro,Cavlet,洞窟,/kavalet/,ɶɶøb,øb
+sveitaprests,is,countryside,田舎,/sveiːtapʰres/,bøyɶbøb,øb
+sobrades,es,Sobrades,ソブレード,/soβɾaðes/,obɶøb,øb

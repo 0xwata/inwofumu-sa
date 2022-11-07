@@ -1,47 +1,47 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-religión,es,religion,宗教,/reliˈxjon/,øybom
-正常,ja,normal,正常,/seidʑoɯ/,øybou
-bæklingur,is,booklet,冊子,/paihkliŋkʏr/,ɶybymʏ
-etikka,fi,vinegar,お酢,/ˈetikkɑ/,øybɑ
-kuniklo,eo,rabbit,ウサギ,/kuniklo/,uybo
-成熟,ja,Maturity,成熟,/seidʑɯkɯ/,øybuu
-elipso,eo,ellipse,楕円,/elipso/,øybo
-amusement,fr,fun,楽しい,/amyzmɑ̃/,ɶybɑ
-秘密,ja,secret,秘密,/çimitsɯ/,yybu
-Zitrone,de,lemon,レモン,/t͡siˈtʁoːnə/,byboə
-frigider,ro,refrigerator,冷蔵庫,/fridʒider/,bybyø
-keittiö,fi,kitchen,キッチン,/ˈkeittiø/,øybyø
-calibre,es,caliber,口径,/kaliβɾe/,ɶybø
-liittouma,fi,alliance,アライアンス,/ˈliittoumɑ/,yybouɑ
-지팡이,ko,cane,杖,/t͡ɕipʰa̠ŋi/,bybɶy
-Eishockey,de,ice Hockey,アイスホッケー,/ˈʔai̯sˌhɔkeː/,ɶybɔø
-プリーツ,ja,Pleated,プリーツ,/pɯɾiːtsɯ/,uybu
-dilution,fr,dilution,希釈,/dilysjɔ̃/,yybɔ
-أوركسترا,ar,orchestra,オーケストラ,/ʔuːrkistraː/,uybbɶ
-지평선,ko,horizon,地平線,/t͡ɕipʰjʌ̹ŋsʰʌ̹n/,bybɔmbɔm
-害虫,ja,pest,害虫,/gaitɕɯɯ/,ɶybuu
-tvíhliða,is,duplicate,複製,/tʰviːl̥ɪða/,bybʏɶ
-tortilla,fi,tortilla,トルティーヤ,/ˈtortillɑ/,oybɑ
-séductions,fr,seduction,誘惑,/sedyksjɔ̃/,øybbɔ
-fenica,eo,Phoenica,フェニカ,/fenit͡sa/,øybɶ
-đa dịch vụ,vi,Multi Service,マルチサービス,/da˧˥ jit˨ˀ˩ʔ ju˨ˀ˩ʔ/,ɶybbub
-heilsubrests,/heilsʏprɛsts/,health failure,健康障害,øybʏbœbbb,is
-gúmmítré,is,rubber tree,ゴムの木,/kumitʰrjɛː/,uybœ
-persilja,fi,parsley,パセリ,/ˈpersiljɑ/,øybɑ
-veisluna,is,party,パーティ,/veistlʏna/,øybbʏɶ
-garniță,ro,Garneau,ガルノー,/ɡarnitsə/,ɶybə
-sirrille,fi,for Sirri,sirriのために,/ˈsirrille/,yybø
-필사체,ko,Manuscript,原稿,/pʰiɭsʰa̠t͡ɕʰe̞/,bybɶbbø
-Zielbandes,de,Target tape,ターゲットテープ,/ˈtsiːlbandəs/,bybɶməb
-벨리제,ko,Bellee,ベルリー,/pe̞ɭʎid͡ʑe̞/,øybø
-大比拼,zh-cn,Contest,コンテスト,/ta˥˩ pi˨˩˦ pʰɪn˥˥/,ɶybʏm
-quisisteis,es,You wanted,あなたは欲しかった,/kisisteis/,yybøyb
-crispina,en,crispina,クリスピナ,/kɹiˈspinə/,bybyə
-malicia,es,malice,悪意,/maliθja/,ɶybɶ
-kurmitsa,fi,plover,千鳥,/ˈkurmitsɑ/,uybɑ
-لإسعاف,ar,For ambulance,救急車用,/liʔisʕaːf/,yybɶb
-muistelma,fi,Memoir,伝記,/ˈmuistelmɑ/,uybøbɑ
-kvitteni,fi,quince,マンコ,/ˈkvitteni/,bybøy
-læknisins,is,the doctor,医者,/laihknɪsɪns/,ɶybʏʏmb
-ciklisto,eo,cycle list,サイクルリスト,/t͡siklisto/,bybybo
-호비작,ko,Hobijak,ホビジャック,/ɸʷo̞bid͡ʑa̠k̚/,oybɶb
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+religión,es,religion,宗教,/reliˈxjon/,øybom,yb
+正常,ja,normal,正常,/seidʑoɯ/,øybou,yb
+bæklingur,is,booklet,冊子,/paihkliŋkʏr/,ɶybymʏ,yb
+etikka,fi,vinegar,お酢,/ˈetikkɑ/,øybɑ,yb
+kuniklo,eo,rabbit,ウサギ,/kuniklo/,uybo,yb
+成熟,ja,Maturity,成熟,/seidʑɯkɯ/,øybuu,yb
+elipso,eo,ellipse,楕円,/elipso/,øybo,yb
+amusement,fr,fun,楽しい,/amyzmɑ̃/,ɶybɑ,yb
+秘密,ja,secret,秘密,/çimitsɯ/,yybu,yb
+Zitrone,de,lemon,レモン,/t͡siˈtʁoːnə/,byboə,yb
+frigider,ro,refrigerator,冷蔵庫,/fridʒider/,bybyø,yb
+keittiö,fi,kitchen,キッチン,/ˈkeittiø/,øybyø,yb
+calibre,es,caliber,口径,/kaliβɾe/,ɶybø,yb
+liittouma,fi,alliance,アライアンス,/ˈliittoumɑ/,yybouɑ,yb
+지팡이,ko,cane,杖,/t͡ɕipʰa̠ŋi/,bybɶy,yb
+Eishockey,de,ice Hockey,アイスホッケー,/ˈʔai̯sˌhɔkeː/,ɶybɔø,yb
+プリーツ,ja,Pleated,プリーツ,/pɯɾiːtsɯ/,uybu,yb
+dilution,fr,dilution,希釈,/dilysjɔ̃/,yybɔ,yb
+أوركسترا,ar,orchestra,オーケストラ,/ʔuːrkistraː/,uybbɶ,yb
+지평선,ko,horizon,地平線,/t͡ɕipʰjʌ̹ŋsʰʌ̹n/,bybɔmbɔm,yb
+害虫,ja,pest,害虫,/gaitɕɯɯ/,ɶybuu,yb
+tvíhliða,is,duplicate,複製,/tʰviːl̥ɪða/,bybʏɶ,yb
+tortilla,fi,tortilla,トルティーヤ,/ˈtortillɑ/,oybɑ,yb
+séductions,fr,seduction,誘惑,/sedyksjɔ̃/,øybbɔ,yb
+fenica,eo,Phoenica,フェニカ,/fenit͡sa/,øybɶ,yb
+đa dịch vụ,vi,Multi Service,マルチサービス,/da˧˥ jit˨ˀ˩ʔ ju˨ˀ˩ʔ/,ɶybbub,yb
+heilsubrests,/heilsʏprɛsts/,health failure,健康障害,øybʏbœbbb,is,yb
+gúmmítré,is,rubber tree,ゴムの木,/kumitʰrjɛː/,uybœ,yb
+persilja,fi,parsley,パセリ,/ˈpersiljɑ/,øybɑ,yb
+veisluna,is,party,パーティ,/veistlʏna/,øybbʏɶ,yb
+garniță,ro,Garneau,ガルノー,/ɡarnitsə/,ɶybə,yb
+sirrille,fi,for Sirri,sirriのために,/ˈsirrille/,yybø,yb
+필사체,ko,Manuscript,原稿,/pʰiɭsʰa̠t͡ɕʰe̞/,bybɶbbø,yb
+Zielbandes,de,Target tape,ターゲットテープ,/ˈtsiːlbandəs/,bybɶməb,yb
+벨리제,ko,Bellee,ベルリー,/pe̞ɭʎid͡ʑe̞/,øybø,yb
+大比拼,zh-cn,Contest,コンテスト,/ta˥˩ pi˨˩˦ pʰɪn˥˥/,ɶybʏm,yb
+quisisteis,es,You wanted,あなたは欲しかった,/kisisteis/,yybøyb,yb
+crispina,en,crispina,クリスピナ,/kɹiˈspinə/,bybyə,yb
+malicia,es,malice,悪意,/maliθja/,ɶybɶ,yb
+kurmitsa,fi,plover,千鳥,/ˈkurmitsɑ/,uybɑ,yb
+لإسعاف,ar,For ambulance,救急車用,/liʔisʕaːf/,yybɶb,yb
+muistelma,fi,Memoir,伝記,/ˈmuistelmɑ/,uybøbɑ,yb
+kvitteni,fi,quince,マンコ,/ˈkvitteni/,bybøy,yb
+læknisins,is,the doctor,医者,/laihknɪsɪns/,ɶybʏʏmb,yb
+ciklisto,eo,cycle list,サイクルリスト,/t͡siklisto/,bybybo,yb
+호비작,ko,Hobijak,ホビジャック,/ɸʷo̞bid͡ʑa̠k̚/,oybɶb,yb

@@ -1,23 +1,23 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-Uniform,de,uniform,ユニフォーム,/ˈuːnifɔʁm/,uyɔbm
-uniforme,fr,uniform,ユニフォーム,/ynifɔʁm/,yyɔbm
-brennisteinn,is,sulphur,硫黄,/prɛnɪstɛjtn̥/,bœʏbœbm
-algorithme,fr,algorithm,アルゴリズム,/algɔʁitm/,ɶbɔybm
-monothéisme,fr,monotheism,一神教,/mɔnɔteism/,ɔɔøybm
-monoteism,ro,monotheism,一神教,/monoteism/,ooøybm
-eftirnafn,is,surname,姓,/ɛftɪrnapn̥/,œbʏɶbm
-bókasafn,is,library,図書館,/pouːkasapn̥/,ouɶɶbm
-enthousiasme,fr,enthusiasm,熱意,/ɑ̃tuzjasm/,ɑubɶbm
-gigantisme,fr,gigantism,巨人,/ʒigɑ̃tism/,yɑybm
-verplempern,de,drag,引っ張る,/fɛʁˈplɛmpəʁn/,œbbœməbm
-shamanism,en,shamanism,シャーマニズム,/ˈʃeɪməˌnɪzm/,øʏəʏbm
-Klebefilm,de,Adhesive film,接着剤フィルム,/ˈkleːbefɪlm/,bøøʏbm
-éthylisme,fr,ethylism,エチリズム,/etilism/,øyybm
-macrocosm,ro,macrocosm,大宇宙,/makrokosm/,ɶboobm
-Assistenzen,de,Assistant,アシスタント,/ʔasɪsˈtɛntsn̩/,ɶʏbœmbbm
-hypoderme,fr,hypodermis,dy皮膚,/ipɔdɛʁm/,yɔœbm
-فكالإبن,ar,So the son,だから息子,/fakaaːlibn/,ɶɶɶybm
-eclectism,ro,eclecticism,折衷,/eklektism/,øbøbybm
-Streckmuskeln,de,Stretching muscles,筋肉を伸ばします,/ˈʃtɾɛkmʊskɛln/,bœbʊbœbm
-megacosm,ro,Megacosm,メガコスム,/meɡakosm/,øɶobm
-fiscalism,ro,fiscalism,財政主義,/fiskalism/,ybɶybm
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+Uniform,de,uniform,ユニフォーム,/ˈuːnifɔʁm/,uyɔbm,bm
+uniforme,fr,uniform,ユニフォーム,/ynifɔʁm/,yyɔbm,bm
+brennisteinn,is,sulphur,硫黄,/prɛnɪstɛjtn̥/,bœʏbœbm,bm
+algorithme,fr,algorithm,アルゴリズム,/algɔʁitm/,ɶbɔybm,bm
+monothéisme,fr,monotheism,一神教,/mɔnɔteism/,ɔɔøybm,bm
+monoteism,ro,monotheism,一神教,/monoteism/,ooøybm,bm
+eftirnafn,is,surname,姓,/ɛftɪrnapn̥/,œbʏɶbm,bm
+bókasafn,is,library,図書館,/pouːkasapn̥/,ouɶɶbm,bm
+enthousiasme,fr,enthusiasm,熱意,/ɑ̃tuzjasm/,ɑubɶbm,bm
+gigantisme,fr,gigantism,巨人,/ʒigɑ̃tism/,yɑybm,bm
+verplempern,de,drag,引っ張る,/fɛʁˈplɛmpəʁn/,œbbœməbm,bm
+shamanism,en,shamanism,シャーマニズム,/ˈʃeɪməˌnɪzm/,øʏəʏbm,bm
+Klebefilm,de,Adhesive film,接着剤フィルム,/ˈkleːbefɪlm/,bøøʏbm,bm
+éthylisme,fr,ethylism,エチリズム,/etilism/,øyybm,bm
+macrocosm,ro,macrocosm,大宇宙,/makrokosm/,ɶboobm,bm
+Assistenzen,de,Assistant,アシスタント,/ʔasɪsˈtɛntsn̩/,ɶʏbœmbbm,bm
+hypoderme,fr,hypodermis,dy皮膚,/ipɔdɛʁm/,yɔœbm,bm
+فكالإبن,ar,So the son,だから息子,/fakaaːlibn/,ɶɶɶybm,bm
+eclectism,ro,eclecticism,折衷,/eklektism/,øbøbybm,bm
+Streckmuskeln,de,Stretching muscles,筋肉を伸ばします,/ˈʃtɾɛkmʊskɛln/,bœbʊbœbm,bm
+megacosm,ro,Megacosm,メガコスム,/meɡakosm/,øɶobm,bm
+fiscalism,ro,fiscalism,財政主義,/fiskalism/,ybɶybm,bm

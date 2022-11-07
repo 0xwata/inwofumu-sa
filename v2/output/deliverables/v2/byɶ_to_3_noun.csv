@@ -1,26 +1,26 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-اختزال,ar,shorthand,速記,/ixtizaːl/,ybyɶb
-festival,es,festival,フェスティバル,/festiβal/,øbyɶb
-técnica,es,technique,技術,/ˈteknika/,øbyɶ
-ازدراء,ar,contempt,軽empt,/izdiraːʔ/,ybyɶb
-ادعاء,ar,claim,請求,/iddiʕaːʔ/,ybyɶb
-市場,ja,market,市場,/itɕiba/,ybyɶ
-cartilage,fr,cartilage,軟骨,/kaʁtilaʒ/,ɶbyɶ
-الإرهاب,ar,Terrorism,テロ,/aːlʔirhaːb/,ɶbyɶb
-akhirat,id,hereafter,以下,/aʔhirat/,ɶbyɶb
-اتحاد,ar,union,連合,/ittiħaːd/,ybyɶb
-عجز,ar,inability,,/ʕadʒiza/,ɶbyɶ
-اكتشاف,ar,Discovery,発見,/iktiʃaːf/,ybyɶb
-التماس,ar,Seam,縫い目,/iltimaːs/,ybyɶb
-입히다,ko,plate,皿,/ipʰida̠/,ybyɶ
-Spezialist,de,specialist,専門家,/ʃpetsialɪst/,øbyɶʏbb
-ＡＧＲ,ja,AGR,ＡＧＲ,/eːdʑiːaːɾɯ/,øbyɶu
-一匹马,zh-cn,a horse,馬,/i˥˩ pʰi˨˩˦ ma˨˩˦/,ybyɶ
-hibrida,ro,hybrid,ハイブリッド,/hibrida/,ybyɶ
-Dixieland,de,Dixieland,ディキシーランド,/ˈdiːksiːlant/,ybyɶmb
-albian,ro,Albian,アルビアン,/albijan/,ɶbyɶm
-Marzipan,de,marzipan,マジパン,/maɾtsiˈpan/,ɶbyɶm
-pháp qui hoá,vi,dharma,ダルマ,/fap˦˥ wi˧˥ hwa˩˧/,ɶbyɶ
-culbutât,fr,culbutat,カルブタット,/kylbyta/,ybyɶ
-아시안게임,ko,Asian Games,アジアのゲーム,/a̠ɕʰia̠nɡe̞im/,ɶbyɶmøym
-kíp vi sai,vi,Mission,ミッション,/kip˦˥ ji˧˥ ʂaj˧˥/,ybyɶ
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+اختزال,ar,shorthand,速記,/ixtizaːl/,ybyɶb,byɶ
+festival,es,festival,フェスティバル,/festiβal/,øbyɶb,byɶ
+técnica,es,technique,技術,/ˈteknika/,øbyɶ,byɶ
+ازدراء,ar,contempt,軽empt,/izdiraːʔ/,ybyɶb,byɶ
+ادعاء,ar,claim,請求,/iddiʕaːʔ/,ybyɶb,byɶ
+市場,ja,market,市場,/itɕiba/,ybyɶ,byɶ
+cartilage,fr,cartilage,軟骨,/kaʁtilaʒ/,ɶbyɶ,byɶ
+الإرهاب,ar,Terrorism,テロ,/aːlʔirhaːb/,ɶbyɶb,byɶ
+akhirat,id,hereafter,以下,/aʔhirat/,ɶbyɶb,byɶ
+اتحاد,ar,union,連合,/ittiħaːd/,ybyɶb,byɶ
+عجز,ar,inability,,/ʕadʒiza/,ɶbyɶ,byɶ
+اكتشاف,ar,Discovery,発見,/iktiʃaːf/,ybyɶb,byɶ
+التماس,ar,Seam,縫い目,/iltimaːs/,ybyɶb,byɶ
+입히다,ko,plate,皿,/ipʰida̠/,ybyɶ,byɶ
+Spezialist,de,specialist,専門家,/ʃpetsialɪst/,øbyɶʏbb,byɶ
+ＡＧＲ,ja,AGR,ＡＧＲ,/eːdʑiːaːɾɯ/,øbyɶu,byɶ
+一匹马,zh-cn,a horse,馬,/i˥˩ pʰi˨˩˦ ma˨˩˦/,ybyɶ,byɶ
+hibrida,ro,hybrid,ハイブリッド,/hibrida/,ybyɶ,byɶ
+Dixieland,de,Dixieland,ディキシーランド,/ˈdiːksiːlant/,ybyɶmb,byɶ
+albian,ro,Albian,アルビアン,/albijan/,ɶbyɶm,byɶ
+Marzipan,de,marzipan,マジパン,/maɾtsiˈpan/,ɶbyɶm,byɶ
+pháp qui hoá,vi,dharma,ダルマ,/fap˦˥ wi˧˥ hwa˩˧/,ɶbyɶ,byɶ
+culbutât,fr,culbutat,カルブタット,/kylbyta/,ybyɶ,byɶ
+아시안게임,ko,Asian Games,アジアのゲーム,/a̠ɕʰia̠nɡe̞im/,ɶbyɶmøym,byɶ
+kíp vi sai,vi,Mission,ミッション,/kip˦˥ ji˧˥ ʂaj˧˥/,ybyɶ,byɶ

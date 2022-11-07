@@ -1,17 +1,17 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-共鳴,ja,Resonance,共鳴,/kjoɯmei/,bouøy
-タコス,ja,Taco,タコス,/takosɯ/,ɶou
-お父さん,ja,Father,お父さん,/otoɯsaɴ/,oouɶm
-肥料,ja,fertilizer,肥料,/çiɾjoɯ/,you
-競争,ja,competition,競争,/kjoɯsoɯ/,bouou
-broșură,ro,brochure,パンフレット,/broʃurə/,bouə
-視力,ja,Vision,視力,/ɕiɾjokɯ/,you
-橋脚,ja,Bridge pier,橋脚,/kjoɯkjakɯ/,boubɶu
-blóðinu,is,blood,血液,/plouːðɪnʏ/,bouʏʏ
-Schaubude,de,Show,見せる,/ˈʃaobudə/,ɶouə
-johdotus,fi,wiring,配線,/ˈjohdotus/,ooub
-kirjomus,fi,embroidery,刺繍,/ˈkirjomus/,youb
-propulsor,ro,propeller,プロペラ,/propulsor/,boubo
-조르륵,ko,Jok,冗談,/t͡ɕo̞ɾɯɾɯk̚/,bouub
-filonul,ro,vein,静脈,/filonul/,youb
-prokuura,fi,procuration,代理,/ˈprokuurɑ/,bouuɑ
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+共鳴,ja,Resonance,共鳴,/kjoɯmei/,bouøy,ou
+タコス,ja,Taco,タコス,/takosɯ/,ɶou,ou
+お父さん,ja,Father,お父さん,/otoɯsaɴ/,oouɶm,ou
+肥料,ja,fertilizer,肥料,/çiɾjoɯ/,you,ou
+競争,ja,competition,競争,/kjoɯsoɯ/,bouou,ou
+broșură,ro,brochure,パンフレット,/broʃurə/,bouə,ou
+視力,ja,Vision,視力,/ɕiɾjokɯ/,you,ou
+橋脚,ja,Bridge pier,橋脚,/kjoɯkjakɯ/,boubɶu,ou
+blóðinu,is,blood,血液,/plouːðɪnʏ/,bouʏʏ,ou
+Schaubude,de,Show,見せる,/ˈʃaobudə/,ɶouə,ou
+johdotus,fi,wiring,配線,/ˈjohdotus/,ooub,ou
+kirjomus,fi,embroidery,刺繍,/ˈkirjomus/,youb,ou
+propulsor,ro,propeller,プロペラ,/propulsor/,boubo,ou
+조르륵,ko,Jok,冗談,/t͡ɕo̞ɾɯɾɯk̚/,bouub,ou
+filonul,ro,vein,静脈,/filonul/,youb,ou
+prokuura,fi,procuration,代理,/ˈprokuurɑ/,bouuɑ,ou

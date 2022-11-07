@@ -1,20 +1,20 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-lokasi,id,location,位置,/lokasi/,oɶy
-外科医,ja,surgeon,外科医,/gekai/,øɶy
-بشري,ar,Human,人間,/baʃarijj/,ɶɶy
-機会,ja,chance,機会,/kikai/,yɶy
-rhumatisme,fr,rheumatism,リウマチ,/ʁymatism/,yɶybm
-フライト,ja,Flight,フライト,/ɸɯɾaito/,uɶyo
-belati,id,dagger,短剣,/bəlati/,əɶy
-gravité,fr,severity,重大度,/gʁavite/,bɶyø
-機械,ja,machine,機械,/kikai/,yɶy
-ổi xá lị,vi,guava,グアバ,/oj˧˩˨ sa˩˧ li˨ˀ˩ʔ/,oɶyb
-semajno,eo,week,週,/semaino/,øɶyo
-paparías,/papaˈɾias/,paparías,パパリアス,ɶɶyɶb,es
-visarion,ro,Vissarion,ヴィッサリオン,/visarion/,yɶyom
-hagræði,is,benefit,利点,/haɣraiðɪ/,ɶɶyʏ
-tirarías,es,You would throw,あなたは投げるでしょう,/tiɾaˈɾias/,yɶyɶb
-úrræði,is,remedy,療法,/uraiðɪ/,uɶyʏ
-Germanien,de,Germania,ゲルマニア,/gəɾˈmaniːən/,əɶyəm
-jadikan,id,make it,成功する,/dʒadikan/,bɶyɶm
-lilailas,es,lilailas,リライラ,/lilailas/,yɶyɶb
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+lokasi,id,location,位置,/lokasi/,oɶy,ɶy
+外科医,ja,surgeon,外科医,/gekai/,øɶy,ɶy
+بشري,ar,Human,人間,/baʃarijj/,ɶɶy,ɶy
+機会,ja,chance,機会,/kikai/,yɶy,ɶy
+rhumatisme,fr,rheumatism,リウマチ,/ʁymatism/,yɶybm,ɶy
+フライト,ja,Flight,フライト,/ɸɯɾaito/,uɶyo,ɶy
+belati,id,dagger,短剣,/bəlati/,əɶy,ɶy
+gravité,fr,severity,重大度,/gʁavite/,bɶyø,ɶy
+機械,ja,machine,機械,/kikai/,yɶy,ɶy
+ổi xá lị,vi,guava,グアバ,/oj˧˩˨ sa˩˧ li˨ˀ˩ʔ/,oɶyb,ɶy
+semajno,eo,week,週,/semaino/,øɶyo,ɶy
+paparías,/papaˈɾias/,paparías,パパリアス,ɶɶyɶb,es,ɶy
+visarion,ro,Vissarion,ヴィッサリオン,/visarion/,yɶyom,ɶy
+hagræði,is,benefit,利点,/haɣraiðɪ/,ɶɶyʏ,ɶy
+tirarías,es,You would throw,あなたは投げるでしょう,/tiɾaˈɾias/,yɶyɶb,ɶy
+úrræði,is,remedy,療法,/uraiðɪ/,uɶyʏ,ɶy
+Germanien,de,Germania,ゲルマニア,/gəɾˈmaniːən/,əɶyəm,ɶy
+jadikan,id,make it,成功する,/dʒadikan/,bɶyɶm,ɶy
+lilailas,es,lilailas,リライラ,/lilailas/,yɶyɶb,ɶy

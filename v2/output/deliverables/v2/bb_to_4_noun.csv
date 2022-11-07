@@ -1,18 +1,18 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-lögfræðingur,is,lawyer,法律家,/lœxfraiðiŋkʏr/,œbbɶyymʏ
-afkomandi,is,descendant,子孫,/avkʰɔmantɪ/,ɶbbɔɶmʏ
-biblioteca,es,library,図書館,/biβljoteka/,ybboøɶ
-rökstuðningur,is,argument,口論,/rœːkstʏðniŋkʏr/,œbbʏbymʏ
-astronomi,id,astronomy,天文学,/astronomi/,ɶbbooy
-astronomie,fr,astronomy,天文学,/astʁɔnɔmi/,ɶbbɔɔy
-미치광이,ko,maniac,マニアック,/mit͡ɕʰiɡwa̠ŋi/,ybbybɶy
-explozie,ro,explosion,爆発,/eksplozije/,øbbboyø
-Werkzeugmachern,de,Toolmaker,ツールメーカー,/ˈvɛɾktsɔøkmaxɛɾn/,œbbɔøbɶœm
-パッチ・ファイル,ja,Patch file,パッチ・ファイル,/patɕːi ɸaiɾɯ/,ɶbbyɶyu
-Metzgerladen,de,Butcher shop,精肉店,/ˈmɛtsgɛɾlɑdən/,œbbœɑəm
-tylppysolu,fi,dull cell,鈍いセル,/ˈtylppyˌsolu/,ybbyou
-rechtsstaatliches,de,constitutional,憲法,/ˈɾɛçtzstaːtlɪçəs/,œbbbɶbʏəb
-atkvæðisrétt,is,vote,投票,/aːtkvaiðɪsrjɛht/,ɶbbɶyʏbœb
-الصمائد,ar,Panties,パンティー,/aːlsˤamaːʔid/,ɶbbɶɶyb
-Gíslasyni,is,Gíslason,ジスラソン,/cistlasɪːnɪ/,ybbɶʏʏ
-dệt gấm thêu hoa,vi,Weaving brocade embroidery flowers,ブロケード刺繍の花を織ります,/jet˨ˀ˩ʔ ɣɤ̆m˩˧ tʰɛu˧˥ hwa˧˥/,øbbombœuɶ
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+lögfræðingur,is,lawyer,法律家,/lœxfraiðiŋkʏr/,œbbɶyymʏ,bb
+afkomandi,is,descendant,子孫,/avkʰɔmantɪ/,ɶbbɔɶmʏ,bb
+biblioteca,es,library,図書館,/biβljoteka/,ybboøɶ,bb
+rökstuðningur,is,argument,口論,/rœːkstʏðniŋkʏr/,œbbʏbymʏ,bb
+astronomi,id,astronomy,天文学,/astronomi/,ɶbbooy,bb
+astronomie,fr,astronomy,天文学,/astʁɔnɔmi/,ɶbbɔɔy,bb
+미치광이,ko,maniac,マニアック,/mit͡ɕʰiɡwa̠ŋi/,ybbybɶy,bb
+explozie,ro,explosion,爆発,/eksplozije/,øbbboyø,bb
+Werkzeugmachern,de,Toolmaker,ツールメーカー,/ˈvɛɾktsɔøkmaxɛɾn/,œbbɔøbɶœm,bb
+パッチ・ファイル,ja,Patch file,パッチ・ファイル,/patɕːi ɸaiɾɯ/,ɶbbyɶyu,bb
+Metzgerladen,de,Butcher shop,精肉店,/ˈmɛtsgɛɾlɑdən/,œbbœɑəm,bb
+tylppysolu,fi,dull cell,鈍いセル,/ˈtylppyˌsolu/,ybbyou,bb
+rechtsstaatliches,de,constitutional,憲法,/ˈɾɛçtzstaːtlɪçəs/,œbbbɶbʏəb,bb
+atkvæðisrétt,is,vote,投票,/aːtkvaiðɪsrjɛht/,ɶbbɶyʏbœb,bb
+الصمائد,ar,Panties,パンティー,/aːlsˤamaːʔid/,ɶbbɶɶyb,bb
+Gíslasyni,is,Gíslason,ジスラソン,/cistlasɪːnɪ/,ybbɶʏʏ,bb
+dệt gấm thêu hoa,vi,Weaving brocade embroidery flowers,ブロケード刺繍の花を織ります,/jet˨ˀ˩ʔ ɣɤ̆m˩˧ tʰɛu˧˥ hwa˧˥/,øbbombœuɶ,bb

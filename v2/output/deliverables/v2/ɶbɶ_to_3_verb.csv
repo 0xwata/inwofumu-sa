@@ -1,31 +1,31 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-دمج,ar,to merge,マージする,/damadʒa/,ɶɶbɶ
-كشط,ar,scrape,こすります,/kaʃatˤa/,ɶɶbɶ
-evaluar,es,evaluate,評価,/eβalwaɾ/,øɶbɶ
-فحص,ar,to examine,調べる,/faħasˤa/,ɶɶbɶ
-زوج,ar,Husband,夫,/zawwadʒa/,ɶɶbɶ
-belajar,id,study,勉強,/bəladʒar/,əɶbɶ
-diagramo,eo,Diagram,図,/diagramo/,yɶbɶo
-مزج,ar,mix up,混ぜ合わせます,/mazadʒa/,ɶɶbɶ
-خفض,ar,scale down,スケールダウンします,/xafadˤa/,ɶɶbɶ
-عرض,ar,Show,見せる,/ʕaradˤa/,ɶɶbɶ
-azafrán,es,saffron,サフラン,/aθaˈfɾan/,ɶɶbɶm
-ataviar,es,ATAVIAR,ataviar,/ataβjaɾ/,ɶɶbɶ
-رفض,ar,to reject,拒否する,/rafadˤa/,ɶɶbɶ
-adaptas,fr,adapta,アダプタ,/adapta/,ɶɶbɶ
-malaxat,ro,kneading,練ります,/malaksat/,ɶɶbɶb
-déchargeât,fr,discharge,排出,/deʃaʁʒa/,øɶbɶ
-曲がった,ja,bent,曲がった,/magatːa/,ɶɶbɶ
-喇叭花,zh-cn,morning glory,朝顔,/la˨˩˦ pa˧ xwa˥˥/,ɶɶbɶ
-benachbart,de,adjacent,隣接,/bəˈnaxˌbaɾt/,əɶbɶb
-defalcat,ro,broken,壊れた,/defalkat/,øɶbɶb
-仕舞った,ja,Damn it,仕舞った,/ɕimatːa/,yɶbɶ
-balastar,es,ballast,バラスト,/balastaɾ/,ɶɶbɶ
-balastat,ro,ballasted,バラスト,/balastat/,ɶɶbɶb
-tarafkan,id,Terminate,終了します,/tarafkan/,ɶɶbɶm
-khái quát hóa,vi,generalize,一般化します,/xaj˩˧ wak˦˥ hwa˩˧/,ɶɶbɶ
-varaskjár,is,backup,バックアップ,/vaːrascaːur/,ɶɶbɶu
-rapatkan,id,close,近い,/rapatkan/,ɶɶbɶm
-فكصنق,ar,Faksak,faksak,/fakasˤanq/,ɶɶbɶmb
-khái quát hoá,vi,generalize,一般化します,/xaj˩˧ wak˦˥ hwa˩˧/,ɶɶbɶ
-malaxasses,fr,mixes,ミックス,/malaksas/,ɶɶbɶb
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+دمج,ar,to merge,マージする,/damadʒa/,ɶɶbɶ,ɶbɶ
+كشط,ar,scrape,こすります,/kaʃatˤa/,ɶɶbɶ,ɶbɶ
+evaluar,es,evaluate,評価,/eβalwaɾ/,øɶbɶ,ɶbɶ
+فحص,ar,to examine,調べる,/faħasˤa/,ɶɶbɶ,ɶbɶ
+زوج,ar,Husband,夫,/zawwadʒa/,ɶɶbɶ,ɶbɶ
+belajar,id,study,勉強,/bəladʒar/,əɶbɶ,ɶbɶ
+diagramo,eo,Diagram,図,/diagramo/,yɶbɶo,ɶbɶ
+مزج,ar,mix up,混ぜ合わせます,/mazadʒa/,ɶɶbɶ,ɶbɶ
+خفض,ar,scale down,スケールダウンします,/xafadˤa/,ɶɶbɶ,ɶbɶ
+عرض,ar,Show,見せる,/ʕaradˤa/,ɶɶbɶ,ɶbɶ
+azafrán,es,saffron,サフラン,/aθaˈfɾan/,ɶɶbɶm,ɶbɶ
+ataviar,es,ATAVIAR,ataviar,/ataβjaɾ/,ɶɶbɶ,ɶbɶ
+رفض,ar,to reject,拒否する,/rafadˤa/,ɶɶbɶ,ɶbɶ
+adaptas,fr,adapta,アダプタ,/adapta/,ɶɶbɶ,ɶbɶ
+malaxat,ro,kneading,練ります,/malaksat/,ɶɶbɶb,ɶbɶ
+déchargeât,fr,discharge,排出,/deʃaʁʒa/,øɶbɶ,ɶbɶ
+曲がった,ja,bent,曲がった,/magatːa/,ɶɶbɶ,ɶbɶ
+喇叭花,zh-cn,morning glory,朝顔,/la˨˩˦ pa˧ xwa˥˥/,ɶɶbɶ,ɶbɶ
+benachbart,de,adjacent,隣接,/bəˈnaxˌbaɾt/,əɶbɶb,ɶbɶ
+defalcat,ro,broken,壊れた,/defalkat/,øɶbɶb,ɶbɶ
+仕舞った,ja,Damn it,仕舞った,/ɕimatːa/,yɶbɶ,ɶbɶ
+balastar,es,ballast,バラスト,/balastaɾ/,ɶɶbɶ,ɶbɶ
+balastat,ro,ballasted,バラスト,/balastat/,ɶɶbɶb,ɶbɶ
+tarafkan,id,Terminate,終了します,/tarafkan/,ɶɶbɶm,ɶbɶ
+khái quát hóa,vi,generalize,一般化します,/xaj˩˧ wak˦˥ hwa˩˧/,ɶɶbɶ,ɶbɶ
+varaskjár,is,backup,バックアップ,/vaːrascaːur/,ɶɶbɶu,ɶbɶ
+rapatkan,id,close,近い,/rapatkan/,ɶɶbɶm,ɶbɶ
+فكصنق,ar,Faksak,faksak,/fakasˤanq/,ɶɶbɶmb,ɶbɶ
+khái quát hoá,vi,generalize,一般化します,/xaj˩˧ wak˦˥ hwa˩˧/,ɶɶbɶ,ɶbɶ
+malaxasses,fr,mixes,ミックス,/malaksas/,ɶɶbɶb,ɶbɶ

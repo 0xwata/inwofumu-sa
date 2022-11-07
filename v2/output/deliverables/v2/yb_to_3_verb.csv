@@ -1,22 +1,22 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-gémissement,fr,groan,うめき声,/ʒemismɑ̃/,øybɑ
-kitistä,fi,whine,泣き声,/ˈkitistæ/,yybæ
-déchiqueter,fr,shred,シュレッド,/deʃikte/,øybø
-llovizna,es,drizzle,霧雨,/ʎoβiθna/,oybɶ
-muistaa,fi,remember,覚えて,/ˈmuistɑɑ/,uybɑɑ
-dirigió,es,He directed,彼は指示した,/diɾiˈxjo/,yybo
-qualifier,fr,to qualify,資格を得る,/kalifje/,ɶybø
-friptură,ro,steak,ステーキ,/fripturə/,bybuə
-heittää,fi,throw,投げる,/ˈheittææ/,øybææ
-rezisti,eo,resist,抵抗,/rezisti/,øyby
-定休,ja,Regular leave,定休,/teikjɯɯ/,øybuu
-لغطريس,ar,To cover,カバーするために,/liɣitˤriːs/,yybyb
-leiksvæði,is,playground,遊び場,/leiːksvaiðɪ/,øybbɶyʏ
-nomiĝi,eo,to be called,呼ばれる,/nomid͡ʒi/,oyby
-souririons,fr,would smash,粉砕します,/suʁiʁjɔ̃/,uybɔ
-vinifiés,fr,vinified,ビニエーション,/vinifje/,yybø
-baziĝi,eo,to be based,基づいていること,/bazid͡ʒi/,ɶyby
-예비병,ko,reservist,予備兵,/je̞bibjʌ̹ŋ/,øybɔm
-지참금,ko,Dowry,持参金,/t͡ɕit͡ɕʰa̠mɡɯm/,bybbɶmum
-seriellen,de,serial,シリアル,/ˈzeːɾiːllən/,øybəm
-relicvă,ro,relic,遺物,/relikvə/,øybə
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+gémissement,fr,groan,うめき声,/ʒemismɑ̃/,øybɑ,yb
+kitistä,fi,whine,泣き声,/ˈkitistæ/,yybæ,yb
+déchiqueter,fr,shred,シュレッド,/deʃikte/,øybø,yb
+llovizna,es,drizzle,霧雨,/ʎoβiθna/,oybɶ,yb
+muistaa,fi,remember,覚えて,/ˈmuistɑɑ/,uybɑɑ,yb
+dirigió,es,He directed,彼は指示した,/diɾiˈxjo/,yybo,yb
+qualifier,fr,to qualify,資格を得る,/kalifje/,ɶybø,yb
+friptură,ro,steak,ステーキ,/fripturə/,bybuə,yb
+heittää,fi,throw,投げる,/ˈheittææ/,øybææ,yb
+rezisti,eo,resist,抵抗,/rezisti/,øyby,yb
+定休,ja,Regular leave,定休,/teikjɯɯ/,øybuu,yb
+لغطريس,ar,To cover,カバーするために,/liɣitˤriːs/,yybyb,yb
+leiksvæði,is,playground,遊び場,/leiːksvaiðɪ/,øybbɶyʏ,yb
+nomiĝi,eo,to be called,呼ばれる,/nomid͡ʒi/,oyby,yb
+souririons,fr,would smash,粉砕します,/suʁiʁjɔ̃/,uybɔ,yb
+vinifiés,fr,vinified,ビニエーション,/vinifje/,yybø,yb
+baziĝi,eo,to be based,基づいていること,/bazid͡ʒi/,ɶyby,yb
+예비병,ko,reservist,予備兵,/je̞bibjʌ̹ŋ/,øybɔm,yb
+지참금,ko,Dowry,持参金,/t͡ɕit͡ɕʰa̠mɡɯm/,bybbɶmum,yb
+seriellen,de,serial,シリアル,/ˈzeːɾiːllən/,øybəm,yb
+relicvă,ro,relic,遺物,/relikvə/,øybə,yb

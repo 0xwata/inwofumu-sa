@@ -1,21 +1,21 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-migración,es,migration,移行,/miɣɾaˈθjon/,yɶbom
-relación,es,relationship,関係,/relaˈθjon/,øɶbom
-oración,es,prayer,祈り,/oɾaˈθjon/,oɶbom
-スタッコ,ja,Stack,スタッコ,/sɯtakːo/,uɶbo
-파종기,ko,planter,プランター,/pʰa̠d͡ʑo̞ŋɡi/,bɶbomy
-rotación,es,rotation,回転,/rotaˈθjon/,oɶbom
-garaĝo,eo,garage,ガレージ,/garad͡ʒo/,ɶɶbo
-damaĝo,eo,damage,ダメージ,/damad͡ʒo/,ɶɶbo
-votación,es,vote,投票,/botaˈθjon/,oɶbom
-claxona,ro,toot,トゥート,/klaksona/,bɶboɶ
-이발소,ko,barbershop,理髪店,/iba̠ɭsʰo̞/,yɶbo
-scénarios,fr,scenarios,シナリオ,/senaʁjo/,øɶbo
-모나코,ko,Monaco,モナコ,/mo̞na̠kʰo̞/,oɶbo
-húsaskjól,is,shelter,シェルター,/huːsascouːl/,uɶboub
-clastocarst,ro,Classocarst,Classocart,/klastokarst/,bɶboɶbb
-ノーマッド,ja,Normad,ノーマッド,/noːmadːo/,oɶbo
-마라톤,ko,marathon,マラソン,/ma̠ɾa̠tʰo̞n/,ɶɶbom
-adaptor,id,adapter,アダプタ,/adaptor/,ɶɶbo
-nồi áp suất,vi,pressure cooker,圧力鍋,/noj˦˨ ap˦˥ ʂwɤ̆k˦˥/,oɶbob
-骅骝,zh-cn,Cricket,クリケット,/xwa˧˥ ljoʊ˧˥/,bɶboʊ
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+migración,es,migration,移行,/miɣɾaˈθjon/,yɶbom,ɶbo
+relación,es,relationship,関係,/relaˈθjon/,øɶbom,ɶbo
+oración,es,prayer,祈り,/oɾaˈθjon/,oɶbom,ɶbo
+スタッコ,ja,Stack,スタッコ,/sɯtakːo/,uɶbo,ɶbo
+파종기,ko,planter,プランター,/pʰa̠d͡ʑo̞ŋɡi/,bɶbomy,ɶbo
+rotación,es,rotation,回転,/rotaˈθjon/,oɶbom,ɶbo
+garaĝo,eo,garage,ガレージ,/garad͡ʒo/,ɶɶbo,ɶbo
+damaĝo,eo,damage,ダメージ,/damad͡ʒo/,ɶɶbo,ɶbo
+votación,es,vote,投票,/botaˈθjon/,oɶbom,ɶbo
+claxona,ro,toot,トゥート,/klaksona/,bɶboɶ,ɶbo
+이발소,ko,barbershop,理髪店,/iba̠ɭsʰo̞/,yɶbo,ɶbo
+scénarios,fr,scenarios,シナリオ,/senaʁjo/,øɶbo,ɶbo
+모나코,ko,Monaco,モナコ,/mo̞na̠kʰo̞/,oɶbo,ɶbo
+húsaskjól,is,shelter,シェルター,/huːsascouːl/,uɶboub,ɶbo
+clastocarst,ro,Classocarst,Classocart,/klastokarst/,bɶboɶbb,ɶbo
+ノーマッド,ja,Normad,ノーマッド,/noːmadːo/,oɶbo,ɶbo
+마라톤,ko,marathon,マラソン,/ma̠ɾa̠tʰo̞n/,ɶɶbom,ɶbo
+adaptor,id,adapter,アダプタ,/adaptor/,ɶɶbo,ɶbo
+nồi áp suất,vi,pressure cooker,圧力鍋,/noj˦˨ ap˦˥ ʂwɤ̆k˦˥/,oɶbob,ɶbo
+骅骝,zh-cn,Cricket,クリケット,/xwa˧˥ ljoʊ˧˥/,bɶboʊ,ɶbo

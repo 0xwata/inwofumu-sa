@@ -1,21 +1,21 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-admirar,es,admire,憧れ,/aðmiɾaɾ/,ɶbyɶ
-احتراق,ar,burning,燃焼,/iħtiraːq/,ybyɶb
-madrina,es,godmother,ゴッドマザー,/maðɾina/,ɶbyɶ
-굽히다,ko,bend,曲げる,/kupʰida̠/,ubyɶ
-اجتماع,ar,Meeting,ミーティング,/idʒtimaːʕ/,ybyɶb
-ابتكار,ar,innovation,革新,/ibtikaːr/,ybyɶ
-المشبك,ar,Clamp,クランプ,/aːlmiʃbak/,ɶbyɶb
-bousculade,fr,rush,急ぐ,/buskylad/,ubyɶb
-التفاف,ar,Wrapping,ラッピング,/iltifaːf/,ybyɶb
-deslizar,es,slide,滑り台,/dezliθaɾ/,øbyɶ
-味あい,ja,Taste,味あい,/adʑiai/,ɶbyɶy
-citrina,es,citrine,シトリン,/θitɾina/,ybyɶ
-幸ある,ja,Happy,幸ある,/satɕiaɾɯ/,ɶbyɶu
-útvíkka,is,extend,拡張する,/uːtvihka/,ubyɶ
-익히다,ko,to cook,料理する,/ikçida̠/,ybyɶ
-diluirán,es,will dilute,希釈します,/dilwiˈɾan/,ybyɶm
-gagnrýna,is,criticize,批判,/kakrina/,ɶbyɶ
-duplican,es,They duplicate,それらは複製します,/duplikan/,ubyɶm
-읽히다,ko,get to read,読んでください,/iɭkçida̠/,ybyɶ
-メジナ,ja,Medina,メジナ,/medʑina/,øbyɶ
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+admirar,es,admire,憧れ,/aðmiɾaɾ/,ɶbyɶ,byɶ
+احتراق,ar,burning,燃焼,/iħtiraːq/,ybyɶb,byɶ
+madrina,es,godmother,ゴッドマザー,/maðɾina/,ɶbyɶ,byɶ
+굽히다,ko,bend,曲げる,/kupʰida̠/,ubyɶ,byɶ
+اجتماع,ar,Meeting,ミーティング,/idʒtimaːʕ/,ybyɶb,byɶ
+ابتكار,ar,innovation,革新,/ibtikaːr/,ybyɶ,byɶ
+المشبك,ar,Clamp,クランプ,/aːlmiʃbak/,ɶbyɶb,byɶ
+bousculade,fr,rush,急ぐ,/buskylad/,ubyɶb,byɶ
+التفاف,ar,Wrapping,ラッピング,/iltifaːf/,ybyɶb,byɶ
+deslizar,es,slide,滑り台,/dezliθaɾ/,øbyɶ,byɶ
+味あい,ja,Taste,味あい,/adʑiai/,ɶbyɶy,byɶ
+citrina,es,citrine,シトリン,/θitɾina/,ybyɶ,byɶ
+幸ある,ja,Happy,幸ある,/satɕiaɾɯ/,ɶbyɶu,byɶ
+útvíkka,is,extend,拡張する,/uːtvihka/,ubyɶ,byɶ
+익히다,ko,to cook,料理する,/ikçida̠/,ybyɶ,byɶ
+diluirán,es,will dilute,希釈します,/dilwiˈɾan/,ybyɶm,byɶ
+gagnrýna,is,criticize,批判,/kakrina/,ɶbyɶ,byɶ
+duplican,es,They duplicate,それらは複製します,/duplikan/,ubyɶm,byɶ
+읽히다,ko,get to read,読んでください,/iɭkçida̠/,ybyɶ,byɶ
+メジナ,ja,Medina,メジナ,/medʑina/,øbyɶ,byɶ

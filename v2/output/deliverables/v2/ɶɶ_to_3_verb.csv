@@ -1,24 +1,24 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-cámara,es,camera,カメラ,/ˈkamaɾa/,ɶɶɶ
-بوق,ar,trumpet,トランペット,/bawwaqa/,ɶɶɶ
-kappakstur,is,campaign,運動,/kʰahpakstʏr/,bɶɶbbʏ
-نسخ,ar,Copied,コピー,/nasaxa/,ɶɶɶ
-décalage,fr,gap,ギャップ,/dekalaʒ/,øɶɶ
-pasangan,id,couple,カップル,/pasaŋan/,ɶɶɶm
-جذب,ar,Attract,引きつける,/dʒaðaba/,bɶɶɶ
-cravată,ro,tie,ネクタイ,/kravatə/,bɶɶə
-diagrama,es,diagram,図,/djaɣɾama/,bɶɶɶ
-guayaba,es,guava,グアバ,/gwaʝaβa/,bɶɶɶ
-일하다,ko,to work,働くために,/iɾɦa̠da̠/,yɶɶ
-وأهرأ,ar,And dazzle,そして眩しい,/waʔahraʔ/,ɶɶɶb
-agasat,ro,annoyed,イライラしている,/aɡasat/,ɶɶɶb
-下半场,zh-cn,Second half,後半,/ɕja˥˩ pan˥˩ ʈʂʰɑŋ˨˩˦/,bɶɶmɑm
-然あらぬ,ja,I can't do it,然あらぬ,/saaɾanɯ/,ɶɶɶu
-decartat,ro,discard,破棄,/dekartat/,øɶɶb
-화하다,ko,Reconcile,和解します,/ɸwa̠ɦa̠da̠/,ɶɶɶ
-alarmat,/alarmat/,alarmed,心配,ɶɶɶb,ro
-klarmachtest,de,clear power test,クリアパワーテスト,/ˈklaɾmaxtɛst/,bɶɶbœbb
-자라다,ko,grow,育つ,/t͡ɕa̠ɾa̠da̠/,bɶɶɶ
-klatschnasse,de,gossip,ゴシップ,/ˈklaʧnaszə/,bɶɶbə
-talaði,is,spoke,話した,/tʰaːlaðɪ/,bɶɶʏ
-身揚り,ja,Fried,身揚り,/miagaɾi/,yɶɶy
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+cámara,es,camera,カメラ,/ˈkamaɾa/,ɶɶɶ,ɶɶ
+بوق,ar,trumpet,トランペット,/bawwaqa/,ɶɶɶ,ɶɶ
+kappakstur,is,campaign,運動,/kʰahpakstʏr/,bɶɶbbʏ,ɶɶ
+نسخ,ar,Copied,コピー,/nasaxa/,ɶɶɶ,ɶɶ
+décalage,fr,gap,ギャップ,/dekalaʒ/,øɶɶ,ɶɶ
+pasangan,id,couple,カップル,/pasaŋan/,ɶɶɶm,ɶɶ
+جذب,ar,Attract,引きつける,/dʒaðaba/,bɶɶɶ,ɶɶ
+cravată,ro,tie,ネクタイ,/kravatə/,bɶɶə,ɶɶ
+diagrama,es,diagram,図,/djaɣɾama/,bɶɶɶ,ɶɶ
+guayaba,es,guava,グアバ,/gwaʝaβa/,bɶɶɶ,ɶɶ
+일하다,ko,to work,働くために,/iɾɦa̠da̠/,yɶɶ,ɶɶ
+وأهرأ,ar,And dazzle,そして眩しい,/waʔahraʔ/,ɶɶɶb,ɶɶ
+agasat,ro,annoyed,イライラしている,/aɡasat/,ɶɶɶb,ɶɶ
+下半场,zh-cn,Second half,後半,/ɕja˥˩ pan˥˩ ʈʂʰɑŋ˨˩˦/,bɶɶmɑm,ɶɶ
+然あらぬ,ja,I can't do it,然あらぬ,/saaɾanɯ/,ɶɶɶu,ɶɶ
+decartat,ro,discard,破棄,/dekartat/,øɶɶb,ɶɶ
+화하다,ko,Reconcile,和解します,/ɸwa̠ɦa̠da̠/,ɶɶɶ,ɶɶ
+alarmat,/alarmat/,alarmed,心配,ɶɶɶb,ro,ɶɶ
+klarmachtest,de,clear power test,クリアパワーテスト,/ˈklaɾmaxtɛst/,bɶɶbœbb,ɶɶ
+자라다,ko,grow,育つ,/t͡ɕa̠ɾa̠da̠/,bɶɶɶ,ɶɶ
+klatschnasse,de,gossip,ゴシップ,/ˈklaʧnaszə/,bɶɶbə,ɶɶ
+talaði,is,spoke,話した,/tʰaːlaðɪ/,bɶɶʏ,ɶɶ
+身揚り,ja,Fried,身揚り,/miagaɾi/,yɶɶy,ɶɶ

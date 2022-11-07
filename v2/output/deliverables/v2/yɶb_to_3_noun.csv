@@ -1,20 +1,20 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-mengikat,id,tie,ネクタイ,/məŋikat/,əyɶb
-自殺,ja,suicide,自殺,/dʑisatsɯ/,byɶbu
-coniac,ro,cognac,コニャック,/konijak/,oyɶb
-اشتراك,ar,Participation,参加,/iʃtiraːk/,yyɶb
-지하철,ko,subway,地下鉄,/t͡ɕiɦa̠t͡ɕʰʌ̹ɭ/,byɶbbɔ
-nasihat,id,advice,アドバイス,/nasihat/,ɶyɶb
-サインアップ,ja,sign up,サインアップ,/saiɴapːɯ/,ɶyɶbu
-Beifall,de,applause,拍手,/bəˈʔiːfall/,əyɶbb
-マニアック,ja,maniac,マニアック,/maniakːɯ/,ɶyɶbu
-măritat,ro,married,結婚,/məritat/,əyɶb
-시각화,ko,Visualization,視覚化,/ɕʰiɡa̠kʰwa̠/,byɶbɶ
-hornillas,es,Hornillas,ホルニラ,/oɾniʎas/,oyɶb
-digital,de,digital,デジタル,/digiˈtaːl/,yyɶb
-trisagios,es,Trishas,トリシャ,/tɾisaxjos/,byɶbob
-flísarnar,is,the tiles,タイル,/fliːsatnar/,byɶbɶ
-マイバッグ,ja,My bag,マイバッグ,/maibagːɯ/,ɶyɶbu
-cardiac,ro,cardiac,心臓,/kardijak/,ɶyɶb
-serinasses,fr,serinasse,セリナス,/səʁinas/,əyɶb
-وبالردع,ar,And with deterrence,そして抑止力,/wabiaːlradʕ/,ɶyɶbɶbb
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+mengikat,id,tie,ネクタイ,/məŋikat/,əyɶb,yɶb
+自殺,ja,suicide,自殺,/dʑisatsɯ/,byɶbu,yɶb
+coniac,ro,cognac,コニャック,/konijak/,oyɶb,yɶb
+اشتراك,ar,Participation,参加,/iʃtiraːk/,yyɶb,yɶb
+지하철,ko,subway,地下鉄,/t͡ɕiɦa̠t͡ɕʰʌ̹ɭ/,byɶbbɔ,yɶb
+nasihat,id,advice,アドバイス,/nasihat/,ɶyɶb,yɶb
+サインアップ,ja,sign up,サインアップ,/saiɴapːɯ/,ɶyɶbu,yɶb
+Beifall,de,applause,拍手,/bəˈʔiːfall/,əyɶbb,yɶb
+マニアック,ja,maniac,マニアック,/maniakːɯ/,ɶyɶbu,yɶb
+măritat,ro,married,結婚,/məritat/,əyɶb,yɶb
+시각화,ko,Visualization,視覚化,/ɕʰiɡa̠kʰwa̠/,byɶbɶ,yɶb
+hornillas,es,Hornillas,ホルニラ,/oɾniʎas/,oyɶb,yɶb
+digital,de,digital,デジタル,/digiˈtaːl/,yyɶb,yɶb
+trisagios,es,Trishas,トリシャ,/tɾisaxjos/,byɶbob,yɶb
+flísarnar,is,the tiles,タイル,/fliːsatnar/,byɶbɶ,yɶb
+マイバッグ,ja,My bag,マイバッグ,/maibagːɯ/,ɶyɶbu,yɶb
+cardiac,ro,cardiac,心臓,/kardijak/,ɶyɶb,yɶb
+serinasses,fr,serinasse,セリナス,/səʁinas/,əyɶb,yɶb
+وبالردع,ar,And with deterrence,そして抑止力,/wabiaːlradʕ/,ɶyɶbɶbb,yɶb

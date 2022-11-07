@@ -1,52 +1,52 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-absolvent,ro,graduate,卒業,/apsolvent/,ɶbobømb
-hurricane,en,hurricane,ハリケーン,/ˈhəɹəˌkeɪnz/,əəøʏmb
-exultant,en,exultant,歓喜,/ɪɡˈzəɫtənt/,ʏbəəmb
-descendant,en,descendant,子孫,/dɪˈsɛndənt/,ʏœməmb
-iminent,ro,imminent,差し迫った,/iminent/,yyømb
-accident,ro,accident,事件,/aktʃident/,ɶbbyømb
-Unterhemd,de,Undershirt,アンダーシャツ,/ˈʔʊnˌtɛɾɛmt/,ʊmœœmb
-appliance,en,appliance,アプライアンス,/əˈpɫaɪəns/,əbɶʏəmb
-reluctance,en,reluctance,不本意,/ɹiˈɫəktəns/,yəbəmb
-Labyrinth,de,labyrinth,ラビリンス,/ˈlɑːbyɾɪnt/,ɑyʏmb
-penitent,en,penitent,悔い改め,/ˈpɛnɪtɪnt/,œʏʏmb
-argument,en,argument,口論,/ˈɑɹɡjəmənt/,ɑbəəmb
-accountant,en,accountant,会計士,/əˈkaʊntənt/,əɶʊməmb
-assignment,en,assignment,割り当て,/əˈsaɪnmənt/,əɶʏməmb
-compliment,en,compliment,褒め言葉,/ˈkɑmpɫəmɛnt/,ɑmbəœmb
-abundent,ro,abundant,豊富です,/abundent/,ɶumømb
-tournament,en,tournament,トーナメント,/ˈtʊɹnəmənt/,ʊəəmb
-providence,en,providence,摂理,/ˈpɹɑvədəns/,bɑəəmb
-assurance,en,assurance,保証,/əˈʃʊɹəns/,əʊəmb
-uppfinning,is,invention,発明,/ʏfɪniŋk/,ʏʏymb
-attainment,en,attainment,達成,/əˈteɪnmənt/,əøʏməmb
-teiknimynd,is,cartoon,アニメーション,/tʰeihknɪmɪnt/,bøybʏʏmb
-continent,en,continent,大陸,/ˈkɑntənənt/,ɑməəmb
-aberrant,en,aberrant,異常,/æˈbɛɹənt/,æœəmb
-suculent,ro,juicy,ジューシー,/sukulent/,uuømb
-adjustment,en,adjustment,調整,/əˈdʒəstmənt/,əbəbbəmb
-recipient,en,recipient,受信者,/ɹəˈsɪpiənt/,əʏyəmb
-imbalance,en,imbalance,不均衡,/ɪmˈbæɫəns/,ʏmæəmb
-chén bạch định,vi,bowl,丼鉢,/cɛŋ˩˧ bak˨ˀ˩ʔ din˨ˀ˩ʔ/,œmɶbbymb
-samræming,is,coordination,調整,/samrajmiŋk/,ɶmɶymb
-résonans,id,Résonans,レソン,/resonans/,øoɶmb
-sorgarstund,is,hour,時間,/sɔrkarstʏnt/,ɔɶbʏmb
-فبكمح,ar,Bluk,Bluk,/fabikamħ/,ɶyɶmb
-thuyết định mệnh,vi,fate theory,運命理論,/tʰwiək˦˥ din˨ˀ˩ʔ men˨ˀ˩ʔ/,byəbymbømb
-parament,ro,facing,顔に,/parament/,ɶɶømb
-conversant,en,conversant,精通,/kənˈvɝsənt/,əməəmb
-microfilms,es,Microfilms,マイクロフィルム,/mikɾofilms/,yboybmb
-dixieland,fi,dixieland,ディキシーランド,/ˈdixielɑnd/,yyøɑmb
-gengisins,is,exchange rate,為替レート,/ceiɲcɪsɪns/,øymʏʏmb
-vol-au-vent,fi,VOL-AU-VEST,Vol-au-Vest,/ˈvolɑuvent/,oɑuømb
-samsetning,/samsɛhtniŋk/,constitution,憲法,ɶmœbymb,is
-Gleichstroms,de,Direct current,直流,/ˈglaeçstɾɔms/,bɶøbbɔmb
-comitent,ro,principal,主要,/komitent/,oyømb
-بكاكنج,ar,Bakking,バッキング,/bikaːkindʒ/,yɶymb
-vũ trụ luận,vi,universe,宇宙,/ju˧˩˨ ʈu˨ˀ˩ʔ lwɤ̆ŋ˨ˀ˩ʔ/,uubbomb
-dạ lữ viện,vi,Da Lu Vien,ダ・ル・ウィーン,/ja˨ˀ˩ʔ lɯ˧˩˨ jiəŋ˨ˀ˩ʔ/,ɶbuyəmb
-útreikning,is,calculation,計算,/uːtreihkniŋk/,ubøybymb
-afrikaans,fi,Afrikaans,アフリカーンス,/ˈɑfrikɑɑns/,ɑbyɑɑmb
-ولانج,ar,Lang,ラング,/waliʔandʒ/,ɶyɶmb
-cyberpunk,fr,cyberpunk,サイバーパンク,/sibɛʁpœnk/,yœbœmb
-فللحمض,ar,Acid,酸,/falilħamdˤ/,ɶybɶmb
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+absolvent,ro,graduate,卒業,/apsolvent/,ɶbobømb,mb
+hurricane,en,hurricane,ハリケーン,/ˈhəɹəˌkeɪnz/,əəøʏmb,mb
+exultant,en,exultant,歓喜,/ɪɡˈzəɫtənt/,ʏbəəmb,mb
+descendant,en,descendant,子孫,/dɪˈsɛndənt/,ʏœməmb,mb
+iminent,ro,imminent,差し迫った,/iminent/,yyømb,mb
+accident,ro,accident,事件,/aktʃident/,ɶbbyømb,mb
+Unterhemd,de,Undershirt,アンダーシャツ,/ˈʔʊnˌtɛɾɛmt/,ʊmœœmb,mb
+appliance,en,appliance,アプライアンス,/əˈpɫaɪəns/,əbɶʏəmb,mb
+reluctance,en,reluctance,不本意,/ɹiˈɫəktəns/,yəbəmb,mb
+Labyrinth,de,labyrinth,ラビリンス,/ˈlɑːbyɾɪnt/,ɑyʏmb,mb
+penitent,en,penitent,悔い改め,/ˈpɛnɪtɪnt/,œʏʏmb,mb
+argument,en,argument,口論,/ˈɑɹɡjəmənt/,ɑbəəmb,mb
+accountant,en,accountant,会計士,/əˈkaʊntənt/,əɶʊməmb,mb
+assignment,en,assignment,割り当て,/əˈsaɪnmənt/,əɶʏməmb,mb
+compliment,en,compliment,褒め言葉,/ˈkɑmpɫəmɛnt/,ɑmbəœmb,mb
+abundent,ro,abundant,豊富です,/abundent/,ɶumømb,mb
+tournament,en,tournament,トーナメント,/ˈtʊɹnəmənt/,ʊəəmb,mb
+providence,en,providence,摂理,/ˈpɹɑvədəns/,bɑəəmb,mb
+assurance,en,assurance,保証,/əˈʃʊɹəns/,əʊəmb,mb
+uppfinning,is,invention,発明,/ʏfɪniŋk/,ʏʏymb,mb
+attainment,en,attainment,達成,/əˈteɪnmənt/,əøʏməmb,mb
+teiknimynd,is,cartoon,アニメーション,/tʰeihknɪmɪnt/,bøybʏʏmb,mb
+continent,en,continent,大陸,/ˈkɑntənənt/,ɑməəmb,mb
+aberrant,en,aberrant,異常,/æˈbɛɹənt/,æœəmb,mb
+suculent,ro,juicy,ジューシー,/sukulent/,uuømb,mb
+adjustment,en,adjustment,調整,/əˈdʒəstmənt/,əbəbbəmb,mb
+recipient,en,recipient,受信者,/ɹəˈsɪpiənt/,əʏyəmb,mb
+imbalance,en,imbalance,不均衡,/ɪmˈbæɫəns/,ʏmæəmb,mb
+chén bạch định,vi,bowl,丼鉢,/cɛŋ˩˧ bak˨ˀ˩ʔ din˨ˀ˩ʔ/,œmɶbbymb,mb
+samræming,is,coordination,調整,/samrajmiŋk/,ɶmɶymb,mb
+résonans,id,Résonans,レソン,/resonans/,øoɶmb,mb
+sorgarstund,is,hour,時間,/sɔrkarstʏnt/,ɔɶbʏmb,mb
+فبكمح,ar,Bluk,Bluk,/fabikamħ/,ɶyɶmb,mb
+thuyết định mệnh,vi,fate theory,運命理論,/tʰwiək˦˥ din˨ˀ˩ʔ men˨ˀ˩ʔ/,byəbymbømb,mb
+parament,ro,facing,顔に,/parament/,ɶɶømb,mb
+conversant,en,conversant,精通,/kənˈvɝsənt/,əməəmb,mb
+microfilms,es,Microfilms,マイクロフィルム,/mikɾofilms/,yboybmb,mb
+dixieland,fi,dixieland,ディキシーランド,/ˈdixielɑnd/,yyøɑmb,mb
+gengisins,is,exchange rate,為替レート,/ceiɲcɪsɪns/,øymʏʏmb,mb
+vol-au-vent,fi,VOL-AU-VEST,Vol-au-Vest,/ˈvolɑuvent/,oɑuømb,mb
+samsetning,/samsɛhtniŋk/,constitution,憲法,ɶmœbymb,is,mb
+Gleichstroms,de,Direct current,直流,/ˈglaeçstɾɔms/,bɶøbbɔmb,mb
+comitent,ro,principal,主要,/komitent/,oyømb,mb
+بكاكنج,ar,Bakking,バッキング,/bikaːkindʒ/,yɶymb,mb
+vũ trụ luận,vi,universe,宇宙,/ju˧˩˨ ʈu˨ˀ˩ʔ lwɤ̆ŋ˨ˀ˩ʔ/,uubbomb,mb
+dạ lữ viện,vi,Da Lu Vien,ダ・ル・ウィーン,/ja˨ˀ˩ʔ lɯ˧˩˨ jiəŋ˨ˀ˩ʔ/,ɶbuyəmb,mb
+útreikning,is,calculation,計算,/uːtreihkniŋk/,ubøybymb,mb
+afrikaans,fi,Afrikaans,アフリカーンス,/ˈɑfrikɑɑns/,ɑbyɑɑmb,mb
+ولانج,ar,Lang,ラング,/waliʔandʒ/,ɶyɶmb,mb
+cyberpunk,fr,cyberpunk,サイバーパンク,/sibɛʁpœnk/,yœbœmb,mb
+فللحمض,ar,Acid,酸,/falilħamdˤ/,ɶybɶmb,mb

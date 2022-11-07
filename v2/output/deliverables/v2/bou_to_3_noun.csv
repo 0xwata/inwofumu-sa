@@ -1,21 +1,21 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-月光,ja,moonlight,月光,/gekːoɯ/,øbou
-不況,ja,recession,不況,/ɸɯkjoɯ/,ubou
-学校,ja,school,学校,/gakːoɯ/,ɶbou
-作曲,ja,Composition,作曲,/sakːjokɯ/,ɶbou
-húsmóðir,is,housewife,専業主婦,/huːsmouðɪr/,ubouʏ
-説教,ja,Sermon,説教,/sekːjoɯ/,øbou
-視聴者,ja,Audience,視聴者,/ɕitɕoɯɕa/,ybouɶ
-貴重,ja,valuable,貴重,/kitɕoɯ/,ybou
-伍長,ja,corporal,伍長,/gotɕoɯ/,obou
-故郷,ja,Hometown,故郷,/kokjoɯ/,obou
-reproșuri,ro,reproval,reproval,/reproʃurʲ/,øbouy
-subsolul,ro,BASEMENT,地下,/supsolul/,uboub
-alkóa,is,alcohol,アルコール,/alkoua/,ɶbouɶ
-aðsóknar,is,attack,攻撃,/aðsouhknar/,ɶboubɶ
-batjocuri,ro,mockery,ock笑,/batʒokurʲ/,ɶbouy
-helpotus,fi,relief,安心,/ˈhelpotus/,øboub
-mít tố nữ,vi,Cempedak,cempedak,/mit˦˥ to˩˧ nɯ˧˩˨/,ybou
-microundă,ro,Microunda,マイクロ,/mikroundə/,yboumə
-무소득,ko,Non -income,非収入,/musʰo̞dɯk̚/,uboub
-bội số chung,vi,general multiple,一般的な複数,/boj˨ˀ˩ʔ ʂo˩˧ cuŋ͡m˧˥/,oboumm
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+月光,ja,moonlight,月光,/gekːoɯ/,øbou,bou
+不況,ja,recession,不況,/ɸɯkjoɯ/,ubou,bou
+学校,ja,school,学校,/gakːoɯ/,ɶbou,bou
+作曲,ja,Composition,作曲,/sakːjokɯ/,ɶbou,bou
+húsmóðir,is,housewife,専業主婦,/huːsmouðɪr/,ubouʏ,bou
+説教,ja,Sermon,説教,/sekːjoɯ/,øbou,bou
+視聴者,ja,Audience,視聴者,/ɕitɕoɯɕa/,ybouɶ,bou
+貴重,ja,valuable,貴重,/kitɕoɯ/,ybou,bou
+伍長,ja,corporal,伍長,/gotɕoɯ/,obou,bou
+故郷,ja,Hometown,故郷,/kokjoɯ/,obou,bou
+reproșuri,ro,reproval,reproval,/reproʃurʲ/,øbouy,bou
+subsolul,ro,BASEMENT,地下,/supsolul/,uboub,bou
+alkóa,is,alcohol,アルコール,/alkoua/,ɶbouɶ,bou
+aðsóknar,is,attack,攻撃,/aðsouhknar/,ɶboubɶ,bou
+batjocuri,ro,mockery,ock笑,/batʒokurʲ/,ɶbouy,bou
+helpotus,fi,relief,安心,/ˈhelpotus/,øboub,bou
+mít tố nữ,vi,Cempedak,cempedak,/mit˦˥ to˩˧ nɯ˧˩˨/,ybou,bou
+microundă,ro,Microunda,マイクロ,/mikroundə/,yboumə,bou
+무소득,ko,Non -income,非収入,/musʰo̞dɯk̚/,uboub,bou
+bội số chung,vi,general multiple,一般的な複数,/boj˨ˀ˩ʔ ʂo˩˧ cuŋ͡m˧˥/,oboumm,bou

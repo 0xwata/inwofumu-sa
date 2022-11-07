@@ -1,31 +1,31 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-komandan,id,commander,司令官,/komandan/,oɶmɶm
-balance,es,balance,残高,/balanθe/,ɶɶmø
-洗碗机,zh-cn,dishwasher,食器洗い機,/ɕi˨˩˦ wan˨˩˦ tɕi˥˥/,yɶmby
-keppandi,is,competitor,競合他社選手,/cʰɛhpantɪ/,œɶmʏ
-다양성,ko,Diversity,多様性,/ta̠ja̠ŋsʰʌ̹ŋ/,ɶɶmbɔm
-sjampó,is,shampoo,シャンプー,/sjam̥pou/,bɶmou
-phi hành đoàn,vi,crew,クルー,/fi˧˥ han˦˨ dwaŋ˦˨/,yɶmbɶm
-verando,eo,porch,ポーチ,/verando/,øɶmo
-geranio,es,geranium,ゼラニウム,/xeɾanjo/,øɶmo
-قرنفل,ar,clove,クローブ,/qaranful/,ɶɶmub
-مهندس,ar,Engineer,エンジニア,/muhandis/,uɶmyb
-トランス,ja,Trance,トランス,/toɾaɴsɯ/,oɶmu
-Pfannkuchen,de,pancakes,パンケーキ,/ˈpfanˌkuːxən/,bɶmuəm
-Krankenhaus,de,hospital,病院,/ˈkʁaŋkənˌhaʊ̯s/,bɶməmɶʊb
-mokanto,eo,mocker,モッカー,/mokanto/,oɶmo
-فتمعض,ar,Food,食べ物,/fatamʕadˤ/,ɶɶmɶb
-þýðanda,is,translator,翻訳者,/θiːðanta/,yɶmɶ
-ghe bản lồng,vi,cage,ケージ,/ɣɛ˧˥ baŋ˧˩˨ loŋ͡m˦˨/,œɶmomm
-فاندم,ar,Regret,後悔,/faʔandam/,ɶɶmɶm
-transverso,eo,transverse,横方向,/transverso/,bɶmbøo
-giganto,eo,giant,巨人,/giganto/,yɶmo
-revanchierst,de,rehabilitation,リハビリテーション,/ɾevanxiːɾst/,øɶmybb
-sémantis,/semantis/,Sémantis,セマンティス,øɶmyb,id
-vagantes,es,Vagantes,迷走,/baɣantes/,ɶɶmøb
-出版社,zh-cn,Publisher,出版社,/ʈʂʰu˥˥ pan˨˩˦ ʂɤ˥˩/,uɶmo
-blanșare,ro,blanching,ブランチング,/blanʃare/,bɶmɶø
-Johanniter,de,Johanniter,ヨハニター,/joanˈniːtɐ̯/,oɶmyɐ
-판가름,ko,Clarity,明快さ,/pʰa̠nɡa̠ɾɯm/,bɶmɶum
-varango,eo,Varango,ヴァランゴ,/varango/,ɶɶmo
-雀球,ja,Sparrow ball,雀球,/dʑaɴkjɯɯ/,bɶmbuu
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+komandan,id,commander,司令官,/komandan/,oɶmɶm,ɶm
+balance,es,balance,残高,/balanθe/,ɶɶmø,ɶm
+洗碗机,zh-cn,dishwasher,食器洗い機,/ɕi˨˩˦ wan˨˩˦ tɕi˥˥/,yɶmby,ɶm
+keppandi,is,competitor,競合他社選手,/cʰɛhpantɪ/,œɶmʏ,ɶm
+다양성,ko,Diversity,多様性,/ta̠ja̠ŋsʰʌ̹ŋ/,ɶɶmbɔm,ɶm
+sjampó,is,shampoo,シャンプー,/sjam̥pou/,bɶmou,ɶm
+phi hành đoàn,vi,crew,クルー,/fi˧˥ han˦˨ dwaŋ˦˨/,yɶmbɶm,ɶm
+verando,eo,porch,ポーチ,/verando/,øɶmo,ɶm
+geranio,es,geranium,ゼラニウム,/xeɾanjo/,øɶmo,ɶm
+قرنفل,ar,clove,クローブ,/qaranful/,ɶɶmub,ɶm
+مهندس,ar,Engineer,エンジニア,/muhandis/,uɶmyb,ɶm
+トランス,ja,Trance,トランス,/toɾaɴsɯ/,oɶmu,ɶm
+Pfannkuchen,de,pancakes,パンケーキ,/ˈpfanˌkuːxən/,bɶmuəm,ɶm
+Krankenhaus,de,hospital,病院,/ˈkʁaŋkənˌhaʊ̯s/,bɶməmɶʊb,ɶm
+mokanto,eo,mocker,モッカー,/mokanto/,oɶmo,ɶm
+فتمعض,ar,Food,食べ物,/fatamʕadˤ/,ɶɶmɶb,ɶm
+þýðanda,is,translator,翻訳者,/θiːðanta/,yɶmɶ,ɶm
+ghe bản lồng,vi,cage,ケージ,/ɣɛ˧˥ baŋ˧˩˨ loŋ͡m˦˨/,œɶmomm,ɶm
+فاندم,ar,Regret,後悔,/faʔandam/,ɶɶmɶm,ɶm
+transverso,eo,transverse,横方向,/transverso/,bɶmbøo,ɶm
+giganto,eo,giant,巨人,/giganto/,yɶmo,ɶm
+revanchierst,de,rehabilitation,リハビリテーション,/ɾevanxiːɾst/,øɶmybb,ɶm
+sémantis,/semantis/,Sémantis,セマンティス,øɶmyb,id,ɶm
+vagantes,es,Vagantes,迷走,/baɣantes/,ɶɶmøb,ɶm
+出版社,zh-cn,Publisher,出版社,/ʈʂʰu˥˥ pan˨˩˦ ʂɤ˥˩/,uɶmo,ɶm
+blanșare,ro,blanching,ブランチング,/blanʃare/,bɶmɶø,ɶm
+Johanniter,de,Johanniter,ヨハニター,/joanˈniːtɐ̯/,oɶmyɐ,ɶm
+판가름,ko,Clarity,明快さ,/pʰa̠nɡa̠ɾɯm/,bɶmɶum,ɶm
+varango,eo,Varango,ヴァランゴ,/varango/,ɶɶmo,ɶm
+雀球,ja,Sparrow ball,雀球,/dʑaɴkjɯɯ/,bɶmbuu,ɶm

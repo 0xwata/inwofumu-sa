@@ -1,21 +1,21 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-tynnyri,fi,barrel,たる,/ˈtynnyri/,ymyy
-kunnia,fi,honor,名誉,/ˈkunniɑ/,umyɑ
-Vampir,de,vampire,吸血鬼,/vamˈpiːɐ̯/,ɶmyɐ
-公平,ja,fair,公平,/kiɴpiɾa/,ymyɶ
-동의어,ko,synonym,シノニム,/to̞ŋɰiʌ̹/,omyɔ
-cantină,ro,canteen,食堂,/kantinə/,ɶmyə
-Kantine,de,canteen,食堂,/kanˈtiːnə/,ɶmyə
-Anliegen,de,Issue,問題,/ˈʔanˌliːgən/,ɶmyəm
-anfügen,de,add,追加,/ˈanˌfyːɡən/,ɶmyəm
-認識,ja,recognition,認識,/niɴɕiki/,ymyy
-Bình Trinh Đông,vi,Binh Trinh Dong,ビン・トリン・ドン,/bin˦˨ ʈin˧˥ doŋ͡m˧˥/,ymymomm
-分離派,ja,Separation,分離派,/bɯɴɾiha/,umyɶ
-anticlor,ro,antique,アンティーク,/antiklor/,ɶmybo
-chính trị phạm,vi,politics,政治,/cin˩˧ ʈi˨ˀ˩ʔ fam˨ˀ˩ʔ/,ymybɶmb
-bonfido,/bonfido/,good faith,誠実,omyo,eo
-mannlífsins,is,human life,人間の生活,/manlifsɪns/,ɶmybʏmb
-annuité,fr,annuity,年金,/anɥite/,ɶmyø
-lancino,es,Lancino,ランチーノ,/lanθino/,ɶmyo
-Antigvo,eo,Antigua,アンティグア,/antigvo/,ɶmybo
-힌디어,ko,Hindi,ヒンディー語,/çindiʌ̹/,ymyɔ
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+tynnyri,fi,barrel,たる,/ˈtynnyri/,ymyy,my
+kunnia,fi,honor,名誉,/ˈkunniɑ/,umyɑ,my
+Vampir,de,vampire,吸血鬼,/vamˈpiːɐ̯/,ɶmyɐ,my
+公平,ja,fair,公平,/kiɴpiɾa/,ymyɶ,my
+동의어,ko,synonym,シノニム,/to̞ŋɰiʌ̹/,omyɔ,my
+cantină,ro,canteen,食堂,/kantinə/,ɶmyə,my
+Kantine,de,canteen,食堂,/kanˈtiːnə/,ɶmyə,my
+Anliegen,de,Issue,問題,/ˈʔanˌliːgən/,ɶmyəm,my
+anfügen,de,add,追加,/ˈanˌfyːɡən/,ɶmyəm,my
+認識,ja,recognition,認識,/niɴɕiki/,ymyy,my
+Bình Trinh Đông,vi,Binh Trinh Dong,ビン・トリン・ドン,/bin˦˨ ʈin˧˥ doŋ͡m˧˥/,ymymomm,my
+分離派,ja,Separation,分離派,/bɯɴɾiha/,umyɶ,my
+anticlor,ro,antique,アンティーク,/antiklor/,ɶmybo,my
+chính trị phạm,vi,politics,政治,/cin˩˧ ʈi˨ˀ˩ʔ fam˨ˀ˩ʔ/,ymybɶmb,my
+bonfido,/bonfido/,good faith,誠実,omyo,eo,my
+mannlífsins,is,human life,人間の生活,/manlifsɪns/,ɶmybʏmb,my
+annuité,fr,annuity,年金,/anɥite/,ɶmyø,my
+lancino,es,Lancino,ランチーノ,/lanθino/,ɶmyo,my
+Antigvo,eo,Antigua,アンティグア,/antigvo/,ɶmybo,my
+힌디어,ko,Hindi,ヒンディー語,/çindiʌ̹/,ymyɔ,my

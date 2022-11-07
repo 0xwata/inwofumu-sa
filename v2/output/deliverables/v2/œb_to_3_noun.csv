@@ -1,24 +1,24 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-súrefni,is,oxygen,空気,/suːrɛpnɪ/,uœbʏ
-rébellion,fr,rebellion,反乱,/ʁebɛljɔ̃/,øœbɔ
-achèvement,fr,completion,完了,/aʃɛvmɑ̃/,ɶœbɑ
-selection,en,selection,選択,/səˈɫɛkʃən/,əœbəm
-Forelle,de,Trout,マス,/ˈfoːɾɛllə/,oœbə
-verkefni,is,undertaking,事業,/vɛr̥kɛpnɪ/,œœbʏ
-liberté,fr,freedom,フリーダム,/libɛʁte/,yœbø
-chemin de fer,fr,railway,鉄道,/ʃəmɛ̃dfɛʁ/,əœbœb
-allaitement,fr,feeding with milk,牛乳で餌をやります,/alɛtmɑ̃/,ɶœbɑ
-receptor,en,receptor,受容体,/ɹiˈsɛptɝ/,yœbə
-réservoir,fr,tank,タンク,/ʁezɛʁvwaʁ/,øœbbɶb
-무개차,ko,No,いいえ,/muɡɛ̝t͡ɕʰa̠/,uœbbɶ
-Telexdienst,de,Telex service,テレックスサービス,/ˈteːlɛksdiːnst/,øœbbymbb
-manneldis,is,human consumption,人間の消費,/manɛltɪs/,ɶœbʏb
-remercie,fr,thanks,ありがとう,/ʁəmɛʁsi/,əœby
-오대조,ko,Odaejo,odaejo,/o̞dɛ̝d͡ʑo̞/,oœbo
-schlängeltest,de,meandering test,蛇行テスト,/ˈʃlɛŋɛltɛst/,œœbœbb
-Widerspruch,de,Objection,異議,/ˈviːdɛɾspɾʊx/,yœbbʊb
-实业家,zh-cn,Industrialist,産業家,/ʂɚ˧˥ jɛ˥˩ tɕja˥˥/,əœbbɶ
-Sardelle,de,anchovy,アンチョビ,/ˈzaɾdɛllə/,ɶœbə
-Ruhespannung,de,Resting,休憩,/ˈɾuːɛspannʊŋ/,uœbɶmʊm
-hivernés,fr,winter,冬,/ivɛʁne/,yœbø
-Recherche,de,Research,リサーチ,/ʀeˈʃɛʁʃə/,øœbə
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+súrefni,is,oxygen,空気,/suːrɛpnɪ/,uœbʏ,œb
+rébellion,fr,rebellion,反乱,/ʁebɛljɔ̃/,øœbɔ,œb
+achèvement,fr,completion,完了,/aʃɛvmɑ̃/,ɶœbɑ,œb
+selection,en,selection,選択,/səˈɫɛkʃən/,əœbəm,œb
+Forelle,de,Trout,マス,/ˈfoːɾɛllə/,oœbə,œb
+verkefni,is,undertaking,事業,/vɛr̥kɛpnɪ/,œœbʏ,œb
+liberté,fr,freedom,フリーダム,/libɛʁte/,yœbø,œb
+chemin de fer,fr,railway,鉄道,/ʃəmɛ̃dfɛʁ/,əœbœb,œb
+allaitement,fr,feeding with milk,牛乳で餌をやります,/alɛtmɑ̃/,ɶœbɑ,œb
+receptor,en,receptor,受容体,/ɹiˈsɛptɝ/,yœbə,œb
+réservoir,fr,tank,タンク,/ʁezɛʁvwaʁ/,øœbbɶb,œb
+무개차,ko,No,いいえ,/muɡɛ̝t͡ɕʰa̠/,uœbbɶ,œb
+Telexdienst,de,Telex service,テレックスサービス,/ˈteːlɛksdiːnst/,øœbbymbb,œb
+manneldis,is,human consumption,人間の消費,/manɛltɪs/,ɶœbʏb,œb
+remercie,fr,thanks,ありがとう,/ʁəmɛʁsi/,əœby,œb
+오대조,ko,Odaejo,odaejo,/o̞dɛ̝d͡ʑo̞/,oœbo,œb
+schlängeltest,de,meandering test,蛇行テスト,/ˈʃlɛŋɛltɛst/,œœbœbb,œb
+Widerspruch,de,Objection,異議,/ˈviːdɛɾspɾʊx/,yœbbʊb,œb
+实业家,zh-cn,Industrialist,産業家,/ʂɚ˧˥ jɛ˥˩ tɕja˥˥/,əœbbɶ,œb
+Sardelle,de,anchovy,アンチョビ,/ˈzaɾdɛllə/,ɶœbə,œb
+Ruhespannung,de,Resting,休憩,/ˈɾuːɛspannʊŋ/,uœbɶmʊm,œb
+hivernés,fr,winter,冬,/ivɛʁne/,yœbø,œb
+Recherche,de,Research,リサーチ,/ʀeˈʃɛʁʃə/,øœbə,œb

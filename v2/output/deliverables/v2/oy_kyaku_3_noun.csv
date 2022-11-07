@@ -1,22 +1,22 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-沼泽地,zh-cn,wetlands,湿地,/ʈʂɑʊ˨˩˦ tsɤ˧˥ ti˥˩/,ɑʊboy
-不本意,ja,Unwilling,不本意,/ɸɯhoɴi/,uoy
-atomi,fi,atom,原子,/ˈɑtomi/,ɑoy
-Fiŝoj,eo,Fish,魚,/fiʃoi/,yoy
-ランドリー,ja,laundry,ランドリー,/ɾaɴdoɾiː/,ɶmoy
-쇠고기,ko,beef,牛肉,/sʰø̞ɡo̞ɡi/,bøoy
-neuroni,fi,neuron,ニューロン,/ˈneuroni/,øuoy
-誇り,ja,pride,誇り,/hokoɾi/,ooy
-marmori,fi,marble,大理石,/ˈmɑrmori/,ɑoy
-ironi,id,irony,アイロニー,/ironi/,yoy
-escomí,es,I escomí,私はエスコンです,/eskoˈmi/,øboy
-御年,ja,Age,御年,/oɴtoɕi/,omoy
-幟,ja,Banner,幟,/noboɾi/,ooy
-violoni,/violoni/,violin,バイオリン,yooy,eo
-ébaubi,fr,sketch,スケッチ,/ebobi/,øoy
-rosoli,es,Rosoli,ロソリ,/rosoli/,ooy
-gondoli,fi,gondola,ゴンドラ,/ˈgondoli/,omoy
-izvodi,ro,izvodite,izvodite,/izvodi/,yboy
-disjoki,id,Disjoki,ディゾキ,/disdʒoki/,ybboy
-Hardcopy,de,Hardcopy,ハードコピー,/ˈhaɾtkopy/,ɶboy
-관노비,ko,Gwannobi,グワンノビ,/kwa̠nno̞bi/,bɶmoy
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+沼泽地,zh-cn,wetlands,湿地,/ʈʂɑʊ˨˩˦ tsɤ˧˥ ti˥˩/,ɑʊboy,oy
+不本意,ja,Unwilling,不本意,/ɸɯhoɴi/,uoy,oy
+atomi,fi,atom,原子,/ˈɑtomi/,ɑoy,oy
+Fiŝoj,eo,Fish,魚,/fiʃoi/,yoy,oy
+ランドリー,ja,laundry,ランドリー,/ɾaɴdoɾiː/,ɶmoy,oy
+쇠고기,ko,beef,牛肉,/sʰø̞ɡo̞ɡi/,bøoy,oy
+neuroni,fi,neuron,ニューロン,/ˈneuroni/,øuoy,oy
+誇り,ja,pride,誇り,/hokoɾi/,ooy,oy
+marmori,fi,marble,大理石,/ˈmɑrmori/,ɑoy,oy
+ironi,id,irony,アイロニー,/ironi/,yoy,oy
+escomí,es,I escomí,私はエスコンです,/eskoˈmi/,øboy,oy
+御年,ja,Age,御年,/oɴtoɕi/,omoy,oy
+幟,ja,Banner,幟,/noboɾi/,ooy,oy
+violoni,/violoni/,violin,バイオリン,yooy,eo,oy
+ébaubi,fr,sketch,スケッチ,/ebobi/,øoy,oy
+rosoli,es,Rosoli,ロソリ,/rosoli/,ooy,oy
+gondoli,fi,gondola,ゴンドラ,/ˈgondoli/,omoy,oy
+izvodi,ro,izvodite,izvodite,/izvodi/,yboy,oy
+disjoki,id,Disjoki,ディゾキ,/disdʒoki/,ybboy,oy
+Hardcopy,de,Hardcopy,ハードコピー,/ˈhaɾtkopy/,ɶboy,oy
+관노비,ko,Gwannobi,グワンノビ,/kwa̠nno̞bi/,bɶmoy,oy

@@ -1,28 +1,28 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-voltigeur,fr,outfit,衣装,/vɔltiʒœʁ/,ɔbyœb
-þvottavél,is,washing machine,洗濯機,/θvɔhtavjɛːl/,bɔɶbœb
-cigarette,fr,cigarette,シガレット,/sigaʁɛt/,yɶœb
-millénaire,fr,millennium,ミレニアム,/milenɛʁ/,yøœb
-locataire,fr,tenant,テナント,/lɔkatɛʁ/,ɔɶœb
-harponneur,fr,harpooner,harpooner,/ʼaʁpɔnœʁ/,ɶbɔœb
-jakkaföt,is,suit,スーツ,/jahkafœːt/,ɶɶœb
-hypothèse,fr,hypothesis,仮説,/ipɔtɛz/,yɔœb
-Messgerät,de,Measuring device,測定デバイス,/ˈmɛssgeɾɛt/,œbbøœb
-rennibraut,is,slide,滑り台,/rɛnɪprœjt/,œʏbœb
-étagère,fr,shelf,棚,/etaʒɛʁ/,øɶœb
-profondeur,fr,depth,深さ,/pʁɔfɔ̃dœʁ/,bɔɔœb
-xe bọc thép,vi,armored vehicle,装甲車,/sɛ˧˥ bɔk͡p˨ˀ˩ʔ tʰɛp˦˥/,œɔbbbbœb
-Frühaufstehers,de,Early riser,早起きな人,/ˈfɾyːaofsteɛɾs/,byɶobbøœb
-유채색,ko,Ruin,破滅,/jut͡ɕʰɛ̝sʰɛ̝k̚/,ubbœbœb
-황토색,ko,Ocher color,黄土色,/ɸwa̠ŋtʰo̞sʰɛ̝k̚/,ɶmbobœb
-Lehrkörpers,de,Teaching staff,教員,/ˈleɾkœɾpɛɾs/,øœœb
-Mystikers,/ˈmʏstikɛɾs/,Mystic,神秘的な,ʏbyœb,de
-bétonnèrent,/betɔnɛʁ/,concrete,コンクリート,øɔœb,fr
-담갈색,ko,Brown,茶色,/ta̠mɡa̠ɭsʰɛ̝k̚/,ɶmɶbœb
-cứng như thép,/kɯŋ˩˧ ɲɯ˧˥ tʰɛp˦˥/,steely,スティーリー,umubœb,vi
-svínakjöt,is,pork,豚肉,/sviːnacœːt/,byɶœb
-dépanneur,fr,convenience store,コンビニ,/depanœʁ/,øɶœb
-thyself,en,thyself,自分自身,/ˌðaɪˈsɛɫf/,ɶʏœb
-빙정핵,ko,Ice tablet,アイスタブレット,/piŋd͡ʑʌ̹ŋɦɛ̝k̚/,ymbɔmœb
-new-yorkaises,fr,New York,ニューヨーク,/nujɔʁkɛz/,uɔbœb
-lokaumferð,is,block,ブロック,/lɔːkaʏmfɛrð/,ɔɶʏmœb
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+voltigeur,fr,outfit,衣装,/vɔltiʒœʁ/,ɔbyœb,œb
+þvottavél,is,washing machine,洗濯機,/θvɔhtavjɛːl/,bɔɶbœb,œb
+cigarette,fr,cigarette,シガレット,/sigaʁɛt/,yɶœb,œb
+millénaire,fr,millennium,ミレニアム,/milenɛʁ/,yøœb,œb
+locataire,fr,tenant,テナント,/lɔkatɛʁ/,ɔɶœb,œb
+harponneur,fr,harpooner,harpooner,/ʼaʁpɔnœʁ/,ɶbɔœb,œb
+jakkaföt,is,suit,スーツ,/jahkafœːt/,ɶɶœb,œb
+hypothèse,fr,hypothesis,仮説,/ipɔtɛz/,yɔœb,œb
+Messgerät,de,Measuring device,測定デバイス,/ˈmɛssgeɾɛt/,œbbøœb,œb
+rennibraut,is,slide,滑り台,/rɛnɪprœjt/,œʏbœb,œb
+étagère,fr,shelf,棚,/etaʒɛʁ/,øɶœb,œb
+profondeur,fr,depth,深さ,/pʁɔfɔ̃dœʁ/,bɔɔœb,œb
+xe bọc thép,vi,armored vehicle,装甲車,/sɛ˧˥ bɔk͡p˨ˀ˩ʔ tʰɛp˦˥/,œɔbbbbœb,œb
+Frühaufstehers,de,Early riser,早起きな人,/ˈfɾyːaofsteɛɾs/,byɶobbøœb,œb
+유채색,ko,Ruin,破滅,/jut͡ɕʰɛ̝sʰɛ̝k̚/,ubbœbœb,œb
+황토색,ko,Ocher color,黄土色,/ɸwa̠ŋtʰo̞sʰɛ̝k̚/,ɶmbobœb,œb
+Lehrkörpers,de,Teaching staff,教員,/ˈleɾkœɾpɛɾs/,øœœb,œb
+Mystikers,/ˈmʏstikɛɾs/,Mystic,神秘的な,ʏbyœb,de,œb
+bétonnèrent,/betɔnɛʁ/,concrete,コンクリート,øɔœb,fr,œb
+담갈색,ko,Brown,茶色,/ta̠mɡa̠ɭsʰɛ̝k̚/,ɶmɶbœb,œb
+cứng như thép,/kɯŋ˩˧ ɲɯ˧˥ tʰɛp˦˥/,steely,スティーリー,umubœb,vi,œb
+svínakjöt,is,pork,豚肉,/sviːnacœːt/,byɶœb,œb
+dépanneur,fr,convenience store,コンビニ,/depanœʁ/,øɶœb,œb
+thyself,en,thyself,自分自身,/ˌðaɪˈsɛɫf/,ɶʏœb,œb
+빙정핵,ko,Ice tablet,アイスタブレット,/piŋd͡ʑʌ̹ŋɦɛ̝k̚/,ymbɔmœb,œb
+new-yorkaises,fr,New York,ニューヨーク,/nujɔʁkɛz/,uɔbœb,œb
+lokaumferð,is,block,ブロック,/lɔːkaʏmfɛrð/,ɔɶʏmœb,œb

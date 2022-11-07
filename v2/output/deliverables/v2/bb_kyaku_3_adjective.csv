@@ -1,21 +1,21 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-honorable,fr,honorable,名誉,/ɔnɔʁabl/,ɔɔɶbb
-glæsilegt,is,elegant,エレガント,/klaiːsɪlɛxt/,bɶyʏœbb
-disponible,fr,available,利用可能,/dispɔnibl/,ybɔybb
-chitarist,ro,guitarist,ギタリスト,/kʲ̩itarist/,yyɶybb
-endanlegt,is,finally,最後に,/ɛntanlɛxt/,œmɶmœbb
-supportable,fr,bearable,耐えられる,/sypɔʁtabl/,yɔbɶbb
-dramatískt,is,dramatic,劇的,/traːmatist/,bɶɶybb
-unbiased,en,unbiased,公平です,/ˌənˈbaɪəst/,əmɶʏəbb
-pompes funèbres,fr,Funeral pumps,葬儀ポンプ,/pɔ̃pfynɛbʁ/,ɔbyœbb
-لادف,ar,Dramatic,劇的,/liʔadiff/,yɶybb
-orthodoxes,fr,orthodox,正統派,/ɔʁtɔdɔks/,ɔbɔɔbb
-sinh bệnh học,vi,pathogenic,病原性,/ʂin˧˥ ben˨ˀ˩ʔ hɔk͡p˨ˀ˩ʔ/,ymømbɔbbb
-truyền giáo học,vi,missionary,宣教師,/ʈwiəŋ˦˨ jaw˩˧ hɔk͡p˨ˀ˩ʔ/,yəmɶɔbbb
-bất can thiệp,vi,Interventional,介入,/bɤ̆k˦˥ kaŋ˧˥ tʰiəp˨ˀ˩ʔ/,obɶmbyəbb
-sannaðist,is,was true,本当でした,/sanaðɪst/,ɶɶʏbb
-anzweifelst,de,test,テスト,/ˈʔanˌtsvaefɛlst/,ɶmbbɶøœbbb
-studențesc,ro,student's,学生,/studentsesk/,buømbøbb
-كممتد,ar,As an extended,拡張として,/kamumtadd/,ɶumɶbb
-unnoticed,en,unnoticed,気付かれない,/ənˈnoʊtɪst/,əmoʊʏbb
-فبالسلج,ar,With the sultan,スルタンと,/fabiaːlsaldʒ/,ɶyɶbɶbb
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+honorable,fr,honorable,名誉,/ɔnɔʁabl/,ɔɔɶbb,bb
+glæsilegt,is,elegant,エレガント,/klaiːsɪlɛxt/,bɶyʏœbb,bb
+disponible,fr,available,利用可能,/dispɔnibl/,ybɔybb,bb
+chitarist,ro,guitarist,ギタリスト,/kʲ̩itarist/,yyɶybb,bb
+endanlegt,is,finally,最後に,/ɛntanlɛxt/,œmɶmœbb,bb
+supportable,fr,bearable,耐えられる,/sypɔʁtabl/,yɔbɶbb,bb
+dramatískt,is,dramatic,劇的,/traːmatist/,bɶɶybb,bb
+unbiased,en,unbiased,公平です,/ˌənˈbaɪəst/,əmɶʏəbb,bb
+pompes funèbres,fr,Funeral pumps,葬儀ポンプ,/pɔ̃pfynɛbʁ/,ɔbyœbb,bb
+لادف,ar,Dramatic,劇的,/liʔadiff/,yɶybb,bb
+orthodoxes,fr,orthodox,正統派,/ɔʁtɔdɔks/,ɔbɔɔbb,bb
+sinh bệnh học,vi,pathogenic,病原性,/ʂin˧˥ ben˨ˀ˩ʔ hɔk͡p˨ˀ˩ʔ/,ymømbɔbbb,bb
+truyền giáo học,vi,missionary,宣教師,/ʈwiəŋ˦˨ jaw˩˧ hɔk͡p˨ˀ˩ʔ/,yəmɶɔbbb,bb
+bất can thiệp,vi,Interventional,介入,/bɤ̆k˦˥ kaŋ˧˥ tʰiəp˨ˀ˩ʔ/,obɶmbyəbb,bb
+sannaðist,is,was true,本当でした,/sanaðɪst/,ɶɶʏbb,bb
+anzweifelst,de,test,テスト,/ˈʔanˌtsvaefɛlst/,ɶmbbɶøœbbb,bb
+studențesc,ro,student's,学生,/studentsesk/,buømbøbb,bb
+كممتد,ar,As an extended,拡張として,/kamumtadd/,ɶumɶbb,bb
+unnoticed,en,unnoticed,気付かれない,/ənˈnoʊtɪst/,əmoʊʏbb,bb
+فبالسلج,ar,With the sultan,スルタンと,/fabiaːlsaldʒ/,ɶyɶbɶbb,bb

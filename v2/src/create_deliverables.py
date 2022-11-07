@@ -20,9 +20,9 @@ def main():
                 for unique_ipa_rhyme in unique_ipa_rhyme_group:
                     tmp = df[(df["pos"] == unique_pos) & (df["rhyme_type"] == unique_type) & (
                                 df["syllable"] == unique_syllable) & (df["match_ipa_rhyme"] == unique_ipa_rhyme)]
-                    tmp_word = tmp[["word", "word_lang", "word_en", "word_ja", "word_ipa", "word_ipa_rhyme"]]
-                    tmp_pair_word = tmp[["pair_word", "pair_word_lang", "pair_word_en", "pair_word_ja","pair_word_ipa", "pair_word_ipa_rhyme"]]
-                    tmp_pair_word.columns = ["word", "word_lang", "word_en", "word_ja", "word_ipa", "word_ipa_rhyme"]
+                    tmp_word = tmp[["word", "word_lang", "word_en", "word_ja", "word_ipa", "word_ipa_rhyme", "match_ipa_rhyme"]]
+                    tmp_pair_word = tmp[["pair_word", "pair_word_lang", "pair_word_en", "pair_word_ja","pair_word_ipa", "pair_word_ipa_rhyme", "match_ipa_rhyme"]]
+                    tmp_pair_word.columns = ["word", "word_lang", "word_en", "word_ja", "word_ipa", "word_ipa_rhyme", "match_ipa_rhyme"]
                     word_group = pd.concat([tmp_word, tmp_pair_word], axis=0)
                     unique_word_group = word_group.drop_duplicates(subset='word')
                     # print(unique_word_group)

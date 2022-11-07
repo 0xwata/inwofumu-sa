@@ -1,16 +1,16 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-votlendi,is,marsh,マーシュ,/vɔːtlɛntɪ/,ɔbœmʏ
-ofmetið,is,overstate,誇張,/ɔvmɛtɪð/,ɔbœʏb
-尖叫,zh-cn,Scream,悲鳴,/tɕjɛn˥˥ tɕjɑʊ˥˩/,bbœmbbɑʊ
-loswerden,de,Get rid of,取り除く,/ˈlɔsvɛɾdən/,ɔbœəm
-túp lều,vi,Hut,小屋,/tup˦˥ lɛu˦˨/,ubœu
-viðvörun,is,warning,警告,/vɪðvœrʏn/,ʏbœʏm
-orchestrez,fr,orchestrate,オーケストレート,/ɔʁkɛstʁe/,ɔbœbbø
-doppelnden,de,double,ダブル,/ˈdɔppɛlndən/,ɔbœbməm
-doppelten,/ˈdɔppɛltən/,duplicate,複製,ɔbœbəm,de
-zwängenden,de,squad,分隊,/ˈtsvɛŋɛndən/,bbœœməm
-norðvestan,is,northwest,北西,/nɔrðvɛstan/,ɔbœbɶm
-bouleversais,fr,upset,動揺,/bulvɛʁsɛ/,ubœbœ
-wildesten,de,wildest,最もワイルド,/ˈvɪldɛstən/,ʏbœbəm
-ströngustu,is,strictest,最も厳格,/strœiŋkʏstʏ/,bbœymʏbʏ
-kollertet,de,collert,コラート,/ˈkɔllɛɾtət/,ɔbœəb
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+votlendi,is,marsh,マーシュ,/vɔːtlɛntɪ/,ɔbœmʏ,bœ
+ofmetið,is,overstate,誇張,/ɔvmɛtɪð/,ɔbœʏb,bœ
+尖叫,zh-cn,Scream,悲鳴,/tɕjɛn˥˥ tɕjɑʊ˥˩/,bbœmbbɑʊ,bœ
+loswerden,de,Get rid of,取り除く,/ˈlɔsvɛɾdən/,ɔbœəm,bœ
+túp lều,vi,Hut,小屋,/tup˦˥ lɛu˦˨/,ubœu,bœ
+viðvörun,is,warning,警告,/vɪðvœrʏn/,ʏbœʏm,bœ
+orchestrez,fr,orchestrate,オーケストレート,/ɔʁkɛstʁe/,ɔbœbbø,bœ
+doppelnden,de,double,ダブル,/ˈdɔppɛlndən/,ɔbœbməm,bœ
+doppelten,/ˈdɔppɛltən/,duplicate,複製,ɔbœbəm,de,bœ
+zwängenden,de,squad,分隊,/ˈtsvɛŋɛndən/,bbœœməm,bœ
+norðvestan,is,northwest,北西,/nɔrðvɛstan/,ɔbœbɶm,bœ
+bouleversais,fr,upset,動揺,/bulvɛʁsɛ/,ubœbœ,bœ
+wildesten,de,wildest,最もワイルド,/ˈvɪldɛstən/,ʏbœbəm,bœ
+ströngustu,is,strictest,最も厳格,/strœiŋkʏstʏ/,bbœymʏbʏ,bœ
+kollertet,de,collert,コラート,/ˈkɔllɛɾtət/,ɔbœəb,bœ

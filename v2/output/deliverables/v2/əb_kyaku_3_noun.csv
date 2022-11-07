@@ -1,20 +1,20 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-undershirt,en,undershirt,アンダーシャツ,/ˈəndɝˌʃɝt/,əməəb
-privilege,en,privilege,特権,/ˈpɹɪvɪɫədʒ/,bʏʏəb
-emerald,en,emerald,エメラルド,/ˈɛmɝɹəɫd/,œəəb
-happiness,en,happiness,幸福,/ˈhæpinəs/,æyəb
-calculus,en,calculus,微積分,/ˈkæɫkjəɫəs/,æbəəb
-abacus,en,abacus,そろばん,/ˈæbəkəs/,æəəb
-spectacles,en,spectacles,眼鏡,/ˈspɛktəkəɫz/,bœbəəb
-artikel,id,article,論文,/artikəl/,ɶyəb
-awareness,en,awareness,意識,/əˈwɛɹnəs/,əœəb
-Preisamtes,de,Price,価格,/ˈpɾaezamtəs/,bɶøɶməb
-spinnakers,fr,spinnakers,スピンネーカー,/spinekəʁ/,byøəb
-Ostblockes,de,Eastern Bloc,東部ブロック,/ˈʔɔstblɔkəs/,ɔbbbɔəb
-Selbstschutzes,de,Self -protection,自己防衛,/ˈzɛlpstʃʊtsəs/,œbbbbʊbəb
-peningset,id,Peningset,Peningset,/pəniŋsət/,əyməb
-góc nội tiếp,vi,inscribed corner,刻まれたコーナー,/ɣɔk͡p˦˥ noj˨ˀ˩ʔ tiəp˦˥/,ɔbbobyəb
-behandel,id,Behandel,ベハンデル,/bəhandəl/,əɶməb
-logofăt,ro,chancellor,首相,/loɡofət/,ooəb
-enemas,en,enemas,Enemas,/ˈɛnəməz/,œəəb
-Geschwätzes,de,Chatter,おしゃべり,/gəˈʃvɛtsəs/,əœbəb
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+undershirt,en,undershirt,アンダーシャツ,/ˈəndɝˌʃɝt/,əməəb,əb
+privilege,en,privilege,特権,/ˈpɹɪvɪɫədʒ/,bʏʏəb,əb
+emerald,en,emerald,エメラルド,/ˈɛmɝɹəɫd/,œəəb,əb
+happiness,en,happiness,幸福,/ˈhæpinəs/,æyəb,əb
+calculus,en,calculus,微積分,/ˈkæɫkjəɫəs/,æbəəb,əb
+abacus,en,abacus,そろばん,/ˈæbəkəs/,æəəb,əb
+spectacles,en,spectacles,眼鏡,/ˈspɛktəkəɫz/,bœbəəb,əb
+artikel,id,article,論文,/artikəl/,ɶyəb,əb
+awareness,en,awareness,意識,/əˈwɛɹnəs/,əœəb,əb
+Preisamtes,de,Price,価格,/ˈpɾaezamtəs/,bɶøɶməb,əb
+spinnakers,fr,spinnakers,スピンネーカー,/spinekəʁ/,byøəb,əb
+Ostblockes,de,Eastern Bloc,東部ブロック,/ˈʔɔstblɔkəs/,ɔbbbɔəb,əb
+Selbstschutzes,de,Self -protection,自己防衛,/ˈzɛlpstʃʊtsəs/,œbbbbʊbəb,əb
+peningset,id,Peningset,Peningset,/pəniŋsət/,əyməb,əb
+góc nội tiếp,vi,inscribed corner,刻まれたコーナー,/ɣɔk͡p˦˥ noj˨ˀ˩ʔ tiəp˦˥/,ɔbbobyəb,əb
+behandel,id,Behandel,ベハンデル,/bəhandəl/,əɶməb,əb
+logofăt,ro,chancellor,首相,/loɡofət/,ooəb,əb
+enemas,en,enemas,Enemas,/ˈɛnəməz/,œəəb,əb
+Geschwätzes,de,Chatter,おしゃべり,/gəˈʃvɛtsəs/,əœbəb,əb

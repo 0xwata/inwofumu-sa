@@ -1,17 +1,17 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-Kojote,de,coyote,コヨーテ,/koˈjoːtə/,ooə
-epocă,ro,epoch,時代,/epokə/,øoə
-Strumpfhose,de,Pantyhose,パンスト,/ˈʃtʀʊmpfˌhoːzə/,bʊmbboə
-forfotă,ro,bustle,bus騒,/forfotə/,ooə
-Kanone,de,cannon,大砲,/ˈkanoːnə/,ɶoə
-Konsole,de,console,コンソール,/ˈkɔnzolə/,ɔmoə
-Mimose,de,mimosa,ミモザ,/ˈmiːmozə/,yoə
-metodă,ro,method,方法,/metodə/,øoə
-doeloe,id,Doeloe,ドロエ,/doəloə/,oəoə
-Steinkohle,de,Hard coal,無煙炭,/ˈʃtaeŋkolə/,ɶømoə
-période,id,period,限目,/periodə/,øyoə
-Nicole,de,Nicole,ニコール,/ˈniːkolə/,yoə
-métode,/metodə/,method,方法,øoə,id
-periode,id,period,限目,/pəriodə/,əyoə
-komposer,id,Composer,作曲,/komposər/,omoə
-entraube,de,die,死ぬ,/ʔɛntˈɾaobə/,œmbɶoə
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+Kojote,de,coyote,コヨーテ,/koˈjoːtə/,ooə,oə
+epocă,ro,epoch,時代,/epokə/,øoə,oə
+Strumpfhose,de,Pantyhose,パンスト,/ˈʃtʀʊmpfˌhoːzə/,bʊmbboə,oə
+forfotă,ro,bustle,bus騒,/forfotə/,ooə,oə
+Kanone,de,cannon,大砲,/ˈkanoːnə/,ɶoə,oə
+Konsole,de,console,コンソール,/ˈkɔnzolə/,ɔmoə,oə
+Mimose,de,mimosa,ミモザ,/ˈmiːmozə/,yoə,oə
+metodă,ro,method,方法,/metodə/,øoə,oə
+doeloe,id,Doeloe,ドロエ,/doəloə/,oəoə,oə
+Steinkohle,de,Hard coal,無煙炭,/ˈʃtaeŋkolə/,ɶømoə,oə
+période,id,period,限目,/periodə/,øyoə,oə
+Nicole,de,Nicole,ニコール,/ˈniːkolə/,yoə,oə
+métode,/metodə/,method,方法,øoə,id,oə
+periode,id,period,限目,/pəriodə/,əyoə,oə
+komposer,id,Composer,作曲,/komposər/,omoə,oə
+entraube,de,die,死ぬ,/ʔɛntˈɾaobə/,œmbɶoə,oə

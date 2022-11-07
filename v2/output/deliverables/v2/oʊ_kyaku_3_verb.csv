@@ -1,16 +1,16 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-保佑,zh-cn,bless,祝福,/pɑʊ˨˩˦ joʊ˥˩/,ɑʊoʊ
-rainbow,en,rainbow,虹,/ˈɹeɪnˌboʊ/,øʏmoʊ
-出售,zh-cn,sell,売る,/ʈʂʰu˥˥ ʂoʊ˥˩/,uoʊ
-fellow,en,fellow,仲間,/ˈfɛɫoʊ/,œoʊ
-自由,zh-cn,free,自由,/tsɯ˥˩ joʊ˧˥/,buoʊ
-扶手,zh-cn,armrest,ひじかけ,/fu˧˥ ʂoʊ˨˩˦/,uoʊ
-拥有,zh-cn,have,持ってる,/jʊŋ˥˥ joʊ˨˩˦/,ʊmoʊ
-toshio,en,toshio,トシオ,/toʊˈʃioʊ/,oʊyoʊ
-俟候,zh-cn,Wait,待って,/sɯ˥˩ xoʊ˥˩/,uoʊ
-inlow,en,inlow,インロー,/ˌɪnˈɫoʊ/,ʏmoʊ
-嗔诟,zh-cn,Criticize,批判,/ʈʂʰən˥˥ koʊ˥˩/,əmoʊ
-conlow,en,conlow,コンロー,/ˈkɑnɫoʊ/,ɑmoʊ
-rautio,en,rautio,ラティオ,/ˈɹaʊtioʊ/,ɶʊyoʊ
-forero,en,forero,フォーロ,/ˈfɔɹoʊ/,ɔoʊ
-olmo,en,olmo,オルモ,/ˈoʊɫmoʊ/,oʊoʊ
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+保佑,zh-cn,bless,祝福,/pɑʊ˨˩˦ joʊ˥˩/,ɑʊoʊ,oʊ
+rainbow,en,rainbow,虹,/ˈɹeɪnˌboʊ/,øʏmoʊ,oʊ
+出售,zh-cn,sell,売る,/ʈʂʰu˥˥ ʂoʊ˥˩/,uoʊ,oʊ
+fellow,en,fellow,仲間,/ˈfɛɫoʊ/,œoʊ,oʊ
+自由,zh-cn,free,自由,/tsɯ˥˩ joʊ˧˥/,buoʊ,oʊ
+扶手,zh-cn,armrest,ひじかけ,/fu˧˥ ʂoʊ˨˩˦/,uoʊ,oʊ
+拥有,zh-cn,have,持ってる,/jʊŋ˥˥ joʊ˨˩˦/,ʊmoʊ,oʊ
+toshio,en,toshio,トシオ,/toʊˈʃioʊ/,oʊyoʊ,oʊ
+俟候,zh-cn,Wait,待って,/sɯ˥˩ xoʊ˥˩/,uoʊ,oʊ
+inlow,en,inlow,インロー,/ˌɪnˈɫoʊ/,ʏmoʊ,oʊ
+嗔诟,zh-cn,Criticize,批判,/ʈʂʰən˥˥ koʊ˥˩/,əmoʊ,oʊ
+conlow,en,conlow,コンロー,/ˈkɑnɫoʊ/,ɑmoʊ,oʊ
+rautio,en,rautio,ラティオ,/ˈɹaʊtioʊ/,ɶʊyoʊ,oʊ
+forero,en,forero,フォーロ,/ˈfɔɹoʊ/,ɔoʊ,oʊ
+olmo,en,olmo,オルモ,/ˈoʊɫmoʊ/,oʊoʊ,oʊ

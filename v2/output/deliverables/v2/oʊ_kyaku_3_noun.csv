@@ -1,23 +1,23 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-taco,en,taco,タコス,/ˈtɑkoʊ/,ɑoʊ
-垒球,zh-cn,softball,,/leɪ˨˩˦ tɕʰjoʊ˧˥/,øʏbboʊ
-理由,zh-cn,reason,理由,/li˨˩˦ joʊ˧˥/,yoʊ
-alto,en,alto,アルト,/ˈæɫtoʊ/,æoʊ
-ratio,en,ratio,比,/ˈɹeɪʃiˌoʊ/,øʏyoʊ
-logo,en,logo,ロゴ,/ˈɫoʊɡoʊ/,oʊoʊ
-猪油,zh-cn,lard,ラード,/ʈʂu˥˥ joʊ˧˥/,uoʊ
-啤酒,zh-cn,beer,ビール,/pʰi˧˥ tɕjoʊ˨˩˦/,bybboʊ
-牛肉,zh-cn,beef,牛肉,/njoʊ˧˥ ʐoʊ˥˩/,moʊoʊ
-按钮,zh-cn,Button,ボタン,/an˥˩ njoʊ˨˩˦/,ɶmmoʊ
-扫帚,zh-cn,broom,ほうき,/sɑʊ˥˩ ʈʂoʊ˧/,ɑʊoʊ
-阴谋,zh-cn,conspiracy,陰謀,/ɪn˥˥ moʊ˧˥/,ʏmoʊ
-mero,en,mero,メロ,/ˈmɛɹoʊ/,œoʊ
-naso,en,naso,鼻,/ˈnɑsoʊ/,ɑoʊ
-海鸥,zh-cn,Seagull,シーガル,/xaɪ˨˩˦ oʊ˥˥/,ɶʏoʊ
-雕镂,zh-cn,Carving,彫刻,/tjɑʊ˥˥ loʊ˥˩/,bɑʊoʊ
-乳头,zh-cn,nipple,乳首,/ʐu˨˩˦ tʰoʊ˧˥/,uboʊ
-dussault,en,dussault,Dussault,/dəˈsoʊ/,əoʊ
-garceau,/ɡɑɹˈsoʊ/,garceau,ガルコー,ɑoʊ,en
-davao,en,davao,ダバオ,/ˈdeɪvoʊ/,øʏoʊ
-reno,en,reno,リノ,/ˈɹinoʊ/,yoʊ
-woodrow,en,woodrow,woodrow,/ˈwʊˌdɹoʊ/,ʊboʊ
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+taco,en,taco,タコス,/ˈtɑkoʊ/,ɑoʊ,oʊ
+垒球,zh-cn,softball,,/leɪ˨˩˦ tɕʰjoʊ˧˥/,øʏbboʊ,oʊ
+理由,zh-cn,reason,理由,/li˨˩˦ joʊ˧˥/,yoʊ,oʊ
+alto,en,alto,アルト,/ˈæɫtoʊ/,æoʊ,oʊ
+ratio,en,ratio,比,/ˈɹeɪʃiˌoʊ/,øʏyoʊ,oʊ
+logo,en,logo,ロゴ,/ˈɫoʊɡoʊ/,oʊoʊ,oʊ
+猪油,zh-cn,lard,ラード,/ʈʂu˥˥ joʊ˧˥/,uoʊ,oʊ
+啤酒,zh-cn,beer,ビール,/pʰi˧˥ tɕjoʊ˨˩˦/,bybboʊ,oʊ
+牛肉,zh-cn,beef,牛肉,/njoʊ˧˥ ʐoʊ˥˩/,moʊoʊ,oʊ
+按钮,zh-cn,Button,ボタン,/an˥˩ njoʊ˨˩˦/,ɶmmoʊ,oʊ
+扫帚,zh-cn,broom,ほうき,/sɑʊ˥˩ ʈʂoʊ˧/,ɑʊoʊ,oʊ
+阴谋,zh-cn,conspiracy,陰謀,/ɪn˥˥ moʊ˧˥/,ʏmoʊ,oʊ
+mero,en,mero,メロ,/ˈmɛɹoʊ/,œoʊ,oʊ
+naso,en,naso,鼻,/ˈnɑsoʊ/,ɑoʊ,oʊ
+海鸥,zh-cn,Seagull,シーガル,/xaɪ˨˩˦ oʊ˥˥/,ɶʏoʊ,oʊ
+雕镂,zh-cn,Carving,彫刻,/tjɑʊ˥˥ loʊ˥˩/,bɑʊoʊ,oʊ
+乳头,zh-cn,nipple,乳首,/ʐu˨˩˦ tʰoʊ˧˥/,uboʊ,oʊ
+dussault,en,dussault,Dussault,/dəˈsoʊ/,əoʊ,oʊ
+garceau,/ɡɑɹˈsoʊ/,garceau,ガルコー,ɑoʊ,en,oʊ
+davao,en,davao,ダバオ,/ˈdeɪvoʊ/,øʏoʊ,oʊ
+reno,en,reno,リノ,/ˈɹinoʊ/,yoʊ,oʊ
+woodrow,en,woodrow,woodrow,/ˈwʊˌdɹoʊ/,ʊboʊ,oʊ

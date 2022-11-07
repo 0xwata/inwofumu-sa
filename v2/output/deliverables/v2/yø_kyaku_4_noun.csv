@@ -1,49 +1,49 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-prăpastie,ro,gulf,湾,/prəpastije/,bəɶbyø
-ajotie,fi,driveway,私道,/ˈɑjotie/,ɑoyø
-victorie,ro,victory,勝利,/viktorije/,yboyø
-pregătire,ro,training,トレーニング,/preɡətire/,bøəyø
-strălucire,ro,shine,輝く,/strəlutʃire/,bbəubyø
-murdărie,ro,dirt,泥,/murdərije/,uəyø
-ocazie,ro,occasion,機会,/okazije/,oɶyø
-simetrie,ro,symmetry,対称,/simetrije/,yøbyø
-célébrité,fr,celebrity,有名人,/selebʁite/,øøbyø
-pneumonie,ro,pneumonia,肺炎,/pneumonije/,bøuoyø
-vibrație,ro,vibration,振動,/vibratsije/,ybɶbyø
-bucurie,ro,joy,喜び,/bukurije/,uuyø
-antiquité,fr,antiquity,古代,/ɑ̃tikite/,ɑyyø
-rotație,ro,rotation,回転,/rotatsije/,oɶbyø
-organiser,fr,arrange,整える,/ɔʁganize/,ɔbɶyø
-geometrie,ro,geometry,ジオメトリ,/dʒeometrije/,bøoøbyø
-intimité,fr,privacy,プライバシー,/ɛ̃timite/,œyyø
-lenjerie,ro,linen,リネン,/lenʒerije/,ømøyø
-încălzire,ro,Heating,暖房,/ɨnkəlzire/,ʉməbyø
-explozie,ro,explosion,爆発,/eksplozije/,øbbboyø
-kivityö,fi,stonework,石細工,/ˈkivityø/,yyyø
-teologie,ro,theology,神学,/teolodʒije/,øoobyø
-fericire,ro,happiness,幸福,/feritʃire/,øybyø
-lentoyhtiö,fi,carrier,キャリア,/ˈlentoˌyhtiø/,ømoyyø
-kunalie,eo,with a fellow,仲間と,/kunalie/,uɶyø
-prédestiner,fr,predestine,プレデスチン,/pʁedɛstine/,bøœbyø
-épaississez,fr,thicken,厚くします,/epesise/,øøyø
-berdéfilé,id,march,行進,/bərdefile/,əøyø
-javellisée,fr,bleach,漂白,/ʒavelize/,ɶøyø
-Arbeitstiere,de,Work animals,働く動物,/ʔaɾbaetstiːɾe/,ɶɶøbbyø
-korjuutyö,fi,harvesting,収穫,/ˈkorjuutyø/,ouuyø
-Steppentiere,de,Steppe animals,草原動物,/ʃtɛpˈpɛntiːɾe/,œbœmyø
-heptemimer,ro,heptemimer,ヘプトミマー,/heptemimer/,øbøyø
-流行目,ja,Trend,流行目,/hajaɾime/,ɶɶyø
-espurrirte,es,giving yourself,自分に与える,/espuriɾte/,øbuyø
-Wundertiere,de,Miracle animals,奇跡の動物,/vʊndɛɾˈtiːɾe/,ʊmœyø
-otoritér,id,authoritarian,権威主義,/otoriter/,ooyø
-fertilité,fr,fertility,受胎能力,/fɛʁtilite/,œbyyø
-hết chợ thì quê,vi,The end of the market is home,市場の終わりは家です,/het˦˥ cɤ˨ˀ˩ʔ tʰi˦˨ we˧˥/,øbobbyø
-suuntauslaite,fi,trend,傾向,/ˈsuuntɑusˌlɑite/,uumɑubɑyø
-fiscalités,fr,taxation,課税,/fiskalite/,ybɶyø
-가정의례,ko,Family ritual,家族の儀式,/ka̠d͡ʑʌ̹ŋɰiɾje̞/,ɶbɔmyø
-伊達締め,ja,Date closing,伊達締め,/datedʑime/,ɶøbyø
-con nhà thi lễ,vi,Children of the exam,試験の子供,/kɔŋ͡m˧˥ ɲa˦˨ tʰi˧˥ le˧˩˨/,ɔmmɶbyø
-karvapeite,fi,coat,コート,/ˈkɑrvɑˌpeite/,ɑɑøyø
-senhezite,eo,without hesitation,ためらうことなく,/senhezite/,ømøyø
-sténotypé,fr,stenotype,ステノタイプ,/stenɔtipe/,bøɔyø
-vijelie,ro,squall,スコール,/viʒelije/,yøyø
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+prăpastie,ro,gulf,湾,/prəpastije/,bəɶbyø,yø
+ajotie,fi,driveway,私道,/ˈɑjotie/,ɑoyø,yø
+victorie,ro,victory,勝利,/viktorije/,yboyø,yø
+pregătire,ro,training,トレーニング,/preɡətire/,bøəyø,yø
+strălucire,ro,shine,輝く,/strəlutʃire/,bbəubyø,yø
+murdărie,ro,dirt,泥,/murdərije/,uəyø,yø
+ocazie,ro,occasion,機会,/okazije/,oɶyø,yø
+simetrie,ro,symmetry,対称,/simetrije/,yøbyø,yø
+célébrité,fr,celebrity,有名人,/selebʁite/,øøbyø,yø
+pneumonie,ro,pneumonia,肺炎,/pneumonije/,bøuoyø,yø
+vibrație,ro,vibration,振動,/vibratsije/,ybɶbyø,yø
+bucurie,ro,joy,喜び,/bukurije/,uuyø,yø
+antiquité,fr,antiquity,古代,/ɑ̃tikite/,ɑyyø,yø
+rotație,ro,rotation,回転,/rotatsije/,oɶbyø,yø
+organiser,fr,arrange,整える,/ɔʁganize/,ɔbɶyø,yø
+geometrie,ro,geometry,ジオメトリ,/dʒeometrije/,bøoøbyø,yø
+intimité,fr,privacy,プライバシー,/ɛ̃timite/,œyyø,yø
+lenjerie,ro,linen,リネン,/lenʒerije/,ømøyø,yø
+încălzire,ro,Heating,暖房,/ɨnkəlzire/,ʉməbyø,yø
+explozie,ro,explosion,爆発,/eksplozije/,øbbboyø,yø
+kivityö,fi,stonework,石細工,/ˈkivityø/,yyyø,yø
+teologie,ro,theology,神学,/teolodʒije/,øoobyø,yø
+fericire,ro,happiness,幸福,/feritʃire/,øybyø,yø
+lentoyhtiö,fi,carrier,キャリア,/ˈlentoˌyhtiø/,ømoyyø,yø
+kunalie,eo,with a fellow,仲間と,/kunalie/,uɶyø,yø
+prédestiner,fr,predestine,プレデスチン,/pʁedɛstine/,bøœbyø,yø
+épaississez,fr,thicken,厚くします,/epesise/,øøyø,yø
+berdéfilé,id,march,行進,/bərdefile/,əøyø,yø
+javellisée,fr,bleach,漂白,/ʒavelize/,ɶøyø,yø
+Arbeitstiere,de,Work animals,働く動物,/ʔaɾbaetstiːɾe/,ɶɶøbbyø,yø
+korjuutyö,fi,harvesting,収穫,/ˈkorjuutyø/,ouuyø,yø
+Steppentiere,de,Steppe animals,草原動物,/ʃtɛpˈpɛntiːɾe/,œbœmyø,yø
+heptemimer,ro,heptemimer,ヘプトミマー,/heptemimer/,øbøyø,yø
+流行目,ja,Trend,流行目,/hajaɾime/,ɶɶyø,yø
+espurrirte,es,giving yourself,自分に与える,/espuriɾte/,øbuyø,yø
+Wundertiere,de,Miracle animals,奇跡の動物,/vʊndɛɾˈtiːɾe/,ʊmœyø,yø
+otoritér,id,authoritarian,権威主義,/otoriter/,ooyø,yø
+fertilité,fr,fertility,受胎能力,/fɛʁtilite/,œbyyø,yø
+hết chợ thì quê,vi,The end of the market is home,市場の終わりは家です,/het˦˥ cɤ˨ˀ˩ʔ tʰi˦˨ we˧˥/,øbobbyø,yø
+suuntauslaite,fi,trend,傾向,/ˈsuuntɑusˌlɑite/,uumɑubɑyø,yø
+fiscalités,fr,taxation,課税,/fiskalite/,ybɶyø,yø
+가정의례,ko,Family ritual,家族の儀式,/ka̠d͡ʑʌ̹ŋɰiɾje̞/,ɶbɔmyø,yø
+伊達締め,ja,Date closing,伊達締め,/datedʑime/,ɶøbyø,yø
+con nhà thi lễ,vi,Children of the exam,試験の子供,/kɔŋ͡m˧˥ ɲa˦˨ tʰi˧˥ le˧˩˨/,ɔmmɶbyø,yø
+karvapeite,fi,coat,コート,/ˈkɑrvɑˌpeite/,ɑɑøyø,yø
+senhezite,eo,without hesitation,ためらうことなく,/senhezite/,ømøyø,yø
+sténotypé,fr,stenotype,ステノタイプ,/stenɔtipe/,bøɔyø,yø
+vijelie,ro,squall,スコール,/viʒelije/,yøyø,yø

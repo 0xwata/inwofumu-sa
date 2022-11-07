@@ -1,51 +1,51 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-السماد,ar,Compost,堆肥,/aːlsamaːd/,ɶbɶɶb
-قطع,ar,to cut,切る,/qatˤaʕa/,ɶbɶɶ
-أقحم,ar,inset,挿入図,/ʔaqħama/,ɶbɶɶ
-القلم,ar,the pen,ペン,/aːlqalam/,ɶbɶɶm
-carnaval,fr,carnival,カーニバル,/kaʁnaval/,ɶbɶɶb
-patriarca,es,patriarch,家長,/patɾjaɾka/,ɶbɶɶ
-مستشار,ar,Adviser,顧問,/mustaʃaːr/,ubɶɶ
-majalah,id,magazine,雑誌,/madʒalah/,ɶbɶɶ
-raksasa,id,giant,巨人,/raʔsasa/,ɶbɶɶ
-sejarah,id,history,歴史,/sədʒarah/,əbɶɶ
-المن,ar,Manna,マナ,/ʔalmana/,ɶbɶɶ
-휘파람,ko,whistle,ホイッスル,/hɥipʰa̠ɾa̠m/,ybɶɶm
-بصق,ar,spit,スピット,/basˤaqa/,ɶbɶɶ
-barnabarn,is,granddaughter,孫娘,/patnapatn̥/,ɶbɶɶbm
-عطر,ar,Perfume,香水,/ʕatˤˤara/,ɶbɶɶ
-tabrakan,id,crash,クラッシュ,/tabrakan/,ɶbɶɶm
-isyarat,id,signal,信号,/isjarat/,ybɶɶb
-زعفران,ar,saffron,サフラン,/zaʕfaraːn/,ɶbɶɶm
-almanah,ro,almanac,アルマナック,/almanah/,ɶbɶɶ
-كحل,ar,Eyeliner,アイライナー,/kaħħala/,ɶbɶɶ
-الرفاه,ar,Welfare,福祉,/aːlrafaːh/,ɶbɶɶ
-قصب,ar,cane,杖,/qasˤaba/,ɶbɶɶ
-السداد,ar,Payment,支払い,/aːlsadaːd/,ɶbɶɶb
-captalan,ro,Butterbur,蕗,/kaptalan/,ɶbɶɶm
-Nachbarast,de,Neighbor,近所の人,/ˈnaxˈbaɽast/,ɶbɶɶbb
-Agrarmarkt,de,Agricultural market,農業市場,/ˈʔagɾaɾmaɾkt/,ɶbɶɶbb
-pavoisât,fr,pavisât,パビサト,/pavwaza/,ɶbɶɶ
-أرصد,ar,Monitor,モニター,/ʔarsˤada/,ɶbɶɶ
-Agrarlands,de,Agricultural,農業,/ˈʔagɾaɾlants/,ɶbɶɶmbb
-トゥギャザー,ja,Toezother,トゥギャザー,/tɯgjazaː/,ubɶɶ
-paskala,eo,Pascal,パスカル,/paskala/,ɶbɶɶ
-hafnarsand,is,port,ポート,/hapnarsant/,ɶbɶɶmb
-Agrarland,de,Agricultural land,農地,/ˈʔagɾaɾlant/,ɶbɶɶmb
-retravaille,fr,rework,やり直し,/ʁətʁavaj/,əbɶɶ
-氯化钠,zh-cn,Sodium chloride,塩化ナトリウム,/ly˥˩ xwa˥˩ na˥˩/,ybɶɶ
-giáp lá cà,vi,armor,鎧,/jap˦˥ la˩˧ ka˦˨/,ɶbɶɶ
-maznabais,es,Maznabais,マズナバイ,/maθnaβais/,ɶbɶɶyb
-Almanach,de,almanac,アルマナック,/ˈalmaˌnax/,ɶbɶɶb
-salgadas,es,Salgadas,サルガダ,/salgaðas/,ɶbɶɶb
-niscaiva,ro,no,番号,/niskajva/,ybɶɶ
-matelassasses,fr,mattress,マットレス,/matlasas/,ɶbɶɶb
-xáp lá cà,vi,Cabinet,戸棚,/sap˦˥ la˩˧ ka˦˨/,ɶbɶɶ
-matraqua,fr,matraqua,マトラクア,/matʁaka/,ɶbɶɶ
-ujaran,id,utterance,発話,/udʒaran/,ubɶɶm
-mascara,ro,mascara,マスカラ,/maskara/,ɶbɶɶ
-박하다,ko,Pepper,コショウ,/pa̠kʰa̠da̠/,ɶbɶɶ
-bujangan,id,bachelor,学士,/budʒaŋan/,ubɶɶm
-đạo Cao Đài,vi,CaoDai,カオダイ,/daw˨ˀ˩ʔ kaw˧˥ daj˦˨/,ɶbɶɶ
-hajaran,id,subject,主題,/hadʒaran/,ɶbɶɶm
-safnahúsinu,is,museum,美術館,/sapnaðar/,ɶbɶɶ
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+السماد,ar,Compost,堆肥,/aːlsamaːd/,ɶbɶɶb,bɶɶ
+قطع,ar,to cut,切る,/qatˤaʕa/,ɶbɶɶ,bɶɶ
+أقحم,ar,inset,挿入図,/ʔaqħama/,ɶbɶɶ,bɶɶ
+القلم,ar,the pen,ペン,/aːlqalam/,ɶbɶɶm,bɶɶ
+carnaval,fr,carnival,カーニバル,/kaʁnaval/,ɶbɶɶb,bɶɶ
+patriarca,es,patriarch,家長,/patɾjaɾka/,ɶbɶɶ,bɶɶ
+مستشار,ar,Adviser,顧問,/mustaʃaːr/,ubɶɶ,bɶɶ
+majalah,id,magazine,雑誌,/madʒalah/,ɶbɶɶ,bɶɶ
+raksasa,id,giant,巨人,/raʔsasa/,ɶbɶɶ,bɶɶ
+sejarah,id,history,歴史,/sədʒarah/,əbɶɶ,bɶɶ
+المن,ar,Manna,マナ,/ʔalmana/,ɶbɶɶ,bɶɶ
+휘파람,ko,whistle,ホイッスル,/hɥipʰa̠ɾa̠m/,ybɶɶm,bɶɶ
+بصق,ar,spit,スピット,/basˤaqa/,ɶbɶɶ,bɶɶ
+barnabarn,is,granddaughter,孫娘,/patnapatn̥/,ɶbɶɶbm,bɶɶ
+عطر,ar,Perfume,香水,/ʕatˤˤara/,ɶbɶɶ,bɶɶ
+tabrakan,id,crash,クラッシュ,/tabrakan/,ɶbɶɶm,bɶɶ
+isyarat,id,signal,信号,/isjarat/,ybɶɶb,bɶɶ
+زعفران,ar,saffron,サフラン,/zaʕfaraːn/,ɶbɶɶm,bɶɶ
+almanah,ro,almanac,アルマナック,/almanah/,ɶbɶɶ,bɶɶ
+كحل,ar,Eyeliner,アイライナー,/kaħħala/,ɶbɶɶ,bɶɶ
+الرفاه,ar,Welfare,福祉,/aːlrafaːh/,ɶbɶɶ,bɶɶ
+قصب,ar,cane,杖,/qasˤaba/,ɶbɶɶ,bɶɶ
+السداد,ar,Payment,支払い,/aːlsadaːd/,ɶbɶɶb,bɶɶ
+captalan,ro,Butterbur,蕗,/kaptalan/,ɶbɶɶm,bɶɶ
+Nachbarast,de,Neighbor,近所の人,/ˈnaxˈbaɽast/,ɶbɶɶbb,bɶɶ
+Agrarmarkt,de,Agricultural market,農業市場,/ˈʔagɾaɾmaɾkt/,ɶbɶɶbb,bɶɶ
+pavoisât,fr,pavisât,パビサト,/pavwaza/,ɶbɶɶ,bɶɶ
+أرصد,ar,Monitor,モニター,/ʔarsˤada/,ɶbɶɶ,bɶɶ
+Agrarlands,de,Agricultural,農業,/ˈʔagɾaɾlants/,ɶbɶɶmbb,bɶɶ
+トゥギャザー,ja,Toezother,トゥギャザー,/tɯgjazaː/,ubɶɶ,bɶɶ
+paskala,eo,Pascal,パスカル,/paskala/,ɶbɶɶ,bɶɶ
+hafnarsand,is,port,ポート,/hapnarsant/,ɶbɶɶmb,bɶɶ
+Agrarland,de,Agricultural land,農地,/ˈʔagɾaɾlant/,ɶbɶɶmb,bɶɶ
+retravaille,fr,rework,やり直し,/ʁətʁavaj/,əbɶɶ,bɶɶ
+氯化钠,zh-cn,Sodium chloride,塩化ナトリウム,/ly˥˩ xwa˥˩ na˥˩/,ybɶɶ,bɶɶ
+giáp lá cà,vi,armor,鎧,/jap˦˥ la˩˧ ka˦˨/,ɶbɶɶ,bɶɶ
+maznabais,es,Maznabais,マズナバイ,/maθnaβais/,ɶbɶɶyb,bɶɶ
+Almanach,de,almanac,アルマナック,/ˈalmaˌnax/,ɶbɶɶb,bɶɶ
+salgadas,es,Salgadas,サルガダ,/salgaðas/,ɶbɶɶb,bɶɶ
+niscaiva,ro,no,番号,/niskajva/,ybɶɶ,bɶɶ
+matelassasses,fr,mattress,マットレス,/matlasas/,ɶbɶɶb,bɶɶ
+xáp lá cà,vi,Cabinet,戸棚,/sap˦˥ la˩˧ ka˦˨/,ɶbɶɶ,bɶɶ
+matraqua,fr,matraqua,マトラクア,/matʁaka/,ɶbɶɶ,bɶɶ
+ujaran,id,utterance,発話,/udʒaran/,ubɶɶm,bɶɶ
+mascara,ro,mascara,マスカラ,/maskara/,ɶbɶɶ,bɶɶ
+박하다,ko,Pepper,コショウ,/pa̠kʰa̠da̠/,ɶbɶɶ,bɶɶ
+bujangan,id,bachelor,学士,/budʒaŋan/,ubɶɶm,bɶɶ
+đạo Cao Đài,vi,CaoDai,カオダイ,/daw˨ˀ˩ʔ kaw˧˥ daj˦˨/,ɶbɶɶ,bɶɶ
+hajaran,id,subject,主題,/hadʒaran/,ɶbɶɶm,bɶɶ
+safnahúsinu,is,museum,美術館,/sapnaðar/,ɶbɶɶ,bɶɶ

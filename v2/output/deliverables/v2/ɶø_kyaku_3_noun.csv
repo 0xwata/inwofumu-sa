@@ -1,29 +1,29 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-ataque,es,attack,攻撃,/atake/,ɶɶø
-formare,ro,formation,形成,/formare/,oɶø
-răbdare,ro,patience,忍耐,/rəbdare/,əbɶø
-căutare,ro,search,探す,/kəutare/,əuɶø
-dublare,ro,doubling,倍増,/dublare/,ubɶø
-両替,ja,Exchange of money,両替,/ɾjoɯgae/,ouɶø
-Wäscherei,de,laundry,ランドリー,/ˈvɛʃɐ̯ae/,œɐɶø
-mâncare,ro,food,食物,/mɨnkare/,ʉmɶø
-spălare,ro,wash,洗う,/spəlare/,bəɶø
-tomate,es,tomatoes,トマト,/tomate/,oɶø
-Geweih,de,antler,角,/gəˈvae/,əɶø
-お土産,ja,Souvenir,お土産,/omiage/,oyɶø
-Malerei,de,painting,ペインティング,/ˈmalɐ̯ae/,ɶɐɶø
-赤毛,ja,Redhead,赤毛,/akage/,ɶɶø
-Druckerei,de,printing house,印刷所,/ˈdɾʊkɐ̯ae/,bʊɐɶø
-éclaté,fr,bursts,バースト,/eklate/,øbɶø
-coleare,es,COLAR,コーラー,/koleaɾe/,oøɶø
-바자회,ko,Bazaar,バザール,/pa̠d͡ʑa̠ɦø̞/,ɶbɶø
-側女,ja,Side woman,側女,/sobame/,oɶø
-detale,eo,in detail,詳細に,/detale/,øɶø
-grimacés,/gʁimase/,grimacés,グリマセス,byɶø,fr
-dépannée,/depane/,repair,修理,øɶø,fr
-Harvey,de,Harvey,ハーベイ,/ˈhaɾvae/,ɶɶø
-Fischerei,de,fishing,釣り,/ˈfɪʃɐ̯ae/,ʏɐɶø
-rilate,eo,in relation to,に関して,/rilate/,yɶø
-giấy da bê,vi,calf paper,ふくらはぎの紙,/jɤ̆j˩˧ ja˧˥ be˧˥/,oɶø
-bolease,es,Bullet,銃弾,/bolease/,oøɶø
-hopeare,es,Hopeare,ホプアー,/opeaɾe/,oøɶø
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+ataque,es,attack,攻撃,/atake/,ɶɶø,ɶø
+formare,ro,formation,形成,/formare/,oɶø,ɶø
+răbdare,ro,patience,忍耐,/rəbdare/,əbɶø,ɶø
+căutare,ro,search,探す,/kəutare/,əuɶø,ɶø
+dublare,ro,doubling,倍増,/dublare/,ubɶø,ɶø
+両替,ja,Exchange of money,両替,/ɾjoɯgae/,ouɶø,ɶø
+Wäscherei,de,laundry,ランドリー,/ˈvɛʃɐ̯ae/,œɐɶø,ɶø
+mâncare,ro,food,食物,/mɨnkare/,ʉmɶø,ɶø
+spălare,ro,wash,洗う,/spəlare/,bəɶø,ɶø
+tomate,es,tomatoes,トマト,/tomate/,oɶø,ɶø
+Geweih,de,antler,角,/gəˈvae/,əɶø,ɶø
+お土産,ja,Souvenir,お土産,/omiage/,oyɶø,ɶø
+Malerei,de,painting,ペインティング,/ˈmalɐ̯ae/,ɶɐɶø,ɶø
+赤毛,ja,Redhead,赤毛,/akage/,ɶɶø,ɶø
+Druckerei,de,printing house,印刷所,/ˈdɾʊkɐ̯ae/,bʊɐɶø,ɶø
+éclaté,fr,bursts,バースト,/eklate/,øbɶø,ɶø
+coleare,es,COLAR,コーラー,/koleaɾe/,oøɶø,ɶø
+바자회,ko,Bazaar,バザール,/pa̠d͡ʑa̠ɦø̞/,ɶbɶø,ɶø
+側女,ja,Side woman,側女,/sobame/,oɶø,ɶø
+detale,eo,in detail,詳細に,/detale/,øɶø,ɶø
+grimacés,/gʁimase/,grimacés,グリマセス,byɶø,fr,ɶø
+dépannée,/depane/,repair,修理,øɶø,fr,ɶø
+Harvey,de,Harvey,ハーベイ,/ˈhaɾvae/,ɶɶø,ɶø
+Fischerei,de,fishing,釣り,/ˈfɪʃɐ̯ae/,ʏɐɶø,ɶø
+rilate,eo,in relation to,に関して,/rilate/,yɶø,ɶø
+giấy da bê,vi,calf paper,ふくらはぎの紙,/jɤ̆j˩˧ ja˧˥ be˧˥/,oɶø,ɶø
+bolease,es,Bullet,銃弾,/bolease/,oøɶø,ɶø
+hopeare,es,Hopeare,ホプアー,/opeaɾe/,oøɶø,ɶø

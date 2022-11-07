@@ -1,27 +1,27 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-gelatiini,fi,gelatin,ゼラチン,/ˈgelɑˌtiini/,øɑyyy
-mărturisi,ro,confess,告白する,/mərturisi/,əuyy
-薬剤師,ja,pharmacist,薬剤師,/jakɯzaiɕi/,ɶuɶyy
-manikyyri,fi,manicure,マニキュア,/ˈmɑniˌkyyri/,ɑyyyy
-歇斯底里,zh-cn,hysteria,ヒステリー,/ɕjɛ˥˥ sɯ˥˥ ti˨˩˦ li˨˩˦/,bœuyy
-エポキシ,ja,Epoxy,エポキシ,/epokiɕi/,øoyy
-isoäiti,fi,grandmother,祖母,/ˈisoˌæiti/,yoæyy
-憎しみ,ja,hatred,憎しみ,/nikɯɕimi/,yuyy
-krokotiili,fi,crocodile,クロコダイル,/ˈkrokoˌtiili/,booyyy
-memiliki,id,have,持ってる,/məmiliki/,əyyy
-楽しみ,ja,fun,楽しみ,/tanoɕimi/,ɶoyy
-turvatyyny,fi,air bag,エアバッグ,/ˈturvɑˌtyyny/,uɑyyy
-フェデリーニ,ja,Federini,フェデリーニ,/ɸɯedeɾiːni/,uøøyy
-abolisi,id,abolition,廃止,/abolisi/,ɶoyy
-dĩ hoà vi quý,vi,Di Hoa Vi Quy,Di Hoa VI Quy,/ji˧˩˨ hwa˦˨ ji˧˥ wi˩˧/,yɶyy
-言不及义,zh-cn,Unreasonable,不合理,/jɛn˧˥ pu˥˩ tɕi˧˥ i˥˩/,œmubyy
-mengasini,id,ASTALI,アスタリ,/məŋasini/,əɶyy
-infinity,ro,Infinity,無限,/infiniti/,ymyyy
-nhất thủ nhì vĩ,vi,Most of the second prime,2番目の素数のほとんど,/ɲɤ̆k˦˥ tʰu˧˩˨ ɲi˦˨ ji˧˩˨/,obbuyy
-nenorociri,/nenorotʃirʲ/,misery,悲惨,øoobyy,ro
-galvanizi,eo,galvanizi,ガルバニジ,/galvanizi/,ɶbɶyy
-tavoligi,eo,layer,層,/tavoligi/,ɶoyy
-pyöröhirsi,fi,circular log,円形のログ,/ˈpyørøˌhirsi/,yøøyy
-ékspédisi,id,expedition,遠征,/eʔspedisi/,øbbøyy
-excommunies,fr,excommunications,破門,/ɛkskɔmyni/,œbbɔyy
-nam nhi chi chí,vi,Men Chi Chi,男性Chi Chi,/nam˧˥ ɲi˧˥ ci˧˥ ci˩˧/,ɶmyyy
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+gelatiini,fi,gelatin,ゼラチン,/ˈgelɑˌtiini/,øɑyyy,yy
+mărturisi,ro,confess,告白する,/mərturisi/,əuyy,yy
+薬剤師,ja,pharmacist,薬剤師,/jakɯzaiɕi/,ɶuɶyy,yy
+manikyyri,fi,manicure,マニキュア,/ˈmɑniˌkyyri/,ɑyyyy,yy
+歇斯底里,zh-cn,hysteria,ヒステリー,/ɕjɛ˥˥ sɯ˥˥ ti˨˩˦ li˨˩˦/,bœuyy,yy
+エポキシ,ja,Epoxy,エポキシ,/epokiɕi/,øoyy,yy
+isoäiti,fi,grandmother,祖母,/ˈisoˌæiti/,yoæyy,yy
+憎しみ,ja,hatred,憎しみ,/nikɯɕimi/,yuyy,yy
+krokotiili,fi,crocodile,クロコダイル,/ˈkrokoˌtiili/,booyyy,yy
+memiliki,id,have,持ってる,/məmiliki/,əyyy,yy
+楽しみ,ja,fun,楽しみ,/tanoɕimi/,ɶoyy,yy
+turvatyyny,fi,air bag,エアバッグ,/ˈturvɑˌtyyny/,uɑyyy,yy
+フェデリーニ,ja,Federini,フェデリーニ,/ɸɯedeɾiːni/,uøøyy,yy
+abolisi,id,abolition,廃止,/abolisi/,ɶoyy,yy
+dĩ hoà vi quý,vi,Di Hoa Vi Quy,Di Hoa VI Quy,/ji˧˩˨ hwa˦˨ ji˧˥ wi˩˧/,yɶyy,yy
+言不及义,zh-cn,Unreasonable,不合理,/jɛn˧˥ pu˥˩ tɕi˧˥ i˥˩/,œmubyy,yy
+mengasini,id,ASTALI,アスタリ,/məŋasini/,əɶyy,yy
+infinity,ro,Infinity,無限,/infiniti/,ymyyy,yy
+nhất thủ nhì vĩ,vi,Most of the second prime,2番目の素数のほとんど,/ɲɤ̆k˦˥ tʰu˧˩˨ ɲi˦˨ ji˧˩˨/,obbuyy,yy
+nenorociri,/nenorotʃirʲ/,misery,悲惨,øoobyy,ro,yy
+galvanizi,eo,galvanizi,ガルバニジ,/galvanizi/,ɶbɶyy,yy
+tavoligi,eo,layer,層,/tavoligi/,ɶoyy,yy
+pyöröhirsi,fi,circular log,円形のログ,/ˈpyørøˌhirsi/,yøøyy,yy
+ékspédisi,id,expedition,遠征,/eʔspedisi/,øbbøyy,yy
+excommunies,fr,excommunications,破門,/ɛkskɔmyni/,œbbɔyy,yy
+nam nhi chi chí,vi,Men Chi Chi,男性Chi Chi,/nam˧˥ ɲi˧˥ ci˧˥ ci˩˧/,ɶmyyy,yy

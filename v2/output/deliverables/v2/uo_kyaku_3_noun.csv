@@ -1,34 +1,34 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-discurso,es,speech,スピーチ,/diskuɾso/,ybuo
-リスト,ja,list,リスト,/ɾisɯto/,yuo
-ajutor,ro,help,ヘルプ,/aʒutor/,ɶuo
-fortuno,eo,fortune,運,/fortuno/,ouo
-密度,ja,density,密度,/mitsɯdo/,ybuo
-ボールト,ja,vault,ボールト,/boːɾɯto/,ouo
-パンスト,ja,pantyhose,パンスト,/paɴsɯto/,ɶmuo
-konduto,eo,behavior,行動,/konduto/,omuo
-핸드볼,ko,handball,ハンドボール,/hɛ̝ndɯbo̞ɭ/,œmuo
-influo,eo,influence,影響,/influo/,ymbuo
-kostumo,eo,costume,コスチューム,/kostumo/,obuo
-susurro,es,whisper,ささやきます,/susuro/,uuo
-テスト,ja,test,テスト,/tesɯto/,øuo
-ラフト,ja,raft,ラフト,/ɾaɸɯto/,ɶuo
-キルト,ja,Quilt,キルト,/kiɾɯto/,yuo
-unuo,eo,unit,単位,/unuo/,uuo
-nebulo,eo,fog,霧,/nebulo/,øuo
-juncușor,ro,Juncușor,juncușor,/ʒunkuʃor/,umuo
-了不得,zh-cn,Impressive,印象的,/ljɑʊ˨˩˦ pu˧ tɤ˧˥/,bɑʊuo
-șerpușor,ro,snake,ヘビ,/ʃerpuʃor/,øuo
-coadunó,es,Coadunó,コアドゥノ,/koaðuˈno/,oɶuo
-吉普车,zh-cn,jeep,ジープ,/tɕi˨˩˦ pʰu˨˩˦ ʈʂʰɤ˥˥/,bybuo
-bạc như vôi,vi,silver like lime,ライムのような銀,/bak˨ˀ˩ʔ ɲɯ˧˥ joj˧˥/,ɶbbuo
-globușor,ro,Globus,球体,/ɡlobuʃor/,bouo
-pastoureau,fr,pastoureau,パスウルー,/pastuʁo/,ɶbuo
-삼무도,/sʰa̠mmudo̞/,Sammudo,sammudo,bɶmuo,ko
-Caruso,/ˈkɑːɾuzo/,Caruso,カルーソ,ɑuo,de
-modulo,/ˈmoːdulo/,module,モジュール,ouo,de
-linguroi,ro,tablespoon,大さじ,/linɡuroj/,ymuo
-phân hữu cơ,vi,organic fertilizer,有機肥料,/fɤ̆ŋ˧˥ hɯw˧˩˨ kɤ˧˥/,omuo
-rokuo,eo,rock,石,/rokuo/,ouo
-打四折,zh-cn,Discount,割引,/ta˨˩˦ sɯ˥˩ ʈʂɤ˧˥/,ɶuo
-mușunoi,ro,bite,一口,/muʃunoj/,uuo
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+discurso,es,speech,スピーチ,/diskuɾso/,ybuo,uo
+リスト,ja,list,リスト,/ɾisɯto/,yuo,uo
+ajutor,ro,help,ヘルプ,/aʒutor/,ɶuo,uo
+fortuno,eo,fortune,運,/fortuno/,ouo,uo
+密度,ja,density,密度,/mitsɯdo/,ybuo,uo
+ボールト,ja,vault,ボールト,/boːɾɯto/,ouo,uo
+パンスト,ja,pantyhose,パンスト,/paɴsɯto/,ɶmuo,uo
+konduto,eo,behavior,行動,/konduto/,omuo,uo
+핸드볼,ko,handball,ハンドボール,/hɛ̝ndɯbo̞ɭ/,œmuo,uo
+influo,eo,influence,影響,/influo/,ymbuo,uo
+kostumo,eo,costume,コスチューム,/kostumo/,obuo,uo
+susurro,es,whisper,ささやきます,/susuro/,uuo,uo
+テスト,ja,test,テスト,/tesɯto/,øuo,uo
+ラフト,ja,raft,ラフト,/ɾaɸɯto/,ɶuo,uo
+キルト,ja,Quilt,キルト,/kiɾɯto/,yuo,uo
+unuo,eo,unit,単位,/unuo/,uuo,uo
+nebulo,eo,fog,霧,/nebulo/,øuo,uo
+juncușor,ro,Juncușor,juncușor,/ʒunkuʃor/,umuo,uo
+了不得,zh-cn,Impressive,印象的,/ljɑʊ˨˩˦ pu˧ tɤ˧˥/,bɑʊuo,uo
+șerpușor,ro,snake,ヘビ,/ʃerpuʃor/,øuo,uo
+coadunó,es,Coadunó,コアドゥノ,/koaðuˈno/,oɶuo,uo
+吉普车,zh-cn,jeep,ジープ,/tɕi˨˩˦ pʰu˨˩˦ ʈʂʰɤ˥˥/,bybuo,uo
+bạc như vôi,vi,silver like lime,ライムのような銀,/bak˨ˀ˩ʔ ɲɯ˧˥ joj˧˥/,ɶbbuo,uo
+globușor,ro,Globus,球体,/ɡlobuʃor/,bouo,uo
+pastoureau,fr,pastoureau,パスウルー,/pastuʁo/,ɶbuo,uo
+삼무도,/sʰa̠mmudo̞/,Sammudo,sammudo,bɶmuo,ko,uo
+Caruso,/ˈkɑːɾuzo/,Caruso,カルーソ,ɑuo,de,uo
+modulo,/ˈmoːdulo/,module,モジュール,ouo,de,uo
+linguroi,ro,tablespoon,大さじ,/linɡuroj/,ymuo,uo
+phân hữu cơ,vi,organic fertilizer,有機肥料,/fɤ̆ŋ˧˥ hɯw˧˩˨ kɤ˧˥/,omuo,uo
+rokuo,eo,rock,石,/rokuo/,ouo,uo
+打四折,zh-cn,Discount,割引,/ta˨˩˦ sɯ˥˩ ʈʂɤ˧˥/,ɶuo,uo
+mușunoi,ro,bite,一口,/muʃunoj/,uuo,uo

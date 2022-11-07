@@ -1,17 +1,17 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-bersumpah,id,swear,誓う,/bərsumpah/,əumɶ
-inventar,es,to invent,発明します,/imbentaɾ/,ymømɶ
-menunda,id,postpone,延期,/mənunda/,əumɶ
-pregunta,es,Question,質問,/pɾeɣunta/,bøumɶ
-agenda,es,diary,日記,/axenda/,ɶømɶ
-afhenda,is,deliver,配達,/aːvhɛnta/,ɶbœmɶ
-apuntar,es,point,点,/apuntaɾ/,ɶumɶ
-dipompa,id,pumped,ポンピングされています,/dipompa/,yomɶ
-debranșa,ro,Unplug,プラグを抜く,/debranʃa/,øbɶmɶ
-لنمهن,ar,To sleep,寝るため,/linammhnna/,yɶmmmɶ
-거짓말,ko,lie,嘘,/kʌ̹d͡ʑinma̠ɭ/,ɔbymɶ
-مدمى,ar,Pronounced,発音,/mudammaː/,uɶmɶ
-능변가,ko,Floating,フローティング,/nɯŋbjʌ̹nɡa̠/,umbɔmɶ
-enlenzar,es,Enlenzar,Enlenzar,/enlenθaɾ/,ømømɶ
-抠门儿,zh-cn,Puppet,傀儡,/kʰoʊ˥˥ mən˧˥ aɻ˧/,boʊəmɶ
-akcenta,eo,accentuated,アクセント,/akt͡senta/,ɶbbømɶ
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+bersumpah,id,swear,誓う,/bərsumpah/,əumɶ,mɶ
+inventar,es,to invent,発明します,/imbentaɾ/,ymømɶ,mɶ
+menunda,id,postpone,延期,/mənunda/,əumɶ,mɶ
+pregunta,es,Question,質問,/pɾeɣunta/,bøumɶ,mɶ
+agenda,es,diary,日記,/axenda/,ɶømɶ,mɶ
+afhenda,is,deliver,配達,/aːvhɛnta/,ɶbœmɶ,mɶ
+apuntar,es,point,点,/apuntaɾ/,ɶumɶ,mɶ
+dipompa,id,pumped,ポンピングされています,/dipompa/,yomɶ,mɶ
+debranșa,ro,Unplug,プラグを抜く,/debranʃa/,øbɶmɶ,mɶ
+لنمهن,ar,To sleep,寝るため,/linammhnna/,yɶmmmɶ,mɶ
+거짓말,ko,lie,嘘,/kʌ̹d͡ʑinma̠ɭ/,ɔbymɶ,mɶ
+مدمى,ar,Pronounced,発音,/mudammaː/,uɶmɶ,mɶ
+능변가,ko,Floating,フローティング,/nɯŋbjʌ̹nɡa̠/,umbɔmɶ,mɶ
+enlenzar,es,Enlenzar,Enlenzar,/enlenθaɾ/,ømømɶ,mɶ
+抠门儿,zh-cn,Puppet,傀儡,/kʰoʊ˥˥ mən˧˥ aɻ˧/,boʊəmɶ,mɶ
+akcenta,eo,accentuated,アクセント,/akt͡senta/,ɶbbømɶ,mɶ

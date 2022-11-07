@@ -1,16 +1,16 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-aborigen,ro,aboriginal,アボリジニ,/aboridʒen/,ɶoybøm
-terrorismi,fi,terrorism,テロ,/ˈterroˌrismi/,øoyby
-oposición,es,opposition,反対,/oposiˈθjon/,ooybom
-Opposition,de,opposition,反対,/ˌɔpoziˈtsjoːn/,ɔoybbom
-カートリッジ,ja,cartridge,カートリッジ,/kaːtoɾidʑːi/,ɶoybby
-veloittaa,fi,charge,充電,/ˈveloittɑɑ/,øoybɑɑ
-メトリック,ja,metric,メトリック,/metoɾikːɯ/,øoybu
-Waschtoiletten,de,Washing toilet,トイレを洗う,/vaʃtoiːlkɛtən/,ɶoybœəm
-terroristas,es,Terrorists,テロリスト,/teroɾistas/,øoybɶb
-au beau milieu,fr,in the middle,途中で,/obomiljø/,ooybø
-compositions,fr,compositions,作曲,/kɔ̃pozisjɔ̃/,ɔoybɔ
-tartoriță,ro,tartor,タルトル,/tartoritsə/,ɶoybə
-laconismo,es,Laconism,ラコニズム,/lakonizmo/,ɶoybo
-デモーニッシュ,ja,Demonish,デモーニッシュ,/demoːniɕːɯ/,øoybu
-népotisme,id,nepotism,ネポティズム,/nepotismə/,øoybə
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+aborigen,ro,aboriginal,アボリジニ,/aboridʒen/,ɶoybøm,oyb
+terrorismi,fi,terrorism,テロ,/ˈterroˌrismi/,øoyby,oyb
+oposición,es,opposition,反対,/oposiˈθjon/,ooybom,oyb
+Opposition,de,opposition,反対,/ˌɔpoziˈtsjoːn/,ɔoybbom,oyb
+カートリッジ,ja,cartridge,カートリッジ,/kaːtoɾidʑːi/,ɶoybby,oyb
+veloittaa,fi,charge,充電,/ˈveloittɑɑ/,øoybɑɑ,oyb
+メトリック,ja,metric,メトリック,/metoɾikːɯ/,øoybu,oyb
+Waschtoiletten,de,Washing toilet,トイレを洗う,/vaʃtoiːlkɛtən/,ɶoybœəm,oyb
+terroristas,es,Terrorists,テロリスト,/teroɾistas/,øoybɶb,oyb
+au beau milieu,fr,in the middle,途中で,/obomiljø/,ooybø,oyb
+compositions,fr,compositions,作曲,/kɔ̃pozisjɔ̃/,ɔoybɔ,oyb
+tartoriță,ro,tartor,タルトル,/tartoritsə/,ɶoybə,oyb
+laconismo,es,Laconism,ラコニズム,/lakonizmo/,ɶoybo,oyb
+デモーニッシュ,ja,Demonish,デモーニッシュ,/demoːniɕːɯ/,øoybu,oyb
+népotisme,id,nepotism,ネポティズム,/nepotismə/,øoybə,oyb

@@ -1,18 +1,18 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-Aufnahme,de,recording,録音,/ˈʔaofˌnɑmə/,ɶobɑə
-ooppera,fi,opera,オペラ,/ˈoopperɑ/,oobøɑ
-Aufkleber,de,sticker,ステッカー,/ˈʔaofˌkleːbɐ̯/,ɶobbøɐ
-Aufgabe,de,task,仕事,/ˈʔaofˌgɑːbə/,ɶobɑə
-Ausgabe,de,output,出力,/ˈʔaosˌgɑːbə/,ɶobɑə
-Aufhänger,de,hanger,ハンガー,/ˈʔaofˌhɛŋɐ̯/,ɶobœɐ
-acosta,ro,to cost,コストに,/akosta/,ɶobɶ
-ブロック,ja,block,ブロック,/bɯɾokːɯ/,uobu
-apposions,fr,affixions,接続,/apozjɔ̃/,ɶobɔ
-zooftirios,es,zoophhyrios,Zoophhyrios,/θooftiɾjos/,oobyob
-가요사,/ka̠josʰa̠/,Musician,音楽家,ɶobɶ,ko
-바로크,ko,Baroque,バロック,/pa̠ɾo̞kxɯ/,ɶobu
-apostrof,id,apostrophe,アポストロフィ,/apostrof/,ɶobbob
-顔付,ja,Face -to -face,顔付,/kaotsɯki/,ɶobuy
-aufrage,de,tag,鬼ごっこ,/ˈaoˌfɾɑːgə/,ɶobɑə
-シャロット,ja,shallot,シャロット,/ɕaɾotːo/,ɶobo
-pubosto,eo,pubic,恥骨,/pubosto/,uobo
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+Aufnahme,de,recording,録音,/ˈʔaofˌnɑmə/,ɶobɑə,ob
+ooppera,fi,opera,オペラ,/ˈoopperɑ/,oobøɑ,ob
+Aufkleber,de,sticker,ステッカー,/ˈʔaofˌkleːbɐ̯/,ɶobbøɐ,ob
+Aufgabe,de,task,仕事,/ˈʔaofˌgɑːbə/,ɶobɑə,ob
+Ausgabe,de,output,出力,/ˈʔaosˌgɑːbə/,ɶobɑə,ob
+Aufhänger,de,hanger,ハンガー,/ˈʔaofˌhɛŋɐ̯/,ɶobœɐ,ob
+acosta,ro,to cost,コストに,/akosta/,ɶobɶ,ob
+ブロック,ja,block,ブロック,/bɯɾokːɯ/,uobu,ob
+apposions,fr,affixions,接続,/apozjɔ̃/,ɶobɔ,ob
+zooftirios,es,zoophhyrios,Zoophhyrios,/θooftiɾjos/,oobyob,ob
+가요사,/ka̠josʰa̠/,Musician,音楽家,ɶobɶ,ko,ob
+바로크,ko,Baroque,バロック,/pa̠ɾo̞kxɯ/,ɶobu,ob
+apostrof,id,apostrophe,アポストロフィ,/apostrof/,ɶobbob,ob
+顔付,ja,Face -to -face,顔付,/kaotsɯki/,ɶobuy,ob
+aufrage,de,tag,鬼ごっこ,/ˈaoˌfɾɑːgə/,ɶobɑə,ob
+シャロット,ja,shallot,シャロット,/ɕaɾotːo/,ɶobo,ob
+pubosto,eo,pubic,恥骨,/pubosto/,uobo,ob

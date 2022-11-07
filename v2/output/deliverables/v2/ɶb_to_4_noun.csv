@@ -1,24 +1,24 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-cortafuegos,es,firewall,ファイアウォール,/koɾtafweɣos/,oɶbøob
-赤面,ja,blush,赤面,/akatsːɯɾa/,ɶɶbbuɶ
-تزلف,ar,fawn,子鹿,/tazallafa/,ɶɶbɶɶ
-الديك,ar,Rock,石,/ʔaladdeɪka/,ɶɶbøʏɶ
-bombardement,fr,bombing raid,爆撃,/bɔ̃baʁdəmɑ̃/,ɔɶbəɑ
-tragedie,ro,tragedy,悲劇,/tradʒedije/,bɶbøyø
-ブラッシング,ja,Brushing,ブラッシング,/bɯɾaɕːiɴgɯ/,uɶbymu
-adaptasi,id,adaptation,適応,/adaptasi/,ɶɶbɶy
-adaptare,ro,adaptation,適応,/adaptare/,ɶɶbɶø
-département,fr,department,デパートメント,/depaʁtəmɑ̃/,øɶbəɑ
-御馴染み,ja,Familiarity,御馴染み,/onadʑimi/,oɶbyy
-bão táp phong ba,vi,Storm storm,ストームストーム,/baw˧˩˨ tap˦˥ fɔŋ͡m˧˥ ba˧˥/,ɶɶbɔmmɶ
-nhà hát nhân dân,vi,People's Theater,ピープルズシアター,/ɲa˦˨ hak˦˥ ɲɤ̆ŋ˧˥ jɤ̆ŋ˧˥/,ɶɶbomom
-arrascarías,/araskaˈɾias/,Draw,描く,ɶɶbɶyɶb,es
-Botschaftssprecher,de,Embassy spokesman,大使館のスポークスマン,/ˈbɔʧaftsspɾɛçɐ̯/,ɔɶbbbbbœɐ
-traktorio,eo,tractor,トラクター,/traktorio/,bɶboyo
-Schulabschlusses,de,School leaving certificate,証明書を残して学校,/ˈʃuːlapstslʊszəs/,uɶbbbbʊbəb
-哈萨克族,zh-cn,Kazakh,カザフ,/xa˥˥ sa˥˩ kʰɤ˥˩ tsu˧˥/,ɶɶbobu
-carraspeéis,es,Carraspe you,あなたをキャラスプ,/karaspeˈeis/,ɶɶbøøyb
-tonhaltiger,de,tone -containing,トーン - コンテンネーション,/ˈtɔnaltɪgɐ̯/,ɔɶbʏɐ
-mã đáo thành công,vi,Successful code,成功したコード,/ma˧˩˨ daw˩˧ tʰan˦˨ koŋ͡m˧˥/,ɶɶbɶmomm
-métastasis,id,Métastasis,メタスタシス,/metastasis/,øɶbɶyb
-katastrejo,eo,casualty,死傷者,/katastreio/,ɶɶbbøyo
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+cortafuegos,es,firewall,ファイアウォール,/koɾtafweɣos/,oɶbøob,ɶb
+赤面,ja,blush,赤面,/akatsːɯɾa/,ɶɶbbuɶ,ɶb
+تزلف,ar,fawn,子鹿,/tazallafa/,ɶɶbɶɶ,ɶb
+الديك,ar,Rock,石,/ʔaladdeɪka/,ɶɶbøʏɶ,ɶb
+bombardement,fr,bombing raid,爆撃,/bɔ̃baʁdəmɑ̃/,ɔɶbəɑ,ɶb
+tragedie,ro,tragedy,悲劇,/tradʒedije/,bɶbøyø,ɶb
+ブラッシング,ja,Brushing,ブラッシング,/bɯɾaɕːiɴgɯ/,uɶbymu,ɶb
+adaptasi,id,adaptation,適応,/adaptasi/,ɶɶbɶy,ɶb
+adaptare,ro,adaptation,適応,/adaptare/,ɶɶbɶø,ɶb
+département,fr,department,デパートメント,/depaʁtəmɑ̃/,øɶbəɑ,ɶb
+御馴染み,ja,Familiarity,御馴染み,/onadʑimi/,oɶbyy,ɶb
+bão táp phong ba,vi,Storm storm,ストームストーム,/baw˧˩˨ tap˦˥ fɔŋ͡m˧˥ ba˧˥/,ɶɶbɔmmɶ,ɶb
+nhà hát nhân dân,vi,People's Theater,ピープルズシアター,/ɲa˦˨ hak˦˥ ɲɤ̆ŋ˧˥ jɤ̆ŋ˧˥/,ɶɶbomom,ɶb
+arrascarías,/araskaˈɾias/,Draw,描く,ɶɶbɶyɶb,es,ɶb
+Botschaftssprecher,de,Embassy spokesman,大使館のスポークスマン,/ˈbɔʧaftsspɾɛçɐ̯/,ɔɶbbbbbœɐ,ɶb
+traktorio,eo,tractor,トラクター,/traktorio/,bɶboyo,ɶb
+Schulabschlusses,de,School leaving certificate,証明書を残して学校,/ˈʃuːlapstslʊszəs/,uɶbbbbʊbəb,ɶb
+哈萨克族,zh-cn,Kazakh,カザフ,/xa˥˥ sa˥˩ kʰɤ˥˩ tsu˧˥/,ɶɶbobu,ɶb
+carraspeéis,es,Carraspe you,あなたをキャラスプ,/karaspeˈeis/,ɶɶbøøyb,ɶb
+tonhaltiger,de,tone -containing,トーン - コンテンネーション,/ˈtɔnaltɪgɐ̯/,ɔɶbʏɐ,ɶb
+mã đáo thành công,vi,Successful code,成功したコード,/ma˧˩˨ daw˩˧ tʰan˦˨ koŋ͡m˧˥/,ɶɶbɶmomm,ɶb
+métastasis,id,Métastasis,メタスタシス,/metastasis/,øɶbɶyb,ɶb
+katastrejo,eo,casualty,死傷者,/katastreio/,ɶɶbbøyo,ɶb

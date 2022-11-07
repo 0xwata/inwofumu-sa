@@ -1,31 +1,31 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-コンドル,ja,Condor,コンドル,/koɴdoɾɯ/,omou
-浸透,ja,Penetration,浸透,/ɕiɴtoɯ/,ymou
-前方,ja,Forward,前方,/zeɴpoɯ/,ømou
-変更,ja,change,変更,/heɴkoɯ/,ømou
-閃光,ja,flash,閃光,/seɴkoɯ/,ømou
-銀行,ja,Bank,銀行,/giɴkoɯ/,ymou
-燃焼,ja,combustion,燃焼,/neɴɕoɯ/,ømou
-天国,ja,heaven,天国,/teɴgokɯ/,ømou
-幻想,ja,Illusion,幻想,/geɴsoɯ/,ømou
-検討,ja,examination,検討,/keɴtoɯ/,ømou
-信仰心,ja,Religion,信仰心,/ɕiɴkoɯɕiɴ/,ymouym
-看護婦,ja,nurse,看護婦,/kaɴgoɸɯ/,ɶmou
-民族,ja,People,民族,/miɴzokɯ/,ymou
-番号,ja,number,番号,/baɴgoɯ/,ɶmou
-燃料,ja,fuel,燃料,/neɴɾjoɯ/,ømou
-運動,ja,motion,運動,/ɯɴdoɯ/,umou
-現像,ja,developing,現像,/geɴzoɯ/,ømou
-テンソル,ja,tensor,テンソル,/teɴsoɾɯ/,ømou
-tầng đối lưu,vi,convection,対流,/tɤ̆ŋ˦˨ doj˩˧ lɯw˧˥/,omou
-hình bầu dục,vi,Ellipse,楕円,/hin˦˨ bɤ̆w˦˨ juk͡p˨ˀ˩ʔ/,ymoubbb
-senzorul,ro,sensor,センサー,/senzorul/,ømoub
-rentoute,fi,relaxation,リラクゼーション,/ˈrentoute/,ømouø
-rentoutus,fi,relaxation,リラクゼーション,/ˈrentoutus/,ømouub
-simboluri,ro,symbols,シンボル,/simbolurʲ/,ymouy
-mentorul,ro,mentor,メンター,/mentorul/,ømoub
-윈도우,ko,window,窓,/ɥindo̞u/,ymou
-Vancouver,es,Vancouver,バンクーバー,/baŋkouβeɾ/,ɶmouø
-rannsóknar,is,investigation,調査,/ransouhknar/,ɶmoubɶ
-금도금,ko,gold plating,ゴールドメッキ,/kɯmdo̞ɡɯm/,umoum
-목모릉,ko,Neck,首,/mo̞ŋmo̞ɾɯŋ/,omoum
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+コンドル,ja,Condor,コンドル,/koɴdoɾɯ/,omou,mou
+浸透,ja,Penetration,浸透,/ɕiɴtoɯ/,ymou,mou
+前方,ja,Forward,前方,/zeɴpoɯ/,ømou,mou
+変更,ja,change,変更,/heɴkoɯ/,ømou,mou
+閃光,ja,flash,閃光,/seɴkoɯ/,ømou,mou
+銀行,ja,Bank,銀行,/giɴkoɯ/,ymou,mou
+燃焼,ja,combustion,燃焼,/neɴɕoɯ/,ømou,mou
+天国,ja,heaven,天国,/teɴgokɯ/,ømou,mou
+幻想,ja,Illusion,幻想,/geɴsoɯ/,ømou,mou
+検討,ja,examination,検討,/keɴtoɯ/,ømou,mou
+信仰心,ja,Religion,信仰心,/ɕiɴkoɯɕiɴ/,ymouym,mou
+看護婦,ja,nurse,看護婦,/kaɴgoɸɯ/,ɶmou,mou
+民族,ja,People,民族,/miɴzokɯ/,ymou,mou
+番号,ja,number,番号,/baɴgoɯ/,ɶmou,mou
+燃料,ja,fuel,燃料,/neɴɾjoɯ/,ømou,mou
+運動,ja,motion,運動,/ɯɴdoɯ/,umou,mou
+現像,ja,developing,現像,/geɴzoɯ/,ømou,mou
+テンソル,ja,tensor,テンソル,/teɴsoɾɯ/,ømou,mou
+tầng đối lưu,vi,convection,対流,/tɤ̆ŋ˦˨ doj˩˧ lɯw˧˥/,omou,mou
+hình bầu dục,vi,Ellipse,楕円,/hin˦˨ bɤ̆w˦˨ juk͡p˨ˀ˩ʔ/,ymoubbb,mou
+senzorul,ro,sensor,センサー,/senzorul/,ømoub,mou
+rentoute,fi,relaxation,リラクゼーション,/ˈrentoute/,ømouø,mou
+rentoutus,fi,relaxation,リラクゼーション,/ˈrentoutus/,ømouub,mou
+simboluri,ro,symbols,シンボル,/simbolurʲ/,ymouy,mou
+mentorul,ro,mentor,メンター,/mentorul/,ømoub,mou
+윈도우,ko,window,窓,/ɥindo̞u/,ymou,mou
+Vancouver,es,Vancouver,バンクーバー,/baŋkouβeɾ/,ɶmouø,mou
+rannsóknar,is,investigation,調査,/ransouhknar/,ɶmoubɶ,mou
+금도금,ko,gold plating,ゴールドメッキ,/kɯmdo̞ɡɯm/,umoum,mou
+목모릉,ko,Neck,首,/mo̞ŋmo̞ɾɯŋ/,omoum,mou

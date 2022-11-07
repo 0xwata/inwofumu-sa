@@ -1,21 +1,21 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-経済,ja,Economy,経済,/keizai/,øyɶy
-pribadi,id,personal,個人的,/pribadi/,byɶy
-傀儡,ja,puppet,傀儡,/kaiɾai/,ɶyɶy
-退廃,ja,Decadence,退廃,/taihai/,ɶyɶy
-制裁,ja,Sanctions,制裁,/seisai/,øyɶy
-曖昧,ja,ambiguous,曖昧,/aimai/,ɶyɶy
-tsunami,fr,tsunami,津波,/tsynami/,byɶy
-アイライナー,ja,eyeliner,アイライナー,/aiɾainaː/,ɶyɶyɶ
-queríais,es,You wanted,あなたは欲しかった,/keˈɾiais/,øyɶyb
-ĉina inko,eo,Chinese ink,中国のインク,/t͡ʃina inko/,byɶymo
-variasi,id,variation,変化,/variasi/,ɶyɶy
-aviadi,eo,aircraft,航空機,/aviadi/,ɶyɶy
-paysagiste,fr,landscaper,造園,/peizaʒist/,øyɶybb
-paysagistes,fr,landscapers,造園家,/peizaʒist/,øyɶybb
-médiasi,id,mediation,調停,/mediasi/,øyɶy
-plus-values,fr,capital gains,キャピタルゲイン,/plyvaly/,byɶy
-aviasi,id,aviation,航空,/aviasi/,ɶyɶy
-priyayi,id,Priyayi,priyayi,/prijaji/,byɶy
-revisáis,es,You check,あなたはチェックします,/reβiˈsais/,øyɶyb
-brillarías,es,You would shine,あなたは輝くでしょう,/bɾiʎaˈɾias/,byɶyɶb
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+経済,ja,Economy,経済,/keizai/,øyɶy,yɶy
+pribadi,id,personal,個人的,/pribadi/,byɶy,yɶy
+傀儡,ja,puppet,傀儡,/kaiɾai/,ɶyɶy,yɶy
+退廃,ja,Decadence,退廃,/taihai/,ɶyɶy,yɶy
+制裁,ja,Sanctions,制裁,/seisai/,øyɶy,yɶy
+曖昧,ja,ambiguous,曖昧,/aimai/,ɶyɶy,yɶy
+tsunami,fr,tsunami,津波,/tsynami/,byɶy,yɶy
+アイライナー,ja,eyeliner,アイライナー,/aiɾainaː/,ɶyɶyɶ,yɶy
+queríais,es,You wanted,あなたは欲しかった,/keˈɾiais/,øyɶyb,yɶy
+ĉina inko,eo,Chinese ink,中国のインク,/t͡ʃina inko/,byɶymo,yɶy
+variasi,id,variation,変化,/variasi/,ɶyɶy,yɶy
+aviadi,eo,aircraft,航空機,/aviadi/,ɶyɶy,yɶy
+paysagiste,fr,landscaper,造園,/peizaʒist/,øyɶybb,yɶy
+paysagistes,fr,landscapers,造園家,/peizaʒist/,øyɶybb,yɶy
+médiasi,id,mediation,調停,/mediasi/,øyɶy,yɶy
+plus-values,fr,capital gains,キャピタルゲイン,/plyvaly/,byɶy,yɶy
+aviasi,id,aviation,航空,/aviasi/,ɶyɶy,yɶy
+priyayi,id,Priyayi,priyayi,/prijaji/,byɶy,yɶy
+revisáis,es,You check,あなたはチェックします,/reβiˈsais/,øyɶyb,yɶy
+brillarías,es,You would shine,あなたは輝くでしょう,/bɾiʎaˈɾias/,byɶyɶb,yɶy

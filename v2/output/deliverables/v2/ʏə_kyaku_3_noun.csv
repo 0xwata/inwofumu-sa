@@ -1,19 +1,19 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-Kabine,de,cabin,キャビン,/ˈkɑːbɪnə/,ɑʏə
-survivor,en,survivor,サバイバー,/sɝˈvaɪvɝ/,əɶʏə
-omega,en,omega,オメガ,/oʊˈmeɪɡə/,oʊøʏə
-chronicle,en,chronicle,クロニクル,/ˈkɹɑnɪkəɫ/,bɑʏə
-Rosine,de,raisin,レーズン,/ˈɾoːzɪnə/,oʏə
-Geschichte,de,story,話,/gəˈʃɪçtə/,əʏə
-matchmaker,en,matchmaker,仲人,/ˈmætʃˌmeɪkɝ/,æbøʏə
-revival,en,revival,復活,/ɹiˈvaɪvəɫ/,yɶʏə
-recliner,en,recliner,リクライニングチェア,/ɹɪˈkɫaɪnɝ/,ʏbɶʏə
-咖啡室,zh-cn,Coffee,コーヒー,/kʰa˥˥ feɪ˥˥ ʂɚ˥˩/,bɶøʏə
-Jagdscheine,de,Hunting tickets,狩猟チケット,/ˈjaktʃəɪnə/,ɶbbəʏə
-nachdrücke,de,follow -up,ファローアップ,/ˈnaxˌdɾʏkə/,ɶbbʏə
-坏事,zh-cn,bad thing,悪いこと,/xuaɪ˥˩ ʂɚ˥˩/,uɶʏə
-鲁鱼亥豕,/lu˨˩˦ y˧˥ xaɪ˥˩ ʂɚ˨˩˦/,Lu Yuhai 豕,lu yuhai豕,uyɶʏə,zh-cn
-foxfire,en,foxfire,キツネの火,/ˈfɑksˌfaɪɝ/,ɑbbɶʏə
-现代史,zh-cn,Modern history,現代史,/ɕjɛn˥˩ taɪ˥˩ ʂɚ˨˩˦/,bœmɶʏə
-Gewinne,de,Profit,利益,/ɡəˈvɪnə/,əʏə
-Laufleine,de,Running line,ランニングライン,/ˈlaofləɪnə/,ɶobəʏə
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+Kabine,de,cabin,キャビン,/ˈkɑːbɪnə/,ɑʏə,ʏə
+survivor,en,survivor,サバイバー,/sɝˈvaɪvɝ/,əɶʏə,ʏə
+omega,en,omega,オメガ,/oʊˈmeɪɡə/,oʊøʏə,ʏə
+chronicle,en,chronicle,クロニクル,/ˈkɹɑnɪkəɫ/,bɑʏə,ʏə
+Rosine,de,raisin,レーズン,/ˈɾoːzɪnə/,oʏə,ʏə
+Geschichte,de,story,話,/gəˈʃɪçtə/,əʏə,ʏə
+matchmaker,en,matchmaker,仲人,/ˈmætʃˌmeɪkɝ/,æbøʏə,ʏə
+revival,en,revival,復活,/ɹiˈvaɪvəɫ/,yɶʏə,ʏə
+recliner,en,recliner,リクライニングチェア,/ɹɪˈkɫaɪnɝ/,ʏbɶʏə,ʏə
+咖啡室,zh-cn,Coffee,コーヒー,/kʰa˥˥ feɪ˥˥ ʂɚ˥˩/,bɶøʏə,ʏə
+Jagdscheine,de,Hunting tickets,狩猟チケット,/ˈjaktʃəɪnə/,ɶbbəʏə,ʏə
+nachdrücke,de,follow -up,ファローアップ,/ˈnaxˌdɾʏkə/,ɶbbʏə,ʏə
+坏事,zh-cn,bad thing,悪いこと,/xuaɪ˥˩ ʂɚ˥˩/,uɶʏə,ʏə
+鲁鱼亥豕,/lu˨˩˦ y˧˥ xaɪ˥˩ ʂɚ˨˩˦/,Lu Yuhai 豕,lu yuhai豕,uyɶʏə,zh-cn,ʏə
+foxfire,en,foxfire,キツネの火,/ˈfɑksˌfaɪɝ/,ɑbbɶʏə,ʏə
+现代史,zh-cn,Modern history,現代史,/ɕjɛn˥˩ taɪ˥˩ ʂɚ˨˩˦/,bœmɶʏə,ʏə
+Gewinne,de,Profit,利益,/ɡəˈvɪnə/,əʏə,ʏə
+Laufleine,de,Running line,ランニングライン,/ˈlaofləɪnə/,ɶobəʏə,ʏə

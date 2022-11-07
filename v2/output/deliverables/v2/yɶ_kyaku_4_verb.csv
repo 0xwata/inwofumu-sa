@@ -1,27 +1,27 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-multiplicar,es,multiply,かける,/multiplikaɾ/,ubybyɶ
-finalizar,es,Finalize,確定します,/finaliθaɾ/,yɶyɶ
-diagnosticar,es,to diagnose,診断する,/djaɣnostikaɾ/,bɶobyɶ
-analizar,es,analyze,分析します,/analiθaɾ/,ɶɶyɶ
-dramatizar,es,dramatize,ドラマ化,/dɾamatiθaɾ/,bɶɶyɶ
-neumonía,es,pneumonia,肺炎,/neumoˈnia/,øuoyɶ
-rahasia,id,confidential,機密,/rahasia/,ɶɶyɶ
-clasificar,es,sort out,整理する,/klasifikaɾ/,bɶyyɶ
-simetría,es,symmetry,対称,/simeˈtɾia/,yøbyɶ
-ironía,es,irony,アイロニー,/iɾoˈnia/,yoyɶ
-부서지다,ko,break,壊す,/pusʰʌ̹d͡ʑida̠/,ubɔbyɶ
-localiza,ro,locate,見つけます,/lokaliza/,oɶyɶ
-localizar,es,to locate,見つける,/lokaliθaɾ/,oɶyɶ
-クラウンギア,ja,Crown gear,クラウンギア,/kɯɾaɯɴgia/,uɶumyɶ
-ökutíma,is,drive,ドライブ,/œːkʏtʰiːma/,œʏbyɶ
-ولانتعاش,ar,And to refresh,そしてリフレッシュする,/waliintiʕaːʃ/,ɶyymyɶ
-favoriza,/favoriza/,favor,好意,ɶoyɶ,ro
-resserviras,fr,tighten,締めます,/ʁəsɛʁviʁa/,əœbyɶ
-ولاحمرار,ar,And redness,そして赤み,/waliiħmiraːr/,ɶyybyɶ
-califica,es,qualifies,資格があります,/kalifika/,ɶyyɶ
-pauperiza,ro,impoverish,貧しい,/pauperiza/,ɶuøyɶ
-calviniza,ro,Calvinised,カルビン化,/kalviniza/,ɶbyyɶ
-repudia,ro,repudiate,拒否,/repudija/,øuyɶ
-verifica,ro,check it out,見てみな,/verifika/,øyyɶ
-kauterima,id,I accept,承諾します,/kautərima/,ɶuəyɶ
-yfirheyra,is,interrogate,尋問,/ɪːvɪrheiːra/,ʏʏøyɶ
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+multiplicar,es,multiply,かける,/multiplikaɾ/,ubybyɶ,yɶ
+finalizar,es,Finalize,確定します,/finaliθaɾ/,yɶyɶ,yɶ
+diagnosticar,es,to diagnose,診断する,/djaɣnostikaɾ/,bɶobyɶ,yɶ
+analizar,es,analyze,分析します,/analiθaɾ/,ɶɶyɶ,yɶ
+dramatizar,es,dramatize,ドラマ化,/dɾamatiθaɾ/,bɶɶyɶ,yɶ
+neumonía,es,pneumonia,肺炎,/neumoˈnia/,øuoyɶ,yɶ
+rahasia,id,confidential,機密,/rahasia/,ɶɶyɶ,yɶ
+clasificar,es,sort out,整理する,/klasifikaɾ/,bɶyyɶ,yɶ
+simetría,es,symmetry,対称,/simeˈtɾia/,yøbyɶ,yɶ
+ironía,es,irony,アイロニー,/iɾoˈnia/,yoyɶ,yɶ
+부서지다,ko,break,壊す,/pusʰʌ̹d͡ʑida̠/,ubɔbyɶ,yɶ
+localiza,ro,locate,見つけます,/lokaliza/,oɶyɶ,yɶ
+localizar,es,to locate,見つける,/lokaliθaɾ/,oɶyɶ,yɶ
+クラウンギア,ja,Crown gear,クラウンギア,/kɯɾaɯɴgia/,uɶumyɶ,yɶ
+ökutíma,is,drive,ドライブ,/œːkʏtʰiːma/,œʏbyɶ,yɶ
+ولانتعاش,ar,And to refresh,そしてリフレッシュする,/waliintiʕaːʃ/,ɶyymyɶ,yɶ
+favoriza,/favoriza/,favor,好意,ɶoyɶ,ro,yɶ
+resserviras,fr,tighten,締めます,/ʁəsɛʁviʁa/,əœbyɶ,yɶ
+ولاحمرار,ar,And redness,そして赤み,/waliiħmiraːr/,ɶyybyɶ,yɶ
+califica,es,qualifies,資格があります,/kalifika/,ɶyyɶ,yɶ
+pauperiza,ro,impoverish,貧しい,/pauperiza/,ɶuøyɶ,yɶ
+calviniza,ro,Calvinised,カルビン化,/kalviniza/,ɶbyyɶ,yɶ
+repudia,ro,repudiate,拒否,/repudija/,øuyɶ,yɶ
+verifica,ro,check it out,見てみな,/verifika/,øyyɶ,yɶ
+kauterima,id,I accept,承諾します,/kautərima/,ɶuəyɶ,yɶ
+yfirheyra,is,interrogate,尋問,/ɪːvɪrheiːra/,ʏʏøyɶ,yɶ

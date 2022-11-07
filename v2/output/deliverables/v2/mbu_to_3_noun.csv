@@ -1,16 +1,16 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-拳銃,ja,Pistol,拳銃,/keɴdʑɯɯ/,ømbuu
-원숭이,ko,monkey,猿,/wʌ̹nsʰuŋi/,ɔmbuy
-緊急,ja,emergency,緊急,/kiɴkjɯɯ/,ymbuu
-コンピューター,ja,computer,コンピューター,/koɴpjɯːtaː/,ombuɶ
-computer,en,computer,コンピューター,/kəmˈpjutɝ/,əmbuə
-andrúmsloft,is,atmosphere,雰囲気,/antrumstlɔft/,ɶmbumbbɔbb
-confrunta,ro,confront,直面,/konfrunta/,ombumɶ
-temppuilla,fi,trunk,トランク,/ˈtemppuillɑ/,ømbuybɑ
-Tonspuren,de,Traces of sound,音の痕跡,/tɔnspuːɐən/,ɔmbuɐəm
-tinkturi,eo,dye,染料,/tinkturi/,ymbuy
-庚子年,zh-cn,Gengzi Year,Gengzi Year,/kɤŋ˥˥ tsɯ˨˩˦ njɛn˧˥/,ombumœm
-振作,zh-cn,Vibrate,振動します,/ʈʂən˥˩ tsuɔ˥˩/,əmbuɔ
-sanktulo,eo,saint,聖人,/sanktulo/,ɶmbuo
-tonttuilu,fi,elf,妖精,/ˈtonttuilu/,ombuyu
-봉수대,ko,Bongsudae,ボングスダ,/po̞ŋsʰudɛ̝/,ombuœ
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+拳銃,ja,Pistol,拳銃,/keɴdʑɯɯ/,ømbuu,mbu
+원숭이,ko,monkey,猿,/wʌ̹nsʰuŋi/,ɔmbuy,mbu
+緊急,ja,emergency,緊急,/kiɴkjɯɯ/,ymbuu,mbu
+コンピューター,ja,computer,コンピューター,/koɴpjɯːtaː/,ombuɶ,mbu
+computer,en,computer,コンピューター,/kəmˈpjutɝ/,əmbuə,mbu
+andrúmsloft,is,atmosphere,雰囲気,/antrumstlɔft/,ɶmbumbbɔbb,mbu
+confrunta,ro,confront,直面,/konfrunta/,ombumɶ,mbu
+temppuilla,fi,trunk,トランク,/ˈtemppuillɑ/,ømbuybɑ,mbu
+Tonspuren,de,Traces of sound,音の痕跡,/tɔnspuːɐən/,ɔmbuɐəm,mbu
+tinkturi,eo,dye,染料,/tinkturi/,ymbuy,mbu
+庚子年,zh-cn,Gengzi Year,Gengzi Year,/kɤŋ˥˥ tsɯ˨˩˦ njɛn˧˥/,ombumœm,mbu
+振作,zh-cn,Vibrate,振動します,/ʈʂən˥˩ tsuɔ˥˩/,əmbuɔ,mbu
+sanktulo,eo,saint,聖人,/sanktulo/,ɶmbuo,mbu
+tonttuilu,fi,elf,妖精,/ˈtonttuilu/,ombuyu,mbu
+봉수대,ko,Bongsudae,ボングスダ,/po̞ŋsʰudɛ̝/,ombuœ,mbu

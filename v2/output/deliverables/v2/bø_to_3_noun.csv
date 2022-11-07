@@ -1,31 +1,31 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-búsqueda,es,search,探す,/ˈbuskeða/,ubøɶ
-legendă,ro,the legend,伝説,/ledʒendə/,øbømə
-pullea,fi,chubby,ぽっちゃり,/ˈpulleɑ/,ubøɑ
-乌龟,zh-cn,turtle,カメ,/u˥˥ kweɪ˥˥/,ubøʏ
-abuela,es,grandmother,祖母,/aβwela/,ɶbøɶ
-sistema,es,system,システム,/sistema/,ybøɶ
-kappeli,fi,chapel,チャペル,/ˈkɑppeli/,ɑbøy
-buĝeto,eo,budget,バジェット,/bud͡ʒeto/,ubøo
-部队,zh-cn,force,力,/pu˥˩ tweɪ˥˩/,ubøʏ
-gobierno,es,government,政府,/goβjeɾno/,obøo
-koskea,fi,concern,懸念,/ˈkoskeɑ/,obøɑ
-sotkea,fi,mess,混乱,/ˈsotkeɑ/,obøɑ
-justeco,eo,Justice,正義,/justet͡so/,ubøbo
-メッセンジャー,ja,Messenger,メッセンジャー,/mesːeɴdʑaː/,øbømbɶ
-walkway,en,walkway,通路,/ˈwɔˌkweɪ/,ɔbøʏ
-حلوي,ar,Candy,あめ,/ħulweɪ/,ubøʏ
-déplési,id,Déplési,デプレシ,/deplesi/,øbøy
-útheimtir,is,credit,クレジット,/uːtheim̥tɪr/,ubøymʏ
-pourléchés,fr,loop,ループ,/puʁleʃe/,ubøø
-أستيمن,ar,Emanating,発せられます,/ʔasteɪmin/,ɶbøʏym
-夕晖,zh-cn,Xihui,Xihui,/ɕi˥˥ xweɪ˥˥/,ybøʏ
-embrayai,fr,emblayai,enblayai,/ɑ̃bʁejɛ/,ɑbøœ
-舞会,/u˨˩˦ xweɪ˥˩/,prom,プロム,ubøʏ,zh-cn
-pourléché,fr,poundy,パウンド,/puʁleʃe/,ubøø
-목회유,ko,Pastoral,パストラル,/mo̞kʰø̞ju/,obøu
-コッテージ,ja,cottage,コッテージ,/kotːeːdʑi/,obøby
-kosmétik,id,cosmetics,化粧品,/kosmetiʔ/,obøyb
-ukrainian's,en,ukrainian's,ウクライナ人,/juˈkɹeɪniənz/,ubøʏyəmb
-selkeytys,fi,clarification,説明,/ˈselkeytys/,øbøyyb
-Þorsteini,is,Thorstein,トールスタイン,/θɔr̥steinɪ/,ɔbøyʏ
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+búsqueda,es,search,探す,/ˈbuskeða/,ubøɶ,bø
+legendă,ro,the legend,伝説,/ledʒendə/,øbømə,bø
+pullea,fi,chubby,ぽっちゃり,/ˈpulleɑ/,ubøɑ,bø
+乌龟,zh-cn,turtle,カメ,/u˥˥ kweɪ˥˥/,ubøʏ,bø
+abuela,es,grandmother,祖母,/aβwela/,ɶbøɶ,bø
+sistema,es,system,システム,/sistema/,ybøɶ,bø
+kappeli,fi,chapel,チャペル,/ˈkɑppeli/,ɑbøy,bø
+buĝeto,eo,budget,バジェット,/bud͡ʒeto/,ubøo,bø
+部队,zh-cn,force,力,/pu˥˩ tweɪ˥˩/,ubøʏ,bø
+gobierno,es,government,政府,/goβjeɾno/,obøo,bø
+koskea,fi,concern,懸念,/ˈkoskeɑ/,obøɑ,bø
+sotkea,fi,mess,混乱,/ˈsotkeɑ/,obøɑ,bø
+justeco,eo,Justice,正義,/justet͡so/,ubøbo,bø
+メッセンジャー,ja,Messenger,メッセンジャー,/mesːeɴdʑaː/,øbømbɶ,bø
+walkway,en,walkway,通路,/ˈwɔˌkweɪ/,ɔbøʏ,bø
+حلوي,ar,Candy,あめ,/ħulweɪ/,ubøʏ,bø
+déplési,id,Déplési,デプレシ,/deplesi/,øbøy,bø
+útheimtir,is,credit,クレジット,/uːtheim̥tɪr/,ubøymʏ,bø
+pourléchés,fr,loop,ループ,/puʁleʃe/,ubøø,bø
+أستيمن,ar,Emanating,発せられます,/ʔasteɪmin/,ɶbøʏym,bø
+夕晖,zh-cn,Xihui,Xihui,/ɕi˥˥ xweɪ˥˥/,ybøʏ,bø
+embrayai,fr,emblayai,enblayai,/ɑ̃bʁejɛ/,ɑbøœ,bø
+舞会,/u˨˩˦ xweɪ˥˩/,prom,プロム,ubøʏ,zh-cn,bø
+pourléché,fr,poundy,パウンド,/puʁleʃe/,ubøø,bø
+목회유,ko,Pastoral,パストラル,/mo̞kʰø̞ju/,obøu,bø
+コッテージ,ja,cottage,コッテージ,/kotːeːdʑi/,obøby,bø
+kosmétik,id,cosmetics,化粧品,/kosmetiʔ/,obøyb,bø
+ukrainian's,en,ukrainian's,ウクライナ人,/juˈkɹeɪniənz/,ubøʏyəmb,bø
+selkeytys,fi,clarification,説明,/ˈselkeytys/,øbøyyb,bø
+Þorsteini,is,Thorstein,トールスタイン,/θɔr̥steinɪ/,ɔbøyʏ,bø

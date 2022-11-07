@@ -1,22 +1,22 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-meteli,fi,uproar,大騒ぎ,/ˈmeteli/,øøy
-bendecir,es,to bless,祝福する,/bendeθiɾ/,ømøy
-petegi,eo,begging for,懇願する,/petegi/,øøy
-dovedi,ro,prove,証明,/dovedi/,oøy
-diadeemi,fi,diadem,王冠,/ˈdiɑˌdeemi/,yɑøøy
-elegir,es,to choose,選択する,/elexiɾ/,øøy
-prevenir,es,prevent,防ぐ,/pɾeβeniɾ/,bøøy
-ricevi,eo,to receive,受け取る,/rit͡sevi/,ybøy
-competir,es,to compete,競争する,/kompetiɾ/,omøy
-時制,ja,tense,時制,/dʑisei/,byøy
-dragsteri,fi,dragster,ドラッグスター,/ˈdrɑgsteri/,bɑbbøy
-éséi,id,essay,エッセイ,/esei/,øøy
-muskeli,fi,pushing,プッシュ,/ˈmuskeli/,ubøy
-창세기,ko,Genesis,創世記,/t͡ɕʰa̠ŋsʰe̞ɡi/,bbɶmbøy
-deveni,ro,become,なる,/deveni/,øøy
-릴레이,ko,relay,リレー,/ɾiɭɭe̞i/,yøy
-défraîchît,fr,scattered,散らばっている,/defʁeʃi/,øbøy
-preveni,/preveni/,avert,逸らす,bøøy,ro
-Bjarney,is,Bjarge,bjarge,/pjatnei/,bɶbøy
-不逞,ja,outlawry,不逞,/ɸɯtei/,uøy
-加齢,ja,Aging,加齢,/kaɾei/,ɶøy
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+meteli,fi,uproar,大騒ぎ,/ˈmeteli/,øøy,øy
+bendecir,es,to bless,祝福する,/bendeθiɾ/,ømøy,øy
+petegi,eo,begging for,懇願する,/petegi/,øøy,øy
+dovedi,ro,prove,証明,/dovedi/,oøy,øy
+diadeemi,fi,diadem,王冠,/ˈdiɑˌdeemi/,yɑøøy,øy
+elegir,es,to choose,選択する,/elexiɾ/,øøy,øy
+prevenir,es,prevent,防ぐ,/pɾeβeniɾ/,bøøy,øy
+ricevi,eo,to receive,受け取る,/rit͡sevi/,ybøy,øy
+competir,es,to compete,競争する,/kompetiɾ/,omøy,øy
+時制,ja,tense,時制,/dʑisei/,byøy,øy
+dragsteri,fi,dragster,ドラッグスター,/ˈdrɑgsteri/,bɑbbøy,øy
+éséi,id,essay,エッセイ,/esei/,øøy,øy
+muskeli,fi,pushing,プッシュ,/ˈmuskeli/,ubøy,øy
+창세기,ko,Genesis,創世記,/t͡ɕʰa̠ŋsʰe̞ɡi/,bbɶmbøy,øy
+deveni,ro,become,なる,/deveni/,øøy,øy
+릴레이,ko,relay,リレー,/ɾiɭɭe̞i/,yøy,øy
+défraîchît,fr,scattered,散らばっている,/defʁeʃi/,øbøy,øy
+preveni,/preveni/,avert,逸らす,bøøy,ro,øy
+Bjarney,is,Bjarge,bjarge,/pjatnei/,bɶbøy,øy
+不逞,ja,outlawry,不逞,/ɸɯtei/,uøy,øy
+加齢,ja,Aging,加齢,/kaɾei/,ɶøy,øy

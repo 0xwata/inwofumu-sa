@@ -1,16 +1,16 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-Gelatine,de,gelatin,ゼラチン,/ʒelaˈtiːnə/,øɶyə
-意大利面,zh-cn,spaghetti,スパゲッティ,/i˥˩ ta˥˩ li˥˩ mjɛn˥˩/,yɶymœm
-analyseur,fr,analyzer,アナライザ,/analizœʁ/,ɶɶyœb
-réalisation,fr,achievement,業績,/ʁealizasjɔ̃/,øɶyɶbɔ
-リーダーシップ,ja,leadership,リーダーシップ,/ɾiːdaːɕipːɯ/,yɶybu
-アライアンス,ja,Alliance,アライアンス,/aɾaiaɴsɯ/,ɶɶyɶmu
-pappírsvinnu,is,paperwork,書類,/pʰahpir̥svɪnʏ/,bɶybʏʏ
-réalisasi,id,realization,実現,/realisasi/,øɶyɶy
-dinamisme,id,dynamism,ダイナミズム,/dinamismə/,yɶybə
-arabika,id,Arabica,アラビカ,/arabika/,ɶɶyɶ
-mecanicist,ro,mechanistic,機械的,/mekanitʃist/,øɶybybb
-Hierarchie,de,hierarchy,階層,/hiːɾaɾxiː/jə/,yɶyə
-catalige,ro,stilts,竹馬,/katalidʒe/,ɶɶybø
-granulations,fr,granulations,顆粒,/gʁanylasjɔ̃/,bɶyɶbɔ
-エアフィルター,ja,air filter,エアフィルター,/eaɸiɾɯtaː/,øɶyuɶ
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+Gelatine,de,gelatin,ゼラチン,/ʒelaˈtiːnə/,øɶyə,ɶy
+意大利面,zh-cn,spaghetti,スパゲッティ,/i˥˩ ta˥˩ li˥˩ mjɛn˥˩/,yɶymœm,ɶy
+analyseur,fr,analyzer,アナライザ,/analizœʁ/,ɶɶyœb,ɶy
+réalisation,fr,achievement,業績,/ʁealizasjɔ̃/,øɶyɶbɔ,ɶy
+リーダーシップ,ja,leadership,リーダーシップ,/ɾiːdaːɕipːɯ/,yɶybu,ɶy
+アライアンス,ja,Alliance,アライアンス,/aɾaiaɴsɯ/,ɶɶyɶmu,ɶy
+pappírsvinnu,is,paperwork,書類,/pʰahpir̥svɪnʏ/,bɶybʏʏ,ɶy
+réalisasi,id,realization,実現,/realisasi/,øɶyɶy,ɶy
+dinamisme,id,dynamism,ダイナミズム,/dinamismə/,yɶybə,ɶy
+arabika,id,Arabica,アラビカ,/arabika/,ɶɶyɶ,ɶy
+mecanicist,ro,mechanistic,機械的,/mekanitʃist/,øɶybybb,ɶy
+Hierarchie,de,hierarchy,階層,/hiːɾaɾxiː/jə/,yɶyə,ɶy
+catalige,ro,stilts,竹馬,/katalidʒe/,ɶɶybø,ɶy
+granulations,fr,granulations,顆粒,/gʁanylasjɔ̃/,bɶyɶbɔ,ɶy
+エアフィルター,ja,air filter,エアフィルター,/eaɸiɾɯtaː/,øɶyuɶ,ɶy

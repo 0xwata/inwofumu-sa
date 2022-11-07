@@ -1,19 +1,19 @@
-word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme
-licensing,en,licensing,ライセンス,/ˈɫaɪsənsɪŋ/,ɶʏəmʏm
-doubling,en,doubling,倍増,/ˈdəbəɫɪŋ/,əəʏm
-tvöföldun,is,duplication,複製,/tʰvœːfœltʏn/,bœœbʏm
-annoying,en,annoying,迷惑,/əˈnɔɪɪŋ/,əɔʏʏm
-listening,en,listening,聞いている,/ˈɫɪsənɪŋ/,ʏəʏm
-bottling,en,bottling,瓶詰め,/ˈbɑtəɫɪŋ/,ɑəʏm
-enchanting,en,enchanting,魅惑的,/ɛnˈtʃænɪŋ/,œmbæʏm
-reporting,en,reporting,報告,/ɹiˈpɔɹtɪŋ/,yɔʏm
-redesign,en,redesign,再設計,/ˌɹidɪˈzaɪn/,yʏɶʏm
-万马齐喑,zh-cn,Wan Ma Qi,wan ma qi,/wan˥˩ ma˨˩˦ tɕʰi˧˥ ɪn˥˥/,ɶmɶbbyʏm
-不要紧,zh-cn,Not tight,きつくない,/pu˧˥ jɑʊ˥˩ tɕɪn˨˩˦/,uɑʊbʏm
-combating,en,combating,戦闘,/kəmˈbætɪŋ/,əmæʏm
-heranging,de,rectification,整流,/hɛˈɾanˌgɪŋ/,œɶmʏm
-薄荷锭,zh-cn,Mint,ミント,/pɔ˥˩ xɤ˧ tɪŋ˥˩/,ɔoʏm
-sárindum,is,hurt,傷つく,/sauːrɪntʏm/,ɶuʏmʏm
-率领,/ʂuaɪ˥˩ lɪŋ˨˩˦/,Lead,鉛,uɶʏʏm,zh-cn
-羁押庭,zh-cn,Detention court,拘留裁判所,/tɕi˥˥ ja˥˥ tʰɪŋ˧˥/,byɶbʏm
-舔干净,zh-cn,Lick,なめる,/tʰjɛn˨˩˦ kan˥˥ tɕɪŋ˥˩/,bœmɶmbʏm
+word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+licensing,en,licensing,ライセンス,/ˈɫaɪsənsɪŋ/,ɶʏəmʏm,ʏm
+doubling,en,doubling,倍増,/ˈdəbəɫɪŋ/,əəʏm,ʏm
+tvöföldun,is,duplication,複製,/tʰvœːfœltʏn/,bœœbʏm,ʏm
+annoying,en,annoying,迷惑,/əˈnɔɪɪŋ/,əɔʏʏm,ʏm
+listening,en,listening,聞いている,/ˈɫɪsənɪŋ/,ʏəʏm,ʏm
+bottling,en,bottling,瓶詰め,/ˈbɑtəɫɪŋ/,ɑəʏm,ʏm
+enchanting,en,enchanting,魅惑的,/ɛnˈtʃænɪŋ/,œmbæʏm,ʏm
+reporting,en,reporting,報告,/ɹiˈpɔɹtɪŋ/,yɔʏm,ʏm
+redesign,en,redesign,再設計,/ˌɹidɪˈzaɪn/,yʏɶʏm,ʏm
+万马齐喑,zh-cn,Wan Ma Qi,wan ma qi,/wan˥˩ ma˨˩˦ tɕʰi˧˥ ɪn˥˥/,ɶmɶbbyʏm,ʏm
+不要紧,zh-cn,Not tight,きつくない,/pu˧˥ jɑʊ˥˩ tɕɪn˨˩˦/,uɑʊbʏm,ʏm
+combating,en,combating,戦闘,/kəmˈbætɪŋ/,əmæʏm,ʏm
+heranging,de,rectification,整流,/hɛˈɾanˌgɪŋ/,œɶmʏm,ʏm
+薄荷锭,zh-cn,Mint,ミント,/pɔ˥˩ xɤ˧ tɪŋ˥˩/,ɔoʏm,ʏm
+sárindum,is,hurt,傷つく,/sauːrɪntʏm/,ɶuʏmʏm,ʏm
+率领,/ʂuaɪ˥˩ lɪŋ˨˩˦/,Lead,鉛,uɶʏʏm,zh-cn,ʏm
+羁押庭,zh-cn,Detention court,拘留裁判所,/tɕi˥˥ ja˥˥ tʰɪŋ˧˥/,byɶbʏm,ʏm
+舔干净,zh-cn,Lick,なめる,/tʰjɛn˨˩˦ kan˥˥ tɕɪŋ˥˩/,bœmɶmbʏm,ʏm
