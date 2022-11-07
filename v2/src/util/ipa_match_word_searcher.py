@@ -199,9 +199,10 @@ class IpaMatchWordSearcher:
                 pair_word_ipa_rhyme = find_target_ipa_rhyme(pair_word_ipa)
 
                 # 脚韻 or 頭韻を判定
-                match_ipa_rhyme = check_ipa_rhyme_match(ipa_rhyme, pair_word_ipa_rhyme, RhymeType.KYAKUIN)
+                # FIXME: 頭韻不足のため、頭韻のみ一時的に収集する
+                match_ipa_rhyme = check_ipa_rhyme_match(ipa_rhyme, pair_word_ipa_rhyme, RhymeType.TOIN)
                 if match_ipa_rhyme is not None:
-                    rhyme_type = RhymeType.KYAKUIN.value
+                    rhyme_type = RhymeType.TOIN.value
                     pair_word_en = translate.translate_to_english_by_language(
                         word=pair_word,
                         lang=pair_word_lang
@@ -224,35 +225,35 @@ class IpaMatchWordSearcher:
                     # print(log_debug(f"{LOG_INFO_DEBUG_CLASS_NAME} pair_word_pos: {pair_word_pos}"))
                     flg = True
                     break
-                else:
-                    match_ipa_rhyme = check_ipa_rhyme_match(ipa_rhyme, pair_word_ipa_rhyme, RhymeType.TOIN)
+                # else:
+                #     match_ipa_rhyme = check_ipa_rhyme_match(ipa_rhyme, pair_word_ipa_rhyme, RhymeType.TOIN)
 
-                    if match_ipa_rhyme is not None:
-                        rhyme_type = RhymeType.TOIN.value
-                        pair_word_en = translate.translate_to_english_by_language(
-                            word=pair_word,
-                            lang=pair_word_lang
-                        )
-                        if pair_word_en == "":
-                            print(log_debug("not found translated word"))
-                            continue
-                        # print(log_debug(f"{LOG_INFO_DEBUG_CLASS_NAME} pair_word_en: {pair_word_en}"))
+                #     if match_ipa_rhyme is not None:
+                #         rhyme_type = RhymeType.TOIN.value
+                #         pair_word_en = translate.translate_to_english_by_language(
+                #             word=pair_word,
+                #             lang=pair_word_lang
+                #         )
+                #         if pair_word_en == "":
+                #             print(log_debug("not found translated word"))
+                #             continue
+                #         # print(log_debug(f"{LOG_INFO_DEBUG_CLASS_NAME} pair_word_en: {pair_word_en}"))
 
-                        pair_word_pos = tokenizer.fetch_target_pos(
-                            word=pair_word,
-                            word_en=pair_word_en,
-                            lang=pair_word_lang
-                        )
-                        # 同じ品詞ではない場合、skip
-                        if pair_word_pos != pos:
-                            log_error(" not same pos")
-                            continue
-                        # print(log_debug(f"{LOG_INFO_DEBUG_CLASS_NAME} pair_word_pos: {pair_word_pos}"))
-                        flg = True
-                        break
-                    else:
-                        log_error(" not match ipa rhyme")
-                        continue
+                #         pair_word_pos = tokenizer.fetch_target_pos(
+                #             word=pair_word,
+                #             word_en=pair_word_en,
+                #             lang=pair_word_lang
+                #         )
+                #         # 同じ品詞ではない場合、skip
+                #         if pair_word_pos != pos:
+                #             log_error(" not same pos")
+                #             continue
+                #         # print(log_debug(f"{LOG_INFO_DEBUG_CLASS_NAME} pair_word_pos: {pair_word_pos}"))
+                #         flg = True
+                #         break
+                #     else:
+                #         log_error(" not match ipa rhyme")
+                #         continue
             if flg:
                 print(log_debug("Loop stop"))
                 break
