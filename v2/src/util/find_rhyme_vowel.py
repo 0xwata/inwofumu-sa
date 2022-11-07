@@ -68,9 +68,7 @@ def check_ipa_rhyme_match(ipa_rhyme_1: str, ipa_rhyme_2: str, rhyme_type: RhymeT
     if rhyme_type == RhymeType.TOIN:
         """頭韻判定"""
         for i in range(max_rhyme_length):
-            if i == 0:
-                continue
-            elif b.startswith(a[:i + 1]) is True:
+            if b.startswith(a[:i + 1]) is True:
                 match_ipa_rhyme += b[i]
             else:
                 break

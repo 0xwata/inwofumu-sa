@@ -5,7 +5,7 @@ import pandas as pd
 import numpy as np
 
 def main():
-    df = pandas.read_csv("../output/rhyme_pair/rhyme_pair.csv")
+    df = pandas.read_csv("../output/rhyme_pair/rhyme_pair_v3.csv")
     unique_pos_group = df["pos"].unique()
     unique_type_group = df["rhyme_type"].unique()
     unique_ipa_rhyme_group = df["match_ipa_rhyme"].unique()
@@ -28,7 +28,7 @@ def main():
                     # print(unique_word_group)
                     if len(unique_word_group) >= row_length_threshold:
                         over_row_length_threshold_count += 1
-                        file_name = '../output/deliverables/v2/{0}_{1}_{2}_{3}.csv'.format(unique_ipa_rhyme,unique_type, unique_syllable, unique_pos)
+                        file_name = '../output/deliverables/v3/{0}_{1}_{2}_{3}.csv'.format(unique_ipa_rhyme,unique_type, unique_syllable, unique_pos)
                         print(file_name, len(unique_word_group))
                         unique_word_group.to_csv(file_name, index=False)
                     count += 1

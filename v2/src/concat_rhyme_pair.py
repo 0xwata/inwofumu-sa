@@ -7,8 +7,8 @@ from typing import Optional
 
 def main():
     """CSVの読み込み """
-    input_base_url = "../output/rhyme_pair/v2/"
-    output_url = "../output/rhyme_pair/rhyme_pair.csv"
+    input_base_url = "../output/rhyme_pair/v3/"
+    output_url = "../output/rhyme_pair/v3/rhyme_pair_v3.csv"
 
     files = glob.glob(f"{input_base_url}/*.csv")
 

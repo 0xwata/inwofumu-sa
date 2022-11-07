@@ -214,7 +214,7 @@ def main():
 
     print(log_debug("start writing output to csv"))
     filename = uuid.uuid1()
-    f = open('../output/rhyme_pair/v2/{}.csv'.format(filename), 'w')
+    f = open('../output/rhyme_pair/v3/{}.csv'.format(filename), 'w')
     write = csv.writer(f)
     write.writerows(output)
     print(log_debug("finish writing output to csv, length: {}".format(len(output))))
