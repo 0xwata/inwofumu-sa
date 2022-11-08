@@ -1,4 +1,6 @@
 word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+turbante,es,turban,ターバン,/tuɾβante/,uɶmø,uɶ
+turbano,eo,turban,ターバン,/turbano/,uɶo,uɶ
 يعالج,ar,Treat,扱う,/juʕaːlidʒ/,uɶyb,uɶ
 独白,zh-cn,monologue,モノローグ,/tu˧˥ paɪ˧˥/,uɶʏ,uɶ
 スタンス,ja,stance,スタンス,/sɯtaɴsɯ/,uɶmu,uɶ
@@ -6,11 +8,17 @@ word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
 معسكر,ar,camp,キャンプ,/muʕaskar/,uɶbɶ,uɶ
 クラゲ,ja,jellyfish,クラゲ,/kɯɾage/,uɶø,uɶ
 mutasi,id,mutation,突然変異,/mutasi/,uɶy,uɶ
+スランプ,ja,slump,スランプ,/sɯɾaɴpɯ/,uɶmu,uɶ
 مؤلف,ar,author,著者,/muʔallif/,uɶbyb,uɶ
 كتيب,ar,booklet,冊子,/kutajjib/,uɶyb,uɶ
+ブラジャー,ja,bra,ブラジャー,/bɯɾadʑaː/,uɶbɶ,uɶ
 古代,zh-cn,Ancient,古代,/ku˨˩˦ taɪ˥˩/,uɶʏ,uɶ
 kualitas,id,quality,品質,/kualitas/,uɶyɶb,uɶ
+プラグ,ja,plug,プラグ,/pɯɾagɯ/,uɶu,uɶ
+クラブ,ja,club,クラブ,/kɯɾabɯ/,uɶu,uɶ
 プランジャー,ja,Planger,プランジャー,/pɯɾaɴdʑaː/,uɶmbɶ,uɶ
+يبهرج,ar,Rush,急ぐ,/jubahridʒ/,uɶyb,uɶ
+pulau,id,island,小島,/pulau/,uɶu,uɶ
 suraya,id,Suraya,スラヤ,/suraja/,uɶɶ,uɶ
 tư sản hóa,vi,bourgeois,ブルジョワ,/tɯ˧˥ ʂaŋ˧˩˨ hwa˩˧/,uɶmɶ,uɶ
 bullajes,es,Bullings,いじめ,/buʎaxes/,uɶøb,uɶ
@@ -18,9 +26,17 @@ bullajes,es,Bullings,いじめ,/buʎaxes/,uɶøb,uɶ
 Tuvalo,eo,Tuvalu,Tuvalu,/tuvalo/,uɶo,uɶ
 Wutausbruchs,de,Outbreak,アウトブレイク,/ˈvuːtaozbrʊks/,uɶobbʊbb,uɶ
 Busanschluss,de,Bus connection,バス接続,/ˈbuːzanstslʊss/,uɶmbbbʊbb,uɶ
+Schulausflugs,de,School trip,修学旅行,/ˈʃuːlaosflʊks/,uɶobbʊbb,uɶ
 书斋,zh-cn,Letters,手紙,/ʂu˥˥ ʈʂaɪ˥˥/,uɶʏ,uɶ
 Wutanfall,de,tantrum,かんしゃく,/ˈvuːtanfall/,uɶmɶbb,uɶ
 búnaður,is,fixture,フィクスチャ,/puːnaðʏr/,uɶʏ,uɶ
+uranisc,ro,uranen,ウラネン,/uranisk/,uɶybb,uɶ
+dubai,en,dubai,ドバイ,/duˈbaɪ/,uɶʏ,uɶ
 budala,ro,Budala,ブダラ,/budala/,uɶɶ,uɶ
 휴가증,ko,Vacation,休暇,/çjuɡa̠d͡ʑɯŋ/,uɶbum,uɶ
+mouchardasse,fr,fuck,くそ,/muʃaʁdas/,uɶbɶb,uɶ
+Schuhabteilung,de,Shoe department,靴部,/ʃuapˈtəiːlʊŋ/,uɶbəyʊm,uɶ
+umanul,ro,human,人間,/umanul/,uɶub,uɶ
+muhaia,ro,Muha,ムハ,/muhaja/,uɶɶ,uɶ
+dudayev's,en,dudayev's,Dudayev's,/duˈdaɪˌɛvz/,uɶʏœbb,uɶ
 uralter,de,ancient,古代,/ˈʔuːɾaltɐ̯/,uɶbɐ,uɶ

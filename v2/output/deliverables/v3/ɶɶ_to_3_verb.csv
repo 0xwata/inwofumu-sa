@@ -1,7 +1,13 @@
 word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
 parachute,fr,parachute,パラシュート,/paʁaʃyt/,ɶɶyb,ɶɶ
 parasut,id,parachute,パラシュート,/parasut/,ɶɶub,ɶɶ
+与える,ja,give,与える,/ataeɾɯ/,ɶɶøu,ɶɶ
+دفع,ar,Pay,支払い,/dafaʕa/,ɶɶɶ,ɶɶ
 ذيل,ar,Tail,しっぽ,/ðajjala/,ɶɶɶ,ɶɶ
+وزن,ar,Weight,重さ,/wazana/,ɶɶɶ,ɶɶ
+أعار,ar,Loan,ローン,/ʔaʕaːra/,ɶɶɶ,ɶɶ
+adaptar,es,fit,フィット,/aðaptaɾ/,ɶɶbɶ,ɶɶ
+فحص,ar,to examine,調べる,/faħasˤa/,ɶɶbɶ,ɶɶ
 عرض,ar,Show,見せる,/ʕaradˤa/,ɶɶbɶ,ɶɶ
 خشب,ar,Wood,木,/xaʃʃaba/,ɶɶɶ,ɶɶ
 اركب,ar,ride,乗る,/ʔarkaba/,ɶɶɶ,ɶɶ
@@ -9,10 +15,19 @@ naranja,es,orange,オレンジ,/naɾaŋxa/,ɶɶmɶ,ɶɶ
 ناشد,ar,Appeal,訴える,/naːʃada/,ɶɶɶ,ɶɶ
 فرض,ar,duty,関税,/faradˤa/,ɶɶbɶ,ɶɶ
 taladro,es,drill,ドリル,/talaðɾo/,ɶɶbo,ɶɶ
+فرك,ar,rub,こする,/faraka/,ɶɶɶ,ɶɶ
+párrafo,es,paragraph,段落,/ˈparafo/,ɶɶo,ɶɶ
 شاور,ar,Consult,相談してください,/ʃaːwara/,ɶɶɶ,ɶɶ
 果たす,ja,Fulfill,果たす,/hatasɯ/,ɶɶu,ɶɶ
 báo cáo viên,vi,Rapporteur,報告者,/baw˩˧ kaw˩˧ jiəŋ˧˥/,ɶɶyəm,ɶɶ
+耳塞,zh-cn,Earplug,耳栓,/aɻ˨˩˦ saɪ˥˥/,ɶɶʏ,ɶɶ
+papară,ro,pap,パップ,/paparə/,ɶɶə,ɶɶ
 嵌まる,ja,Get in,嵌まる,/hamaɾɯ/,ɶɶu,ɶɶ
+发呆,zh-cn,daze,デイズ,/fa˥˥ taɪ˥˥/,ɶɶʏ,ɶɶ
+paranoid,id,paranoid,妄想,/paranoid/,ɶɶoyb,ɶɶ
+扒带,zh-cn,Picker,ピッカー,/pa˥˥ taɪ˥˩/,ɶɶʏ,ɶɶ
+cà dái dê,vi,Goat,ヤギ,/ka˦˨ jaj˩˧ je˧˥/,ɶɶø,ɶɶ
+وأهزم,ar,And defeat,そして敗北,/waʔahzim/,ɶɶym,ɶɶ
 sakaðir,is,accused,被告,/saːkaðɪr/,ɶɶʏ,ɶɶ
 hraðakstur,is,speeding,スピード違反,/r̥aːðakstʏr/,ɶɶbbʏ,ɶɶ
 喇叭花,zh-cn,morning glory,朝顔,/la˨˩˦ pa˧ xwa˥˥/,ɶɶbɶ,ɶɶ
@@ -20,4 +35,6 @@ hraðakstur,is,speeding,スピード違反,/r̥aːðakstʏr/,ɶɶbbʏ,ɶɶ
 바라크,ko,barrack,バラック,/pa̠ɾa̠kxɯ/,ɶɶbu,ɶɶ
 耍赖,zh-cn,Play,遊ぶ,/ʂwa˨˩˦ laɪ˥˩/,ɶɶʏ,ɶɶ
 abandon,ro,abandon,放棄する,/abandon/,ɶɶmom,ɶɶ
+扒带子,zh-cn,Picker,ピッカー,/pa˥˥ taɪ˥˩ tsɯ˧/,ɶɶʏbu,ɶɶ
+varaði,is,warn,暖かい,/vaːraðɪ/,ɶɶʏ,ɶɶ
 arhaizat,ro,archaize,アーカイズ,/arhaizat/,ɶɶyɶb,ɶɶ

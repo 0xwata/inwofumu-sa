@@ -1,7 +1,16 @@
 word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
-قباقيب,ar,clogs,詰まり,/qabaːqiːb/,ɶɶyb,ɶɶ
+arcadă,ro,arcade,アーケード,/arkadə/,ɶɶə,ɶɶ
+流行,ja,trend,流行,/hajaɾi/,ɶɶy,ɶɶ
+analog,id,analog,アナログ,/analog/,ɶɶob,ɶɶ
+アパート,ja,Apartment,アパート,/apaːto/,ɶɶo,ɶɶ
+jakkaföt,is,suit,スーツ,/jahkafœːt/,ɶɶœb,ɶɶ
+amaso,eo,crowd,群衆,/amaso/,ɶɶo,ɶɶ
 خلد,ar,Scratch,傷,/xalada/,ɶɶɶ,ɶɶ
+analis,id,analyst,アナリスト,/analis/,ɶɶyb,ɶɶ
+قباقيب,ar,clogs,詰まり,/qabaːqiːb/,ɶɶyb,ɶɶ
+ميل,ar,Mile,マイル,/majjala/,ɶɶɶ,ɶɶ
 سور,ar,a wall,壁,/sawwara/,ɶɶɶ,ɶɶ
+نعل,ar,Shoe,靴,/naʕala/,ɶɶɶ,ɶɶ
 نسج,ar,weave,織り,/nasadʒa/,ɶɶbɶ,ɶɶ
 اساسي,ar,Basic,基本,/ʔasaːsijj/,ɶɶy,ɶɶ
 تبني,ar,adoption,可決,/tabanniː/,ɶɶmy,ɶɶ
@@ -19,7 +28,17 @@ karyawan,id,employee,従業員,/karjawan/,ɶɶɶm,ɶɶ
 謝罪,ja,apology,謝罪,/ɕazai/,ɶɶy,ɶɶ
 magasin,fr,store,お店,/magazɛ̃/,ɶɶœ,ɶɶ
 magazin,ro,store,お店,/maɡazin/,ɶɶym,ɶɶ
+ملابس,ar,Clothes,服,/malaːbis/,ɶɶyb,ɶɶ
+كبح,ar,Curb,縁石,/kabaħa/,ɶɶɶ,ɶɶ
+malaikat,id,angel,天使,/malaikat/,ɶɶyɶb,ɶɶ
 لحم,ar,Meat,肉,/laħama/,ɶɶɶ,ɶɶ
+adapter,fr,adapt,適応する,/adapte/,ɶɶbø,ɶɶ
+asasin,ro,assassin,暗殺者,/asasin/,ɶɶym,ɶɶ
+áo ba lỗ,vi,three holes shirt,3つのホールシャツ,/aw˩˧ ba˧˥ lo˧˩˨/,ɶɶo,ɶɶ
+caracter,ro,character,キャラクター,/karakter/,ɶɶbø,ɶɶ
+karakter,id,character,キャラクター,/karaʔtər/,ɶɶbə,ɶɶ
+سهم,ar,Arrow,矢印,/sahama/,ɶɶɶ,ɶɶ
+野菜,ja,vegetable,野菜,/jasai/,ɶɶy,ɶɶ
 variación,es,variation,変化,/baɾjaˈθjon/,ɶɶbom,ɶɶ
 عقد,ar,a necklace,ネックレス,/ʕaqada/,ɶɶɶ,ɶɶ
 بهلوان,ar,tumbler,タンブラー,/bahlaʊaːn/,ɶɶʊɶm,ɶɶ
@@ -27,15 +46,30 @@ variación,es,variation,変化,/baɾjaˈθjon/,ɶɶbom,ɶɶ
 حادث,ar,accident,事件,/ħaːdaθa/,ɶɶɶ,ɶɶ
 matargerð,is,cook,料理,/maːtarcɛrð/,ɶɶœb,ɶɶ
 samaran,id,GOOD,良い,/samaran/,ɶɶɶm,ɶɶ
+荒野,ja,wilderness,荒野,/aɾano/,ɶɶo,ɶɶ
+عزل,ar,Isolation,隔離,/ʕazala/,ɶɶɶ,ɶɶ
 化学,ja,Chemistry,化学,/kagakɯ/,ɶɶu,ɶɶ
 سلامة,ar,safety,安全性,/salaːma/,ɶɶɶ,ɶɶ
 رقم,ar,number,番号,/raqama/,ɶɶɶ,ɶɶ
-asasin,ro,assassin,暗殺者,/asasin/,ɶɶym,ɶɶ
+يتصل,ar,communicate,伝える,/jatasˤall/,ɶɶbɶbb,ɶɶ
+محارب,ar,warrior,戦士,/maħaːrib/,ɶɶyb,ɶɶ
+摩擦,ja,friction,摩擦,/masatsɯ/,ɶɶbu,ɶɶ
 balancín,es,rocker,ロッカー,/balanˈθin/,ɶɶmym,ɶɶ
 話,ja,Talk,話,/hanaɕi/,ɶɶy,ɶɶ
+佳作,ja,Good work,佳作,/kasakɯ/,ɶɶu,ɶɶ
+masacru,ro,massacre,虐殺,/masakru/,ɶɶbu,ɶɶ
+سنعفر,ar,We will Afar,遠くになります,/sanaʕfir/,ɶɶby,ɶɶ
+발가우리,ko,Valgay us,Valgay Us,/pa̠ɭɡa̠uɾi/,ɶɶuy,ɶɶ
+datare,ro,dating,デート,/datare/,ɶɶø,ɶɶ
+Waschweiber,de,Washer,洗濯機,/ˈvaʃvaebɐ̯/,ɶɶøɐ,ɶɶ
+bacalu,ro,Bacalu,バカル,/bakalu/,ɶɶu,ɶɶ
+appareillent,fr,set sail,出航する,/apaʁɛj/,ɶɶœ,ɶɶ
+kakao,eo,cocoa,ココア,/kakao/,ɶɶo,ɶɶ
 babaua,ro,crone,骨,/babawa/,ɶɶɶ,ɶɶ
+hjartahnoð,is,heartache,心痛,/çar̥tan̥ɔːð/,ɶɶmɔb,ɶɶ
 parafiez,fr,parafie,パラフィー,/paʁafje/,ɶɶbø,ɶɶ
 bálago,es,Bálago,バラゴ,/ˈbalaɣo/,ɶɶo,ɶɶ
+gà mái ghẹn,vi,hen,鶏,/ɣa˦˨ maj˩˧ ɣɛŋ˨ˀ˩ʔ/,ɶɶœmb,ɶɶ
 仮名本,ja,Kana book,仮名本,/kanahoɴ/,ɶɶom,ɶɶ
 manato,es,Manato,マナト,/manato/,ɶɶo,ɶɶ
 rataði,is,rate,レート,/raːtaðɪ/,ɶɶʏ,ɶɶ
@@ -53,16 +87,34 @@ Waschlauge,de,Lunch,ランチ,/ˈvaʃlaogə/,ɶɶoə,ɶɶ
 affalla,is,waste,廃棄物,/afatla/,ɶɶbɶ,ɶɶ
 سأقتض,ar,I will,私はそうします,/saʔaqtadˤ/,ɶɶbɶb,ɶɶ
 Stadthalter,de,City holder,市の所有者,/ˈʃtataltɐ̯/,ɶɶbɐ,ɶɶ
+ananas,is,pineapple,パイナップル,/aːnanas/,ɶɶɶb,ɶɶ
+mallarías,es,Mallarías,マラリアス,/maʎaˈɾias/,ɶɶyɶb,ɶɶ
+jarðarför,is,burial,埋葬,/jarðarfœːr/,ɶɶœ,ɶɶ
 árganos,es,argans,アルガン,/ˈaɾɣanos/,ɶɶob,ɶɶ
+Fagradal,is,Gusts,突風,/faɣrataːl/,ɶɶɶb,ɶɶ
+mannanna,is,men,男性,/manana/,ɶɶɶ,ɶɶ
+马大哈,zh-cn,careless,不注意,/ma˨˩˦ ta˥˩ xa˥˥/,ɶɶɶ,ɶɶ
+矢矧,ja,Arrow,矢矧,/jahagi/,ɶɶy,ɶɶ
+khải hoàn ca,vi,paean,Paean,/xaj˧˩˨ hwaŋ˦˨ ka˧˥/,ɶɶmɶ,ɶɶ
+Waschweibes,de,Washing,洗浄,/ˈvaʃvaebəs/,ɶɶøəb,ɶɶ
+padamu,id,to you,あなたへ,/padamu/,ɶɶu,ɶɶ
+hamako,eo,hammock,ハンモック,/hamako/,ɶɶo,ɶɶ
+alau,id,Alau,アラウ,/alau/,ɶɶu,ɶɶ
 capaucă,ro,Capuca,カプカ,/kapaukə/,ɶɶuə,ɶɶ
 bahasan,id,discussion,討論,/bahasan/,ɶɶɶm,ɶɶ
 caragea,ro,Caraga,カラガ,/karadʒ̩a/,ɶɶbɶ,ɶɶ
 zamannya,id,his time,彼の時間,/zamanɲa/,ɶɶmɶ,ɶɶ
 貨財,ja,Coin goods,貨財,/kazai/,ɶɶy,ɶɶ
 armaĵo,eo,armor,鎧,/armaʒo/,ɶɶo,ɶɶ
+والأغياث,ar,And rituals,と儀式,/waaːlʔaɣjaːθ/,ɶɶbɶɶb,ɶɶ
+mannaði,is,man -made,男 - メイド,/manaðɪ/,ɶɶʏ,ɶɶ
 Sacharin,de,saccharine,サッカリン,/zaxaɽɪn/,ɶɶʏm,ɶɶ
 Arbeiters,de,Worker,ワーカー,/ˈʔaɾbaetɛɾs/,ɶɶøœb,ɶɶ
 갈가지,ko,Revenue,収益,/ka̠ɭɡa̠d͡ʑi/,ɶɶby,ɶɶ
 kataro,eo,Qatar,カタール,/kataro/,ɶɶo,ɶɶ
+calareis,es,you calex,あなたはカレックスです,/kalaɾeis/,ɶɶøyb,ɶɶ
+喇叭裤,zh-cn,boot cut pant,ブートカットパンツ,/la˨˩˦ pa˧ kʰu˥˩/,ɶɶbu,ɶɶ
+巴儿狗,zh-cn,sycophant,sycophant,/pa˥˥ aɻ˧ koʊ˨˩˦/,ɶɶoʊ,ɶɶ
+arbeitest,de,worker,ワーカー,/ˈʔaɾbaetɛst/,ɶɶøœbb,ɶɶ
 花屋,ja,Florist,花屋,/hanaja/,ɶɶɶ,ɶɶ
 markaða,is,market,市場,/mar̥kaða/,ɶɶɶ,ɶɶ

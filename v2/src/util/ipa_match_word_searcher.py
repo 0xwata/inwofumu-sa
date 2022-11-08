@@ -41,7 +41,7 @@ from typing import Optional
         'ro', Romanian
 """
 ## https://github.com/open-dict-data/ipa-dict を参考
-LANGS_FOR_SEARCH = ['ja', 'en', 'de', 'id', 'zh-cn', 'ko', 'eo', 'es', 'ro', 'ar', 'is', 'vi', 'sv', 'fr', 'fi']
+LANGS_FOR_SEARCH = ['ja', 'en', 'de', 'id', 'zh-cn', 'ko', 'eo', 'es', 'jam', 'ro', 'ar', 'is', 'vi', 'sv', 'fr', 'fi', 'fa', 'km', 'nb', 'or', 'sw', 'tts']
 LOG_INFO_DEBUG_CLASS_NAME = "CLASS: IpaMatchWordSearcher "
 BASE_URL = "../data/ipa-dict/data/"
 SYLLABLE_MIN_COUNT = 3

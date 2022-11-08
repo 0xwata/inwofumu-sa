@@ -1,8 +1,11 @@
 word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+지하철,ko,subway,地下鉄,/t͡ɕiɦa̠t͡ɕʰʌ̹ɭ/,byɶbbɔ,by
 Zylinder,de,cylinder,シリンダー,/ˈtsyːlɪndɐ̯/,byʏmɐ,by
 cilindro,eo,cylinder,シリンダー,/t͡silindro/,byymbo,by
 실린더,ko,cylinder,シリンダー,/ɕʰiɭʎindʌ̹/,byymɔ,by
 tribunal,es,court,裁判所,/tɾiβunal/,byuɶb,by
+crítica,es,criticism,批判,/ˈkɾitika/,byyɶ,by
+xylophone,fr,xylophone,木琴,/gsilɔfɔn/,byɔɔm,by
 princesa,es,princess,王女,/pɾinθesa/,bymøɶ,by
 시험관,ko,examiner,審査官,/ɕʰiɦʌ̹mɡwa̠n/,byɔmbɶm,by
 kritiikki,fi,criticism,批判,/ˈkritiikki/,byyyby,by
@@ -11,15 +14,24 @@ Zitrone,de,lemon,レモン,/t͡siˈtʁoːnə/,byboə,by
 力,ja,Power,力,/tɕikaɾa/,byɶɶ,by
 啤酒,zh-cn,beer,ビール,/pʰi˧˥ tɕjoʊ˨˩˦/,bybboʊ,by
 军队,zh-cn,army,軍,/tɕyn˥˥ tweɪ˥˩/,bymbøʏ,by
+時代,ja,Era,時代,/dʑidai/,byɶy,by
 grijuliu,ro,thoughtful,思慮深い,/ɡriʒulju/,byubu,by
 纪念品,zh-cn,souvenir,お土産,/tɕi˥˩ njɛn˥˩ pʰɪn˨˩˦/,bymœmbʏm,by
 Zikade,de,cicada,蝉,/ˈtsiːkɑdə/,byɑə,by
 gigantism,ro,gigantism,巨人,/dʒiɡantism/,byɶmybm,by
 cifero,eo,digit,桁,/t͡sifero/,byøo,by
+cirozo,eo,cirrhosis,肝硬変,/t͡sirozo/,byoo,by
+地形,ja,terrain,地形,/dʑigjoɯ/,bybou,by
+심리학,ko,psychology,心理学,/ɕʰimniɦa̠k̚/,bymyɶb,by
+俱乐部,zh-cn,club,クラブ,/tɕy˥˩ lɤ˥˩ pu˥˩/,byou,by
+prindere,ro,catch,キャッチ,/prindere/,bymøø,by
+kvintetto,fi,quintet,クインテット,/ˈkvintetto/,bymøbo,by
 事迹,ja,evidence,事迹,/dʑiseki/,byøy,by
 실버들,ko,Silver,銀,/ɕʰiɭbʌ̹dɯɭ/,byɔu,by
 thiên môn đông,vi,Thien Mon Dong,ティエン・モン・ドン,/tʰiəŋ˧˥ moŋ͡m˧˥ doŋ͡m˧˥/,byəmommomm,by
 guyanais,fr,Guyanese,ガイアネーゼ,/gɥijanɛ/,byɶœ,by
+grimaçasse,fr,grimaçasse,グリマサス,/gʁimasas/,byɶɶb,by
+spinaco,eo,spinach,ほうれん草,/spinat͡so/,byɶbo,by
 cirkuo,eo,circus,サーカス,/t͡sirkuo/,byuo,by
 thiết quân luật,vi,martial law,戒厳令,/tʰiək˦˥ wɤ̆ŋ˧˥ lwɤ̆k˨ˀ˩ʔ/,byəbombobb,by
 tricentenaires,fr,tricentenarians,Tricentenarians,/tʁisɑ̃tnɛʁ/,byɑbœb,by
@@ -28,8 +40,14 @@ dwitarung,id,Dwitarung,Dwitarung,/dwitaruŋ/,byɶum,by
 prinsiippi,fi,princess,王女,/ˈprinsiippi/,bymyyby,by
 Frühlingstraums,de,Spring space,スプリングスペース,/ˈfɾylɪŋstɾaoms/,byʏmbbɶomb,by
 frisabas,es,Frisabas,フリサバ,/fɾisaβas/,byɶɶb,by
+Drillingen,de,Trimming,トリミング,/dɾiːllɪŋən/,bybʏəm,by
 grifferas,fr,label,ラベル,/gʁifəʁa/,byəɶ,by
 cingangah,id,Cingangah,シンガンガ,/tʃiŋaŋah/,byɶɶ,by
 cliche,en,cliche,決まり文句,/kɫiˈʃeɪ/,byøʏ,by
 grímuna,is,mask,マスク,/kriːmʏna/,byʏɶ,by
 珍客,ja,Rarity,珍客,/tɕiɴkakɯ/,bymɶu,by
+luyện kim học,vi,metallurgy,冶金,/lwiəŋ˨ˀ˩ʔ kim˧˥ hɔk͡p˨ˀ˩ʔ/,byəmbymɔbbb,by
+فرمسون,ar,Fermsson,ファームソン,/frimasuːn/,byɶum,by
+stephens's,en,stephens's,スティーブンスの,/ˈstivɪnzɪz/,byʏmʏb,by
+Gliederungen,de,Structure,構造,/ˈgliːdɐ̯ʊŋən/,byɐʊəm,by
+Frühschoppen,de,Morning pint,朝のパイント,/ˈfɾyʃɔppən/,byɔbəm,by

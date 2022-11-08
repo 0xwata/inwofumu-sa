@@ -1,12 +1,18 @@
 word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+Gültigkeit,de,validity,有効,/gʏltɪkˈkəiːt/,ʏbʏbəyb,ʏb
 Pistole,de,pistol,ピストル,/ˈpɪstolə/,ʏboə,ʏb
+reflection,en,reflection,反射,/ɹɪˈfɫɛkʃən/,ʏbœbəm,ʏb
 disruption,en,disruption,混乱,/dɪsˈɹəpʃən/,ʏbəbəm,ʏb
 recliner,en,recliner,リクライニングチェア,/ɹɪˈkɫaɪnɝ/,ʏbɶʏə,ʏb
 Mitgefühl,de,compassion,思いやり,/mɪtgəˈfyl/,ʏbəyb,ʏb
 example,en,example,例,/ɪɡˈzæmpəɫ/,ʏbæmə,ʏb
 Fürsprecher,de,advocate,提唱する,/ˈfʏɾspɾɛçɐ̯/,ʏbbœɐ,ʏb
 Spitzhacke,de,Pointed hoe,尖ったhoe,/ˈʃpɪtsakə/,ʏbɶə,ʏb
+exposure,en,exposure,暴露,/ɪkˈspoʊʒɝ/,ʏbboʊə,ʏb
+Mittelsmann,de,Agent,エージェント,/ˈmɪtˌtɛlsmann/,ʏbœbbɶmm,ʏb
+fiskmarkað,is,fish market,魚市場,/fɪskmar̥kað/,ʏbbɶɶb,ʏb
 fullorðinn,is,adult,大人,/fʏtlɔrðɪn/,ʏbɔʏm,ʏb
+ruglarinn,is,confusion,錯乱,/rʏklarɪn/,ʏbɶʏm,ʏb
 uppnefna,is,nam,ナム,/ʏhpnɛpna/,ʏbœbɶ,ʏb
 viðmóti,is,interface,インターフェース,/vɪðmoutɪ/,ʏbouʏ,ʏb
 ruslpósti,is,debris,デブリ,/rʏstlpʰoustɪ/,ʏbbbboubʏ,ʏb
@@ -14,3 +20,5 @@ viðtaka,is,reception,受信,/vɪðtaka/,ʏbɶɶ,ʏb
 hugsanleg,is,potential,潜在的な,/hʏksanlɛɣ/,ʏbɶmœ,ʏb
 hillingum,is,shelters,シェルター,/hɪtliŋkʏm/,ʏbymʏm,ʏb
 viðbrigði,is,variation,変化,/vɪðprɪɣðɪ/,ʏbbʏʏ,ʏb
+diskana,is,discs,ディスク,/tɪskana/,ʏbɶɶ,ʏb
+biskupinn,is,bishop,司教,/pɪskʏpɪn/,ʏbʏʏm,ʏb

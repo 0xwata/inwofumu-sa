@@ -1,8 +1,14 @@
 word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
 キャプション,ja,caption,キャプション,/kjapɯɕoɴ/,bɶuom,bɶ
+キャンバス,ja,canvas,キャンバス,/kjaɴbasɯ/,bɶmɶu,bɶ
+جامع,ar,Mosque,モスク,/dʒaːmaʕa/,bɶɶɶ,bɶ
+자회사,ko,Subsidiary company,子会社,/t͡ɕa̠ɦø̞sʰa̠/,bɶøbɶ,bɶ
 krajono,eo,pencil,鉛筆,/kraiono/,bɶyoo,bɶ
 takmörkun,is,restriction,制限,/tʰaːkmœr̥kʏn/,bɶbœʏm,bɶ
 spargere,ro,break in,押し入る,/spardʒere/,bɶbøø,bɶ
+جوارب,ar,stockings,ストッキング,/dʒaʊaːrib/,bɶʊɶyb,bɶ
+framleiðsla,is,production,製造,/framleiðstla/,bɶmøybbbɶ,bɶ
+brandari,is,joke,ジョーク,/prantarɪ/,bɶmɶʏ,bɶ
 spalier,ro,espalier,エスパリエ,/spalijer/,bɶyø,bɶ
 chantaje,es,blackmail,恐mail,/tʃantaxe/,bɶmɶø,bɶ
 판매원,ko,Salesman,セールスマン,/pʰa̠nmɛ̝wʌ̹n/,bɶmœɔm,bɶ
@@ -15,20 +21,31 @@ transporte,es,transportation,交通手段,/tɾanspoɾte/,bɶmboø,bɶ
 صانع,ar,maker,メーカー,/sˤaːnaʕa/,bɶɶɶ,bɶ
 صخب,ar,hustle,ハッスル,/sˤaxiba/,bɶyɶ,bɶ
 staðhæfing,is,allegation,申し立て,/staːðhaiviŋk/,bɶbɶyymb,bɶ
-framleiðsla,is,production,製造,/framleiðstla/,bɶmøybbbɶ,bɶ
+transición,es,transition,遷移,/tɾansiˈθjon/,bɶmybom,bɶ
+كلاسيكي,ar,classic,クラシック,/klaːsiːkijj/,bɶyy,bɶ
 جرف,ar,cliff,崖,/dʒarafa/,bɶɶɶ,bɶ
 graduación,es,graduation,卒業,/gɾaðwaˈθjon/,bɶbɶbom,bɶ
+ジャケット,ja,Jacket,ジャケット,/dʑaketːo/,bɶøbo,bɶ
 tratament,ro,treatment,処理,/tratament/,bɶɶømb,bɶ
 kvalito,eo,quality,品質,/kvalito/,bɶyo,bɶ
+사다리,ko,ladder,はしご,/sʰa̠da̠ɾi/,bɶɶy,bɶ
 Strategie,de,strategy,ストラテジー,/ʃtʀateˈɡiː/,bɶøy,bɶ
 fratricid,ro,fratricide,滅菌,/fratritʃid/,bɶbybyb,bɶ
 fratricide,fr,fratricidal,ethlatricidal,/fʁatʁisid/,bɶbyyb,bɶ
 チャネル,ja,channel,チャネル,/tɕaneɾɯ/,bɶøu,bɶ
+Blaubeere,de,Blueberry,ブルーベリー,/ˈblaobəɐ̯ə/,bɶoəɐə,bɶ
+صخر,ar,Stone,結石,/sˤaxxara/,bɶbɶɶ,bɶ
 جبل,ar,mountain,山,/dʒabala/,bɶɶɶ,bɶ
 Thanh Vĩnh Đông,vi,Thanh Vinh Dong,タン・ヴィン・ドン,/tʰan˧˥ jin˧˩˨ doŋ͡m˧˥/,bɶmymomm,bɶ
+slalomas,fr,slalomas,スラロマ,/slalɔma/,bɶɔɶ,bɶ
+guachapead,es,Guachapead,グアチェペッド,/gwatʃapeað/,bɶbɶøɶb,bɶ
+Smáralind,is,Mall,モール,/smauːralɪnt/,bɶuɶʏmb,bɶ
 glaneriez,fr,Glane,glane,/glanəʁje/,bɶəbø,bɶ
 crașovan,ro,Crașovan,クレイオバン,/kraʃovan/,bɶoɶm,bɶ
 syahbandar,id,Syahbandar,Syahbandar,/sjahbandar/,bɶɶmɶ,bɶ
+자시하,ko,Self -help,セルフヘルプ,/t͡ɕa̠ɕʰiɦa̠/,bɶbyɶ,bɶ
+skywalker,en,skywalker,スカイウォーカー,/ˈskaɪˌwɔkɝ/,bɶʏɔə,bɶ
+pfleiderer,en,pfleiderer,pfleiderer,/ˈfɫaɪdɝɝ/,bɶʏəə,bɶ
 kanslarann,is,chancellor,首相,/kʰanstlaran/,bɶmbbɶɶm,bɶ
 placardant,fr,closet,クローゼット,/plakaʁdɑ̃/,bɶɶbɑ,bɶ
 客殿,ja,Guest,客殿,/kjakɯdeɴ/,bɶuøm,bɶ
@@ -43,12 +60,20 @@ bravearías,es,bravearia,bravearia,/bɾaβeaˈɾias/,bɶøɶyɶb,bɶ
 crameras,fr,crameras,クラメラ,/kʁaməʁa/,bɶəɶ,bɶ
 Zeichenzahl,de,Sign,サイン,/ˈtsaeçɛntsɑl/,bɶøœmbɑb,bɶ
 gladiateurs,fr,gladiators,剣闘士,/gladjatœʁ/,bɶbɶœb,bɶ
+사회법,ko,Social law,社会法,/sʰa̠ɦø̞bʌ̹p̚/,bɶøɔb,bɶ
+practica,ro,practice,練習,/praktika/,bɶbyɶ,bɶ
 jagalah,id,Take care,気をつけて,/dʒagalah/,bɶɶɶ,bɶ
 stagnassiez,fr,stagnassiez,stagnassiez,/stagnasje/,bɶbɶbø,bɶ
+fjarlægðir,is,distance,距離,/fjarlaiɣðɪr/,bɶɶyʏ,bɶ
+판매처,ko,Seller,売り手,/pʰa̠nmɛ̝t͡ɕʰʌ̹/,bɶmœbbɔ,bɶ
 花蕾,zh-cn,bud,芽,/xwa˥˥ leɪ˨˩˦/,bɶøʏ,bɶ
 stagfellið,is,mockery,ock笑,/staxfɛtlɪð/,bɶbœbʏb,bɶ
+チャンドラ,ja,Chandra,チャンドラ,/tɕaɴdoɾa/,bɶmoɶ,bɶ
 janjinya,id,His promise,彼の約束,/dʒandʒiɲa/,bɶmbyɶ,bɶ
 drainase,id,drainage,排水,/drainasə/,bɶyɶə,bɶ
 茶こし,ja,Teaspot,茶こし,/tɕakoɕi/,bɶoy,bɶ
 官僚,zh-cn,bureaucracy,官僚,/kwan˥˥ ljɑʊ˧˥/,bɶmbɑʊ,bɶ
+frændsemi,is,relationship,関係,/fraintsɛmɪ/,bɶymbœʏ,bɶ
+smaltină,ro,Small,小さな,/smaltinə/,bɶbyə,bɶ
+咖啡树,zh-cn,Coffee tree,コーヒーの木,/kʰa˥˥ feɪ˥˥ ʂu˥˩/,bɶøʏu,bɶ
 Flandrio,eo,Flanders,フランダース,/flandrio/,bɶmbyo,bɶ

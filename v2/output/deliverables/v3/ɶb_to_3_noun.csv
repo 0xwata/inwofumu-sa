@@ -1,15 +1,31 @@
 word,word_lang,word_en,word_ja,word_ipa,word_ipa_rhyme,match_ipa_rhyme
+الإبحار,ar,Sailing,セーリング,/aːlʔibħaːr/,ɶbybɶ,ɶb
+아파트,ko,Apartment,アパート,/a̠pʰa̠tʰɯ/,ɶbɶbu,ɶb
+يلتقط,ar,Pick up,選び出す,/jaltaqitˤ/,ɶbɶyb,ɶb
+abuelo,es,grandfather,おじいさん,/aβwelo/,ɶbøo,ɶb
+agreso,eo,aggression,侵略,/agreso/,ɶbøo,ɶb
+عبقري,ar,genius,天才,/ʕabqarijj/,ɶbɶy,ɶb
+المعجب,ar,Admire,憧れ,/aːlmuʕdʒib/,ɶbubbyb,ɶb
+الإخلاء,ar,Evacuation,避難,/aːlʔixlaːʔ/,ɶbybɶb,ɶb
+الكبريت,ar,Sulfur,硫黄,/aːlkibriːt/,ɶbybyb,ɶb
 العنبر,ar,Ward,区,/aːlʕanbar/,ɶbɶmɶ,ɶb
 activiste,fr,activist,活動家,/aktivist/,ɶbyybb,ɶb
-الإخلاء,ar,Evacuation,避難,/aːlʔixlaːʔ/,ɶbybɶb,ɶb
+dakwaan,id,indictment,起訴,/daʔwaʔan/,ɶbɶɶm,ɶb
 아침밥,ko,breakfast,朝ごはん,/a̠t͡ɕʰimba̠p̚/,ɶbbymɶb,ɶb
+الرموز,ar,Symbols,シンボル,/aːlrumuːz/,ɶbuub,ɶb
+malvirto,eo,wickedness,邪悪,/malvirto/,ɶbyo,ɶb
+Nachrichten,de,news,ニュース,/ˈnaːxʁɪçtən/,ɶbʏəm,ɶb
+العنوان,ar,the address,住所・アドレス,/aːlʕunwaːn/,ɶbumɶm,ɶb
+الحضور,ar,Attendees,参加者,/aːlħudˤuːr/,ɶbubu,ɶb
+تاجر,ar,merchant,商人,/taːdʒara/,ɶbɶɶ,ɶb
+発泡,ja,Foaming,発泡,/hapːoɯ/,ɶbou,ɶb
 الرصيف,ar,Sidewalk,歩道,/aːlrasˤiːf/,ɶbɶbyb,ɶb
 وسط,ar,Center,中心,/wassatˤa/,ɶbɶbɶ,ɶb
 afstaða,is,attitude,態度,/afstaða/,ɶbbɶɶ,ɶb
 插头,zh-cn,plug,プラグ,/ʈʂʰa˥˥ tʰoʊ˧/,ɶboʊ,ɶb
 cascadă,ro,cascade,カスケード,/kaskadə/,ɶbɶə,ɶb
 masculin,ro,male,男,/maskulin/,ɶbuym,ɶb
-dakwaan,id,indictment,起訴,/daʔwaʔan/,ɶbɶɶm,ɶb
+calzador,es,shoehorn,シューホーン,/kalθaðoɾ/,ɶbɶo,ɶb
 رجس,ar,Abomination,憎むべき,/radʒisa/,ɶbyɶ,ɶb
 Partikel,de,Particle,粒子,/paʁˈtiːkəl/,ɶbyəb,ɶb
 المانع,ar,inhibitor,阻害剤,/aːlmaːniʕ/,ɶbɶyb,ɶb
@@ -18,6 +34,8 @@ Kaskade,de,cascade,カスケード,/ˈkaskɑdə/,ɶbɑə,ɶb
 Ablage,de,Shelf,棚,/ˈʔapˌlɑːgə/,ɶbɑə,ɶb
 عصب,ar,nerve,神経,/ʕasˤaba/,ɶbɶɶ,ɶb
 البلاتين,ar,Platinum,白金,/aːlblaːtiːn/,ɶbbɶym,ɶb
+malforta,eo,weak,弱い,/malforta/,ɶboɶ,ɶb
+altitude,fr,altitude,高度,/altityd/,ɶbyyb,ɶb
 álgebra,es,algebra,代数,/ˈalxeβɾa/,ɶbøbɶ,ɶb
 saxófón,is,saxopophone,サクソポフォン,/saksɔfoun/,ɶbɔoum,ɶb
 saksofon,id,saxophone,サックス,/saʔsofon/,ɶboom,ɶb
@@ -29,20 +47,52 @@ bajingan,id,bastard,子なし,/badʒiŋan/,ɶbyɶm,ɶb
 falĉilo,eo,scythe,鎌,/falt͡ʃilo/,ɶbbyo,ɶb
 الشاهد,ar,witness,目撃者,/aːlʃaːhid/,ɶbɶyb,ɶb
 夜中,ja,Midnight,夜中,/jatɕɯɯ/,ɶbuu,ɶb
+قصف,ar,Bombing,爆撃,/qasˤafa/,ɶbɶɶ,ɶb
+كحل,ar,Eyeliner,アイライナー,/kaħħala/,ɶbɶɶ,ɶb
+sách giáo khoa,vi,textbook,教科書,/ʂak˦˥ jaw˩˧ xwa˧˥/,ɶbɶbɶ,ɶb
+الألبوم,ar,Album,アルバム,/aːlʔalbuːm/,ɶbɶbum,ɶb
+Dachboden,de,Attic,屋根裏,/ˈdaxˌboːdən/,ɶboəm,ɶb
+gastejo,eo,Inn,宿,/gasteio/,ɶbøyo,ɶb
+athlétisme,fr,Athletics,陸上競技,/atletism/,ɶbøybm,ɶb
+atletism,ro,athletics,陸上競技,/atletism/,ɶbøybm,ɶb
+raciones,es,rations,配給,/raθjones/,ɶboøb,ɶb
 カッコウ,ja,Cuckoo,カッコウ,/kakːoɯ/,ɶbou,ɶb
 التبويب,ar,Tab,タブ,/aːltabwiːb/,ɶbɶbyb,ɶb
 بسكويت,ar,biscuit,ビスケット,/baskaʊiːt/,ɶbɶʊyb,ɶb
 sarjana,id,bachelor,学士,/sardʒana/,ɶbɶɶ,ɶb
 السجاد,ar,Carpet,カーペット,/aːlsadʒʒaːd/,ɶbɶbɶb,ɶb
-raciones,es,rations,配給,/raθjones/,ɶboøb,ɶb
 garderie,fr,nursery,保育園,/gaʁdəʁi/,ɶbəy,ɶb
 أجنبي,ar,Foreigner,外国人,/ʔadʒnabijj/,ɶbɶy,ɶb
 زعفران,ar,saffron,サフラン,/zaʕfaraːn/,ɶbɶɶm,ɶb
+almohadón,es,cushion,クッション,/almoaˈðon/,ɶboɶom,ɶb
+ラジエーター,ja,radiator,ラジエーター,/ɾadʑieːtaː/,ɶbyøɶ,ɶb
+Tatsache,de,fact,事実,/ˈtaːtˌzaxə/,ɶbɶə,ɶb
+睫毛,ja,eyelashes,睫毛,/matsɯge/,ɶbuø,ɶb
+radiador,es,radiator,ラジエーター,/raðjaðoɾ/,ɶbɶo,ɶb
+Abweichung,de,deviation,偏差,/ˈapˌvaɪ̯çʊŋ/,ɶbɶʏʊm,ɶb
+markvörður,is,goalkeeper,ゴールキーパー,/mar̥kvœrðʏr/,ɶbœʏ,ɶb
 الصقيع,ar,Frost,霜,/aːlsˤaqiːʕ/,ɶbbɶyb,ɶb
+압하스인,ko,Abshasin,アブシャシン,/a̠pʰa̠sʰɯin/,ɶbɶbuym,ɶb
+炸鸡蛋,zh-cn,Fried egg,目玉焼き,/ʈʂa˧˥ tɕi˥˥ tan˥˩/,ɶbyɶm,ɶb
+radŝuo,eo,wheel shoe,ホイールシューズ,/radʃuo/,ɶbuo,ɶb
+二头肌,zh-cn,Biceps,上腕二頭筋,/aɻ˥˩ tʰoʊ˧˥ tɕi˥˥/,ɶboʊby,ɶb
+schlappmachtest,de,Schlaktmachtest,Schlaktmachtest,/ˈʃlappmaxtɛst/,ɶbbɶbœbb,ɶb
+maltroigo,eo,disruption,混乱,/maltroigo/,ɶbboyo,ɶb
+đại hồng phúc,vi,Dai Hong Phuc,Dai Hong Phuc,/daj˨ˀ˩ʔ hoŋ͡m˦˨ fuk͡p˦˥/,ɶbommubb,ɶb
+valdhafa,is,authority,権限,/valthava/,ɶbbɶɶ,ɶb
+ættbækur,is,pedigree,血統,/ajhtpajkʏr/,ɶbɶʏ,ɶb
 malbiki,is,asphalt,アスファルト,/malpɪcɪ/,ɶbʏʏ,ɶb
 bajumu,id,Your clothes,あなたの服,/badʒumu/,ɶbuu,ɶb
 alvatec,ro,Alvatec,Alvatec,/alvatek/,ɶbɶøb,ɶb
+giao thừa,vi,Eve,イブ,/jaw˧˥ tʰɯə˦˨/,ɶbuə,ɶb
 patriotism,ro,patriotism,愛国心,/patriotism/,ɶbyoybm,ɶb
+tablacho,es,tabo,タボ,/taβlatʃo/,ɶbɶbo,ɶb
+afronta,ro,Aphronta,アフロンタ,/afronta/,ɶbomɶ,ɶb
+白骨,ja,White bone,白骨,/hakːotsɯ/,ɶbobu,ɶb
+aboyèrent,fr,bare,裸,/abwajɛʁ/,ɶbɶœb,ɶb
+Nacheichung,de,Sustaining,維持,/ˈnaxˌaeçʊŋ/,ɶbɶøʊm,ɶb
+Abrechnung,de,invoice,請求書,/ˈʔapˌɾɛçnʊŋ/,ɶbœʊm,ɶb
+Alcotest,fr,Alcohol,アルコール,/alkɔtɛst/,ɶbɔœbb,ɶb
 acvilon,ro,Acvilon,Acvilon,/akvilon/,ɶbyom,ɶb
 vakcino,eo,vaccine,ワクチン,/vakt͡sino/,ɶbbyo,ɶb
 الأشور,ar,Ashur,アシュール,/aːlʔaʃuːr/,ɶbɶu,ɶb
@@ -50,6 +100,7 @@ vakcino,eo,vaccine,ワクチン,/vakt͡sino/,ɶbbyo,ɶb
 발신인,ko,Sender,送信者,/pa̠ɭɕʰinin/,ɶbyym,ɶb
 magie,ro,magic,マジック,/madʒije/,ɶbyø,ɶb
 kacaukan,id,glass,ガラス,/katʃaukan/,ɶbɶuɶm,ɶb
+laxeldis,is,salmon,サーモン,/laksɛltɪs/,ɶbœbʏb,ɶb
 학예회,ko,school play,学校劇,/ha̠ɡje̞ɦø̞/,ɶbøø,ɶb
 maltraitance,fr,abuse,乱用,/maltʁɛtɑ̃s/,ɶbbœɑb,ɶb
 actorii,ro,actors,俳優,/aktorij/,ɶboy,ɶb
@@ -60,6 +111,8 @@ marnassions,fr,Marnassions,湿地,/maʁnasjɔ̃/,ɶbɶbɔ,ɶb
 sách công cụ,vi,tool book,ツールブック,/ʂak˦˥ koŋ͡m˧˥ ku˨ˀ˩ʔ/,ɶbommub,ɶb
 pastichasses,fr,pastchasses,パスチャス,/pastiʃas/,ɶbyɶb,ɶb
 asiente,es,nods,うなずき,/asjente/,ɶbømø,ɶb
+가계정,ko,Household account,世帯口座,/ˈka̠ːɡje̞d͡ʑʌ̹ŋ/,ɶbøbɔm,ɶb
+gạch bìa,vi,tile,タイル,/ɣak˨ˀ˩ʔ biə˦˨/,ɶbbyə,ɶb
 aprindă,ro,light,ライト,/aprində/,ɶbymə,ɶb
 マツリ,ja,Matsuri,マツリ,/matsɯɾi/,ɶbuy,ɶb
 assoiffions,fr,thunderbolt,落雷,/aswafjɔ̃/,ɶbɶbɔ,ɶb
@@ -72,6 +125,17 @@ alkéna,id,Alkéna,アルケナ,/alkena/,ɶbøɶ,ɶb
 albire,ro,whitening,ホワイトニング,/albire/,ɶbyø,ɶb
 algidez,es,algidity,悪寒,/alxiðeθ/,ɶbyøb,ɶb
 arftaka,is,imposition,賦課,/arvtaka/,ɶbɶɶ,ɶb
+fasteignum,is,real estate,不動産,/fasteiknʏm/,ɶbøybʏm,ɶb
+apprivoisent,fr,tame,飼いならされた,/apʁivwaz/,ɶbybɶb,ɶb
+almukhlis,id,Almukhlis,アルムクリス,/almuʔhlis/,ɶbubyb,ɶb
+dagskrárgerð,is,program,プログラム,/taxskraurcɛrð/,ɶbbbɶuœb,ɶb
+aktiva,id,assets,資産,/aʔtiva/,ɶbyɶ,ɶb
+가스통,ko,cell,細胞,/ka̠sʰɯtʰo̞ŋ/,ɶbubom,ɶb
+葛藤,ja,conflict,葛藤,/katːoɯ/,ɶbou,ɶb
+Fachgruppen,de,Specialist groups,スペシャリストグループ,/ˈfaxgɾʊppən/,ɶbbʊbəm,ɶb
+المآزر,ar,Buttons,ボタン,/aːlmaaːzir/,ɶbɶɶy,ɶb
+大小姐,zh-cn,Lady,レディ,/ta˥˩ ɕjɑʊ˨˩˦ tɕjɛ˨˩˦/,ɶbɑʊbbœ,ɶb
+balbuti,eo,stammer,スタンマー,/balbuti/,ɶbuy,ɶb
 daftaran,id,registration,登録,/daftaran/,ɶbɶɶm,ɶb
 Stadträten,de,City councilors,市議会議員,/ˈʃtatɾɛtən/,ɶbœəm,ɶb
 jarðvegur,is,soil,土,/jarðvɛɣʏr/,ɶbœʏ,ɶb
@@ -81,4 +145,14 @@ farcirions,fr,let's stuff,詰めましょう,/faʁsiʁjɔ̃/,ɶbybɔ,ɶb
 八点钟,zh-cn,Eight O'clock,8時,/pa˥˥ tjɛn˨˩˦ ʈʂʊŋ˥˥/,ɶbœmʊm,ɶb
 날짐승,ko,Flying beast,空飛ぶ獣,/na̠ɭd͡ʑimsʰɯŋ/,ɶbymbum,ɶb
 harcèlements,fr,harassment,嫌がらせ,/ʼaʁsɛlmɑ̃/,ɶbœbɑ,ɶb
+打字员,zh-cn,typist,タイピスト,/ta˨˩˦ tsɯ˥˩ ɥœn˧˥/,ɶbuœm,ɶb
+발사관,ko,Launcher,ランチャー,/pa̠ɭsʰa̠ɡwa̠n/,ɶbɶbɶm,ɶb
+耳边风,zh-cn,Ears,,/aɻ˨˩˦ pjɛn˥˥ fɤŋ˥˥/,ɶbœmom,ɶb
+Abzahlung,de,redemption,償還,/ˈʔapˌtsɑlʊŋ/,ɶbbɑʊm,ɶb
+apsidă,ro,Apsida,Apsida,/apsidə/,ɶbyə,ɶb
+Tạ An Khương,vi,Ta An Khuong,ta an khuong,/ta˨ˀ˩ʔ aŋ˧˥ xɯəŋ˧˥/,ɶbɶmuəm,ɶb
+المغوار,ar,Mine,私の,/aːlmiɣwaːr/,ɶbyɶ,ɶb
+barberions,fr,barber,理髪師,/baʁbəʁjɔ̃/,ɶbəbɔ,ɶb
+asrama,id,dormitory,寮,/asrama/,ɶbɶɶ,ɶb
+actinias,es,Actinies,アクチニオ,/aktinjas/,ɶbymɶb,ɶb
 waktunya,id,Time,時間,/waʔtuɲa/,ɶbuɶ,ɶb

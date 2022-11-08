@@ -1,0 +1,89 @@
+word,word_lang,word_ipa,word_ipa_rhyme,word_en,word_ja,pair_word,pair_word_lang,pair_word_ipa,pair_word_ipa_rhyme,pair_word_en,pair_word_ja,rhyme_type,match_ipa_rhyme,pos,syllable
+déjeuner,fr,/deʒœne/,øœø,lunch,ランチ,chế giễu,vi,/ce˩˧ jɛu˧˩˨/,øœu,mock,モック,to,øœ,noun,3
+comida,es,/komiða/,oyɶ,food,食物,topinya,id,/topiɲa/,oyɶ,his hat,彼の帽子,to,oyɶ,noun,3
+pokaali,fi,/ˈpokɑɑli/,oɑɑy,cup,カップ,au temps de,fr,/otɑ̃də/,oɑə,at the time of,その時,to,oɑ,noun,3
+fahrenheit,en,/ˈfɛɹənˌhaɪt/,œəmɶʏb,fahrenheit,華氏,märchenhaft,de,/ˈmɛɾçənˌhaft/,œəmɶbb,fairytale,おとぎ話,to,œəmɶ,noun,3
+Fahrenheit,de,/fɑɾɛnˈəiːt/,ɑœməyb,Fahrenheit,華氏,cabela,en,/ˌkɑˈbɛɫə/,ɑœə,cabela,カベラ,to,ɑœ,noun,3
+نتروجين,ar,/nitruːdʒiːn/,ybubym,nitrogen,窒素,surfaçât,fr,/syʁfasɑ/,ybɶɑ,surfaçât,Surfaçât,to,yb,noun,3
+nitrógeno,es,/niˈtɾoxeno/,yboøo,nitrogen,窒素,一家之主,zh-cn,/i˥˩ tɕja˥˥ ʈʂɚ˥˥ ʈʂu˨˩˦/,ybbɶəu,Master,主人,to,yb,adjective,4
+malforta,eo,/malforta/,ɶboɶ,weak,弱い,astiquais,fr,/astikɛ/,ɶbyœ,asticitous,驚異的,to,ɶb,adjective,3
+Konsonant,de,/kɔnˈzoːnɑnt/,ɔmoɑmb,consonant,子音,rong rêu,vi,/ʐɔŋ͡m˧˥ ʐɛu˧˥/,ɔmmœu,Moss,モス,to,ɔm,noun,3
+pulgada,es,/pulgaða/,ubɶɶ,inch,インチ,ukraina,eo,/ukraina/,ubɶyɶ,Ukrainian,ウクライナ人,to,ubɶ,adjective,3
+señorita,es,/seɲoɾita/,øoyɶ,Miss,逃す,neosificat,ro,/neosifikat/,øoyyɶb,ossified,骨化,to,øoy,verb,4
+Mademoiselle,fr,/madmwazɛl/,ɶbmɶœb,Miss,逃す,cá thể hoá,vi,/ka˩˧ tʰe˧˩˨ hwa˩˧/,ɶbøɶ,individualize,個別化します,to,ɶb,verb,3
+fraŭlino,eo,/fraulino/,bɶuyo,Miss,逃す,trasminó,es,/tɾazmiˈno/,bɶbyo,It transminative,それは伝達的です,to,bɶ,verb,3
+错过,zh-cn,/tsʰuɔ˥˩ kuɔ˥˩/,bbuɔuɔ,miss,お嬢,clientelas,es,/kljentelas/,bbømøɶb,clients,クライアント,to,bb,noun,3
+ケチャップ,ja,/ketɕapːɯ/,øbɶbu,ketchup,ケチャップ,Schneeglöckchen,de,/ˈʃneːɡlœkçən/,øbœbəm,snowdrop,スノードロップ,to,øb,noun,3
+실행하다,ko,/ɕʰiɾɦɛ̝ŋɦa̠da̠/,byœmɶɶ,Execute,実行する,trikolori,fi,/ˈtrikoˌlori/,byooy,tricolor,トリコロール,to,by,verb,4
+execute,en,/ˈɛksəkˌjut/,œbəbub,execute,実行する,대자보,ko,/tɛ̝d͡ʑa̠bo̞/,œbɶo,Daejabo,デジャボ,to,œb,verb,3
+exécuter,fr,/ɛgzekyte/,œbøyø,execute,実行する,mẹ goá con côi,vi,/mɛ˨ˀ˩ʔ ɣwa˩˧ kɔŋ͡m˧˥ koj˧˥/,œbɶɔmmo,Mom is orphaned,ママは孤児です,to,œb,verb,4
+ejecutar,es,/exekutaɾ/,øøuɶ,run,走る,générerait,fr,/ʒeneʁəʁɛ/,øøəœ,would generate,生成します,to,øø,verb,4
+همجي,ar,/hamadʒijj/,ɶɶby,barbaric,野bar,rafaelic,ro,/rafaelik/,ɶɶøyb,rafaelic,ラファエル,to,ɶɶ,adjective,3
+barbaarinen,fi,/ˈbɑrbɑɑˌrinen/,ɑɑɑyøm,barbarous,野bar,hamasaki,en,/ˌhɑmɑˈsɑki/,ɑɑɑy,hamasaki,ハマサキ,to,ɑɑɑy,adjective,4
+écrevisse,fr,/ekʁəvis/,øbəyb,crayfish,ザリガニ,lebhafteren,de,/ˈleːphaftɐ̯ən/,øbɶbɐəm,more lively,もっと活気があります,to,øb,verb,3
+ザリガニ,ja,/zaɾigani/,ɶyɶy,crayfish,ザリガニ,arriviertest,de,/ˈʔaɾɾiviːɾtɛst/,ɶyyœbb,design test,設計テスト,to,ɶy,noun,4
+sách giáo khoa,vi,/ʂak˦˥ jaw˩˧ xwa˧˥/,ɶbɶbɶ,textbook,教科書,almukhlis,id,/almuʔhlis/,ɶbubyb,Almukhlis,アルムクリス,to,ɶb,noun,3
+senapan,id,/sənapan/,əɶɶm,gun,銃,cămașă,ro,/kəmaʃə/,əɶə,the shirt,シャツ,to,əɶ,noun,3
+kivääri,fi,/ˈkivææri/,yææy,rifle,ライフル,debacker,en,/ˈdibækɝ/,yæə,debacker,デバッカー,to,yæ,noun,3
+بندقية,ar,/bunduqijja/,umuyɶ,Gun,銃,umblătură,ro,/umbləturə/,umbəuə,Walk,歩く,to,um,noun,4
+Gewehr,de,/ɡəˈveːɐ̯/,əøɐ,gun,銃,părere,ro,/pərere/,əøø,opinion,意見,to,əø,noun,3
+اغلق,ar,/ʔaɣlaqa/,ɶɶɶ,close,近い,lão giả an chi,vi,/law˧˩˨ ja˧˩˨ aŋ˧˥ ci˧˥/,ɶɶɶmy,The fake old man,偽の老人,to,ɶɶɶ,noun,3
+mematikan,id,/məmatikan/,əɶyɶm,deadly,致命的,Bekanntwerdens,de,/bəˈkanntvɛɾdɛns/,əɶmmbœœmb,Become known,知られるようになります,to,əɶ,noun,4
+samurai,fi,/ˈsɑmurɑi/,ɑuɑy,samurai,武士,embouteillâtes,fr,/ɑ̃butejat/,ɑuøɶb,jet,ジェット,to,ɑu,noun,4
+samurai,en,/ˈsæmɝˌaɪ/,æəɶʏ,samurai,武士,والتشيء,ar,/waaːltaʃajjuʔ/,yɶbɶyb,And things,そして物事,,,noun,3
+samurai,ro,/samuraj/,ɶuɶ,samurai,武士,巴不得,zh-cn,/pa˥˥ pu˧ tɤ˧˥/,ɶuo,anxious,気になる,to,ɶu,noun,3
+samurai,es,/samuɾai/,ɶuɶy,samurai,武士,gaŭsa kurbo,eo,/gausa kurbo/,ɶuɶuo,Gaussian curve,ガウス曲線,to,ɶuɶ,noun,4
+사무라이,ko,/sʰa̠muɾa̠i/,bɶuɶy,samurai,武士,pramugari,id,/pramugari/,bɶuɶy,air hostess,スチュワーデス,to,bɶuɶy,noun,4
+Rosine,de,/ˈɾoːzɪnə/,oʏə,raisin,レーズン,个性化,zh-cn,/kɤ˥˩ ɕɪŋ˥˩ xwa˥˩/,oʏmbɶ,personalise,パーソナライズ,to,oʏ,noun,3
+葡萄干,zh-cn,/pʰu˧˥ tʰɑʊ˧˥ kan˥˥/,bubɑʊɶm,raisin,レーズン,cucumber,en,/ˈkjukəmbɝ/,buəmə,cucumber,キュウリ,to,bu,noun,3
+건포도,ko,/kʌ̹npʰo̞do̞/,ɔmboo,raisin,レーズン,vonleysi,is,/vɔnleisɪ/,ɔmøyʏ,hopelessness,絶望,to,ɔm,noun,3
+ضلع,ar,/dˤalaʕa/,bɶɶɶ,Rib,リブ,framanvið,is,/fraːmanvɪð/,bɶɶmʏb,front,フロント,to,bɶɶ,noun,3
+irgendetwas,de,/ˈʔɪɾgɛndɛtvɑs/,ʏœmœbɑb,anything,なんでも,hugrenningum,is,/hʏɣrɛniŋkʏm/,ʏœymʏm,devotion,献身,to,ʏœ,noun,4
+anything,en,/ˈɛniˌθɪŋ/,œyʏm,anything,なんでも,배위수,ko,/pɛ̝ɥisʰu/,œybu,Water number,水番号,to,œy,noun,3
+contagio,es,/kontaxjo/,omɶbo,contagion,伝染,鈍痛,ja,/doɴtsɯɯ/,ombuu,Dull pain,鈍痛,to,om,noun,3
+penularan,id,/pənularan/,əuɶɶm,transmission,トランスミッション,beugender,de,/bəˈʔuːgɛndɐ̯/,əuœmɐ,leaning,傾く,to,əu,noun,4
+contagion,en,/kənˈteɪdʒən/,əmøʏbəm,contagion,伝染,赈灾,zh-cn,/ʈʂən˥˩ tsaɪ˥˥/,əmbɶʏ,Disaster relief,災害救援,to,əm,noun,3
+tartunta,fi,/ˈtɑrtuntɑ/,ɑumɑ,infection,感染,maldutis,en,/mɑɫˈdutɪs/,ɑuʏb,maldutis,Maldutis,to,ɑu,noun,3
+전염병,ko,/t͡ɕʌ̹ɲjʌ̹mbjʌ̹ŋ/,bɔmɔmbɔm,Epidemic,伝染病,Freundesmund,de,/ˈfɾɔøndɛsmʊnt/,bɔømœbʊmb,Friend,友達,to,bɔ,noun,3
+印刷,ja,/iɴsatsɯ/,ymɶbu,printing,印刷,indekso,eo,/indekso/,ymøbo,index,索引,to,ym,noun,3
+imprimare,ro,/imprimare/,ymbyɶø,print,印刷,infertiili,fi,/ˈinferˌtiili/,ymøyyy,infertile,不妊,to,ym,adjective,4
+donation,en,/doʊˈneɪʃən/,oʊøʏəm,donation,寄付,有道理,zh-cn,/joʊ˨˩˦ tɑʊ˥˩ li˨˩˦/,oʊɑʊy,Make sense,わかる,to,oʊ,noun,3
+lahjoitus,fi,/ˈlɑhjoitus/,ɑoyub,donation,寄付,entôlasses,fr,/ɑ̃tolas/,ɑoɶb,enthusiasts,愛好家,to,ɑo,noun,3
+sumbangan,id,/sumbaŋan/,umɶɶm,donation,寄付,runflabas,es,/rumflaβas/,umbɶɶb,Runflabas,Runflabas,to,um,noun,3
+mengebor,id,/məŋəbor/,əəo,drill,ドリル,feenhafteren,de,/ˈfəənhaftɐ̯ən/,əəmɶbɐəm,fairy,妖精,to,əə,verb,3
+porata,fi,/ˈporɑtɑ/,oɑɑ,drill,ドリル,Vokabeln,de,/ˈvoːkɑbɛln/,oɑœbm,vocabulary,単語,to,oɑ,verb,3
+borilo,eo,/borilo/,oyo,drill,ドリル,rôtira,fr,/ʁotiʁa/,oyɶ,roasting,焙煎,to,oy,verb,3
+tiresome,en,/ˈtaɪɝsəm/,ɶʏəəm,tiresome,面倒です,farbiges,de,/ˈfaɾbɪgəs/,ɶʏəb,colored,色付き,to,ɶʏə,adjective,3
+þreytulegt,is,/θreiːtʏlɛxt/,bøyʏœbb,tired,疲れた,prénatales,fr,/pʁenatal/,bøɶɶb,prenatal,出生前,to,bø,adjective,3
+ultimo,es,/ultimo/,ubyo,latest,最新,rugbistic,ro,/ruɡbistik/,ubybyb,rugby player,ラグビープレーヤー,to,uby,adjective,3
+kestää,fi,/ˈkestææ/,øbææ,take,取った,décloué,fr,/deklue/,øbuø,raw,生,to,øb,adjective,3
+terakhir,id,/təraʔhir/,əɶby,final,最後の,rechargeables,fr,/ʁəʃaʁʒabl/,əɶbɶbb,rechargeable,充電式,to,əɶb,adjective,3
+derretir,es,/deretiɾ/,øøy,melt,溶けた,出ていく,ja,/deteikɯ/,øøyu,to go out,出ていく,to,øøy,verb,3
+鞋拔子,zh-cn,/ɕjɛ˧˥ pa˧˥ tsɯ˧/,bœɶbu,shoehorn,シューホーン,팬케이크,ko,/pʰɛ̝nkʰe̞ikxɯ/,bœmbøybu,pancake,パンケーキ,to,bœ,verb,3
+calzador,es,/kalθaðoɾ/,ɶbɶo,shoehorn,シューホーン,dagskrárgerð,is,/taxskraurcɛrð/,ɶbbbɶuœb,program,プログラム,to,ɶb,noun,3
+música,es,/ˈmusika/,uyɶ,music,音楽,cutiuță,ro,/kutiutsə/,uyubə,small box,ちいさな箱,to,uy,noun,3
+musiikki,fi,/ˈmusiikki/,uyyby,music,音楽,bouturions,fr,/butyʁjɔ̃/,uybɔ,buttons,ボタン,to,uy,noun,3
+ملابس,ar,/malaːbis/,ɶɶyb,Clothes,服,ananas,is,/aːnanas/,ɶɶɶb,pineapple,パイナップル,to,ɶɶ,noun,3
+フェデリーニ,ja,/ɸɯedeɾiːni/,uøøyy,Federini,フェデリーニ,muela dento,eo,/muela dento/,uøɶømo,a mill tooth,工場の歯,to,uø,noun,4
+călătorie,ro,/kələtorije/,əəoyø,travel,トラベル,石沉大海,zh-cn,/ʂɚ˧˥ ʈʂʰən˧˥ ta˥˩ xaɪ˨˩˦/,əəmɶɶʏ,Shi Shenhai,Shi Shenhai,to,əə,noun,5
+perjalanan,id,/pərdʒalanan/,əbɶɶɶm,journey,旅,Betriebsstörung,de,/bəˈtɾiːpzstøɾʊŋ/,əbybbbøʊm,breakdown,壊す,to,əb,noun,4
+كبح,ar,/kabaħa/,ɶɶɶ,Curb,縁石,mallarías,es,/maʎaˈɾias/,ɶɶyɶb,Mallarías,マラリアス,to,ɶɶ,noun,3
+kesyttää,fi,/ˈkesyttææ/,øybææ,tame,飼いならされた,Derivate,de,/ˈdeːɾivɑtə/,øyɑə,Derivatives,デリバティブ,to,øy,noun,4
+时代,zh-cn,/ʂɚ˧˥ taɪ˥˩/,əɶʏ,era,時代,Beschreibung,de,/bəˈʃʁaɪ̯bʊŋ/,əɶʏʊm,description,説明,to,əɶʏ,noun,3
+時代,ja,/dʑidai/,byɶy,Era,時代,Drillingen,de,/dɾiːllɪŋən/,bybʏəm,Trimming,トリミング,to,by,noun,3
+aikakausi,fi,/ˈɑikɑˌkɑusi/,ɑyɑɑuy,era,時代,parizo,en,/pɑˈɹizoʊ/,ɑyoʊ,parizo,パリソ,to,ɑy,noun,4
+Epoche,de,/ˈʔeːpɔxə/,øɔə,epoch,時代,괴현상,ko,/kø̞ʝjʌ̹nsʰa̠ŋ/,øɔmbɶm,String,弦,to,øɔ,noun,3
+intermédiaire,fr,/ɛ̃tɛʁmedjɛʁ/,œœbøbœb,intermediate,中級,örgjörvanum,is,/œrcœrvanʏm/,œœɶʏm,processor,プロセッサ,to,œœ,noun,4
+intermediario,es,/inteɾmeðjaɾjo/,ymøøbɶo,intermediary,仲介者,þingsályktunar,is,/θiŋksaulɪxtʏnar/,ymbɶuʏbʏɶ,parliamentary,議会,to,ym,adjective,5
+middleman,en,/ˈmɪdəɫˌmæn/,ʏəæm,middleman,仲介者,Lineale,de,/ˈlɪnəalə/,ʏəɶə,Ruler,ルーラー,to,ʏə,noun,3
+Mittelsmann,de,/ˈmɪtˌtɛlsmann/,ʏbœbbɶmm,Agent,エージェント,biskupinn,is,/pɪskʏpɪn/,ʏbʏʏm,bishop,司教,to,ʏb,noun,3
+milliliður,is,/mɪtlɪlɪðʏr/,ʏbʏʏʏ,intermediary,仲介者,expressionist,en,/ɪksˈpɹɛʃənəst/,ʏbbbœəəbb,expressionist,表現主義者,to,ʏb,noun,4
+misogyny,en,/ˈmɪzədʒɪni/,ʏəbʏy,misogyny,女性嫌い,Miteigentum,de,/ˈmɪtəɪgəntuːm/,ʏəʏəmum,Co -ownership,共同所有権,to,ʏə,noun,4
+omega,es,/omeɣa/,oøɶ,omega,オメガ,comentat,ro,/komentat/,oømɶb,commented,コメントした,to,oø,verb,3
+doncella,es,/donθeʎa/,omøɶ,maid,メイド,concepte,ro,/kontʃepte/,ombøbø,concepts,概念,to,om,noun,3
+مدرع,ar,/mudarraʕ/,uɶɶb,armored,装甲,mutakhir,id,/mutaʔhir/,uɶby,latest,最新,to,uɶ,adjective,3
+enkeli,fi,/ˈenkeli/,ømøy,angel,天使,選曲,ja,/seɴkjokɯ/,ømbou,Selection of songs,選曲,to,øm,noun,3
+malaikat,id,/malaikat/,ɶɶyɶb,angel,天使,jarðarför,is,/jarðarfœːr/,ɶɶœ,burial,埋葬,to,ɶɶ,noun,3
+infiltra,ro,/infiltra/,ymybbɶ,infiltrate,浸透します,إنحاز,ar,/inħaːza/,ymɶɶ,Bias,バイアス,to,ym,noun,3
+meresap,id,/mərəsap/,əəɶb,absorbed,吸収されます,vertebrates,en,/ˈvɝtəˌbɹeɪts/,əəbøʏbb,vertebrates,脊椎動物,to,əə,verb,3
+浸透,ja,/ɕiɴtoɯ/,ymou,Penetration,浸透,인식표,ko,/inɕʰik̚pʰjo/,ymbybbo,Tag,鬼ごっこ,to,ym,noun,3
